@@ -1,0 +1,24 @@
+# Safepal
+PROCESS-NAME,io.safepal.wallet
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,isafepal.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,web3modal.org
+# 其他加密货币
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,mytokenpocket.vip
+PROCESS-NAME,com.binance.dev
+PROCESS-NAME,vip.mytokenpocket
+# 常用服务
+DOMAIN-SUFFIX,teracloud.jp
+DOMAIN-KEYWORD,teracloud
+DOMAIN-KEYWORD,infini-cloud
+DOMAIN-SUFFIX,frpjp.iswsh.com
+DOMAIN-SUFFIX,frpjp.112700.xyz
+DOMAIN-SUFFIX,jpakile0.112700.xyz
+# VPS
+IP-CIDR,45.192.248.0/22,no-resolve
+IP-CIDR,82.153.64.0/22,no-resolve
+IP-CIDR6,2a12:f8c1:50:8::/64,no-resolve
+IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve

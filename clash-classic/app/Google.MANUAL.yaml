@@ -1,0 +1,8 @@
+payload:
+  - PROCESS-NAME,com.google.android.apps.bard
+  - PROCESS-NAME,com.google.android.apps.gemini
+  - PROCESS-NAME,com.google.android.apps.labs.language.tailwind
+  - DOMAIN-SUFFIX,smtp.gmail.com
+  - DOMAIN-SUFFIX,pop.gmail.com
+  - DOMAIN-SUFFIX,imap.gmail.com
+  - DOMAIN-SUFFIX,mail.google.com
