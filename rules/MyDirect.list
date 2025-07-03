@@ -302,6 +302,7 @@ IP-CIDR,129.148.39.249/32,no-resolve
 IP-CIDR,13.115.163.172/32,no-resolve
 IP-CIDR,13.212.213.22/32,no-resolve
 IP-CIDR,13.213.64.212/32,no-resolve
+IP-CIDR,13.228.30.190/32,no-resolve
 IP-CIDR,13.229.122.251/32,no-resolve
 IP-CIDR,13.251.18.191/32,no-resolve
 IP-CIDR,131.186.22.238/32,no-resolve
