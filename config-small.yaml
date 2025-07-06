@@ -1102,7 +1102,6 @@ rules:
   - RULE-SET,UnBan,🚄 本地直连
   - RULE-SET,GoogleFCM,🚄 本地直连
   - RULE-SET,CNAPPEnhance,🚄 本地直连
-  - RULE-SET,BanADPrivacy,⛔ 禁止访问
   - RULE-SET,MyReject,⛔ 禁止访问
   - RULE-SET,ForcedReject,⛔ 禁止访问
   - RULE-SET,eBay,🛍 eBay购物
@@ -1184,13 +1183,6 @@ rule-providers:
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/CNAPPEnhance.yaml",
-      interval: 12600,
-    }
-  BanADPrivacy:
-    {
-      type: http,
-      behavior: classical,
-      url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/BanADPrivacy.yaml",
       interval: 12600,
     }
   MyReject:
