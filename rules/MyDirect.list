@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz
 DOMAIN-SUFFIX,bfx2n9yh3czjiwsa36bm3gmressh1ao1.04.01.jp.6l6.site
 DOMAIN-SUFFIX,bk2uk6ge1csxmbx358l2s2yoq033zacf.04.01.mas.6l6.site
 DOMAIN-SUFFIX,c3.passip.me
+DOMAIN-SUFFIX,cdn.shggdx.com
 DOMAIN-SUFFIX,cname-kna5xzrk6jhwkbe8.bestpljeskavica.com
 DOMAIN-SUFFIX,cname-lm.cname7k7k.xyz
 DOMAIN-SUFFIX,cname-nntr5js5hss7bwef.bestpljeskavica.com
@@ -347,7 +348,7 @@ IP-CIDR,178.128.84.251/32,no-resolve
 IP-CIDR,18.136.54.228/32,no-resolve
 IP-CIDR,18.141.158.36/32,no-resolve
 IP-CIDR,18.142.251.141/32,no-resolve
-IP-CIDR,18.162.147.193/32,no-resolve
+IP-CIDR,18.162.123.14/32,no-resolve
 IP-CIDR,18.181.247.169/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
