@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,ajbki989lfxn9asifvhrjqdrcdylb7i279tf.biliapi.xyz
 DOMAIN-SUFFIX,bfx2n9yh3czjiwsa36bm3gmressh1ao1.04.01.jp.6l6.site
 DOMAIN-SUFFIX,bk2uk6ge1csxmbx358l2s2yoq033zacf.04.01.mas.6l6.site
 DOMAIN-SUFFIX,c3.passip.me
-DOMAIN-SUFFIX,cdn.shggdx.com
 DOMAIN-SUFFIX,cname-kna5xzrk6jhwkbe8.bestpljeskavica.com
 DOMAIN-SUFFIX,cname-lm.cname7k7k.xyz
 DOMAIN-SUFFIX,cname-nntr5js5hss7bwef.bestpljeskavica.com
@@ -288,6 +287,7 @@ IP-CIDR,158.178.236.104/32,no-resolve
 IP-CIDR,158.179.164.122/32,no-resolve
 IP-CIDR,158.179.18.251/32,no-resolve
 IP-CIDR,159.13.35.245/32,no-resolve
+IP-CIDR,16.163.123.43/32,no-resolve
 IP-CIDR,162.245.221.26/32,no-resolve
 IP-CIDR,165.1.68.155/32,no-resolve
 IP-CIDR,167.234.208.240/32,no-resolve
@@ -300,7 +300,6 @@ IP-CIDR,18.136.54.228/32,no-resolve
 IP-CIDR,18.141.158.36/32,no-resolve
 IP-CIDR,18.142.251.141/32,no-resolve
 IP-CIDR,18.162.147.193/32,no-resolve
-IP-CIDR,18.162.190.81/32,no-resolve
 IP-CIDR,18.181.247.169/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
@@ -346,8 +345,8 @@ IP-CIDR,219.76.131.137/32,no-resolve
 IP-CIDR,219.76.131.41/32,no-resolve
 IP-CIDR,3.0.101.89/32,no-resolve
 IP-CIDR,3.215.184.185/32,no-resolve
-IP-CIDR,3.84.69.16/32,no-resolve
 IP-CIDR,34.219.189.106/32,no-resolve
+IP-CIDR,35.175.214.185/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.88.240.76/32,no-resolve
 IP-CIDR,35.92.103.213/32,no-resolve
