@@ -1204,6 +1204,13 @@ rule-providers:
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/eBay.yaml",
       interval: 12600,
     }
+  BiliBili:
+    {
+      type: http,
+      behavior: classical,
+      url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/BiliBili.yaml",
+      interval: 12600,
+    }
   USHQ:
     {
       type: http,
@@ -1377,13 +1384,6 @@ rule-providers:
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/TWAPP.yaml",
-      interval: 12600,
-    }
-  BiliBili:
-    {
-      type: http,
-      behavior: classical,
-      url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/BiliBili.yaml",
       interval: 12600,
     }
   CERTNET:
