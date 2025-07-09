@@ -95,7 +95,6 @@ DOMAIN-SUFFIX,kxbj9929.112700.xyz
 DOMAIN-SUFFIX,lt.4444442.xyz
 DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
 DOMAIN-SUFFIX,mxvqrktze8sybza8c6g20dhibophr57q.04.01.ar.mlxgai.site
-DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
 DOMAIN-SUFFIX,oss-cn-east.digital-nvme.com
 DOMAIN-SUFFIX,oss-cn-south.digital-nvme.com
 DOMAIN-SUFFIX,p4ql779rll04w2n0o5dcrrhf4r2ku263.04.06.sg.mlxgai.site
@@ -171,7 +170,6 @@ DOMAIN-SUFFIX,s.us4.niceduck.me
 DOMAIN-SUFFIX,s.us5.niceduck.me
 DOMAIN-SUFFIX,s.us6.niceduck.me
 DOMAIN-SUFFIX,sa5k5ghu5h87k98hnvrj0vynr37cyqwu.04.03.jp.mlxgai.site
-DOMAIN-SUFFIX,sg.flyrelaytrun.com
 DOMAIN-SUFFIX,sg.nc4789wyvc97y34n79.uk
 DOMAIN-SUFFIX,th.4444442.xyz
 DOMAIN-SUFFIX,tqi4rco77v0ncic1lnbnazazc48j9wmk.04.06.us.mlxgai.site
@@ -192,7 +190,6 @@ DOMAIN-SUFFIX,yahnnat.112700.xyz
 DOMAIN-SUFFIX,yawhnat.112700.xyz
 DOMAIN-SUFFIX,ygbc3ft3fnl1xee8kjapi39mjqv28uyj.04.05.hk.mlxgai.site
 DOMAIN-SUFFIX,yu.sffyn.com
-DOMAIN-SUFFIX,yuyun.80-25-lyy.com
 DOMAIN-SUFFIX,z.hk1.niceduck.me
 DOMAIN-SUFFIX,z.jp1.niceduck.me
 DOMAIN-SUFFIX,z.sg1.niceduck.me
@@ -245,8 +242,6 @@ IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,118.167.2.184/32,no-resolve
 IP-CIDR,118.167.2.223/32,no-resolve
 IP-CIDR,119.167.163.39/32,no-resolve
-IP-CIDR,119.36.154.116/32,no-resolve
-IP-CIDR,120.198.71.181/32,no-resolve
 IP-CIDR,120.233.248.31/32,no-resolve
 IP-CIDR,120.233.87.189/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
@@ -293,7 +288,6 @@ IP-CIDR,152.70.99.180/32,no-resolve
 IP-CIDR,154.17.234.13/32,no-resolve
 IP-CIDR,154.17.235.208/32,no-resolve
 IP-CIDR,154.17.237.85/32,no-resolve
-IP-CIDR,157.255.56.210/32,no-resolve
 IP-CIDR,157.255.56.216/32,no-resolve
 IP-CIDR,158.101.195.118/32,no-resolve
 IP-CIDR,158.178.236.104/32,no-resolve
@@ -316,7 +310,7 @@ IP-CIDR,18.183.175.44/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.238.50.21/32,no-resolve
 IP-CIDR,183.238.50.23/32,no-resolve
-IP-CIDR,183.94.31.14/32,no-resolve
+IP-CIDR,183.240.245.139/32,no-resolve
 IP-CIDR,192.18.133.190/32,no-resolve
 IP-CIDR,192.9.142.185/32,no-resolve
 IP-CIDR,192.9.176.249/32,no-resolve
