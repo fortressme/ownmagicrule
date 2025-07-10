@@ -1204,285 +1204,285 @@ rule-providers:
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/A-ForcedDirect.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   A-ForcedProxy:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/A-ForcedProxy.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   LocalAreaNetwork:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/LocalAreaNetwork.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   UnBan:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/UnBan.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   GoogleFCM:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/GoogleFCM.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   CNAPPEnhance:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/CNAPPEnhance.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   MyReject:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/MyReject.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   ForcedReject:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/ForcedReject.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   eBay:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/eBay.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   BiliBili:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/BiliBili.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   USHQ:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/USHQ.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   AcademicProxy:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/AcademicProxy.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   AcademicDirect:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/AcademicDirect.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   LargePrivacy:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/LargePrivacy.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   LargeProxyDownload:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/LargeProxyDownload.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   PrivateStreaming:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/PrivateStreaming.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   Youtube:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/Youtube.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   Google:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/Google.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   Apple:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/Apple.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   MicrosoftHA:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/MicrosoftHA.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   Onedrive:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/Onedrive.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   Microsoft:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/Microsoft.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   telegram:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/telegram.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   GameDLCN:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/GameDLCN.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   GameDL:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/GameDL.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   Game:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/Game.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   SGAPP:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/SGAPP.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   UKAPP:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/UKAPP.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   NorthwestEurope:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/NorthwestEurope.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   JPAPP:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/JPAPP.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   USAPP:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/USAPP.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   USSpecial:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/USSpecial.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   HKSpecial:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/HKSpecial.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   HKAPP:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/HKAPP.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   TWAPP:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/app/TWAPP.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   CERTNET:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/CERTNET.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   gohome:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/gohome.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   cqgas:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/cqgas.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   MyDirect:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/MyDirect.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   MyProxy:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/MyProxy.yaml",
-      interval: 12600,
+      interval: 11520,
     }
   MainProxy:
     {
       type: http,
       behavior: classical,
       url: "https://raw.githubusercontent.com/fortressme/ownmagicrule/main/clash-classic/MainProxy.yaml",
-      interval: 12600,
+      interval: 11520,
     }
