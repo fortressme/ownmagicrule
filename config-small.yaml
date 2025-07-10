@@ -1118,6 +1118,7 @@ rules:
   - RULE-SET,MyReject,⛔ 禁止访问
   - RULE-SET,ForcedReject,⛔ 禁止访问
   - RULE-SET,eBay,🛍 eBay购物
+  - RULE-SET,BiliBili,📺 B站分流
   - RULE-SET,USHQ,👮 美国严格应用
   - RULE-SET,AcademicProxy,🗽 美国应用
   - RULE-SET,AcademicDirect,📚 学术直连
@@ -1143,7 +1144,6 @@ rules:
   - RULE-SET,HKSpecial,🍀 香港应用
   - RULE-SET,HKAPP,🍀 香港应用
   - RULE-SET,TWAPP,🧋 台湾应用
-  - RULE-SET,BiliBili,📺 B站分流
   - RULE-SET,CERTNET,🗞 CERT教育科研网
   - RULE-SET,gohome,🏡 回家节点
   - RULE-SET,cqgas,🌶️ CQGAS节点
