@@ -21,10 +21,10 @@ jobs:
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
 
-      - name: Update MyDirect.SERVER.list
+      - name: Update ForcedDirect.SERVER.list
         run: |
-          if [ -f rules/MyDirect.SERVER.update.list ]; then
-            cat rules/MyDirect.SERVER.update.list | while read line; do
+          if [ -f rules/A-ForcedDirect.SERVER.update.list ]; then
+            cat rules/A-ForcedDirect.SERVER.update.list | while read line; do
               line=$(echo "$line" | tr -d '\r' | xargs)
               if [ -n "$line" ]; then
                 if [[ "$line" == \#* ]]; then
@@ -38,17 +38,17 @@ jobs:
                   echo "IP-CIDR6,$line/128,no-resolve" 
                 fi
               fi
-            done | sort -t, -k1,1 > rules/MyDirect.SERVER.list.new
-            mv -f rules/MyDirect.SERVER.list.new rules/MyDirect.SERVER.list
-            rm -rf rules/MyDirect.SERVER.update.list
+            done | sort -t, -k1,1 > rules/A-ForcedDirect.SERVER.list.new
+            mv -f rules/A-ForcedDirect.SERVER.list.new rules/A-ForcedDirect.SERVER.list
+            rm -rf rules/A-ForcedDirect.SERVER.update.list
           else
-            echo "MyDirect.SERVER.update.list not found, skipping..."
+            echo "A-ForcedDirect.SERVER.update.list not found, skipping..."
           fi
-
-      - name: Get MyDirect rules
+          
+      - name: Get ForcedDirect rules
         run: |
-          cat rules/MyDirect.MANUAL.list rules/MyDirect.SERVER.list > rules/MyDirect.list.new
-          mv -f rules/MyDirect.list.new rules/MyDirect.list
+          cat rules/A-ForcedDirect.MANUAL.list rules/A-ForcedDirect.SERVER.list > rules/A-ForcedDirect.list.new
+          mv -f rules/A-ForcedDirect.list.new rules/A-ForcedDirect.list
 
       - name: Update Reject.list
         run: |
