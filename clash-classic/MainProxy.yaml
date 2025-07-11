@@ -2011,7 +2011,6 @@ payload:
   - DOMAIN-SUFFIX,apyle.com
   - DOMAIN-SUFFIX,aqmen.ac.uk
   - DOMAIN-SUFFIX,aquinas.ac.uk
-  - DOMAIN-SUFFIX,ar.hao123.com
   - DOMAIN-SUFFIX,arabianchicks.com
   - DOMAIN-SUFFIX,arabidopsis.org
   - DOMAIN-SUFFIX,arabnek.com
@@ -7153,7 +7152,6 @@ payload:
   - DOMAIN-SUFFIX,e-szigno.hu
   - DOMAIN-SUFFIX,e-tugra.com
   - DOMAIN-SUFFIX,e3an.ac.uk
-  - DOMAIN-SUFFIX,e621.net
   - DOMAIN-SUFFIX,ea-anz-press.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,eaaccess.com
@@ -16921,7 +16919,6 @@ payload:
   - DOMAIN-SUFFIX,onlyprime.ru
   - DOMAIN-SUFFIX,onlysiterip.com
   - DOMAIN-SUFFIX,onmanorama.com
-  - DOMAIN-SUFFIX,onmypc.net
   - DOMAIN-SUFFIX,onsalekey.com
   - DOMAIN-SUFFIX,onsaletrend.com
   - DOMAIN-SUFFIX,onstream.cc
@@ -25569,6 +25566,7 @@ payload:
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,aptoide.com
+  - DOMAIN-SUFFIX,ar.hao123.com
   - DOMAIN-SUFFIX,arcgis.com
   - DOMAIN-SUFFIX,archive.fo
   - DOMAIN-SUFFIX,archive.is
@@ -26722,6 +26720,7 @@ payload:
   - DOMAIN-SUFFIX,e-traderland.net
   - DOMAIN-SUFFIX,e-zone.com.hk
   - DOMAIN-SUFFIX,e123.hk
+  - DOMAIN-SUFFIX,e621.net
   - DOMAIN-SUFFIX,earlytibet.com
   - DOMAIN-SUFFIX,earthcam.com
   - DOMAIN-SUFFIX,earthvpn.com
@@ -29171,6 +29170,7 @@ payload:
   - DOMAIN-SUFFIX,onmoon.net
   - DOMAIN-SUFFIX,onmypc.biz
   - DOMAIN-SUFFIX,onmypc.info
+  - DOMAIN-SUFFIX,onmypc.net
   - DOMAIN-SUFFIX,onmypc.org
   - DOMAIN-SUFFIX,onmypc.us
   - DOMAIN-SUFFIX,onthehunt.com
