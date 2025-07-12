@@ -351,6 +351,7 @@ DOMAIN-SUFFIX,z.us1.niceduck.me
 DOMAIN-SUFFIX,zx522.198139.xyz
 DOMAIN-SUFFIX,zyx7klo63ah67m4i.mzstatic.cloud
 IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.161.42.158/32,no-resolve
 IP-CIDR,1.162.157.21/32,no-resolve
 IP-CIDR,1.198.249.19/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
@@ -384,10 +385,9 @@ IP-CIDR,112.120.48.227/32,no-resolve
 IP-CIDR,113.108.6.244/32,no-resolve
 IP-CIDR,113.57.36.231/32,no-resolve
 IP-CIDR,113.57.36.235/32,no-resolve
-IP-CIDR,114.37.197.214/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
-IP-CIDR,118.167.6.176/32,no-resolve
-IP-CIDR,118.167.6.75/32,no-resolve
+IP-CIDR,118.167.3.242/32,no-resolve
+IP-CIDR,118.167.5.192/32,no-resolve
 IP-CIDR,120.198.71.175/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.118.117/32,no-resolve
@@ -500,7 +500,6 @@ IP-CIDR,219.76.131.41/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,23.95.231.69/32,no-resolve
 IP-CIDR,3.0.101.89/32,no-resolve
-IP-CIDR,3.235.54.28/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.78.248.243/32,no-resolve
 IP-CIDR,36.151.65.137/32,no-resolve
@@ -508,6 +507,7 @@ IP-CIDR,36.152.168.88/32,no-resolve
 IP-CIDR,36.228.194.224/32,no-resolve
 IP-CIDR,36.228.207.242/32,no-resolve
 IP-CIDR,38.181.72.49/32,no-resolve
+IP-CIDR,44.198.190.40/32,no-resolve
 IP-CIDR,44.201.204.173/32,no-resolve
 IP-CIDR,44.208.36.104/32,no-resolve
 IP-CIDR,44.249.175.69/32,no-resolve
@@ -534,6 +534,7 @@ IP-CIDR,57.182.23.113/32,no-resolve
 IP-CIDR,58.254.188.86/32,no-resolve
 IP-CIDR,59.37.173.14/32,no-resolve
 IP-CIDR,61.171.110.183/32,no-resolve
+IP-CIDR,61.228.86.40/32,no-resolve
 IP-CIDR,64.181.255.250/32,no-resolve
 IP-CIDR,69.84.182.18/32,no-resolve
 IP-CIDR,89.163.146.162/32,no-resolve
