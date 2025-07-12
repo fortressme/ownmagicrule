@@ -232,6 +232,7 @@ payload:
   - DOMAIN-SUFFIX,pass-ccs-irl.876521.xyz
   - DOMAIN-SUFFIX,pass-kxy-frv6.876521.xyz
   - DOMAIN-SUFFIX,pass-kxy-ukv6.876521.xyz
+  - DOMAIN-SUFFIX,pass-lala-sg.876521.xyz
   - DOMAIN-SUFFIX,pass-lgvps-sg.876521.xyz
   - DOMAIN-SUFFIX,pass-wap-sg.876521.xyz
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
@@ -364,7 +365,6 @@ payload:
   - IP-CIDR,13.213.64.212/32,no-resolve
   - IP-CIDR,13.215.203.90/32,no-resolve
   - IP-CIDR,13.222.216.207/32,no-resolve
-  - IP-CIDR,13.228.149.65/32,no-resolve
   - IP-CIDR,13.229.122.251/32,no-resolve
   - IP-CIDR,13.231.175.184/32,no-resolve
   - IP-CIDR,131.186.22.238/32,no-resolve
@@ -420,7 +420,6 @@ payload:
   - IP-CIDR,18.162.59.251/32,no-resolve
   - IP-CIDR,18.162.59.76/32,no-resolve
   - IP-CIDR,18.183.175.44/32,no-resolve
-  - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,185.151.146.51/32,no-resolve
   - IP-CIDR,192.18.133.190/32,no-resolve
   - IP-CIDR,192.9.142.185/32,no-resolve
@@ -474,6 +473,7 @@ payload:
   - IP-CIDR,36.152.168.88/32,no-resolve
   - IP-CIDR,36.228.194.224/32,no-resolve
   - IP-CIDR,36.228.207.242/32,no-resolve
+  - IP-CIDR,38.181.72.49/32,no-resolve
   - IP-CIDR,44.211.80.51/32,no-resolve
   - IP-CIDR,44.249.241.101/32,no-resolve
   - IP-CIDR,44.250.170.107/32,no-resolve
@@ -489,6 +489,7 @@ payload:
   - IP-CIDR,54.200.0.3/32,no-resolve
   - IP-CIDR,54.238.57.53/32,no-resolve
   - IP-CIDR,54.249.86.118/32,no-resolve
+  - IP-CIDR,54.254.0.52/32,no-resolve
   - IP-CIDR,54.255.139.254/32,no-resolve
   - IP-CIDR,54.65.206.120/32,no-resolve
   - IP-CIDR,57.182.23.113/32,no-resolve
@@ -509,6 +510,7 @@ payload:
   - IP-CIDR6,2404:c140:1f00:100::23:a/128,no-resolve
   - IP-CIDR6,2404:c140:1f00:12::6a:7853/128,no-resolve
   - IP-CIDR6,2404:c140:2100::27:5d8/128,no-resolve
+  - IP-CIDR6,2404:c140:2101:14::a/128,no-resolve
   - IP-CIDR6,2406:da12:adf:9600:36e6:8b6:43ae:ff83/128,no-resolve
   - IP-CIDR6,2406:da14:cfb:5500:917b:37fc:a540:773a/128,no-resolve
   - IP-CIDR6,2406:da18:576:3b00:c351:506e:63fc:ef2/128,no-resolve
