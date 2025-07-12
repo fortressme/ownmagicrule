@@ -39,8 +39,11 @@ DOMAIN-SUFFIX,cname08a-xp3zfkbmz8pyhmbf.sassi2956.xyz
 DOMAIN-SUFFIX,cname08b-xp3zfkbmz8pyhmbf.colosseo7143.xyz
 DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
 DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
+DOMAIN-SUFFIX,cncdnct.solidigm-static.com
+DOMAIN-SUFFIX,ctcdncu.solidigm-static.com
 DOMAIN-SUFFIX,dn7vrogk8vvv32mjbtgohfk9v96z8vpqsci5t7xq5tfi3fm9.biliapi.xyz
 DOMAIN-SUFFIX,dns.kizhou.cn
+DOMAIN-SUFFIX,dns.yiandrive.com
 DOMAIN-SUFFIX,download-cm.gameupload.top
 DOMAIN-SUFFIX,download-ct.gameupload.top
 DOMAIN-SUFFIX,em01.niceduck.me
@@ -48,11 +51,13 @@ DOMAIN-SUFFIX,fastu.kxy.ovh
 DOMAIN-SUFFIX,fm.smart.idoz1v.cn
 DOMAIN-SUFFIX,ftfq3twuqn56j9hbf3jw9227b82oqjjnnaqmsn4c4w78bi6h.biliapi.xyz
 DOMAIN-SUFFIX,godnice.nodebgp.com
+DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
 DOMAIN-SUFFIX,hi.niceduck.me
 DOMAIN-SUFFIX,hk01.525536.xyz
 DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
 DOMAIN-SUFFIX,ipv6.sffyn.com
 DOMAIN-SUFFIX,ird599rkwj87ogu8wirzasm8oisp8d5mqhrfnkrve35yda8j.biliapi.xyz
+DOMAIN-SUFFIX,jscmpt.gscloud.bond
 DOMAIN-SUFFIX,jsrgf2g575ym6gecxh2er2u39hcvs2wc.biliapi.xyz
 DOMAIN-SUFFIX,jsyd.niceduck.me
 DOMAIN-SUFFIX,jsyd2.niceduck.me
@@ -62,6 +67,8 @@ DOMAIN-SUFFIX,lt.4444442.xyz
 DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
 DOMAIN-SUFFIX,nbdx.4444442.xyz
 DOMAIN-SUFFIX,ooc-sg.mtxgrpx.com
+DOMAIN-SUFFIX,oss-cn-east.digital-nvme.com
+DOMAIN-SUFFIX,oss-cn-south.digital-nvme.com
 DOMAIN-SUFFIX,pass-akile-hk1t.876521.xyz
 DOMAIN-SUFFIX,pass-ccs-irl.876521.xyz
 DOMAIN-SUFFIX,pass-kxy-frv6.876521.xyz
@@ -141,6 +148,7 @@ DOMAIN-SUFFIX,speedtest.pass-bwg-us.876521.xyz
 DOMAIN-SUFFIX,th.4444442.xyz
 DOMAIN-SUFFIX,xuo6zb5esbvrvkpf.mzstatic.cloud
 DOMAIN-SUFFIX,yahnnat.112700.xyz
+DOMAIN-SUFFIX,yawhnat.112700.xyz
 DOMAIN-SUFFIX,yuyu.sffyn.com
 DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
 DOMAIN-SUFFIX,z.hk1.niceduck.me
@@ -177,6 +185,7 @@ IP-CIDR,108.181.5.199/32,no-resolve
 IP-CIDR,108.181.5.35/32,no-resolve
 IP-CIDR,108.181.5.5/32,no-resolve
 IP-CIDR,108.181.6.131/32,no-resolve
+IP-CIDR,111.45.28.226/32,no-resolve
 IP-CIDR,112.120.48.132/32,no-resolve
 IP-CIDR,112.120.48.14/32,no-resolve
 IP-CIDR,112.120.48.162/32,no-resolve
@@ -192,15 +201,16 @@ IP-CIDR,120.198.71.175/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.118.117/32,no-resolve
 IP-CIDR,120.241.32.227/32,no-resolve
+IP-CIDR,121.227.107.69/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
 IP-CIDR,123.121.186.204/32,no-resolve
+IP-CIDR,125.122.155.176/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
 IP-CIDR,129.148.39.249/32,no-resolve
 IP-CIDR,13.209.149.178/32,no-resolve
 IP-CIDR,13.213.64.212/32,no-resolve
 IP-CIDR,13.215.203.90/32,no-resolve
 IP-CIDR,13.222.216.207/32,no-resolve
-IP-CIDR,13.228.149.65/32,no-resolve
 IP-CIDR,13.229.122.251/32,no-resolve
 IP-CIDR,131.186.22.238/32,no-resolve
 IP-CIDR,132.145.239.250/32,no-resolve
@@ -251,10 +261,12 @@ IP-CIDR,168.138.165.109/32,no-resolve
 IP-CIDR,168.138.184.187/32,no-resolve
 IP-CIDR,172.192.0.52/32,no-resolve
 IP-CIDR,178.128.84.251/32,no-resolve
+IP-CIDR,18.138.120.137/32,no-resolve
 IP-CIDR,18.141.158.36/32,no-resolve
 IP-CIDR,18.162.59.251/32,no-resolve
 IP-CIDR,18.162.59.76/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
+IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,185.151.146.51/32,no-resolve
 IP-CIDR,192.18.133.190/32,no-resolve
 IP-CIDR,192.9.142.185/32,no-resolve
@@ -329,6 +341,7 @@ IP-CIDR,54.255.139.254/32,no-resolve
 IP-CIDR,54.65.206.120/32,no-resolve
 IP-CIDR,57.182.23.113/32,no-resolve
 IP-CIDR,58.254.188.86/32,no-resolve
+IP-CIDR,59.175.155.19/32,no-resolve
 IP-CIDR,59.37.173.14/32,no-resolve
 IP-CIDR,61.171.110.183/32,no-resolve
 IP-CIDR,64.181.255.250/32,no-resolve
@@ -358,6 +371,7 @@ IP-CIDR6,2408:8719:2000:a:fe60::5c/128,no-resolve
 IP-CIDR6,2409:871e:2700:100a:56f6:412e:1c:b/128,no-resolve
 IP-CIDR6,2409:8754:10:4:8000:0:50:a/128,no-resolve
 IP-CIDR6,2409:8c34:4400:d::e/128,no-resolve
+IP-CIDR6,240e:97c:34:800:3::138/128,no-resolve
 IP-CIDR6,2603:c021:8012:baae::5/128,no-resolve
 IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
 IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
