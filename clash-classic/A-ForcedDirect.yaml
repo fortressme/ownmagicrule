@@ -521,8 +521,8 @@ payload:
   - IP-CIDR6,2406:da1e:186:9d52:e1f:f766:5da0:5ef4/128,no-resolve
   - IP-CIDR6,2406:da1e:621:5100:2e87:56d2:cdd1:8c48/128,no-resolve
   - IP-CIDR6,2407:d840:51:1::18/128,no-resolve
-  - IP-CIDR6,2408:8215:230:c0e0::1002/128,no-resolve
   - IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
+  - IP-CIDR6,2408:8719:2000:a:fe60::5c/128,no-resolve
   - IP-CIDR6,2409:871e:2700:100a:56f6:412e:1c:b/128,no-resolve
   - IP-CIDR6,2409:8754:10:4:8000:0:50:a/128,no-resolve
   - IP-CIDR6,2409:8c34:4400:d::e/128,no-resolve
