@@ -68,9 +68,6 @@ dns:
       - https://doh.opendns.com/dns-query#🚀 主要代理&skip-cert-verify=true
       - https://1.1.1.1/dns-query#🚀 主要代理&skip-cert-verify=true
       - https://8.8.8.8/dns-query#🚀 主要代理&skip-cert-verify=true
-  proxy-server-nameserver:
-    - https://doh.pub/dns-query#skip-cert-verify=true
-    - https://223.5.5.5/dns-query#skip-cert-verify=true
   default-nameserver:
     - 219.146.1.66
     - 202.102.128.68
