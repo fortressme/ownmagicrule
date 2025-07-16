@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,cname08b-xp3zfkbmz8pyhmbf.colosseo7143.xyz
   - DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
   - DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
+  - DOMAIN-SUFFIX,cncdnct.solidigm-static.com
   - DOMAIN-SUFFIX,dn7vrogk8vvv32mjbtgohfk9v96z8vpqsci5t7xq5tfi3fm9.biliapi.xyz
   - DOMAIN-SUFFIX,dns.kizhou.cn
   - DOMAIN-SUFFIX,download-cm.gameupload.top
@@ -51,12 +52,14 @@ payload:
   - DOMAIN-SUFFIX,ftfq3twuqn56j9hbf3jw9227b82oqjjnnaqmsn4c4w78bi6h.biliapi.xyz
   - DOMAIN-SUFFIX,g.bgp.taphip.com
   - DOMAIN-SUFFIX,gdyd.4444442.xyz
+  - DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
   - DOMAIN-SUFFIX,hi.niceduck.me
   - DOMAIN-SUFFIX,hk01.525536.xyz
   - DOMAIN-SUFFIX,hmbeaqn4rci3f2zvowvudhcuiqbb6dee5yh3d9pyev9mq6hh.biliapi.xyz
   - DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
   - DOMAIN-SUFFIX,ipv6.sffyn.com
   - DOMAIN-SUFFIX,ird599rkwj87ogu8wirzasm8oisp8d5mqhrfnkrve35yda8j.biliapi.xyz
+  - DOMAIN-SUFFIX,jscmpt.gscloud.bond
   - DOMAIN-SUFFIX,jsrgf2g575ym6gecxh2er2u39hcvs2wc.biliapi.xyz
   - DOMAIN-SUFFIX,jsyd.niceduck.me
   - DOMAIN-SUFFIX,jsyd2.niceduck.me
@@ -66,6 +69,8 @@ payload:
   - DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
   - DOMAIN-SUFFIX,nbdx.4444442.xyz
   - DOMAIN-SUFFIX,ooc-sg.mtxgrpx.com
+  - DOMAIN-SUFFIX,oss-cn-east.digital-nvme.com
+  - DOMAIN-SUFFIX,oss-cn-south.digital-nvme.com
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws12.yydjc.top
   - DOMAIN-SUFFIX,pq.aws13.yydjc.top
@@ -183,6 +188,7 @@ payload:
   - IP-CIDR,108.181.5.35/32,no-resolve
   - IP-CIDR,108.181.5.5/32,no-resolve
   - IP-CIDR,108.181.6.131/32,no-resolve
+  - IP-CIDR,111.45.28.226/32,no-resolve
   - IP-CIDR,112.120.48.132/32,no-resolve
   - IP-CIDR,112.120.48.14/32,no-resolve
   - IP-CIDR,112.120.48.162/32,no-resolve
@@ -199,6 +205,7 @@ payload:
   - IP-CIDR,120.241.32.228/32,no-resolve
   - IP-CIDR,122.248.219.62/32,no-resolve
   - IP-CIDR,123.121.186.204/32,no-resolve
+  - IP-CIDR,125.122.96.145/32,no-resolve
   - IP-CIDR,129.146.95.165/32,no-resolve
   - IP-CIDR,129.148.39.249/32,no-resolve
   - IP-CIDR,13.213.64.212/32,no-resolve
@@ -296,6 +303,7 @@ payload:
   - IP-CIDR,210.16.183.44/32,no-resolve
   - IP-CIDR,210.16.183.51/32,no-resolve
   - IP-CIDR,210.16.183.52/32,no-resolve
+  - IP-CIDR,213.218.255.198/32,no-resolve
   - IP-CIDR,213.35.108.22/32,no-resolve
   - IP-CIDR,219.76.131.133/32,no-resolve
   - IP-CIDR,219.76.131.135/32,no-resolve
@@ -318,8 +326,7 @@ payload:
   - IP-CIDR,38.181.72.49/32,no-resolve
   - IP-CIDR,44.203.196.62/32,no-resolve
   - IP-CIDR,44.245.100.81/32,no-resolve
-  - IP-CIDR,44.249.84.8/32,no-resolve
-  - IP-CIDR,46.232.110.81/32,no-resolve
+  - IP-CIDR,44.251.10.85/32,no-resolve
   - IP-CIDR,47.112.19.11/32,no-resolve
   - IP-CIDR,47.129.54.37/32,no-resolve
   - IP-CIDR,5.253.36.120/32,no-resolve
@@ -372,6 +379,7 @@ payload:
   - IP-CIDR6,2409:8c34:4400:d::e/128,no-resolve
   - IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
   - IP-CIDR6,2409:8c54:b010:3c::6/128,no-resolve
+  - IP-CIDR6,240e:97c:34:800:3::138/128,no-resolve
   - IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
   - IP-CIDR6,2a0e:97c0:7d4:ff2d::a/128,no-resolve
   - IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
