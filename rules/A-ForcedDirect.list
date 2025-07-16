@@ -359,7 +359,7 @@ DOMAIN-SUFFIX,z.us1.niceduck.me
 DOMAIN-SUFFIX,zxix.123.tpmbt.cn
 DOMAIN-SUFFIX,zyx7klo63ah67m4i.mzstatic.cloud
 IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.161.38.131/32,no-resolve
+IP-CIDR,1.161.37.208/32,no-resolve
 IP-CIDR,1.162.157.21/32,no-resolve
 IP-CIDR,1.198.249.19/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
