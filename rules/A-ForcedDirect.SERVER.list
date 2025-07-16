@@ -173,6 +173,7 @@ IP-CIDR,104.18.22.235/32,no-resolve
 IP-CIDR,104.194.69.250/32,no-resolve
 IP-CIDR,104.224.159.62/32,no-resolve
 IP-CIDR,106.52.105.241/32,no-resolve
+IP-CIDR,106.53.183.245/32,no-resolve
 IP-CIDR,108.181.17.23/32,no-resolve
 IP-CIDR,108.181.2.135/32,no-resolve
 IP-CIDR,108.181.22.153/32,no-resolve
@@ -200,11 +201,9 @@ IP-CIDR,113.57.36.231/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,118.167.5.70/32,no-resolve
 IP-CIDR,118.167.6.79/32,no-resolve
-IP-CIDR,119.29.239.169/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.118.119/32,no-resolve
 IP-CIDR,120.241.32.228/32,no-resolve
-IP-CIDR,121.227.107.85/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
 IP-CIDR,123.121.186.204/32,no-resolve
 IP-CIDR,125.122.96.145/32,no-resolve
@@ -303,6 +302,9 @@ IP-CIDR,208.87.243.41/32,no-resolve
 IP-CIDR,208.87.243.5/32,no-resolve
 IP-CIDR,208.87.243.57/32,no-resolve
 IP-CIDR,208.87.243.7/32,no-resolve
+IP-CIDR,210.16.183.40/32,no-resolve
+IP-CIDR,210.16.183.44/32,no-resolve
+IP-CIDR,210.16.183.51/32,no-resolve
 IP-CIDR,210.16.183.52/32,no-resolve
 IP-CIDR,213.218.255.198/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
@@ -319,7 +321,6 @@ IP-CIDR,3.83.20.76/32,no-resolve
 IP-CIDR,34.212.89.24/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.78.248.243/32,no-resolve
-IP-CIDR,36.151.65.137/32,no-resolve
 IP-CIDR,36.152.168.87/32,no-resolve
 IP-CIDR,36.152.168.88/32,no-resolve
 IP-CIDR,36.228.207.242/32,no-resolve
@@ -370,7 +371,7 @@ IP-CIDR6,2406:da14:cfb:5500:917b:37fc:a540:773a/128,no-resolve
 IP-CIDR6,2406:da18:576:3b00:c351:506e:63fc:ef2/128,no-resolve
 IP-CIDR6,2406:da18:a28:7600:fa19:b91f:8385:e742/128,no-resolve
 IP-CIDR6,2406:da1e:186:9d52:e1f:f766:5da0:5ef4/128,no-resolve
-IP-CIDR6,2406:da1e:618:6801:69e2:24f6:b338:73c4/128,no-resolve
+IP-CIDR6,2406:da1e:6ff:e300:7ea6:3930:c499:1d66/128,no-resolve
 IP-CIDR6,2406:da1e:e1a:71e3:20c9:9e62:4b18:17f4/128,no-resolve
 IP-CIDR6,2407:d840:51:1::18/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
