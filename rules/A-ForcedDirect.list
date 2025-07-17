@@ -264,6 +264,7 @@ DOMAIN-SUFFIX,jsyd3.niceduck.me
 DOMAIN-SUFFIX,kxbj9929.112700.xyz
 DOMAIN-SUFFIX,lt.4444442.xyz
 DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
+DOMAIN-SUFFIX,mf.smart.idoz1v.cn
 DOMAIN-SUFFIX,nbdx.4444442.xyz
 DOMAIN-SUFFIX,ooc-sg.mtxgrpx.com
 DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
@@ -519,6 +520,7 @@ IP-CIDR,34.207.157.8/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.78.248.243/32,no-resolve
 IP-CIDR,35.92.97.128/32,no-resolve
+IP-CIDR,36.151.65.7/32,no-resolve
 IP-CIDR,36.152.168.72/32,no-resolve
 IP-CIDR,36.228.207.242/32,no-resolve
 IP-CIDR,38.181.72.49/32,no-resolve
@@ -568,7 +570,7 @@ IP-CIDR6,2406:da14:cfb:5500:917b:37fc:a540:773a/128,no-resolve
 IP-CIDR6,2406:da18:576:3b00:c351:506e:63fc:ef2/128,no-resolve
 IP-CIDR6,2406:da18:a28:7600:fa19:b91f:8385:e742/128,no-resolve
 IP-CIDR6,2406:da1e:186:9d52:e1f:f766:5da0:5ef4/128,no-resolve
-IP-CIDR6,2406:da1e:587:3000:6537:132:f4c4:3628/128,no-resolve
+IP-CIDR6,2406:da1e:745:d01:3394:37ee:2b43:3624/128,no-resolve
 IP-CIDR6,2406:da1e:e1a:71e3:20c9:9e62:4b18:17f4/128,no-resolve
 IP-CIDR6,2407:d840:51:1::18/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:1de4:dbc9:f7c4:b6e8/128,no-resolve
