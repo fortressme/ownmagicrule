@@ -266,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,rm-eco-hk-01.409648.xyz
   - DOMAIN-SUFFIX,rm-eco-jp-01.409648.xyz
   - DOMAIN-SUFFIX,rm-eco-sg-01.409648.xyz
+  - DOMAIN-SUFFIX,rm-hk-2.409648.xyz
   - DOMAIN-SUFFIX,rm-lite-hk-04.409648.xyz
   - DOMAIN-SUFFIX,rm-lite-hk-08.409648.xyz
   - DOMAIN-SUFFIX,rm-lite-hk-09.409648.xyz
@@ -368,6 +369,7 @@ payload:
   - IP-CIDR,116.251.216.70/32,no-resolve
   - IP-CIDR,118.167.5.70/32,no-resolve
   - IP-CIDR,118.167.6.79/32,no-resolve
+  - IP-CIDR,120.233.122.242/32,no-resolve
   - IP-CIDR,120.238.144.177/32,no-resolve
   - IP-CIDR,120.241.118.110/32,no-resolve
   - IP-CIDR,120.241.32.251/32,no-resolve
