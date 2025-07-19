@@ -38,7 +38,6 @@ DOMAIN-SUFFIX,cname-nntr5js5hss7bwef.duomo3205.xyz
 DOMAIN-SUFFIX,cname-pz4h4rnxfss24xny.duomo3205.xyz
 DOMAIN-SUFFIX,cname08a-xp3zfkbmz8pyhmbf.sassi2956.xyz
 DOMAIN-SUFFIX,cname08b-xp3zfkbmz8pyhmbf.colosseo7143.xyz
-DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
 DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
 DOMAIN-SUFFIX,cncdn2ct.solidigm-static.com
 DOMAIN-SUFFIX,cncdn6ct.solidigm-static.com
@@ -269,7 +268,6 @@ IP-CIDR,18.162.190.97/32,no-resolve
 IP-CIDR,18.162.193.221/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
 IP-CIDR,18.183.67.46/32,no-resolve
-IP-CIDR,18.237.213.184/32,no-resolve
 IP-CIDR,183.232.212.38/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,185.151.146.51/32,no-resolve
@@ -320,11 +318,11 @@ IP-CIDR,219.76.131.41/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,23.95.231.69/32,no-resolve
 IP-CIDR,3.87.206.50/32,no-resolve
-IP-CIDR,34.217.36.64/32,no-resolve
 IP-CIDR,34.219.197.52/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.78.129.243/32,no-resolve
 IP-CIDR,35.78.248.243/32,no-resolve
+IP-CIDR,35.90.33.102/32,no-resolve
 IP-CIDR,35.92.101.229/32,no-resolve
 IP-CIDR,36.151.65.7/32,no-resolve
 IP-CIDR,36.152.168.72/32,no-resolve
@@ -341,6 +339,7 @@ IP-CIDR,49.232.62.107/32,no-resolve
 IP-CIDR,5.253.36.120/32,no-resolve
 IP-CIDR,5.34.220.41/32,no-resolve
 IP-CIDR,52.196.242.13/32,no-resolve
+IP-CIDR,52.41.185.53/32,no-resolve
 IP-CIDR,54.151.176.60/32,no-resolve
 IP-CIDR,54.175.30.77/32,no-resolve
 IP-CIDR,54.179.186.107/32,no-resolve
