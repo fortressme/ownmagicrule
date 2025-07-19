@@ -239,6 +239,7 @@ DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
 DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
 DOMAIN-SUFFIX,cncdn2ct.solidigm-static.com
 DOMAIN-SUFFIX,cncdn6ct.solidigm-static.com
+DOMAIN-SUFFIX,dianlian.sffyn.com
 DOMAIN-SUFFIX,dn7vrogk8vvv32mjbtgohfk9v96z8vpqsci5t7xq5tfi3fm9.biliapi.xyz
 DOMAIN-SUFFIX,dns.kizhou.cn
 DOMAIN-SUFFIX,download-cm.gameupload.top
@@ -353,6 +354,7 @@ DOMAIN-SUFFIX,xuo6zb5esbvrvkpf.mzstatic.cloud
 DOMAIN-SUFFIX,yahnnat.112700.xyz
 DOMAIN-SUFFIX,yuyu.sffyn.com
 DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
+DOMAIN-SUFFIX,yuyunsvip1.80-25-lyy.com
 DOMAIN-SUFFIX,z.hk1.niceduck.me
 DOMAIN-SUFFIX,z.jp1.niceduck.me
 DOMAIN-SUFFIX,z.sg1.niceduck.me
@@ -393,7 +395,6 @@ IP-CIDR,120.233.122.242/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.118.110/32,no-resolve
 IP-CIDR,120.241.32.251/32,no-resolve
-IP-CIDR,121.227.107.85/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
 IP-CIDR,123.121.186.204/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
@@ -497,6 +498,7 @@ IP-CIDR,210.16.183.44/32,no-resolve
 IP-CIDR,210.16.183.51/32,no-resolve
 IP-CIDR,210.16.183.52/32,no-resolve
 IP-CIDR,210.16.183.53/32,no-resolve
+IP-CIDR,212.64.90.235/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,219.76.131.133/32,no-resolve
 IP-CIDR,219.76.131.135/32,no-resolve
@@ -545,6 +547,7 @@ IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,64.181.255.250/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
 IP-CIDR,69.84.182.18/32,no-resolve
+IP-CIDR,82.157.94.163/32,no-resolve
 IP-CIDR,89.163.146.162/32,no-resolve
 IP-CIDR,89.251.11.15/32,no-resolve
 IP-CIDR,92.112.21.215/32,no-resolve
@@ -573,6 +576,7 @@ IP-CIDR6,2408:8719:2000:a:fe60::5c/128,no-resolve
 IP-CIDR6,2409:871e:2700:100a:56f6:412e:37:a/128,no-resolve
 IP-CIDR6,2409:8754:10:4:8000:0:50:a/128,no-resolve
 IP-CIDR6,2409:8c34:4400:d::e/128,no-resolve
+IP-CIDR6,2409:8c54:810:702:1:2201:0:1003/128,no-resolve
 IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
 IP-CIDR6,240e:97c:34:800:3::138/128,no-resolve
 IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
