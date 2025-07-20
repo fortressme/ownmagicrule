@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,z.us1.niceduck.me
 DOMAIN-SUFFIX,zxix.123.tpmbt.cn
 DOMAIN-SUFFIX,zyx7klo63ah67m4i.mzstatic.cloud
 IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.117.62.240/32,no-resolve
 IP-CIDR,1.161.34.91/32,no-resolve
 IP-CIDR,1.162.157.21/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
@@ -181,6 +182,7 @@ IP-CIDR,108.181.23.255/32,no-resolve
 IP-CIDR,108.181.4.223/32,no-resolve
 IP-CIDR,108.181.4.67/32,no-resolve
 IP-CIDR,108.181.5.199/32,no-resolve
+IP-CIDR,111.229.176.57/32,no-resolve
 IP-CIDR,111.45.28.226/32,no-resolve
 IP-CIDR,111.48.77.2/32,no-resolve
 IP-CIDR,112.120.48.132/32,no-resolve
@@ -198,8 +200,11 @@ IP-CIDR,120.233.122.242/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.118.110/32,no-resolve
 IP-CIDR,120.241.32.251/32,no-resolve
+IP-CIDR,121.227.107.85/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
 IP-CIDR,123.121.186.204/32,no-resolve
+IP-CIDR,124.222.114.110/32,no-resolve
+IP-CIDR,124.222.86.207/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
 IP-CIDR,129.148.39.249/32,no-resolve
 IP-CIDR,129.28.83.197/32,no-resolve
@@ -302,7 +307,6 @@ IP-CIDR,210.16.183.44/32,no-resolve
 IP-CIDR,210.16.183.51/32,no-resolve
 IP-CIDR,210.16.183.52/32,no-resolve
 IP-CIDR,210.16.183.53/32,no-resolve
-IP-CIDR,212.64.90.235/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,219.76.131.133/32,no-resolve
 IP-CIDR,219.76.131.135/32,no-resolve
@@ -315,12 +319,13 @@ IP-CIDR,34.220.39.213/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.78.248.243/32,no-resolve
 IP-CIDR,35.93.6.27/32,no-resolve
-IP-CIDR,36.151.65.7/32,no-resolve
 IP-CIDR,36.152.168.72/32,no-resolve
 IP-CIDR,36.228.196.96/32,no-resolve
 IP-CIDR,36.228.207.242/32,no-resolve
 IP-CIDR,38.181.72.49/32,no-resolve
+IP-CIDR,42.192.62.199/32,no-resolve
 IP-CIDR,42.193.6.202/32,no-resolve
+IP-CIDR,43.138.14.152/32,no-resolve
 IP-CIDR,43.201.188.53/32,no-resolve
 IP-CIDR,44.200.225.149/32,no-resolve
 IP-CIDR,44.247.104.192/32,no-resolve
@@ -351,7 +356,6 @@ IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,64.181.255.250/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
 IP-CIDR,69.84.182.18/32,no-resolve
-IP-CIDR,82.157.94.163/32,no-resolve
 IP-CIDR,89.163.146.162/32,no-resolve
 IP-CIDR,89.251.11.15/32,no-resolve
 IP-CIDR,92.112.21.215/32,no-resolve
