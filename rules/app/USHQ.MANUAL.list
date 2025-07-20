@@ -23,6 +23,8 @@ DOMAIN-KEYWORD,voice.google
 DOMAIN-KEYWORD,voice.telephony
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN-SUFFIX,voice.telephony.goog
+#kiro
+DOMAIN-SUFFIX,kiro.dev
 # flowith
 DOMAIN-SUFFIX,flowith.net
 DOMAIN-SUFFIX,flowith.featurebase.app
