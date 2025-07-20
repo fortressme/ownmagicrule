@@ -80,7 +80,9 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitkraken.com
   - DOMAIN-SUFFIX,gorse.io
+  - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,hulihanman.com
   - DOMAIN-SUFFIX,idoujiang.com
   - DOMAIN-SUFFIX,im.ge
@@ -132,6 +134,8 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,ntdm9.com
+  - DOMAIN-SUFFIX,ollama.ai
+  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,papakatsu.co

@@ -43,6 +43,10 @@ payload:
   - DOMAIN-SUFFIX,iovip-as0.qiniuio.com
   - DOMAIN-SUFFIX,rs-as0.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
+  - DOMAIN-SUFFIX,hf.co
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,ollama.com
+  - DOMAIN-SUFFIX,ollama.ai
   - DOMAIN-SUFFIX,dropmefile.com
   - DOMAIN-SUFFIX,nodequality.com
   - DOMAIN-SUFFIX,akile.io
