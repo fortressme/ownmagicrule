@@ -932,6 +932,7 @@ payload:
   - DOMAIN-KEYWORD,voice.telephony
   - DOMAIN-SUFFIX,voice.google.com
   - DOMAIN-SUFFIX,voice.telephony.goog
+  - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,flowith.net
   - DOMAIN-SUFFIX,flowith.featurebase.app
   - DOMAIN-SUFFIX,edge.flo.ing
