@@ -168,6 +168,7 @@ DOMAIN-SUFFIX,zyx7klo63ah67m4i.mzstatic.cloud
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.161.34.91/32,no-resolve
 IP-CIDR,1.162.157.21/32,no-resolve
+IP-CIDR,101.43.32.226/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
 IP-CIDR,103.213.4.51/32,no-resolve
 IP-CIDR,104.18.20.69/32,no-resolve
@@ -323,8 +324,7 @@ IP-CIDR,31.25.88.214/32,no-resolve
 IP-CIDR,34.215.176.225/32,no-resolve
 IP-CIDR,35.76.201.233/32,no-resolve
 IP-CIDR,35.78.248.243/32,no-resolve
-IP-CIDR,35.89.138.13/32,no-resolve
-IP-CIDR,35.90.33.65/32,no-resolve
+IP-CIDR,35.91.91.165/32,no-resolve
 IP-CIDR,36.152.168.71/32,no-resolve
 IP-CIDR,36.228.196.96/32,no-resolve
 IP-CIDR,36.228.207.242/32,no-resolve
@@ -334,8 +334,6 @@ IP-CIDR,43.198.72.248/32,no-resolve
 IP-CIDR,44.249.141.103/32,no-resolve
 IP-CIDR,46.232.110.81/32,no-resolve
 IP-CIDR,47.129.54.37/32,no-resolve
-IP-CIDR,49.232.0.29/32,no-resolve
-IP-CIDR,49.235.22.214/32,no-resolve
 IP-CIDR,5.253.36.120/32,no-resolve
 IP-CIDR,5.34.220.41/32,no-resolve
 IP-CIDR,52.196.242.13/32,no-resolve
@@ -348,6 +346,7 @@ IP-CIDR,54.196.121.78/32,no-resolve
 IP-CIDR,54.197.149.249/32,no-resolve
 IP-CIDR,54.199.150.15/32,no-resolve
 IP-CIDR,54.200.84.55/32,no-resolve
+IP-CIDR,54.202.28.104/32,no-resolve
 IP-CIDR,54.238.57.53/32,no-resolve
 IP-CIDR,54.249.86.118/32,no-resolve
 IP-CIDR,54.250.72.218/32,no-resolve
@@ -362,6 +361,7 @@ IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,64.181.255.250/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
 IP-CIDR,69.84.182.18/32,no-resolve
+IP-CIDR,82.156.68.213/32,no-resolve
 IP-CIDR,89.163.146.162/32,no-resolve
 IP-CIDR,89.251.11.15/32,no-resolve
 IP-CIDR,92.112.21.215/32,no-resolve
