@@ -70,6 +70,7 @@ payload:
   - DOMAIN-SUFFIX,kxbj9929.112700.xyz
   - DOMAIN-SUFFIX,lt.4444442.xyz
   - DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
+  - DOMAIN-SUFFIX,mf.smart.idoz1v.cn
   - DOMAIN-SUFFIX,nbdx.4444442.xyz
   - DOMAIN-SUFFIX,ooc-sg.mtxgrpx.com
   - DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
@@ -326,6 +327,7 @@ payload:
   - IP-CIDR,35.76.201.233/32,no-resolve
   - IP-CIDR,35.78.248.243/32,no-resolve
   - IP-CIDR,35.90.101.240/32,no-resolve
+  - IP-CIDR,36.151.65.7/32,no-resolve
   - IP-CIDR,36.152.168.71/32,no-resolve
   - IP-CIDR,36.228.196.96/32,no-resolve
   - IP-CIDR,36.228.207.242/32,no-resolve
@@ -337,6 +339,7 @@ payload:
   - IP-CIDR,47.129.54.37/32,no-resolve
   - IP-CIDR,47.130.130.126/32,no-resolve
   - IP-CIDR,49.232.136.241/32,no-resolve
+  - IP-CIDR,49.233.36.246/32,no-resolve
   - IP-CIDR,5.253.36.120/32,no-resolve
   - IP-CIDR,5.34.220.41/32,no-resolve
   - IP-CIDR,52.13.47.90/32,no-resolve
@@ -360,7 +363,6 @@ payload:
   - IP-CIDR,64.181.255.250/32,no-resolve
   - IP-CIDR,69.84.182.108/32,no-resolve
   - IP-CIDR,69.84.182.18/32,no-resolve
-  - IP-CIDR,81.70.19.215/32,no-resolve
   - IP-CIDR,89.163.146.162/32,no-resolve
   - IP-CIDR,89.251.11.15/32,no-resolve
   - IP-CIDR,92.112.21.215/32,no-resolve
