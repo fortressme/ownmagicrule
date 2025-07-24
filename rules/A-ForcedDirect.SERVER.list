@@ -166,6 +166,7 @@ DOMAIN-SUFFIX,z.us1.niceduck.me
 DOMAIN-SUFFIX,zxix.123.tpmbt.cn
 DOMAIN-SUFFIX,zyx7klo63ah67m4i.mzstatic.cloud
 IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.117.62.240/32,no-resolve
 IP-CIDR,1.161.34.91/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
 IP-CIDR,103.213.4.51/32,no-resolve
@@ -173,7 +174,6 @@ IP-CIDR,104.18.20.69/32,no-resolve
 IP-CIDR,104.18.22.235/32,no-resolve
 IP-CIDR,104.194.69.250/32,no-resolve
 IP-CIDR,104.224.159.62/32,no-resolve
-IP-CIDR,106.52.214.217/32,no-resolve
 IP-CIDR,108.181.17.23/32,no-resolve
 IP-CIDR,108.181.2.135/32,no-resolve
 IP-CIDR,108.181.22.153/32,no-resolve
@@ -190,6 +190,7 @@ IP-CIDR,108.181.5.199/32,no-resolve
 IP-CIDR,108.181.5.35/32,no-resolve
 IP-CIDR,108.181.5.5/32,no-resolve
 IP-CIDR,108.181.6.131/32,no-resolve
+IP-CIDR,111.229.176.57/32,no-resolve
 IP-CIDR,111.243.112.170/32,no-resolve
 IP-CIDR,111.45.28.226/32,no-resolve
 IP-CIDR,111.48.77.13/32,no-resolve
@@ -209,6 +210,8 @@ IP-CIDR,120.241.118.112/32,no-resolve
 IP-CIDR,120.241.32.243/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
 IP-CIDR,123.121.186.204/32,no-resolve
+IP-CIDR,124.222.114.110/32,no-resolve
+IP-CIDR,124.222.86.207/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
 IP-CIDR,129.148.39.249/32,no-resolve
 IP-CIDR,129.28.83.197/32,no-resolve
@@ -306,8 +309,8 @@ IP-CIDR,208.87.243.41/32,no-resolve
 IP-CIDR,208.87.243.5/32,no-resolve
 IP-CIDR,208.87.243.57/32,no-resolve
 IP-CIDR,208.87.243.7/32,no-resolve
-IP-CIDR,210.16.183.82/32,no-resolve
-IP-CIDR,210.16.183.88/32,no-resolve
+IP-CIDR,210.16.183.53/32,no-resolve
+IP-CIDR,210.16.183.83/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,219.76.131.133/32,no-resolve
 IP-CIDR,219.76.131.135/32,no-resolve
@@ -317,6 +320,7 @@ IP-CIDR,219.76.131.41/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,23.95.231.69/32,no-resolve
 IP-CIDR,3.227.248.146/32,no-resolve
+IP-CIDR,3.37.195.229/32,no-resolve
 IP-CIDR,3.87.144.225/32,no-resolve
 IP-CIDR,31.25.88.214/32,no-resolve
 IP-CIDR,34.214.171.179/32,no-resolve
@@ -329,13 +333,13 @@ IP-CIDR,36.152.168.71/32,no-resolve
 IP-CIDR,36.228.196.96/32,no-resolve
 IP-CIDR,36.228.207.242/32,no-resolve
 IP-CIDR,38.181.72.49/32,no-resolve
+IP-CIDR,42.192.62.199/32,no-resolve
 IP-CIDR,42.193.6.202/32,no-resolve
 IP-CIDR,43.198.72.248/32,no-resolve
-IP-CIDR,43.200.134.221/32,no-resolve
 IP-CIDR,43.248.96.47/32,no-resolve
 IP-CIDR,46.232.110.81/32,no-resolve
 IP-CIDR,47.129.54.37/32,no-resolve
-IP-CIDR,49.232.0.29/32,no-resolve
+IP-CIDR,49.233.36.246/32,no-resolve
 IP-CIDR,5.253.36.120/32,no-resolve
 IP-CIDR,5.34.220.41/32,no-resolve
 IP-CIDR,52.12.93.195/32,no-resolve
