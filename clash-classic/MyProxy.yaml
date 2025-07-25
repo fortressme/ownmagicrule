@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,dockerstatic.com
   - DOMAIN-SUFFIX,dropmefile.com
   - DOMAIN-SUFFIX,edgeone.ai
+  - DOMAIN-SUFFIX,edgeone.cloud.tencent.com
   - DOMAIN-SUFFIX,fastgpt.iswsh.com
   - DOMAIN-SUFFIX,file.iswsh.com
   - DOMAIN-SUFFIX,freeembyguide.eu.org
