@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,dockerstatic.com
   - DOMAIN-SUFFIX,dropmefile.com
+  - DOMAIN-SUFFIX,edgeone.ai
   - DOMAIN-SUFFIX,fastgpt.iswsh.com
   - DOMAIN-SUFFIX,file.iswsh.com
   - DOMAIN-SUFFIX,freeembyguide.eu.org
@@ -158,6 +159,7 @@ payload:
   - DOMAIN-SUFFIX,rsf-ap-southeast-2.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-ap-southeast-3.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
+  - DOMAIN-SUFFIX,rumt-sg.com
   - DOMAIN-SUFFIX,s3.iswsh.com
   - DOMAIN-SUFFIX,s3api.iswsh.com
   - DOMAIN-SUFFIX,sda1.dev
@@ -166,6 +168,8 @@ payload:
   - DOMAIN-SUFFIX,shucdn.com
   - DOMAIN-SUFFIX,sub.876521.xyz
   - DOMAIN-SUFFIX,tawk.to
+  - DOMAIN-SUFFIX,tencent-cloud.com
+  - DOMAIN-SUFFIX,tencentcloud.com
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-SUFFIX,unavatar.webp.se

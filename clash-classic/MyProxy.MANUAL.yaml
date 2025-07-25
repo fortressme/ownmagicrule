@@ -29,6 +29,10 @@ payload:
   - DOMAIN-SUFFIX,69shu.xyz
   - DOMAIN-SUFFIX,18mh.net
   - DOMAIN-SUFFIX,shucdn.com
+  - DOMAIN-SUFFIX,rumt-sg.com
+  - DOMAIN-SUFFIX,edgeone.ai
+  - DOMAIN-SUFFIX,tencentcloud.com
+  - DOMAIN-SUFFIX,tencent-cloud.com
   - DOMAIN-SUFFIX,up-ap-southeast-3.qiniup.com
   - DOMAIN-SUFFIX,iovip-ap-southeast-3.qiniuio.com
   - DOMAIN-SUFFIX,rs-ap-southeast-3.qiniuapi.com
