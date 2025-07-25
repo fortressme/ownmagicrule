@@ -36,6 +36,12 @@ DOMAIN-SUFFIX,69shu.xyz
 DOMAIN-SUFFIX,18mh.net
 DOMAIN-SUFFIX,shucdn.com
 
+# 腾讯云国际
+DOMAIN-SUFFIX,rumt-sg.com
+DOMAIN-SUFFIX,edgeone.ai
+DOMAIN-SUFFIX,tencentcloud.com
+DOMAIN-SUFFIX,tencent-cloud.com
+
 # 七牛云东南亚
 DOMAIN-SUFFIX,up-ap-southeast-3.qiniup.com
 DOMAIN-SUFFIX,iovip-ap-southeast-3.qiniuio.com
