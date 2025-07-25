@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,rumt-sg.com
 DOMAIN-SUFFIX,edgeone.ai
 DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,edgeone.cloud.tencent.com
 
 # 七牛云东南亚
 DOMAIN-SUFFIX,up-ap-southeast-3.qiniup.com
