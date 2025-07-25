@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   - IP-CIDR,192.168.0.0/16,no-resolve
+  - DOMAIN-SUFFIX,cloudcone.com.cn
   - DOMAIN-SUFFIX,lala.gg
   - DOMAIN-SUFFIX,10099.com
   - DOMAIN-SUFFIX,cup.com.cn
