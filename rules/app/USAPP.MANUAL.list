@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,iovip-na0.qiniuio.com
 DOMAIN-SUFFIX,rs-na0.qiniuapi.com
 DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
 
+# 三星应用商店
+PROCESS-NAME,com.sec.android.app.samsungapps
+
 # 其他服务
 DOMAIN-SUFFIX,rclone.org
 DOMAIN-SUFFIX,namecrane.com
