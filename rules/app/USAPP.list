@@ -187,26 +187,6 @@ DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
 
-# NAME: Samsung
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:17:47
-# DOMAIN-SUFFIX: 13
-# TOTAL: 13
-DOMAIN-SUFFIX,anrdoezrs.net
-DOMAIN-SUFFIX,galaxyappstore.com
-DOMAIN-SUFFIX,galaxymobile.jp
-DOMAIN-SUFFIX,game-platform.net
-DOMAIN-SUFFIX,knoxemm.com
-DOMAIN-SUFFIX,samsung.com
-DOMAIN-SUFFIX,samsungapps.com
-DOMAIN-SUFFIX,samsungcloud.com
-DOMAIN-SUFFIX,samsungdm.com
-DOMAIN-SUFFIX,samsungeshop.com.cn
-DOMAIN-SUFFIX,samsunggalaxyfriends.com
-DOMAIN-SUFFIX,samsungknox.com
-DOMAIN-SUFFIX,samsungqbe.com
-
 # Amazon Panorama API
 DOMAIN-SUFFIX,us-east-1.prod.pr.panorama.console.api.aws
 DOMAIN-SUFFIX,us-east-2.prod.pr.panorama.console.api.aws
@@ -218,9 +198,6 @@ DOMAIN-SUFFIX,up-na0.qiniup.com
 DOMAIN-SUFFIX,iovip-na0.qiniuio.com
 DOMAIN-SUFFIX,rs-na0.qiniuapi.com
 DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
-
-# 三星应用商店
-PROCESS-NAME,com.sec.android.app.samsungapps
 
 # 其他服务
 DOMAIN-SUFFIX,rclone.org
