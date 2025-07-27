@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,gslb.livehwc3.cn
   - DOMAIN-SUFFIX,neixin.cn
   - DOMAIN-SUFFIX,open.kuaishouzt.com
+  - DOMAIN,ny.4444441.xyz
   - DOMAIN-SUFFIX,BGP.4444442.xyz
   - DOMAIN-SUFFIX,gdyd.4444442.xyz
   - DOMAIN-SUFFIX,th.4444442.xyz
