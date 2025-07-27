@@ -156,6 +156,19 @@ payload:
   - DOMAIN-SUFFIX,dropboxusercontent.com
   - DOMAIN-SUFFIX,getdropbox.com
   - DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com
+  - DOMAIN-SUFFIX,anrdoezrs.net
+  - DOMAIN-SUFFIX,galaxyappstore.com
+  - DOMAIN-SUFFIX,galaxymobile.jp
+  - DOMAIN-SUFFIX,game-platform.net
+  - DOMAIN-SUFFIX,knoxemm.com
+  - DOMAIN-SUFFIX,samsung.com
+  - DOMAIN-SUFFIX,samsungapps.com
+  - DOMAIN-SUFFIX,samsungcloud.com
+  - DOMAIN-SUFFIX,samsungdm.com
+  - DOMAIN-SUFFIX,samsungeshop.com.cn
+  - DOMAIN-SUFFIX,samsunggalaxyfriends.com
+  - DOMAIN-SUFFIX,samsungknox.com
+  - DOMAIN-SUFFIX,samsungqbe.com
   - DOMAIN-SUFFIX,us-east-1.prod.pr.panorama.console.api.aws
   - DOMAIN-SUFFIX,us-east-2.prod.pr.panorama.console.api.aws
   - DOMAIN-SUFFIX,us-west-1.prod.pr.panorama.console.api.aws
