@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,moscwise.com
   - DOMAIN-KEYWORD,transferwise
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,events.launchdarkly.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,braze.com
