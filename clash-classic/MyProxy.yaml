@@ -195,5 +195,6 @@ payload:
   - DOMAIN-SUFFIX,xbiquge.laa
   - DOMAIN-SUFFIX,yaoluxs.com
   - DOMAIN-SUFFIX,yf.876521.xyz
+  - DOMAIN-SUFFIX,z.ai
   - IP-CIDR,49.232.25.145/32,no-resolve
   - PROCESS-NAME,ai.qwenlm.chat.android
