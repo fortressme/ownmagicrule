@@ -971,6 +971,7 @@ PROCESS-NAME,transferwise
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,moscwise.com
 DOMAIN-KEYWORD,transferwise
+DOMAIN-SUFFIX,events.launchdarkly.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,kraken.com
