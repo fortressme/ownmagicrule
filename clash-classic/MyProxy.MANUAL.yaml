@@ -102,6 +102,8 @@ payload:
   - DOMAIN-SUFFIX,pwnedpasswords.com
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,tawk.to
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,api.smooch.io
   - DOMAIN-SUFFIX,url.112700.xyz
   - DOMAIN-SUFFIX,sub.876521.xyz
   - DOMAIN-SUFFIX,yf.876521.xyz
