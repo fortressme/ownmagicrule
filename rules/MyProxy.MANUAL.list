@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,wanxai.com
 DOMAIN-SUFFIX,wan.video
 PROCESS-NAME,ai.qwenlm.chat.android
 
+# 智谱
+DOMAIN-SUFFIX,z.ai
+
 # Github补充
 DOMAIN-SUFFIX,github1s.com
 
