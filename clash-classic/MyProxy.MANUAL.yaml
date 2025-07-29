@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,iovip-as0.qiniuio.com
   - DOMAIN-SUFFIX,rs-as0.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
+  - DOMAIN,ny.4444441.xyz
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,ollama.com
