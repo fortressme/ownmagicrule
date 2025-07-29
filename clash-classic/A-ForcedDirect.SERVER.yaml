@@ -390,7 +390,6 @@ payload:
   - IP-CIDR6,2408:864e:c04:d:4d41:534f:c3c6:1373/128,no-resolve
   - IP-CIDR6,2409:871e:2700:100a:56f6:412e:37:a/128,no-resolve
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
-  - IP-CIDR6,2409:8c34:4400:d::e/128,no-resolve
   - IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
   - IP-CIDR6,240e:97c:34:800:3::138/128,no-resolve
   - IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
