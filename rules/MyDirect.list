@@ -13,7 +13,6 @@
 ## vivo补充cn域名
 ## 新加入 Steam下载
 ## 硅基流动
-DOMAIN,ny.4444441.xyz
 DOMAIN-REGEX,^pass[a-z0-9-]+\.876521\.xyz
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,360buyimg.com
