@@ -51,8 +51,8 @@ DOMAIN-SUFFIX,em01.niceduck.me
 DOMAIN-SUFFIX,fastu.kxy.ovh
 DOMAIN-SUFFIX,fm.smart.idoz1v.cn
 DOMAIN-SUFFIX,ftfq3twuqn56j9hbf3jw9227b82oqjjnnaqmsn4c4w78bi6h.biliapi.xyz
-DOMAIN-SUFFIX,g.bgp.taphip.com
 DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
+DOMAIN-SUFFIX,hbdx.4444442.xyz
 DOMAIN-SUFFIX,hi.niceduck.me
 DOMAIN-SUFFIX,hk01.525536.xyz
 DOMAIN-SUFFIX,hmbeaqn4rci3f2zvowvudhcuiqbb6dee5yh3d9pyev9mq6hh.biliapi.xyz
@@ -204,6 +204,7 @@ IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,120.199.84.72/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.32.248/32,no-resolve
+IP-CIDR,121.227.107.85/32,no-resolve
 IP-CIDR,122.248.219.62/32,no-resolve
 IP-CIDR,123.121.186.204/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
@@ -305,6 +306,7 @@ IP-CIDR,208.87.243.57/32,no-resolve
 IP-CIDR,208.87.243.7/32,no-resolve
 IP-CIDR,210.16.183.40/32,no-resolve
 IP-CIDR,210.16.183.44/32,no-resolve
+IP-CIDR,210.16.183.51/32,no-resolve
 IP-CIDR,210.16.183.52/32,no-resolve
 IP-CIDR,210.16.183.53/32,no-resolve
 IP-CIDR,210.16.183.7/32,no-resolve
@@ -347,7 +349,7 @@ IP-CIDR,52.196.242.13/32,no-resolve
 IP-CIDR,52.37.112.157/32,no-resolve
 IP-CIDR,54.151.176.60/32,no-resolve
 IP-CIDR,54.179.186.107/32,no-resolve
-IP-CIDR,54.184.14.108/32,no-resolve
+IP-CIDR,54.189.99.148/32,no-resolve
 IP-CIDR,54.249.128.205/32,no-resolve
 IP-CIDR,54.249.86.118/32,no-resolve
 IP-CIDR,54.255.139.254/32,no-resolve
@@ -355,7 +357,6 @@ IP-CIDR,54.46.2.149/32,no-resolve
 IP-CIDR,54.65.206.120/32,no-resolve
 IP-CIDR,57.180.41.226/32,no-resolve
 IP-CIDR,57.182.160.117/32,no-resolve
-IP-CIDR,58.251.126.119/32,no-resolve
 IP-CIDR,58.251.126.45/32,no-resolve
 IP-CIDR,59.42.247.247/32,no-resolve
 IP-CIDR,59.42.250.117/32,no-resolve
