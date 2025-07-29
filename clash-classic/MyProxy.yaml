@@ -140,6 +140,7 @@ payload:
   - DOMAIN-SUFFIX,ollama.ai
   - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,opengist.096899.xyz
   - DOMAIN-SUFFIX,opensource.guide
   - DOMAIN-SUFFIX,papakatsu.co
   - DOMAIN-SUFFIX,passwd.iswsh.com
