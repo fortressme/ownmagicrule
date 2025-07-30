@@ -170,6 +170,9 @@ payload:
   - DOMAIN-SUFFIX,dicarerhome.com
   - DOMAIN-SUFFIX,lucasmedia.top
   - DOMAIN-SUFFIX,9191001.xyz
+  - DOMAIN-SUFFIX,3767483.xyz
+  - DOMAIN-SUFFIX,outong-valve.com
+  - DOMAIN-SUFFIX,liminalnet.site
   - IP-CIDR,188.172.228.49/32,no-resolve
   - DOMAIN-SUFFIX,emby.eggtartcloud.shop
   - DOMAIN-SUFFIX,stream.ntrrr.top
