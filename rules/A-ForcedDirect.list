@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,cu42.kuxueyun.com
 DOMAIN-SUFFIX,cm.kuxueyun.com
 DOMAIN-SUFFIX,fastm.kxy.ovh
 DOMAIN-SUFFIX,fastu.kxy.ovh
-
 DOMAIN-SUFFIX,kxbjnat.112700.xyz
 DOMAIN-SUFFIX,kxbj9929.112700.xyz
 DOMAIN-SUFFIX,yahnnat.112700.xyz
@@ -199,6 +198,7 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,leigod
 PROCESS-NAME,leigod.exe
+IP-CIDR,45.137.180.230,no-resolve
 DOMAIN-SUFFIX,2dc608afc99297fc.cdn.jiashule.com
 DOMAIN-SUFFIX,38nn7tb3nckccjbq.mzstatic.cloud
 DOMAIN-SUFFIX,3bd9.55dba.e048.f65-fef1f.yfjcs.com
