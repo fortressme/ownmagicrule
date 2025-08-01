@@ -198,4 +198,4 @@ PROCESS-NAME,WebTorrent
 PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,leigod
 PROCESS-NAME,leigod.exe
-IP-CIDR,45.137.180.230,no-resolve
+IP-CIDR,45.137.180.230/32,no-resolve
