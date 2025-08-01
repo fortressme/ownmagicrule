@@ -64,8 +64,7 @@ dns:
     'geosite:googlefcm': 
       - https://doh.pub/dns-query#skip-cert-verify=true
       - https://223.5.5.5/dns-query#skip-cert-verify=true
-      - https://[2400:3200::1]/dns-query#skip-cert-verify=true
-      - https://dns.ipv6dns.com/dns-query#skip-cert-verify=true
+      - https://dns.alidns.com/dns-query#skip-cert-verify=true
     'geosite:gfw': 
       - https://doh.opendns.com/dns-query#🚀 主要代理&skip-cert-verify=true
       - https://1.1.1.1/dns-query#🚀 主要代理&skip-cert-verify=true
@@ -77,15 +76,13 @@ dns:
     - 119.29.29.29
     - 223.6.6.6
     - 123.125.81.6
-    - 2001:dc7:1000::1
-    - 240C::6666
+    - 2400:3200::1
   nameserver:
     - 202.102.128.68
     - 119.29.29.29
     - 223.6.6.6
     - 123.125.81.6
-    - 2001:dc7:1000::1
-    - 240C::6666
+    - 2400:3200::1
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: blacklist
   fake-ip-filter:
