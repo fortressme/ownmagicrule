@@ -350,6 +350,7 @@ DOMAIN-SUFFIX,speedtest.rn-usdc2.876521.xyz
 DOMAIN-SUFFIX,speedtest.wap-hkv6.876521.xyz
 DOMAIN-SUFFIX,speedtest.wap-sg.876521.xyz
 DOMAIN-SUFFIX,sz.nezha.buzz
+DOMAIN-SUFFIX,v6gdyd.4444442.xyz
 DOMAIN-SUFFIX,xuo6zb5esbvrvkpf.mzstatic.cloud
 DOMAIN-SUFFIX,yahnnat.112700.xyz
 DOMAIN-SUFFIX,yuyu.sffyn.com
@@ -359,7 +360,6 @@ DOMAIN-SUFFIX,z.jp1.niceduck.me
 DOMAIN-SUFFIX,z.sg1.niceduck.me
 DOMAIN-SUFFIX,z.tw1.niceduck.me
 DOMAIN-SUFFIX,z.us1.niceduck.me
-DOMAIN-SUFFIX,zjyd.4444442.xyz
 DOMAIN-SUFFIX,zxix.123.tpmbt.cn
 DOMAIN-SUFFIX,zyx7klo63ah67m4i.mzstatic.cloud
 IP-CIDR,1.1.1.1/32,no-resolve
@@ -401,12 +401,12 @@ IP-CIDR,113.96.191.214/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,118.167.1.72/32,no-resolve
 IP-CIDR,120.198.71.168/32,no-resolve
-IP-CIDR,120.199.84.72/32,no-resolve
 IP-CIDR,120.232.239.229/32,no-resolve
 IP-CIDR,120.233.205.39/32,no-resolve
 IP-CIDR,120.238.144.177/32,no-resolve
 IP-CIDR,120.241.32.244/32,no-resolve
 IP-CIDR,120.241.65.141/32,no-resolve
+IP-CIDR,121.227.107.91/32,no-resolve
 IP-CIDR,121.4.98.172/32,no-resolve
 IP-CIDR,123.121.189.101/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
@@ -595,6 +595,7 @@ IP-CIDR6,2409:871e:2700:100a:56f6:412e:37:a/128,no-resolve
 IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
 IP-CIDR6,2409:8c34:4400:d::d/128,no-resolve
 IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
+IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
 IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
 IP-CIDR6,2a0e:97c0:7d4:ff2d::a/128,no-resolve
 IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
