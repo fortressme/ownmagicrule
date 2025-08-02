@@ -117,6 +117,8 @@ payload:
   - DOMAIN-SUFFIX,opengist.096899.xyz
   - DOMAIN-SUFFIX,papakatsu.co
   - DOMAIN-SUFFIX,passwd.iswsh.com
+  - DOMAIN-SUFFIX,phantom.app
+  - DOMAIN-SUFFIX,phantom.com
   - DOMAIN-SUFFIX,photo.iswsh.com
   - DOMAIN-SUFFIX,powenwu15.com
   - DOMAIN-SUFFIX,pwnedpasswords.com

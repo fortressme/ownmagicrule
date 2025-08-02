@@ -48,6 +48,8 @@ payload:
   - DOMAIN-SUFFIX,iovip-as0.qiniuio.com
   - DOMAIN-SUFFIX,rs-as0.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
+  - DOMAIN-SUFFIX,phantom.com
+  - DOMAIN-SUFFIX,phantom.app
   - DOMAIN,ny.4444441.xyz
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,huggingface.co
