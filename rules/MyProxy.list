@@ -9,6 +9,7 @@
 # TOTAL: 7
 # UPDATED: 2025-06-06 09:17:43
 # afusekt
+# phantom加密钱包
 # read
 # 七牛云东南亚
 # 智谱
@@ -131,6 +132,8 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opengist.096899.xyz
 DOMAIN-SUFFIX,papakatsu.co
 DOMAIN-SUFFIX,passwd.iswsh.com
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,phantom.com
 DOMAIN-SUFFIX,photo.iswsh.com
 DOMAIN-SUFFIX,powenwu15.com
 DOMAIN-SUFFIX,pwnedpasswords.com
