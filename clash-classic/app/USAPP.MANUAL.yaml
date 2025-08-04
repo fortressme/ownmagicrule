@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,iovip-na0.qiniuio.com
   - DOMAIN-SUFFIX,rs-na0.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
-  - DOMAIN-SUFFIX,github1s.com
   - DOMAIN-SUFFIX,rclone.org
   - DOMAIN-SUFFIX,namecrane.com
   - DOMAIN-SUFFIX,racknerd.com
