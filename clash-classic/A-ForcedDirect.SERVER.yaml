@@ -194,7 +194,6 @@ payload:
   - IP-CIDR,120.198.71.168/32,no-resolve
   - IP-CIDR,120.232.239.229/32,no-resolve
   - IP-CIDR,120.233.205.39/32,no-resolve
-  - IP-CIDR,120.238.144.177/32,no-resolve
   - IP-CIDR,120.241.32.244/32,no-resolve
   - IP-CIDR,120.241.65.141/32,no-resolve
   - IP-CIDR,121.227.107.91/32,no-resolve
