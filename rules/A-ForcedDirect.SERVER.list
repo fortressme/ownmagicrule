@@ -61,7 +61,7 @@ DOMAIN-SUFFIX,jsyd3.niceduck.me
 DOMAIN-SUFFIX,kxbj9929.112700.xyz
 DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
 DOMAIN-SUFFIX,nbdx.4444442.xyz
-DOMAIN-SUFFIX,ooc-sg.mtxgrpx.com
+DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
 DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
 DOMAIN-SUFFIX,oss-cn-6south.digital-nvme.com
 DOMAIN-SUFFIX,pq.aws11.yydjc.top
@@ -190,7 +190,6 @@ IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,118.167.0.231/32,no-resolve
 IP-CIDR,118.167.4.210/32,no-resolve
 IP-CIDR,120.198.71.163/32,no-resolve
-IP-CIDR,120.241.32.241/32,no-resolve
 IP-CIDR,121.227.107.91/32,no-resolve
 IP-CIDR,121.4.98.172/32,no-resolve
 IP-CIDR,123.121.189.101/32,no-resolve
@@ -260,7 +259,6 @@ IP-CIDR,18.162.144.92/32,no-resolve
 IP-CIDR,18.163.119.16/32,no-resolve
 IP-CIDR,18.163.193.196/32,no-resolve
 IP-CIDR,18.167.19.7/32,no-resolve
-IP-CIDR,18.177.82.210/32,no-resolve
 IP-CIDR,18.181.109.31/32,no-resolve
 IP-CIDR,18.183.168.72/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
@@ -307,11 +305,9 @@ IP-CIDR,208.87.243.5/32,no-resolve
 IP-CIDR,208.87.243.57/32,no-resolve
 IP-CIDR,208.87.243.7/32,no-resolve
 IP-CIDR,210.16.183.138/32,no-resolve
+IP-CIDR,210.16.183.139/32,no-resolve
 IP-CIDR,210.16.183.140/32,no-resolve
-IP-CIDR,210.16.183.40/32,no-resolve
-IP-CIDR,210.16.183.44/32,no-resolve
 IP-CIDR,210.16.183.51/32,no-resolve
-IP-CIDR,210.16.183.52/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,27.44.134.37/32,no-resolve
@@ -330,11 +326,8 @@ IP-CIDR,38.181.72.49/32,no-resolve
 IP-CIDR,42.193.6.202/32,no-resolve
 IP-CIDR,43.140.249.178/32,no-resolve
 IP-CIDR,43.142.1.191/32,no-resolve
-IP-CIDR,43.199.65.185/32,no-resolve
 IP-CIDR,43.199.75.117/32,no-resolve
-IP-CIDR,43.206.160.161/32,no-resolve
 IP-CIDR,43.206.67.19/32,no-resolve
-IP-CIDR,43.206.96.173/32,no-resolve
 IP-CIDR,44.203.241.248/32,no-resolve
 IP-CIDR,46.232.110.81/32,no-resolve
 IP-CIDR,47.129.54.37/32,no-resolve
@@ -353,6 +346,7 @@ IP-CIDR,54.249.86.118/32,no-resolve
 IP-CIDR,54.255.139.254/32,no-resolve
 IP-CIDR,54.255.202.22/32,no-resolve
 IP-CIDR,54.46.2.149/32,no-resolve
+IP-CIDR,54.46.45.9/32,no-resolve
 IP-CIDR,54.46.47.98/32,no-resolve
 IP-CIDR,54.95.1.8/32,no-resolve
 IP-CIDR,57.180.41.226/32,no-resolve
