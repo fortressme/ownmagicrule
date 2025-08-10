@@ -341,7 +341,7 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
 # 内容：内容：AI平台-国外
-# 数量：40条
+# 数量：43条
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
@@ -362,9 +362,12 @@ DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,curosr.com
+DOMAIN-SUFFIX,curosr.sh
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,gemini.google.com
@@ -382,7 +385,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,sora.com
-
 # NAME: Facebook
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
