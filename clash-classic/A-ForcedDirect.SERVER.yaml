@@ -320,7 +320,6 @@ payload:
   - IP-CIDR,27.44.134.37/32,no-resolve
   - IP-CIDR,3.1.200.150/32,no-resolve
   - IP-CIDR,3.112.213.52/32,no-resolve
-  - IP-CIDR,3.112.37.143/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,3.89.24.43/32,no-resolve
   - IP-CIDR,31.25.88.214/32,no-resolve
