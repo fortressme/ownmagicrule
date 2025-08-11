@@ -140,10 +140,8 @@ DOMAIN-SUFFIX,speedtest.ccs-irl.876521.xyz
 DOMAIN-SUFFIX,speedtest.kxy-frv6.876521.xyz
 DOMAIN-SUFFIX,speedtest.kxy-ukv6.876521.xyz
 DOMAIN-SUFFIX,speedtest.lala-sg.876521.xyz
-DOMAIN-SUFFIX,speedtest.lgvps-sg.876521.xyz
 DOMAIN-SUFFIX,speedtest.rn-usdc2.876521.xyz
 DOMAIN-SUFFIX,speedtest.wap-hkv6.876521.xyz
-DOMAIN-SUFFIX,speedtest.wap-sg.876521.xyz
 DOMAIN-SUFFIX,sz.nezha.buzz
 DOMAIN-SUFFIX,v6gdyd.4444442.xyz
 DOMAIN-SUFFIX,xuo6zb5esbvrvkpf.mzstatic.cloud
@@ -199,6 +197,7 @@ IP-CIDR,129.211.174.235/32,no-resolve
 IP-CIDR,129.28.83.197/32,no-resolve
 IP-CIDR,13.213.30.170/32,no-resolve
 IP-CIDR,13.213.64.212/32,no-resolve
+IP-CIDR,13.230.73.137/32,no-resolve
 IP-CIDR,13.231.104.197/32,no-resolve
 IP-CIDR,13.231.130.157/32,no-resolve
 IP-CIDR,13.250.241.105/32,no-resolve
@@ -260,6 +259,8 @@ IP-CIDR,18.162.144.92/32,no-resolve
 IP-CIDR,18.163.119.16/32,no-resolve
 IP-CIDR,18.163.193.196/32,no-resolve
 IP-CIDR,18.167.19.7/32,no-resolve
+IP-CIDR,18.180.253.54/32,no-resolve
+IP-CIDR,18.182.28.204/32,no-resolve
 IP-CIDR,18.183.168.72/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
 IP-CIDR,18.214.23.107/32,no-resolve
@@ -267,7 +268,6 @@ IP-CIDR,183.240.138.146/32,no-resolve
 IP-CIDR,183.60.183.162/32,no-resolve
 IP-CIDR,183.94.31.70/32,no-resolve
 IP-CIDR,183.94.31.73/32,no-resolve
-IP-CIDR,185.151.146.51/32,no-resolve
 IP-CIDR,192.18.133.190/32,no-resolve
 IP-CIDR,192.9.142.185/32,no-resolve
 IP-CIDR,192.9.176.249/32,no-resolve
@@ -303,7 +303,6 @@ IP-CIDR,208.87.243.5/32,no-resolve
 IP-CIDR,208.87.243.57/32,no-resolve
 IP-CIDR,208.87.243.7/32,no-resolve
 IP-CIDR,210.16.183.138/32,no-resolve
-IP-CIDR,210.16.183.139/32,no-resolve
 IP-CIDR,210.16.183.140/32,no-resolve
 IP-CIDR,210.16.183.147/32,no-resolve
 IP-CIDR,210.16.183.148/32,no-resolve
@@ -311,6 +310,8 @@ IP-CIDR,210.16.183.149/32,no-resolve
 IP-CIDR,210.16.183.51/32,no-resolve
 IP-CIDR,210.16.183.7/32,no-resolve
 IP-CIDR,210.16.183.8/32,no-resolve
+IP-CIDR,210.16.183.82/32,no-resolve
+IP-CIDR,210.16.183.88/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,27.44.134.37/32,no-resolve
@@ -383,7 +384,6 @@ IP-CIDR6,2406:da18:a28:7600:fa19:b91f:8385:e742/128,no-resolve
 IP-CIDR6,2406:da1e:186:9d52:e1f:f766:5da0:5ef4/128,no-resolve
 IP-CIDR6,2406:da1e:968:be00:286f:4adb:24d:e2c1/128,no-resolve
 IP-CIDR6,2406:da1e:e1a:71e3:20c9:9e62:4b18:17f4/128,no-resolve
-IP-CIDR6,2407:d840:51:1::18/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:1de4:dbc9:f7c4:b6e8/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:4d41:534f:c3c6:1373/128,no-resolve
