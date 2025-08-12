@@ -1,4 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,skype
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,skype.net
+  - DOMAIN-SUFFIX,skypeassets.com
+  - DOMAIN-SUFFIX,skypeassets.net
+  - DOMAIN-SUFFIX,skypeforbusiness.com
   - DOMAIN,dns.google
   - IP-CIDR,8.8.8.8/32,no-resolve
   - IP-CIDR,8.8.4.4/32,no-resolve
