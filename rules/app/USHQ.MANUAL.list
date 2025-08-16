@@ -30,8 +30,6 @@ DOMAIN-KEYWORD,voice.google
 DOMAIN-KEYWORD,voice.telephony
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN-SUFFIX,voice.telephony.goog
-#kiro
-DOMAIN-SUFFIX,kiro.dev
 # flowith
 DOMAIN-SUFFIX,flowith.net
 DOMAIN-SUFFIX,flowith.featurebase.app
@@ -104,6 +102,10 @@ DOMAIN-SUFFIX,manuscdn.com
 # FacebookMetaAI
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,llama.com
+#kiro
+DOMAIN-SUFFIX,kiro.dev
+#kilocode
+DOMAIN-SUFFIX,kilocode.ai
 
 # US EDU
 DOMAIN-SUFFIX,umass.edu
