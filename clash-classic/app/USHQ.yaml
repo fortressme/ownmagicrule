@@ -983,6 +983,7 @@ payload:
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,codeiumdata.com
   - DOMAIN-SUFFIX,codeium.com
+  - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,hcompany.ai
   - DOMAIN-KEYWORD,hcompany
   - DOMAIN-SUFFIX,us.i.posthog.com
