@@ -11,6 +11,7 @@ payload:
   - DOMAIN,mail.somnifex.com
   - DOMAIN,ny.4444441.xyz
   - DOMAIN-KEYWORD,51cg
+  - DOMAIN-SUFFIX,111404.xyz
   - DOMAIN-SUFFIX,18mh.net
   - DOMAIN-SUFFIX,20img.com
   - DOMAIN-SUFFIX,21img.com
