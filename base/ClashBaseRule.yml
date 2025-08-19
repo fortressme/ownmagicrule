@@ -72,16 +72,14 @@ dns:
       - https://[2001:4860:4860::64]/dns-query#🚀 主要代理&skip-cert-verify=true
       - https://[2606:4700:4700::1111]/dns-query#🚀 主要代理&skip-cert-verify=true
   default-nameserver:
-    - 202.102.128.68
     - 119.29.29.29
     - 223.6.6.6
-    - 123.125.81.6
+    - 202.102.152.3
     - 2400:3200::1
   nameserver:
-    - 202.102.128.68
     - 119.29.29.29
     - 223.6.6.6
-    - 123.125.81.6
+    - 202.102.152.3
     - 2400:3200::1
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter-mode: blacklist
