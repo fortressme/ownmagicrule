@@ -49,6 +49,7 @@ payload:
   - DOMAIN-SUFFIX,fm.smart.idoz1v.cn
   - DOMAIN-SUFFIX,ftfq3twuqn56j9hbf3jw9227b82oqjjnnaqmsn4c4w78bi6h.biliapi.xyz
   - DOMAIN-SUFFIX,gcp.4444442.xyz
+  - DOMAIN-SUFFIX,gdyd6.4444442.xyz
   - DOMAIN-SUFFIX,hk01.525536.xyz
   - DOMAIN-SUFFIX,hmbeaqn4rci3f2zvowvudhcuiqbb6dee5yh3d9pyev9mq6hh.biliapi.xyz
   - DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
@@ -142,7 +143,6 @@ payload:
   - DOMAIN-SUFFIX,speedtest.rn-usdc2.876521.xyz
   - DOMAIN-SUFFIX,speedtest.wap-hkv6.876521.xyz
   - DOMAIN-SUFFIX,sz.nezha.buzz
-  - DOMAIN-SUFFIX,v6gdyd.4444442.xyz
   - DOMAIN-SUFFIX,xuo6zb5esbvrvkpf.mzstatic.cloud
   - DOMAIN-SUFFIX,yahnnat.112700.xyz
   - DOMAIN-SUFFIX,yuyu.sffyn.com
@@ -301,6 +301,7 @@ payload:
   - IP-CIDR,183.2.133.86/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.141/32,no-resolve
+  - IP-CIDR,183.240.187.228/32,no-resolve
   - IP-CIDR,183.60.183.160/32,no-resolve
   - IP-CIDR,183.94.31.73/32,no-resolve
   - IP-CIDR,188.114.97.230/32,no-resolve
@@ -342,16 +343,15 @@ payload:
   - IP-CIDR,208.87.243.41/32,no-resolve
   - IP-CIDR,208.87.243.57/32,no-resolve
   - IP-CIDR,210.16.183.138/32,no-resolve
+  - IP-CIDR,210.16.183.139/32,no-resolve
   - IP-CIDR,210.16.183.140/32,no-resolve
   - IP-CIDR,210.16.183.147/32,no-resolve
   - IP-CIDR,210.16.183.148/32,no-resolve
   - IP-CIDR,210.16.183.149/32,no-resolve
-  - IP-CIDR,210.16.183.23/32,no-resolve
+  - IP-CIDR,210.16.183.35/32,no-resolve
   - IP-CIDR,210.16.183.38/32,no-resolve
   - IP-CIDR,210.16.183.7/32,no-resolve
   - IP-CIDR,210.16.183.8/32,no-resolve
-  - IP-CIDR,210.16.183.82/32,no-resolve
-  - IP-CIDR,210.16.183.88/32,no-resolve
   - IP-CIDR,213.35.108.22/32,no-resolve
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.44.134.37/32,no-resolve
@@ -420,7 +420,6 @@ payload:
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
   - IP-CIDR6,2409:8c34:4400:d::d/128,no-resolve
   - IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
-  - IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
   - IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
   - IP-CIDR6,2a0e:97c0:7d4:ff2d::a/128,no-resolve
   - IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
