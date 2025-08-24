@@ -12,7 +12,7 @@ mode: rule
 log-level: info
 global-client-fingerprint: chrome
 global-ua: mymihomo
-tcp-concurrent: true
+tcp-concurrent: false
 unified-delay: false
 keep-alive-interval: 15
 keep-alive-idle: 180
