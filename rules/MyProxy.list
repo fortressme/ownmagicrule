@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,api-ap-southeast-3.qiniuapi.com
 DOMAIN-SUFFIX,api.intquest.com
 DOMAIN-SUFFIX,api.nn.ci
 DOMAIN-SUFFIX,api.smooch.io
+DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,attemptd.work
 DOMAIN-SUFFIX,avatars-githubusercontent-webp.webp.se
 DOMAIN-SUFFIX,browsecraft.com
@@ -60,6 +61,7 @@ DOMAIN-SUFFIX,clashmi.app
 DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,cloud.iswsh.com
 DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,cybermania.ws
 DOMAIN-SUFFIX,dalao.net
 DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,deeplx.org
@@ -73,6 +75,7 @@ DOMAIN-SUFFIX,edgeone.ai
 DOMAIN-SUFFIX,edgeone.cloud.tencent.com
 DOMAIN-SUFFIX,fastgpt.iswsh.com
 DOMAIN-SUFFIX,file.iswsh.com
+DOMAIN-SUFFIX,filecr.com
 DOMAIN-SUFFIX,freeembyguide.eu.org
 DOMAIN-SUFFIX,gaozehk.com
 DOMAIN-SUFFIX,gitea.iswsh.com
@@ -117,8 +120,10 @@ DOMAIN-SUFFIX,longtengxiaoshuo.org
 DOMAIN-SUFFIX,m.dybz123.com
 DOMAIN-SUFFIX,m.ndlib.cn
 DOMAIN-SUFFIX,m.ndlib.com
+DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,mcmssc.la
 DOMAIN-SUFFIX,memos.iswsh.com
+DOMAIN-SUFFIX,monkrus.ws
 DOMAIN-SUFFIX,music.liuzhijin.cn
 DOMAIN-SUFFIX,naixi.net
 DOMAIN-SUFFIX,nasdav.iswsh.com
@@ -165,6 +170,7 @@ DOMAIN-SUFFIX,sub.876521.xyz
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tencentcloud.com
+DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,unavatar.webp.se
 DOMAIN-SUFFIX,up-ap-southeast-2.qiniup.com
