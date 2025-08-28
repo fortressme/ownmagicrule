@@ -288,11 +288,10 @@ IP-CIDR,18.162.149.12/32,no-resolve
 IP-CIDR,18.162.169.64/32,no-resolve
 IP-CIDR,18.163.193.196/32,no-resolve
 IP-CIDR,18.183.175.44/32,no-resolve
-IP-CIDR,183.2.133.91/32,no-resolve
+IP-CIDR,18.237.173.240/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.189/32,no-resolve
 IP-CIDR,183.60.183.170/32,no-resolve
-IP-CIDR,183.60.183.171/32,no-resolve
 IP-CIDR,188.114.97.230/32,no-resolve
 IP-CIDR,188.114.98.78/32,no-resolve
 IP-CIDR,190.93.245.236/32,no-resolve
@@ -351,9 +350,8 @@ IP-CIDR,38.181.72.49/32,no-resolve
 IP-CIDR,43.140.249.178/32,no-resolve
 IP-CIDR,43.142.1.191/32,no-resolve
 IP-CIDR,43.196.129.99/32,no-resolve
-IP-CIDR,43.198.248.93/32,no-resolve
+IP-CIDR,43.199.194.37/32,no-resolve
 IP-CIDR,43.199.75.117/32,no-resolve
-IP-CIDR,43.207.98.73/32,no-resolve
 IP-CIDR,46.232.110.81/32,no-resolve
 IP-CIDR,47.129.54.37/32,no-resolve
 IP-CIDR,49.232.62.169/32,no-resolve
@@ -366,7 +364,6 @@ IP-CIDR,52.34.99.28/32,no-resolve
 IP-CIDR,54.151.166.210/32,no-resolve
 IP-CIDR,54.151.176.60/32,no-resolve
 IP-CIDR,54.179.234.24/32,no-resolve
-IP-CIDR,54.184.175.40/32,no-resolve
 IP-CIDR,54.187.154.175/32,no-resolve
 IP-CIDR,54.201.83.169/32,no-resolve
 IP-CIDR,54.202.126.252/32,no-resolve
@@ -411,13 +408,13 @@ IP-CIDR6,2406:da1e:fb3:801:5135:3ab5:85fd:9a56/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:1a2:de3:62da:3c04/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:46d7:8cc5:be59:9a35/128,no-resolve
+IP-CIDR6,2408:8756:f5f:103:1a4b:82e2:0:10/128,no-resolve
 IP-CIDR6,2408:8756:f5f:103:1a4b:82e2:0:11/128,no-resolve
 IP-CIDR6,2409:871e:2700:100a:56f6:412e:37:a/128,no-resolve
 IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
 IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
 IP-CIDR6,2409:8c54:a810:1:0:5:0:27/128,no-resolve
 IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
-IP-CIDR6,240e:6b0:d00:803::b000:10/128,no-resolve
 IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
 IP-CIDR6,2a0e:97c0:7d4:ff2d::a/128,no-resolve
 IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
