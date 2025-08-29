@@ -268,14 +268,12 @@ DOMAIN-SUFFIX,hmbeaqn4rci3f2zvowvudhcuiqbb6dee5yh3d9pyev9mq6hh.biliapi.xyz
 DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
 DOMAIN-SUFFIX,ipv6.sffyn.com
 DOMAIN-SUFFIX,ird599rkwj87ogu8wirzasm8oisp8d5mqhrfnkrve35yda8j.biliapi.xyz
-DOMAIN-SUFFIX,jscmpt.gscloud.bond
 DOMAIN-SUFFIX,jsrgf2g575ym6gecxh2er2u39hcvs2wc.biliapi.xyz
 DOMAIN-SUFFIX,jsyd.niceduck.me
 DOMAIN-SUFFIX,jsyd2.niceduck.me
 DOMAIN-SUFFIX,jsyd3.niceduck.me
 DOMAIN-SUFFIX,kxbj9929.112700.xyz
 DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
-DOMAIN-SUFFIX,mf.smart.idoz1v.cn
 DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
 DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
 DOMAIN-SUFFIX,pq.aws11.yydjc.top
@@ -415,7 +413,6 @@ IP-CIDR,108.181.23.249/32,no-resolve
 IP-CIDR,108.181.23.255/32,no-resolve
 IP-CIDR,108.181.4.223/32,no-resolve
 IP-CIDR,108.181.5.199/32,no-resolve
-IP-CIDR,111.45.28.204/32,no-resolve
 IP-CIDR,113.57.36.133/32,no-resolve
 IP-CIDR,113.57.36.161/32,no-resolve
 IP-CIDR,113.57.36.163/32,no-resolve
