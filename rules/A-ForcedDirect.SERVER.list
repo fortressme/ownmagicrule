@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,1g62th7n240r.zziot.life
 DOMAIN-SUFFIX,2dc608afc99297fc.cdn.jiashule.com
 DOMAIN-SUFFIX,3bd9.55dba.e048.f65-fef1f.yfjcs.com
 DOMAIN-SUFFIX,3bd9.55dca.e048.f1-fef1f.yfjcs.com
@@ -295,7 +296,6 @@ IP-CIDR,18.237.31.227/32,no-resolve
 IP-CIDR,183.232.212.62/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.184/32,no-resolve
-IP-CIDR,183.240.138.189/32,no-resolve
 IP-CIDR,183.60.183.170/32,no-resolve
 IP-CIDR,188.114.97.230/32,no-resolve
 IP-CIDR,188.114.98.78/32,no-resolve
@@ -352,6 +352,7 @@ IP-CIDR,3.112.53.228/32,no-resolve
 IP-CIDR,31.25.88.214/32,no-resolve
 IP-CIDR,34.229.171.47/32,no-resolve
 IP-CIDR,35.89.142.79/32,no-resolve
+IP-CIDR,36.151.65.146/32,no-resolve
 IP-CIDR,38.181.72.49/32,no-resolve
 IP-CIDR,43.140.249.178/32,no-resolve
 IP-CIDR,43.142.1.191/32,no-resolve
