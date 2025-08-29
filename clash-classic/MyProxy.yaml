@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,appstorrent.ru
   - DOMAIN-SUFFIX,attemptd.work
   - DOMAIN-SUFFIX,avatars-githubusercontent-webp.webp.se
+  - DOMAIN-SUFFIX,blinko.iswsh.com
   - DOMAIN-SUFFIX,browsecraft.com
   - DOMAIN-SUFFIX,browserleaks.com
   - DOMAIN-SUFFIX,browserscan.net
@@ -171,7 +172,6 @@ payload:
   - DOMAIN-SUFFIX,wanxai.com
   - DOMAIN-SUFFIX,wap.ac
   - DOMAIN-SUFFIX,wap.ciweimao.com
-  - DOMAIN-SUFFIX,wiki.iswsh.com
   - DOMAIN-SUFFIX,workspace.org
   - DOMAIN-SUFFIX,x360xs.com
   - DOMAIN-SUFFIX,xaoxuu.com
