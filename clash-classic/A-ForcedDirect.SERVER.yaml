@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,1g62th7n240r.zziot.life
   - DOMAIN-SUFFIX,2dc608afc99297fc.cdn.jiashule.com
   - DOMAIN-SUFFIX,3bd9.55dba.e048.f65-fef1f.yfjcs.com
   - DOMAIN-SUFFIX,3bd9.55dca.e048.f1-fef1f.yfjcs.com
@@ -211,14 +210,12 @@ payload:
   - IP-CIDR,108.181.5.199/32,no-resolve
   - IP-CIDR,113.57.36.133/32,no-resolve
   - IP-CIDR,113.57.36.161/32,no-resolve
-  - IP-CIDR,113.57.36.163/32,no-resolve
   - IP-CIDR,116.251.216.70/32,no-resolve
   - IP-CIDR,118.167.6.20/32,no-resolve
   - IP-CIDR,118.167.7.171/32,no-resolve
   - IP-CIDR,118.195.240.186/32,no-resolve
   - IP-CIDR,120.240.118.103/32,no-resolve
   - IP-CIDR,120.253.251.241/32,no-resolve
-  - IP-CIDR,121.227.107.91/32,no-resolve
   - IP-CIDR,121.4.98.172/32,no-resolve
   - IP-CIDR,123.121.189.197/32,no-resolve
   - IP-CIDR,125.77.163.191/32,no-resolve
@@ -298,7 +295,6 @@ payload:
   - IP-CIDR,18.162.169.64/32,no-resolve
   - IP-CIDR,18.163.193.196/32,no-resolve
   - IP-CIDR,18.206.170.137/32,no-resolve
-  - IP-CIDR,183.232.212.38/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.184/32,no-resolve
   - IP-CIDR,183.60.123.25/32,no-resolve
@@ -351,9 +347,9 @@ payload:
   - IP-CIDR,3.1.200.150/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,31.25.88.214/32,no-resolve
-  - IP-CIDR,34.222.97.233/32,no-resolve
   - IP-CIDR,35.175.221.123/32,no-resolve
   - IP-CIDR,35.89.33.183/32,no-resolve
+  - IP-CIDR,35.91.23.24/32,no-resolve
   - IP-CIDR,36.151.65.146/32,no-resolve
   - IP-CIDR,38.181.72.49/32,no-resolve
   - IP-CIDR,43.140.249.178/32,no-resolve
