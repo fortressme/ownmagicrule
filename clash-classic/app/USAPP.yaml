@@ -196,6 +196,10 @@ payload:
   - DOMAIN-SUFFIX,rs-na0.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
   - DOMAIN-SUFFIX,github1s.com
+  - DOMAIN-SUFFIX,lmsys.org
+  - DOMAIN-SUFFIX,groq.com
+  - DOMAIN-SUFFIX,klingai.com
+  - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,rclone.org
   - DOMAIN-SUFFIX,namecrane.com
   - DOMAIN-SUFFIX,racknerd.com
