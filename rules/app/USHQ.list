@@ -1031,10 +1031,6 @@ PROCESS-NAME,com.openai.chatgpt
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 PROCESS-NAME,ai.x.grok
-# LLM竞技场
-DOMAIN-SUFFIX,lmsys.org
-# Groq
-DOMAIN-SUFFIX,groq.com
 # poe
 DOMAIN-SUFFIX,poe.com
 PROCESS-NAME,com.poe.android
@@ -1045,10 +1041,6 @@ DOMAIN-SUFFIX,coze.com
 # JetBrains AI 
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
-# KLing可灵
-DOMAIN-SUFFIX,klingai.com
-# SiderAI
-DOMAIN-SUFFIX,sider.ai
 # codeium&windsurf
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,codeium.com

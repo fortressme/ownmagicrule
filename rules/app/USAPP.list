@@ -231,15 +231,21 @@ DOMAIN-SUFFIX,us-east-1.prod.pr.panorama.console.api.aws
 DOMAIN-SUFFIX,us-east-2.prod.pr.panorama.console.api.aws
 DOMAIN-SUFFIX,us-west-1.prod.pr.panorama.console.api.aws
 DOMAIN-SUFFIX,us-west-2.prod.pr.panorama.console.api.aws
-
 # 七牛云北美
 DOMAIN-SUFFIX,up-na0.qiniup.com
 DOMAIN-SUFFIX,iovip-na0.qiniuio.com
 DOMAIN-SUFFIX,rs-na0.qiniuapi.com
 DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
-
 # Github补充
 DOMAIN-SUFFIX,github1s.com
+# LLM竞技场
+DOMAIN-SUFFIX,lmsys.org
+# Groq
+DOMAIN-SUFFIX,groq.com
+# KLing可灵
+DOMAIN-SUFFIX,klingai.com
+# SiderAI
+DOMAIN-SUFFIX,sider.ai
 
 # 其他服务
 DOMAIN-SUFFIX,rclone.org
