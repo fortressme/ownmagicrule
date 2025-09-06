@@ -304,7 +304,7 @@ IP-CIDR,208.54.0.0/16,no-resolve
 # VPS
 IP-CIDR,23.94.180.0/24,no-resolve
 IP-CIDR,38.60.91.0/24,no-resolve
-IP-CIDR,68.168.20.0/24,no-resolve
+IP-CIDR,155.117.19.0/24,no-resolve
 IP-CIDR,104.194.69.0/24,no-resolve
 IP-CIDR,107.175.0.0/16,no-resolve
 IP-CIDR,108.165.0.0/16,no-resolve
