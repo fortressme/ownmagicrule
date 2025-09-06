@@ -1,13 +1,17 @@
 
 # AUTHOR: blackmatrix7
+# DOMAIN-SUFFIX: 25
 # DOMAIN-SUFFIX: 4
 # DOMAIN: 3
 # NAME: Docker
+# NAME: Oracle
 # Other
 # QwenLLM
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+# TOTAL: 25
 # TOTAL: 7
 # UPDATED: 2025-06-06 09:17:43
+# UPDATED: 2025-06-06 09:17:46
 # afusekt
 # nebius
 # phantom加密钱包
@@ -38,6 +42,11 @@ DOMAIN-SUFFIX,2img.org
 DOMAIN-SUFFIX,66img.cc
 DOMAIN-SUFFIX,69shu.xyz
 DOMAIN-SUFFIX,7pzzv.us
+DOMAIN-SUFFIX,a1cbafa5ea9a6480cb8e9ffba46cbad9-466059813.us-west-2.elb.amazonaws.com
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthis.com.edgekey.net
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,affine.pro
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,akile.io
@@ -49,9 +58,12 @@ DOMAIN-SUFFIX,api.intquest.com
 DOMAIN-SUFFIX,api.nn.ci
 DOMAIN-SUFFIX,api.smooch.io
 DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,attemptd.work
 DOMAIN-SUFFIX,avatars-githubusercontent-webp.webp.se
 DOMAIN-SUFFIX,blinko.iswsh.com
+DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,browsecraft.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,browserscan.net
@@ -64,6 +76,8 @@ DOMAIN-SUFFIX,clashmi.app
 DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,cloud.iswsh.com
 DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,covid19-rx.org
+DOMAIN-SUFFIX,covid19rx.org
 DOMAIN-SUFFIX,cybermania.ws
 DOMAIN-SUFFIX,dalao.net
 DOMAIN-SUFFIX,darkreader.org
@@ -76,6 +90,10 @@ DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,dropmefile.com
 DOMAIN-SUFFIX,edgeone.ai
 DOMAIN-SUFFIX,edgeone.cloud.tencent.com
+DOMAIN-SUFFIX,eloqua.com
+DOMAIN-SUFFIX,eloquaeditors.com
+DOMAIN-SUFFIX,eloquapreview.com
+DOMAIN-SUFFIX,en25.com
 DOMAIN-SUFFIX,fastgpt.iswsh.com
 DOMAIN-SUFFIX,file.iswsh.com
 DOMAIN-SUFFIX,filecr.com
@@ -102,6 +120,9 @@ DOMAIN-SUFFIX,iovip-as0.qiniuio.com
 DOMAIN-SUFFIX,ipcheck.ing
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,java
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jpg.dog
 DOMAIN-SUFFIX,kk.51688.cc
 DOMAIN-SUFFIX,kmh004.com
@@ -142,6 +163,12 @@ DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opengist.096899.xyz
+DOMAIN-SUFFIX,oracle
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oraclefoundation.org
+DOMAIN-SUFFIX,oracleimg.com
+DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,papakatsu.co
 DOMAIN-SUFFIX,passwd.iswsh.com
 DOMAIN-SUFFIX,phantom.app
@@ -154,6 +181,7 @@ DOMAIN-SUFFIX,qpic.w
 DOMAIN-SUFFIX,qpic.ws
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qwenlm.ai
+DOMAIN-SUFFIX,responsys.net
 DOMAIN-SUFFIX,rkddn.com
 DOMAIN-SUFFIX,rs-ap-southeast-2.qiniuapi.com
 DOMAIN-SUFFIX,rs-ap-southeast-3.qiniuapi.com
@@ -170,6 +198,7 @@ DOMAIN-SUFFIX,shared.oaifree.com
 DOMAIN-SUFFIX,shucdn.com
 DOMAIN-SUFFIX,shurl.096899.xyz
 DOMAIN-SUFFIX,sub.876521.xyz
+DOMAIN-SUFFIX,sun.com
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tencent-cloud.com
 DOMAIN-SUFFIX,tencentcloud.com
