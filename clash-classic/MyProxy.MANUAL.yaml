@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
   - DOMAIN-SUFFIX,phantom.com
   - DOMAIN-SUFFIX,phantom.app
+  - DOMAIN-SUFFIX,vcc.center
   - DOMAIN,pt.luckpt.de
   - DOMAIN,ny.4444441.xyz
   - DOMAIN-SUFFIX,hf.co
