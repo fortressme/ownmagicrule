@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,jsyd.niceduck.me
 DOMAIN-SUFFIX,jsyd2.niceduck.me
 DOMAIN-SUFFIX,jsyd3.niceduck.me
 DOMAIN-SUFFIX,kxbj9929.112700.xyz
+DOMAIN-SUFFIX,mf.smart.idoz1v.cn
 DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
 DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
 DOMAIN-SUFFIX,pq.aws11.yydjc.top
@@ -342,10 +343,10 @@ IP-CIDR,208.87.243.195/32,no-resolve
 IP-CIDR,208.87.243.197/32,no-resolve
 IP-CIDR,210.16.183.138/32,no-resolve
 IP-CIDR,210.16.183.140/32,no-resolve
-IP-CIDR,210.16.183.51/32,no-resolve
-IP-CIDR,210.16.183.52/32,no-resolve
-IP-CIDR,210.16.183.64/32,no-resolve
+IP-CIDR,210.16.183.65/32,no-resolve
 IP-CIDR,210.16.183.72/32,no-resolve
+IP-CIDR,210.16.183.75/32,no-resolve
+IP-CIDR,210.16.183.76/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,218.204.238.52/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
@@ -353,6 +354,7 @@ IP-CIDR,27.152.180.15/32,no-resolve
 IP-CIDR,3.1.200.150/32,no-resolve
 IP-CIDR,3.112.53.228/32,no-resolve
 IP-CIDR,35.76.26.51/32,no-resolve
+IP-CIDR,35.92.126.217/32,no-resolve
 IP-CIDR,35.93.90.5/32,no-resolve
 IP-CIDR,36.151.65.173/32,no-resolve
 IP-CIDR,43.198.79.70/32,no-resolve
@@ -369,7 +371,6 @@ IP-CIDR,52.10.57.187/32,no-resolve
 IP-CIDR,52.11.20.16/32,no-resolve
 IP-CIDR,52.192.119.253/32,no-resolve
 IP-CIDR,52.196.103.27/32,no-resolve
-IP-CIDR,52.34.138.234/32,no-resolve
 IP-CIDR,52.69.142.188/32,no-resolve
 IP-CIDR,54.151.176.60/32,no-resolve
 IP-CIDR,54.151.201.174/32,no-resolve
