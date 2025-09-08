@@ -277,6 +277,7 @@ payload:
   - DOMAIN-SUFFIX,pq.us9.globals-download.com
   - DOMAIN-SUFFIX,qqa813.198139.xyz
   - DOMAIN-SUFFIX,qqb12.198139.xyz
+  - DOMAIN-SUFFIX,qqt.wgnmdgfw.com
   - DOMAIN-SUFFIX,rm-eco-hk-01.409648.xyz
   - DOMAIN-SUFFIX,rm-eco-sg-01.409648.xyz
   - DOMAIN-SUFFIX,rm-hk-2.409648.xyz
@@ -319,7 +320,6 @@ payload:
   - DOMAIN-SUFFIX,s.us4.niceduck.me
   - DOMAIN-SUFFIX,s.us5.niceduck.me
   - DOMAIN-SUFFIX,s.us6.niceduck.me
-  - DOMAIN-SUFFIX,sg.wgnmdgfw.com
   - DOMAIN-SUFFIX,sgnwifoxn4qpso7vjn7jjczi2st48igasjgtc9ndouy525cturmphvb93sxacq2.xhscdn.vip
   - DOMAIN-SUFFIX,speedtest.akile-jpiij.876521.xyz
   - DOMAIN-SUFFIX,speedtest.bwg-us.876521.xyz
@@ -378,7 +378,6 @@ payload:
   - IP-CIDR,107.167.23.69/32,no-resolve
   - IP-CIDR,107.167.23.70/32,no-resolve
   - IP-CIDR,107.175.59.162/32,no-resolve
-  - IP-CIDR,107.20.102.209/32,no-resolve
   - IP-CIDR,108.162.194.114/32,no-resolve
   - IP-CIDR,108.162.198.77/32,no-resolve
   - IP-CIDR,108.162.199.163/32,no-resolve
@@ -407,7 +406,6 @@ payload:
   - IP-CIDR,13.213.64.212/32,no-resolve
   - IP-CIDR,13.221.20.191/32,no-resolve
   - IP-CIDR,13.230.216.133/32,no-resolve
-  - IP-CIDR,13.230.86.40/32,no-resolve
   - IP-CIDR,13.250.40.101/32,no-resolve
   - IP-CIDR,131.186.22.238/32,no-resolve
   - IP-CIDR,132.145.239.250/32,no-resolve
@@ -482,6 +480,7 @@ payload:
   - IP-CIDR,18.166.68.161/32,no-resolve
   - IP-CIDR,18.166.75.101/32,no-resolve
   - IP-CIDR,18.176.93.154/32,no-resolve
+  - IP-CIDR,18.183.148.230/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.187/32,no-resolve
   - IP-CIDR,183.60.123.24/32,no-resolve
@@ -521,10 +520,10 @@ payload:
   - IP-CIDR,208.87.243.197/32,no-resolve
   - IP-CIDR,210.16.183.138/32,no-resolve
   - IP-CIDR,210.16.183.140/32,no-resolve
-  - IP-CIDR,210.16.183.65/32,no-resolve
+  - IP-CIDR,210.16.183.51/32,no-resolve
+  - IP-CIDR,210.16.183.52/32,no-resolve
+  - IP-CIDR,210.16.183.64/32,no-resolve
   - IP-CIDR,210.16.183.72/32,no-resolve
-  - IP-CIDR,210.16.183.75/32,no-resolve
-  - IP-CIDR,210.16.183.76/32,no-resolve
   - IP-CIDR,213.35.108.22/32,no-resolve
   - IP-CIDR,218.204.238.52/32,no-resolve
   - IP-CIDR,23.177.40.49/32,no-resolve
@@ -559,6 +558,7 @@ payload:
   - IP-CIDR,54.249.86.118/32,no-resolve
   - IP-CIDR,54.255.244.128/32,no-resolve
   - IP-CIDR,54.46.2.149/32,no-resolve
+  - IP-CIDR,54.91.21.55/32,no-resolve
   - IP-CIDR,54.95.1.136/32,no-resolve
   - IP-CIDR,57.181.73.216/32,no-resolve
   - IP-CIDR,58.19.16.235/32,no-resolve
