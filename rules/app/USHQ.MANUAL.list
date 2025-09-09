@@ -101,6 +101,8 @@ DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,kiro.dev
 #kilocode
 DOMAIN-SUFFIX,kilocode.ai
+#yupp
+DOMAIN-SUFFIX,yupp.ai
 
 # US EDU
 DOMAIN-SUFFIX,umass.edu
