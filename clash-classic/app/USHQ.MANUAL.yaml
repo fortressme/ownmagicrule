@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,kilocode.ai
+  - DOMAIN-SUFFIX,yupp.ai
   - DOMAIN-SUFFIX,umass.edu
   - DOMAIN-SUFFIX,cvtc.edu
   - DOMAIN-SUFFIX,sunybroome.edu
