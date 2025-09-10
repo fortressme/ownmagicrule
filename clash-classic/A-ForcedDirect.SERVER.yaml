@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
   - DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
   - DOMAIN-SUFFIX,cncdn2cu.solidigm-static.com
+  - DOMAIN-SUFFIX,cncdn6cu.solidigm-static.com
   - DOMAIN-SUFFIX,dns.kizhou.cn
   - DOMAIN-SUFFIX,download-cm.gameupload.top
   - DOMAIN-SUFFIX,download-ct.gameupload.top
@@ -51,16 +52,19 @@ payload:
   - DOMAIN-SUFFIX,fastu.kxy.ovh
   - DOMAIN-SUFFIX,fm.smart.idoz1v.cn
   - DOMAIN-SUFFIX,gguwpo7gaukv6snxheeoxmridjmyoojzaujzg6qau498s2s2vyb6onbjqafnf65.xhscdn.vip
+  - DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
   - DOMAIN-SUFFIX,hk01.525536.xyz
   - DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
   - DOMAIN-SUFFIX,ie.taphip.ru
   - DOMAIN-SUFFIX,ipv6.sffyn.com
+  - DOMAIN-SUFFIX,jscmpt.gscloud.bond
   - DOMAIN-SUFFIX,jsyd.niceduck.me
   - DOMAIN-SUFFIX,jsyd2.niceduck.me
   - DOMAIN-SUFFIX,jsyd3.niceduck.me
   - DOMAIN-SUFFIX,kxbj9929.112700.xyz
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
   - DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
+  - DOMAIN-SUFFIX,oss-cn-6south.digital-nvme.com
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws12.yydjc.top
   - DOMAIN-SUFFIX,pq.aws13.yydjc.top
@@ -210,6 +214,7 @@ payload:
   - IP-CIDR,108.181.23.255/32,no-resolve
   - IP-CIDR,108.181.4.223/32,no-resolve
   - IP-CIDR,108.181.5.199/32,no-resolve
+  - IP-CIDR,111.45.28.204/32,no-resolve
   - IP-CIDR,113.57.36.133/32,no-resolve
   - IP-CIDR,113.57.36.188/32,no-resolve
   - IP-CIDR,113.57.36.194/32,no-resolve
@@ -337,9 +342,11 @@ payload:
   - IP-CIDR,208.87.243.197/32,no-resolve
   - IP-CIDR,210.16.183.140/32,no-resolve
   - IP-CIDR,210.16.183.147/32,no-resolve
+  - IP-CIDR,210.16.183.51/32,no-resolve
+  - IP-CIDR,210.16.183.52/32,no-resolve
+  - IP-CIDR,210.16.183.64/32,no-resolve
+  - IP-CIDR,210.16.183.65/32,no-resolve
   - IP-CIDR,210.16.183.72/32,no-resolve
-  - IP-CIDR,210.16.183.75/32,no-resolve
-  - IP-CIDR,210.16.183.76/32,no-resolve
   - IP-CIDR,210.16.183.8/32,no-resolve
   - IP-CIDR,213.35.108.22/32,no-resolve
   - IP-CIDR,213.35.110.206/32,no-resolve
@@ -382,6 +389,7 @@ payload:
   - IP-CIDR,58.19.16.235/32,no-resolve
   - IP-CIDR,58.254.137.85/32,no-resolve
   - IP-CIDR,58.254.188.154/32,no-resolve
+  - IP-CIDR,58.254.188.155/32,no-resolve
   - IP-CIDR,61.241.19.239/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
   - IP-CIDR,63.141.226.123/32,no-resolve
