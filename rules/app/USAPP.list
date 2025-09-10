@@ -240,6 +240,8 @@ DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
 DOMAIN-SUFFIX,github1s.com
 # LLM竞技场
 DOMAIN-SUFFIX,lmsys.org
+# Openrouter
+DOMAIN-SUFFIX,openrouter.com
 # Groq
 DOMAIN-SUFFIX,groq.com
 # KLing可灵
