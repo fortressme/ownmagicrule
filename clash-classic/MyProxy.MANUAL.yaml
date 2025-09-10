@@ -33,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,rumt-sg.com
   - DOMAIN-SUFFIX,edgeone.ai
   - DOMAIN-SUFFIX,tencentcloud.com
-  - DOMAIN-SUFFIX,tencent-cloud.com
   - DOMAIN-SUFFIX,edgeone.cloud.tencent.com
   - DOMAIN-SUFFIX,up-ap-southeast-3.qiniup.com
   - DOMAIN-SUFFIX,iovip-ap-southeast-3.qiniuio.com
