@@ -59,6 +59,7 @@ payload:
   - IP-CIDR,210.2.4.8/32,no-resolve
   - IP-CIDR,101.226.4.6/32,no-resolve
   - IP-CIDR,218.30.118.6/32,no-resolve
+  - IP-CIDR,202.102.152.3/32,no-resolve
   - IP-CIDR,123.125.81.6/32,no-resolve
   - IP-CIDR,140.207.198.6/32,no-resolve
   - IP-CIDR,180.184.1.1/32,no-resolve
