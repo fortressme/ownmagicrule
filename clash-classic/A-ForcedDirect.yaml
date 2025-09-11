@@ -408,6 +408,7 @@ payload:
   - IP-CIDR,13.213.64.212/32,no-resolve
   - IP-CIDR,13.218.98.86/32,no-resolve
   - IP-CIDR,13.230.216.133/32,no-resolve
+  - IP-CIDR,13.230.86.40/32,no-resolve
   - IP-CIDR,13.231.185.17/32,no-resolve
   - IP-CIDR,13.250.40.101/32,no-resolve
   - IP-CIDR,131.186.22.238/32,no-resolve
@@ -415,6 +416,7 @@ payload:
   - IP-CIDR,132.226.235.134/32,no-resolve
   - IP-CIDR,138.2.2.120/32,no-resolve
   - IP-CIDR,139.162.52.61/32,no-resolve
+  - IP-CIDR,139.226.187.164/32,no-resolve
   - IP-CIDR,139.226.187.244/32,no-resolve
   - IP-CIDR,140.174.52.31/32,no-resolve
   - IP-CIDR,140.235.141.167/32,no-resolve
@@ -480,7 +482,7 @@ payload:
   - IP-CIDR,18.166.68.161/32,no-resolve
   - IP-CIDR,18.166.75.101/32,no-resolve
   - IP-CIDR,18.167.134.31/32,no-resolve
-  - IP-CIDR,18.183.148.230/32,no-resolve
+  - IP-CIDR,18.179.9.9/32,no-resolve
   - IP-CIDR,18.246.168.109/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.186/32,no-resolve
@@ -521,6 +523,7 @@ payload:
   - IP-CIDR,208.87.243.197/32,no-resolve
   - IP-CIDR,210.16.183.140/32,no-resolve
   - IP-CIDR,210.16.183.147/32,no-resolve
+  - IP-CIDR,210.16.183.65/32,no-resolve
   - IP-CIDR,210.16.183.72/32,no-resolve
   - IP-CIDR,210.16.183.75/32,no-resolve
   - IP-CIDR,210.16.183.76/32,no-resolve
@@ -538,7 +541,6 @@ payload:
   - IP-CIDR,35.77.61.190/32,no-resolve
   - IP-CIDR,36.151.65.173/32,no-resolve
   - IP-CIDR,43.198.79.70/32,no-resolve
-  - IP-CIDR,43.207.84.108/32,no-resolve
   - IP-CIDR,44.248.125.116/32,no-resolve
   - IP-CIDR,44.250.176.249/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
@@ -598,6 +600,7 @@ payload:
   - IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
   - IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
   - IP-CIDR6,2409:8c54:b010:3c:0:3:0:c/128,no-resolve
+  - IP-CIDR6,2409:8c54:b010:3c:0:3:0:d/128,no-resolve
   - IP-CIDR6,2602:fa4f:b00:62fc:7b89:70aa:b362:ccb8/128,no-resolve
   - IP-CIDR6,2603:c024:4518:1c01:0:1728:e841:91a2/128,no-resolve
   - IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
