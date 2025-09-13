@@ -11,6 +11,9 @@ PROCESS-NAME,ai.qwenlm.chat.android
 # 智谱
 DOMAIN-SUFFIX,z.ai
 
+# 硅基流动国际站
+DOMAIN-SUFFIX,siliconflow.com
+
 # afusekt
 DOMAIN-SUFFIX,attemptd.work
 
