@@ -156,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,zox.show
   - DOMAIN-SUFFIX,acemby.org
   - DOMAIN-SUFFIX,zi0.icu
+  - DOMAIN-SUFFIX,embyserver.dpdns.org
   - DOMAIN-SUFFIX,embylife.xyz
   - DOMAIN-SUFFIX,emby.ws
   - DOMAIN-SUFFIX,emby.cl
