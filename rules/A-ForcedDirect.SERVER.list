@@ -164,7 +164,6 @@ DOMAIN-SUFFIX,zxix.123.tpmbt.cn
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.161.46.236/32,no-resolve
 IP-CIDR,1.162.164.65/32,no-resolve
-IP-CIDR,1.193.174.122/32,no-resolve
 IP-CIDR,1.198.250.145/32,no-resolve
 IP-CIDR,100.26.46.112/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
@@ -205,7 +204,9 @@ IP-CIDR,129.148.39.249/32,no-resolve
 IP-CIDR,13.213.64.212/32,no-resolve
 IP-CIDR,13.220.176.28/32,no-resolve
 IP-CIDR,13.229.103.153/32,no-resolve
+IP-CIDR,13.230.207.187/32,no-resolve
 IP-CIDR,13.230.216.133/32,no-resolve
+IP-CIDR,13.230.86.40/32,no-resolve
 IP-CIDR,13.250.40.101/32,no-resolve
 IP-CIDR,13.250.43.254/32,no-resolve
 IP-CIDR,131.186.22.238/32,no-resolve
@@ -270,7 +271,6 @@ IP-CIDR,18.162.115.78/32,no-resolve
 IP-CIDR,18.166.51.108/32,no-resolve
 IP-CIDR,18.166.68.161/32,no-resolve
 IP-CIDR,18.166.75.101/32,no-resolve
-IP-CIDR,18.183.148.230/32,no-resolve
 IP-CIDR,18.208.190.20/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.190/32,no-resolve
@@ -307,10 +307,9 @@ IP-CIDR,208.87.242.215/32,no-resolve
 IP-CIDR,208.87.242.79/32,no-resolve
 IP-CIDR,208.87.243.195/32,no-resolve
 IP-CIDR,208.87.243.197/32,no-resolve
-IP-CIDR,210.16.183.65/32,no-resolve
+IP-CIDR,210.16.183.12/32,no-resolve
+IP-CIDR,210.16.183.25/32,no-resolve
 IP-CIDR,210.16.183.72/32,no-resolve
-IP-CIDR,210.16.183.75/32,no-resolve
-IP-CIDR,210.16.183.76/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,213.35.110.206/32,no-resolve
 IP-CIDR,218.204.238.61/32,no-resolve
@@ -318,6 +317,7 @@ IP-CIDR,221.5.105.6/32,no-resolve
 IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,27.152.180.15/32,no-resolve
 IP-CIDR,3.112.188.235/32,no-resolve
+IP-CIDR,3.112.53.228/32,no-resolve
 IP-CIDR,3.112.91.124/32,no-resolve
 IP-CIDR,34.222.53.35/32,no-resolve
 IP-CIDR,35.74.62.129/32,no-resolve
@@ -341,12 +341,10 @@ IP-CIDR,52.69.142.188/32,no-resolve
 IP-CIDR,54.151.201.174/32,no-resolve
 IP-CIDR,54.169.8.235/32,no-resolve
 IP-CIDR,54.178.163.132/32,no-resolve
-IP-CIDR,54.199.69.146/32,no-resolve
 IP-CIDR,54.213.6.64/32,no-resolve
 IP-CIDR,54.249.86.118/32,no-resolve
 IP-CIDR,54.255.244.128/32,no-resolve
 IP-CIDR,54.95.1.136/32,no-resolve
-IP-CIDR,57.180.27.7/32,no-resolve
 IP-CIDR,57.181.73.216/32,no-resolve
 IP-CIDR,58.254.137.85/32,no-resolve
 IP-CIDR,58.254.188.154/32,no-resolve
