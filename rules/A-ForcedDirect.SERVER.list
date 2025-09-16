@@ -310,11 +310,10 @@ IP-CIDR,208.87.242.215/32,no-resolve
 IP-CIDR,208.87.242.79/32,no-resolve
 IP-CIDR,208.87.243.195/32,no-resolve
 IP-CIDR,208.87.243.197/32,no-resolve
-IP-CIDR,210.16.183.12/32,no-resolve
 IP-CIDR,210.16.183.147/32,no-resolve
-IP-CIDR,210.16.183.25/32,no-resolve
-IP-CIDR,210.16.183.65/32,no-resolve
 IP-CIDR,210.16.183.72/32,no-resolve
+IP-CIDR,210.16.183.75/32,no-resolve
+IP-CIDR,210.16.183.76/32,no-resolve
 IP-CIDR,210.16.183.8/32,no-resolve
 IP-CIDR,213.35.108.22/32,no-resolve
 IP-CIDR,213.35.110.206/32,no-resolve
