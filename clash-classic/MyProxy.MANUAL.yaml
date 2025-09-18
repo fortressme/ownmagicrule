@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
   - DOMAIN-SUFFIX,phantom.com
   - DOMAIN-SUFFIX,phantom.app
+  - DOMAIN-SUFFIX,immersivetranslate.com
   - DOMAIN-SUFFIX,stables.money
   - PROCESS-NAME,money.stables
   - DOMAIN-SUFFIX,vcc.center
