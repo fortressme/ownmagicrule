@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,phantom.com
 DOMAIN-SUFFIX,phantom.app
 
 # Other
+DOMAIN-SUFFIX,immersivetranslate.com
 DOMAIN-SUFFIX,stables.money
 PROCESS-NAME,money.stables
 DOMAIN-SUFFIX,vcc.center
