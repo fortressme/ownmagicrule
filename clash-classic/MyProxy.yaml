@@ -49,8 +49,10 @@ payload:
   - DOMAIN-SUFFIX,browserscan.net
   - DOMAIN-SUFFIX,cawdz.com
   - DOMAIN-SUFFIX,cdn.ainvest.com
+  - DOMAIN-SUFFIX,chat.intquest.com
   - DOMAIN-SUFFIX,chatb.aifun.win
   - DOMAIN-SUFFIX,chatb.aijust.org
+  - DOMAIN-SUFFIX,chatb.intquest.com
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,clashmi.app
   - DOMAIN-SUFFIX,clashverge.dev
