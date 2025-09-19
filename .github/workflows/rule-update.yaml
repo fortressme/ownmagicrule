@@ -178,6 +178,7 @@ jobs:
           files=(
             "Docker.list|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Docker/Docker.list"
             "Oracle.list|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Oracle/Oracle.list"
+            "Notion.list|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Notion/Notion.list"
           )
           target_list="rules/MyProxy.list"
           manual_list="rules/MyProxy.MANUAL.list"
