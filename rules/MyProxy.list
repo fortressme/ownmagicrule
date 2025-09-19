@@ -2,13 +2,17 @@
 # AUTHOR: blackmatrix7
 # DOMAIN-SUFFIX: 25
 # DOMAIN-SUFFIX: 4
+# DOMAIN-SUFFIX: 5
+# DOMAIN: 1
 # DOMAIN: 3
 # NAME: Docker
+# NAME: Notion
 # NAME: Oracle
 # Other
 # QwenLLM
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # TOTAL: 25
+# TOTAL: 6
 # TOTAL: 7
 # UPDATED: 2025-06-06 09:17:43
 # UPDATED: 2025-06-06 09:17:46
@@ -23,6 +27,7 @@
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
+DOMAIN,http-inputs-notion.splunkcloud.com
 DOMAIN,mail.112700.xyz
 DOMAIN,mail.889966.de
 DOMAIN,mail.intquest.com
@@ -161,6 +166,11 @@ DOMAIN-SUFFIX,news.112700.xyz
 DOMAIN-SUFFIX,nezha.tech
 DOMAIN-SUFFIX,nodeloc.com
 DOMAIN-SUFFIX,nodequality.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,novel.seseclub.com
 DOMAIN-SUFFIX,ntdm9.com
 DOMAIN-SUFFIX,ollama.ai
