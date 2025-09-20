@@ -415,6 +415,7 @@ IP-CIDR,13.213.64.212/32,no-resolve
 IP-CIDR,13.229.103.153/32,no-resolve
 IP-CIDR,13.229.121.69/32,no-resolve
 IP-CIDR,13.230.216.133/32,no-resolve
+IP-CIDR,13.230.86.40/32,no-resolve
 IP-CIDR,13.250.40.101/32,no-resolve
 IP-CIDR,13.250.43.254/32,no-resolve
 IP-CIDR,131.186.22.238/32,no-resolve
@@ -484,7 +485,6 @@ IP-CIDR,18.166.68.161/32,no-resolve
 IP-CIDR,18.166.75.101/32,no-resolve
 IP-CIDR,18.167.72.96/32,no-resolve
 IP-CIDR,18.179.9.9/32,no-resolve
-IP-CIDR,18.183.148.230/32,no-resolve
 IP-CIDR,18.237.37.22/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.188/32,no-resolve
