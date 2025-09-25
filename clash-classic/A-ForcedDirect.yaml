@@ -222,8 +222,7 @@ payload:
   - DOMAIN-SUFFIX,cname08b-xp3zfkbmz8pyhmbf.colosseo7143.xyz
   - DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
   - DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
-  - DOMAIN-SUFFIX,cncdn2cu.solidigm-static.com
-  - DOMAIN-SUFFIX,cncdn6cu.solidigm-static.com
+  - DOMAIN-SUFFIX,cncdncu.solidigm-static.com
   - DOMAIN-SUFFIX,dns.kizhou.cn
   - DOMAIN-SUFFIX,download-cm.gameupload.top
   - DOMAIN-SUFFIX,download-ct.gameupload.top
@@ -232,22 +231,19 @@ payload:
   - DOMAIN-SUFFIX,fastu.kxy.ovh
   - DOMAIN-SUFFIX,fm.smart.idoz1v.cn
   - DOMAIN-SUFFIX,gguwpo7gaukv6snxheeoxmridjmyoojzaujzg6qau498s2s2vyb6onbjqafnf65.xhscdn.vip
-  - DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
   - DOMAIN-SUFFIX,hblt.miloli.me
   - DOMAIN-SUFFIX,hk01.525536.xyz
+  - DOMAIN-SUFFIX,hkl1baidu.sli-an.top
   - DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
   - DOMAIN-SUFFIX,ie.taphip.ru
   - DOMAIN-SUFFIX,ipv6.sffyn.com
-  - DOMAIN-SUFFIX,jscmpt.gscloud.bond
   - DOMAIN-SUFFIX,jsyd.niceduck.me
   - DOMAIN-SUFFIX,jsyd2.niceduck.me
   - DOMAIN-SUFFIX,jsyd3.niceduck.me
   - DOMAIN-SUFFIX,kxbj9929.112700.xyz
-  - DOMAIN-SUFFIX,mf.smart.idoz1v.cn
   - DOMAIN-SUFFIX,miss.sli-an.top
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
-  - DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
-  - DOMAIN-SUFFIX,oss-cn-6south.digital-nvme.com
+  - DOMAIN-SUFFIX,oss-cn-south.digital-nvme.com
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws12.yydjc.top
   - DOMAIN-SUFFIX,pq.aws13.yydjc.top
@@ -326,10 +322,10 @@ payload:
   - DOMAIN-SUFFIX,s.us6.niceduck.me
   - DOMAIN-SUFFIX,sgnwifoxn4qpso7vjn7jjczi2st48igasjgtc9ndouy525cturmphvb93sxacq2.xhscdn.vip
   - DOMAIN-SUFFIX,speedtest.acck-jpiij.876521.xyz
-  - DOMAIN-SUFFIX,speedtest.akile-jpiij.876521.xyz
   - DOMAIN-SUFFIX,speedtest.ali-hk.876521.xyz
   - DOMAIN-SUFFIX,speedtest.bwg-us.876521.xyz
   - DOMAIN-SUFFIX,speedtest.ccs-irl.876521.xyz
+  - DOMAIN-SUFFIX,speedtest.gc-jpsb.876521.xyz
   - DOMAIN-SUFFIX,speedtest.kxy-frv6.876521.xyz
   - DOMAIN-SUFFIX,speedtest.kxy-ukv6.876521.xyz
   - DOMAIN-SUFFIX,speedtest.oracle-sg.876521.xyz
@@ -365,7 +361,6 @@ payload:
   - IP-CIDR,108.181.5.199/32,no-resolve
   - IP-CIDR,111.249.66.125/32,no-resolve
   - IP-CIDR,111.249.75.22/32,no-resolve
-  - IP-CIDR,111.45.28.204/32,no-resolve
   - IP-CIDR,113.57.1.73/32,no-resolve
   - IP-CIDR,113.57.1.74/32,no-resolve
   - IP-CIDR,113.57.1.75/32,no-resolve
@@ -456,6 +451,7 @@ payload:
   - IP-CIDR,183.236.97.69/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.60.123.43/32,no-resolve
+  - IP-CIDR,183.60.123.44/32,no-resolve
   - IP-CIDR,188.114.97.11/32,no-resolve
   - IP-CIDR,188.114.97.212/32,no-resolve
   - IP-CIDR,188.114.98.173/32,no-resolve
@@ -516,7 +512,6 @@ payload:
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.188.235/32,no-resolve
-  - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,3.90.45.220/32,no-resolve
   - IP-CIDR,34.142.214.235/32,no-resolve
   - IP-CIDR,34.219.125.77/32,no-resolve
@@ -527,6 +522,7 @@ payload:
   - IP-CIDR,44.243.171.244/32,no-resolve
   - IP-CIDR,44.251.57.28/32,no-resolve
   - IP-CIDR,44.254.131.136/32,no-resolve
+  - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
   - IP-CIDR,47.120.17.107/32,no-resolve
   - IP-CIDR,47.129.54.37/32,no-resolve
@@ -541,12 +537,12 @@ payload:
   - IP-CIDR,54.151.201.174/32,no-resolve
   - IP-CIDR,54.169.8.235/32,no-resolve
   - IP-CIDR,54.178.163.132/32,no-resolve
+  - IP-CIDR,54.199.69.146/32,no-resolve
   - IP-CIDR,54.249.86.118/32,no-resolve
   - IP-CIDR,54.255.244.128/32,no-resolve
   - IP-CIDR,57.181.27.40/32,no-resolve
   - IP-CIDR,57.181.73.216/32,no-resolve
   - IP-CIDR,58.254.137.85/32,no-resolve
-  - IP-CIDR,58.254.188.154/32,no-resolve
   - IP-CIDR,58.254.188.155/32,no-resolve
   - IP-CIDR,61.241.19.239/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
@@ -583,7 +579,6 @@ payload:
   - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:a/128,no-resolve
   - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:b/128,no-resolve
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
-  - IP-CIDR6,2409:8c54:1000:b:3a40:dd35:0:6a8/128,no-resolve
   - IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
   - IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
   - IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
@@ -592,3 +587,4 @@ payload:
   - IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
   - IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
   - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
+  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
