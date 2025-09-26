@@ -338,7 +338,6 @@ payload:
   - DOMAIN-SUFFIX,yuyu.sffyn.com
   - DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
   - DOMAIN-SUFFIX,z.us1.niceduck.me
-  - DOMAIN-SUFFIX,zxix.123.tpmbt.cn
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,1.160.203.90/32,no-resolve
   - IP-CIDR,1.161.63.185/32,no-resolve
@@ -449,7 +448,6 @@ payload:
   - IP-CIDR,18.166.75.101/32,no-resolve
   - IP-CIDR,18.179.9.9/32,no-resolve
   - IP-CIDR,18.183.148.230/32,no-resolve
-  - IP-CIDR,183.2.133.68/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.233/32,no-resolve
   - IP-CIDR,183.60.123.44/32,no-resolve
@@ -511,6 +509,7 @@ payload:
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.188.235/32,no-resolve
+  - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,34.142.214.235/32,no-resolve
   - IP-CIDR,34.222.94.168/32,no-resolve
   - IP-CIDR,35.88.109.194/32,no-resolve
@@ -523,7 +522,6 @@ payload:
   - IP-CIDR,44.251.163.250/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
-  - IP-CIDR,47.120.17.107/32,no-resolve
   - IP-CIDR,47.129.54.37/32,no-resolve
   - IP-CIDR,47.76.213.235/32,no-resolve
   - IP-CIDR,5.34.220.41/32,no-resolve
@@ -536,11 +534,11 @@ payload:
   - IP-CIDR,54.157.61.193/32,no-resolve
   - IP-CIDR,54.159.252.160/32,no-resolve
   - IP-CIDR,54.169.8.235/32,no-resolve
-  - IP-CIDR,54.199.69.146/32,no-resolve
   - IP-CIDR,54.249.86.118/32,no-resolve
   - IP-CIDR,54.255.244.128/32,no-resolve
   - IP-CIDR,57.181.27.40/32,no-resolve
   - IP-CIDR,57.181.73.216/32,no-resolve
+  - IP-CIDR,58.254.137.85/32,no-resolve
   - IP-CIDR,58.254.188.155/32,no-resolve
   - IP-CIDR,61.241.19.239/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
