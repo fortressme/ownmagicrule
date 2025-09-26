@@ -450,9 +450,6 @@ payload:
   - IP-CIDR,18.183.148.230/32,no-resolve
   - IP-CIDR,18.207.121.200/32,no-resolve
   - IP-CIDR,18.234.220.121/32,no-resolve
-  - IP-CIDR,18.236.86.61/32,no-resolve
-  - IP-CIDR,18.237.206.204/32,no-resolve
-  - IP-CIDR,18.246.25.114/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.233/32,no-resolve
   - IP-CIDR,183.60.123.44/32,no-resolve
@@ -515,13 +512,13 @@ payload:
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.188.235/32,no-resolve
-  - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,34.142.214.235/32,no-resolve
-  - IP-CIDR,35.88.110.87/32,no-resolve
+  - IP-CIDR,34.217.117.190/32,no-resolve
+  - IP-CIDR,34.221.196.85/32,no-resolve
+  - IP-CIDR,35.85.143.43/32,no-resolve
+  - IP-CIDR,35.91.53.136/32,no-resolve
   - IP-CIDR,43.198.79.70/32,no-resolve
   - IP-CIDR,43.198.88.116/32,no-resolve
-  - IP-CIDR,43.206.236.58/32,no-resolve
-  - IP-CIDR,43.206.255.57/32,no-resolve
   - IP-CIDR,43.207.80.212/32,no-resolve
   - IP-CIDR,44.220.143.118/32,no-resolve
   - IP-CIDR,44.243.169.63/32,no-resolve
@@ -531,12 +528,13 @@ payload:
   - IP-CIDR,47.129.54.37/32,no-resolve
   - IP-CIDR,47.76.213.235/32,no-resolve
   - IP-CIDR,5.34.220.41/32,no-resolve
-  - IP-CIDR,52.12.53.118/32,no-resolve
   - IP-CIDR,52.192.119.253/32,no-resolve
   - IP-CIDR,52.196.103.27/32,no-resolve
   - IP-CIDR,52.69.142.188/32,no-resolve
   - IP-CIDR,54.151.201.174/32,no-resolve
   - IP-CIDR,54.169.8.235/32,no-resolve
+  - IP-CIDR,54.187.144.220/32,no-resolve
+  - IP-CIDR,54.199.69.146/32,no-resolve
   - IP-CIDR,54.235.56.239/32,no-resolve
   - IP-CIDR,54.238.206.159/32,no-resolve
   - IP-CIDR,54.249.86.118/32,no-resolve
@@ -545,7 +543,7 @@ payload:
   - IP-CIDR,57.181.73.216/32,no-resolve
   - IP-CIDR,58.254.137.85/32,no-resolve
   - IP-CIDR,58.254.188.155/32,no-resolve
-  - IP-CIDR,59.115.194.67/32,no-resolve
+  - IP-CIDR,59.115.207.33/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
   - IP-CIDR,63.141.226.123/32,no-resolve
   - IP-CIDR,63.141.226.99/32,no-resolve
