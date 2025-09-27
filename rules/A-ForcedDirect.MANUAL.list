@@ -126,6 +126,7 @@ DOMAIN-KEYWORD,embyvip
 DOMAIN-SUFFIX,makima.online
 
 # 某些可能影响其他工作的网站
+DOMAIN-SUFFIX,z1.ectrip.com
 DOMAIN-SUFFIX,yxvm.com
 DOMAIN-SUFFIX,tebex.io
 DOMAIN-SUFFIX,leigod.com
