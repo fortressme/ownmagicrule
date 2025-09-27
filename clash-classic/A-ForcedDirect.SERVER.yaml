@@ -102,7 +102,6 @@ payload:
   - DOMAIN-SUFFIX,qqb12.198139.xyz
   - DOMAIN-SUFFIX,qqt.wgnmdgfw.com
   - DOMAIN-SUFFIX,qz.nz.taphip.com
-  - DOMAIN-SUFFIX,rm-eco-hk-01-test.409648.xyz
   - DOMAIN-SUFFIX,rm-eco-sg-01.409648.xyz
   - DOMAIN-SUFFIX,rm-hk-2.409648.xyz
   - DOMAIN-SUFFIX,rm-lite-hk-08.409648.xyz
@@ -268,7 +267,6 @@ payload:
   - IP-CIDR,18.142.186.54/32,no-resolve
   - IP-CIDR,18.166.68.161/32,no-resolve
   - IP-CIDR,18.166.75.101/32,no-resolve
-  - IP-CIDR,18.179.9.9/32,no-resolve
   - IP-CIDR,18.183.148.230/32,no-resolve
   - IP-CIDR,18.234.86.189/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
@@ -310,10 +308,6 @@ payload:
   - IP-CIDR,205.198.70.101/32,no-resolve
   - IP-CIDR,205.198.72.34/32,no-resolve
   - IP-CIDR,205.198.76.90/32,no-resolve
-  - IP-CIDR,208.87.242.189/32,no-resolve
-  - IP-CIDR,208.87.242.207/32,no-resolve
-  - IP-CIDR,208.87.242.215/32,no-resolve
-  - IP-CIDR,208.87.242.79/32,no-resolve
   - IP-CIDR,208.87.243.195/32,no-resolve
   - IP-CIDR,208.87.243.197/32,no-resolve
   - IP-CIDR,210.16.183.11/32,no-resolve
@@ -342,6 +336,7 @@ payload:
   - IP-CIDR,43.198.79.70/32,no-resolve
   - IP-CIDR,43.198.88.116/32,no-resolve
   - IP-CIDR,43.207.80.212/32,no-resolve
+  - IP-CIDR,43.207.84.108/32,no-resolve
   - IP-CIDR,44.244.72.180/32,no-resolve
   - IP-CIDR,44.247.159.133/32,no-resolve
   - IP-CIDR,44.247.40.118/32,no-resolve
