@@ -404,6 +404,7 @@ IP-CIDR,114.37.193.185/32,no-resolve
 IP-CIDR,115.227.31.193/32,no-resolve
 IP-CIDR,116.128.251.236/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
+IP-CIDR,120.233.205.39/32,no-resolve
 IP-CIDR,120.233.248.30/32,no-resolve
 IP-CIDR,122.118.160.13/32,no-resolve
 IP-CIDR,123.121.187.254/32,no-resolve
@@ -560,7 +561,6 @@ IP-CIDR,52.196.103.27/32,no-resolve
 IP-CIDR,52.69.142.188/32,no-resolve
 IP-CIDR,52.88.138.24/32,no-resolve
 IP-CIDR,52.91.38.208/32,no-resolve
-IP-CIDR,54.147.55.159/32,no-resolve
 IP-CIDR,54.151.201.174/32,no-resolve
 IP-CIDR,54.169.8.235/32,no-resolve
 IP-CIDR,54.184.158.224/32,no-resolve
@@ -569,11 +569,13 @@ IP-CIDR,54.202.54.38/32,no-resolve
 IP-CIDR,54.234.182.130/32,no-resolve
 IP-CIDR,54.249.86.118/32,no-resolve
 IP-CIDR,54.255.244.128/32,no-resolve
+IP-CIDR,54.89.194.140/32,no-resolve
 IP-CIDR,57.181.27.40/32,no-resolve
 IP-CIDR,57.181.73.216/32,no-resolve
 IP-CIDR,58.254.137.85/32,no-resolve
 IP-CIDR,58.254.188.154/32,no-resolve
 IP-CIDR,58.254.188.162/32,no-resolve
+IP-CIDR,61.224.87.151/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,63.141.226.123/32,no-resolve
 IP-CIDR,63.141.226.99/32,no-resolve
@@ -606,13 +608,13 @@ IP-CIDR6,2408:864e:c04:d:1350:af97:3e75:5426/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:e780:f170:74aa:a1d6/128,no-resolve
 IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
+IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:a/128,no-resolve
 IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:b/128,no-resolve
 IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
 IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
 IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
 IP-CIDR6,240b:11:1382:c300:2e0:2fff:fe1e:de3/128,no-resolve
 IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
-IP-CIDR6,240e:6b0:d00:803::a243:a/128,no-resolve
 IP-CIDR6,2602:fa4f:b01:e322:20fc:a2c6:95ae:86cb/128,no-resolve
 IP-CIDR6,2603:c024:4518:1c01:0:1728:e841:91a2/128,no-resolve
 IP-CIDR6,2607:f130:0:f8:ff:ff:53d7:572f/128,no-resolve
