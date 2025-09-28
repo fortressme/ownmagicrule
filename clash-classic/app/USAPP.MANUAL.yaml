@@ -62,8 +62,8 @@ payload:
   - DOMAIN-SUFFIX,nezha.112700.xyz
   - DOMAIN-SUFFIX,usccsny.lululucy.top
   - DOMAIN-SUFFIX,usdav.iswsh.com
-  - DOMAIN-SUFFIX,usalist.iswsh.com
   - DOMAIN-SUFFIX,build.nvidia.com
+  - DOMAIN-SUFFIX,api.intquest.com
   - IP-CIDR,66.94.0.0/19,no-resolve
   - IP-CIDR,206.29.177.36/32,no-resolve
   - IP-CIDR,208.54.0.0/16,no-resolve
