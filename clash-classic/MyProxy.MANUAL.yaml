@@ -137,7 +137,6 @@ payload:
   - DOMAIN-SUFFIX,file.iswsh.com
   - DOMAIN-SUFFIX,gitea.iswsh.com
   - DOMAIN-SUFFIX,img.wush.cc
-  - DOMAIN-SUFFIX,api.intquest.com
   - DOMAIN-SUFFIX,chat.intquest.com
   - DOMAIN-SUFFIX,chatb.intquest.com
   - DOMAIN-SUFFIX,chatb.aijust.org
