@@ -42,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
   - DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
   - DOMAIN-SUFFIX,cncdn2cu.solidigm-static.com
-  - DOMAIN-SUFFIX,cncdncu.solidigm-static.com
   - DOMAIN-SUFFIX,dns.kizhou.cn
   - DOMAIN-SUFFIX,download-cm.gameupload.top
   - DOMAIN-SUFFIX,download-ct.gameupload.top
@@ -64,7 +63,6 @@ payload:
   - DOMAIN-SUFFIX,miss.sli-an.top
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
   - DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
-  - DOMAIN-SUFFIX,oss-cn-south.digital-nvme.com
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws12.yydjc.top
   - DOMAIN-SUFFIX,pq.aws13.yydjc.top
@@ -197,6 +195,7 @@ payload:
   - IP-CIDR,13.213.64.212/32,no-resolve
   - IP-CIDR,13.229.103.153/32,no-resolve
   - IP-CIDR,13.229.121.69/32,no-resolve
+  - IP-CIDR,13.229.87.121/32,no-resolve
   - IP-CIDR,13.250.40.101/32,no-resolve
   - IP-CIDR,13.250.43.254/32,no-resolve
   - IP-CIDR,131.186.22.238/32,no-resolve
@@ -342,12 +341,10 @@ payload:
   - IP-CIDR,54.203.15.21/32,no-resolve
   - IP-CIDR,54.226.77.240/32,no-resolve
   - IP-CIDR,54.249.86.118/32,no-resolve
-  - IP-CIDR,54.254.225.118/32,no-resolve
   - IP-CIDR,54.83.114.152/32,no-resolve
   - IP-CIDR,57.181.27.40/32,no-resolve
   - IP-CIDR,57.181.73.216/32,no-resolve
   - IP-CIDR,58.254.188.154/32,no-resolve
-  - IP-CIDR,58.254.188.155/32,no-resolve
   - IP-CIDR,58.254.188.162/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
   - IP-CIDR,63.141.226.123/32,no-resolve
