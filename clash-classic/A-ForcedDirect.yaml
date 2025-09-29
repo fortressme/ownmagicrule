@@ -335,9 +335,7 @@ payload:
   - DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
   - DOMAIN-SUFFIX,z.us1.niceduck.me
   - IP-CIDR,1.1.1.1/32,no-resolve
-  - IP-CIDR,1.160.195.194/32,no-resolve
-  - IP-CIDR,1.160.195.30/32,no-resolve
-  - IP-CIDR,1.160.205.65/32,no-resolve
+  - IP-CIDR,1.160.232.189/32,no-resolve
   - IP-CIDR,1.162.139.95/32,no-resolve
   - IP-CIDR,1.198.251.130/32,no-resolve
   - IP-CIDR,103.169.126.67/32,no-resolve
@@ -368,7 +366,6 @@ payload:
   - IP-CIDR,116.251.216.70/32,no-resolve
   - IP-CIDR,120.233.207.250/32,no-resolve
   - IP-CIDR,120.233.248.30/32,no-resolve
-  - IP-CIDR,120.241.238.63/32,no-resolve
   - IP-CIDR,122.118.160.178/32,no-resolve
   - IP-CIDR,123.121.187.254/32,no-resolve
   - IP-CIDR,125.77.163.191/32,no-resolve
@@ -563,8 +560,6 @@ payload:
   - IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
   - IP-CIDR6,2408:864e:c04:d:e780:f170:74aa:a1d6/128,no-resolve
   - IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
-  - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:a/128,no-resolve
-  - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:b/128,no-resolve
   - IP-CIDR6,2409:871e:2700:100a:56f6:412e:49:b/128,no-resolve
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
   - IP-CIDR6,2409:8c54:810:702:1:2201:0:1012/128,no-resolve
