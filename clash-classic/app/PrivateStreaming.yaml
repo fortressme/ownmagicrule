@@ -181,6 +181,8 @@ payload:
   - DOMAIN-SUFFIX,vip3.jellyfin.asia
   - DOMAIN-SUFFIX,clip.synn.cc
   - DOMAIN-SUFFIX,emby.moe
+  - DOMAIN-SUFFIX,embylife.xyz
+  - DOMAIN-SUFFIX,xxlb.net
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,emby.aca.best
   - DOMAIN-SUFFIX,porn.aca.best
