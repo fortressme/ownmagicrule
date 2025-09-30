@@ -36,6 +36,7 @@ DOMAIN,mail.somnifex.com
 DOMAIN,ny.4444441.xyz
 DOMAIN,pt.luckpt.de
 DOMAIN-KEYWORD,51cg
+DOMAIN-SUFFIX,0085.top
 DOMAIN-SUFFIX,111404.xyz
 DOMAIN-SUFFIX,18mh.net
 DOMAIN-SUFFIX,20img.com
@@ -57,6 +58,8 @@ DOMAIN-SUFFIX,affine.pro
 DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,akile.io
 DOMAIN-SUFFIX,akoi.cc
+DOMAIN-SUFFIX,aladingnet.com
+DOMAIN-SUFFIX,aladingnet.xyz
 DOMAIN-SUFFIX,alist.iswsh.com
 DOMAIN-SUFFIX,api-ap-southeast-2.qiniuapi.com
 DOMAIN-SUFFIX,api-ap-southeast-3.qiniuapi.com
@@ -65,6 +68,7 @@ DOMAIN-SUFFIX,api.smooch.io
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,attemptd.work
+DOMAIN-SUFFIX,avatargpt.xyz
 DOMAIN-SUFFIX,avatars-githubusercontent-webp.webp.se
 DOMAIN-SUFFIX,blinko.iswsh.com
 DOMAIN-SUFFIX,bluekai.com
@@ -89,6 +93,7 @@ DOMAIN-SUFFIX,cybermania.ws
 DOMAIN-SUFFIX,dalao.net
 DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,deeplx.org
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,dnsmgr.iswsh.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
@@ -132,8 +137,10 @@ DOMAIN-SUFFIX,java
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jpg.dog
+DOMAIN-SUFFIX,kdcloud.uk
 DOMAIN-SUFFIX,kk.51688.cc
 DOMAIN-SUFFIX,kmh004.com
+DOMAIN-SUFFIX,koodog.com
 DOMAIN-SUFFIX,kt.bqg123a.top
 DOMAIN-SUFFIX,kuxueyun.com
 DOMAIN-SUFFIX,larksuite.com
