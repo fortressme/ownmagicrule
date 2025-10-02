@@ -5,7 +5,7 @@ payload:
   - DOMAIN,http-inputs-notion.splunkcloud.com
   - DOMAIN,mail.112700.xyz
   - DOMAIN,mail.889966.de
-  - DOMAIN,mail.intquest.com
+  - DOMAIN,mail.ainq.de
   - DOMAIN,mail.iswsh.com
   - DOMAIN,mail.somnifex.com
   - DOMAIN,ny.4444441.xyz
@@ -53,10 +53,7 @@ payload:
   - DOMAIN-SUFFIX,browserscan.net
   - DOMAIN-SUFFIX,cawdz.com
   - DOMAIN-SUFFIX,cdn.ainvest.com
-  - DOMAIN-SUFFIX,chat.intquest.com
-  - DOMAIN-SUFFIX,chatb.aifun.win
-  - DOMAIN-SUFFIX,chatb.aijust.org
-  - DOMAIN-SUFFIX,chatb.intquest.com
+  - DOMAIN-SUFFIX,chatb.ainq.de
   - DOMAIN-SUFFIX,clarity.ms
   - DOMAIN-SUFFIX,clashmi.app
   - DOMAIN-SUFFIX,clashverge.dev
@@ -185,6 +182,7 @@ payload:
   - DOMAIN-SUFFIX,rsf-ap-southeast-3.qiniuapi.com
   - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
   - DOMAIN-SUFFIX,rumt-sg.com
+  - DOMAIN-SUFFIX,rustfs.iswsh.com
   - DOMAIN-SUFFIX,s3.iswsh.com
   - DOMAIN-SUFFIX,s3api.iswsh.com
   - DOMAIN-SUFFIX,sda1.dev
