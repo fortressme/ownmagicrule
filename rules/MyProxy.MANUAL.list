@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,pwnedpasswords.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,api.smooch.io
+DOMAIN-SUFFIX,news.112700.xyz
 DOMAIN-SUFFIX,url.112700.xyz
 DOMAIN-SUFFIX,shurl.096899.xyz
 DOMAIN-SUFFIX,sub.876521.xyz
@@ -140,7 +141,7 @@ DOMAIN-SUFFIX,yf.876521.xyz
 DOMAIN-SUFFIX,search.iswsh.com
 DOMAIN-SUFFIX,image.iswsh.com
 DOMAIN-SUFFIX,wallos.iswsh.com
-DOMAIN-SUFFIX,news.112700.xyz
+DOMAIN-SUFFIX,rustfs.iswsh.com
 DOMAIN-SUFFIX,passwd.iswsh.com
 DOMAIN-SUFFIX,memos.iswsh.com
 DOMAIN-SUFFIX,cloud.iswsh.com
@@ -156,13 +157,10 @@ DOMAIN-SUFFIX,fastgpt.iswsh.com
 DOMAIN-SUFFIX,file.iswsh.com
 DOMAIN-SUFFIX,gitea.iswsh.com
 DOMAIN-SUFFIX,img.wush.cc
-DOMAIN-SUFFIX,chat.intquest.com
-DOMAIN-SUFFIX,chatb.intquest.com
-DOMAIN-SUFFIX,chatb.aijust.org
-DOMAIN-SUFFIX,chatb.aifun.win
+DOMAIN-SUFFIX,chatb.ainq.de
 DOMAIN-SUFFIX,workspace.org
 DOMAIN,mail.112700.xyz
-DOMAIN,mail.intquest.com
+DOMAIN,mail.ainq.de
 DOMAIN,mail.iswsh.com
 DOMAIN,mail.somnifex.com
 DOMAIN-SUFFIX,imagehaha.com
