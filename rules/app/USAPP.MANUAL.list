@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,klingai.com
 DOMAIN-SUFFIX,sider.ai
 # 阿里Qoder
 DOMAIN-SUFFIX,qoder.com
+# Cerebras
+DOMAIN-SUFFIX,cerebras.ai
 
 # 其他服务
 DOMAIN-SUFFIX,thinkingmachines.ai
