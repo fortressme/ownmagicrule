@@ -66,6 +66,11 @@ dns:
       - https://doh.360.cn#skip-cert-verify=true
       - https://223.5.5.5/dns-query#skip-cert-verify=true
       - https://dns.alidns.com/dns-query#skip-cert-verify=true
+    '+.aliyuncs.com': 
+      - https://doh.pub/dns-query#skip-cert-verify=true
+      - https://doh.360.cn#skip-cert-verify=true
+      - https://223.5.5.5/dns-query#skip-cert-verify=true
+      - https://dns.alidns.com/dns-query#skip-cert-verify=true
     'geosite:gfw': 
       - https://doh.opendns.com/dns-query#🚀 主要代理&skip-cert-verify=true
       - https://1.1.1.1/dns-query#🚀 主要代理&skip-cert-verify=true
