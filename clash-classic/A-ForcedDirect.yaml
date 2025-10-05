@@ -243,7 +243,7 @@ payload:
   - DOMAIN-SUFFIX,m69oduux5i8isnra4xsmd3ebyaxhskrqb3ubyarf75jznxez.biliapi.xyz
   - DOMAIN-SUFFIX,miss.sli-an.top
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
-  - DOMAIN-SUFFIX,pq.aws13.yydjc.top
+  - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws48.yydjc.top
   - DOMAIN-SUFFIX,pq.aws49.yydjc.top
   - DOMAIN-SUFFIX,pq.aws50.yydjc.top
@@ -266,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,pq.us7.globals-download.com
   - DOMAIN-SUFFIX,pq.us8.globals-download.com
   - DOMAIN-SUFFIX,pq.us9.globals-download.com
+  - DOMAIN-SUFFIX,pq.vmjp.yydjc.top
   - DOMAIN-SUFFIX,qqb12.198139.xyz
   - DOMAIN-SUFFIX,qqt.wgnmdgfw.com
   - DOMAIN-SUFFIX,qz.nz.taphip.com
@@ -494,6 +495,7 @@ payload:
   - IP-CIDR,44.254.128.74/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
+  - IP-CIDR,46.232.56.245/32,no-resolve
   - IP-CIDR,47.129.5.237/32,no-resolve
   - IP-CIDR,47.130.167.54/32,no-resolve
   - IP-CIDR,47.76.213.235/32,no-resolve
