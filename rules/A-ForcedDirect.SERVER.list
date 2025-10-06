@@ -40,7 +40,6 @@ DOMAIN-SUFFIX,dns.kizhou.cn
 DOMAIN-SUFFIX,download-cm.gameupload.top
 DOMAIN-SUFFIX,download-ct.gameupload.top
 DOMAIN-SUFFIX,dx.miloli.me
-DOMAIN-SUFFIX,em01.niceduck.me
 DOMAIN-SUFFIX,fastu.kxy.ovh
 DOMAIN-SUFFIX,fm.smart.idoz1v.cn
 DOMAIN-SUFFIX,ftfq3twuqn56j9hbf3jw9227b82oqjjnnaqmsn4c4w78bi6h.biliapi.xyz
@@ -101,7 +100,6 @@ DOMAIN-SUFFIX,s.hk3.niceduck.me
 DOMAIN-SUFFIX,s.hk4.niceduck.me
 DOMAIN-SUFFIX,s.hk5.niceduck.me
 DOMAIN-SUFFIX,s.hk6.niceduck.me
-DOMAIN-SUFFIX,s.hkem1.niceduck.me
 DOMAIN-SUFFIX,s.jp1.niceduck.me
 DOMAIN-SUFFIX,s.jp2.niceduck.me
 DOMAIN-SUFFIX,s.jp3.niceduck.me
@@ -313,6 +311,7 @@ IP-CIDR,44.245.19.108/32,no-resolve
 IP-CIDR,44.249.21.181/32,no-resolve
 IP-CIDR,45.129.8.168/32,no-resolve
 IP-CIDR,46.232.110.81/32,no-resolve
+IP-CIDR,46.232.56.243/32,no-resolve
 IP-CIDR,46.232.56.245/32,no-resolve
 IP-CIDR,47.129.5.237/32,no-resolve
 IP-CIDR,47.130.167.54/32,no-resolve
@@ -327,7 +326,6 @@ IP-CIDR,54.169.8.235/32,no-resolve
 IP-CIDR,54.244.214.174/32,no-resolve
 IP-CIDR,54.81.187.12/32,no-resolve
 IP-CIDR,54.95.153.32/32,no-resolve
-IP-CIDR,57.181.27.40/32,no-resolve
 IP-CIDR,58.254.188.123/32,no-resolve
 IP-CIDR,61.241.19.239/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
