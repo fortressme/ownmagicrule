@@ -487,11 +487,11 @@ payload:
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
-  - IP-CIDR,34.228.236.39/32,no-resolve
+  - IP-CIDR,3.89.136.43/32,no-resolve
   - IP-CIDR,43.206.243.190/32,no-resolve
   - IP-CIDR,43.207.84.108/32,no-resolve
   - IP-CIDR,44.244.43.58/32,no-resolve
-  - IP-CIDR,44.247.42.23/32,no-resolve
+  - IP-CIDR,44.254.105.160/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
   - IP-CIDR,46.232.56.131/32,no-resolve
