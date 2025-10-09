@@ -468,6 +468,7 @@ IP-CIDR,18.183.148.230/32,no-resolve
 IP-CIDR,18.237.173.131/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.231/32,no-resolve
+IP-CIDR,183.60.123.26/32,no-resolve
 IP-CIDR,183.60.123.44/32,no-resolve
 IP-CIDR,184.73.108.132/32,no-resolve
 IP-CIDR,188.114.97.11/32,no-resolve
