@@ -59,8 +59,6 @@ payload:
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws48.yydjc.top
   - DOMAIN-SUFFIX,pq.aws49.yydjc.top
-  - DOMAIN-SUFFIX,pq.aws50.yydjc.top
-  - DOMAIN-SUFFIX,pq.aws51.yydjc.top
   - DOMAIN-SUFFIX,pq.aws58.yydjc.top
   - DOMAIN-SUFFIX,pq.aws59.yydjc.top
   - DOMAIN-SUFFIX,pq.aws60.yydjc.top
@@ -250,7 +248,6 @@ payload:
   - IP-CIDR,173.208.226.211/32,no-resolve
   - IP-CIDR,175.29.22.125/32,no-resolve
   - IP-CIDR,18.141.158.36/32,no-resolve
-  - IP-CIDR,18.183.148.230/32,no-resolve
   - IP-CIDR,18.234.94.215/32,no-resolve
   - IP-CIDR,183.232.137.3/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
@@ -313,7 +310,6 @@ payload:
   - IP-CIDR,35.90.136.163/32,no-resolve
   - IP-CIDR,35.91.4.237/32,no-resolve
   - IP-CIDR,43.206.243.190/32,no-resolve
-  - IP-CIDR,43.207.84.108/32,no-resolve
   - IP-CIDR,44.244.238.139/32,no-resolve
   - IP-CIDR,44.244.41.185/32,no-resolve
   - IP-CIDR,44.248.232.167/32,no-resolve
@@ -366,6 +362,7 @@ payload:
   - IP-CIDR6,2409:871e:2700:100a:56f6:412e:49:b/128,no-resolve
   - IP-CIDR6,2409:871e:2700:100a:56f6:412e:49:c/128,no-resolve
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
+  - IP-CIDR6,2409:8c54:1004:6000:73f:61e7:0:994/128,no-resolve
   - IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
   - IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
   - IP-CIDR6,240e:3b2:325f:e51:be24:11ff:fe5e:eba5/128,no-resolve
