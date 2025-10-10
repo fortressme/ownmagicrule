@@ -513,7 +513,6 @@ payload:
   - IP-CIDR,52.90.10.22/32,no-resolve
   - IP-CIDR,54.151.201.174/32,no-resolve
   - IP-CIDR,54.169.218.177/32,no-resolve
-  - IP-CIDR,58.254.188.123/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
   - IP-CIDR,63.141.226.123/32,no-resolve
   - IP-CIDR,63.141.226.99/32,no-resolve
