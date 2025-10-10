@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,miss.sli-an.top
   - DOMAIN-SUFFIX,n3jm26rz6sjmmvrzdrcv5r7emwb7hbpbgwhtooqbk9stzfd7hzhcdxdqy5idudk.xhscdn.vip
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
+  - DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws48.yydjc.top
   - DOMAIN-SUFFIX,pq.aws49.yydjc.top
@@ -160,7 +161,6 @@ payload:
   - IP-CIDR,108.181.23.241/32,no-resolve
   - IP-CIDR,108.181.23.249/32,no-resolve
   - IP-CIDR,108.181.23.255/32,no-resolve
-  - IP-CIDR,108.181.4.223/32,no-resolve
   - IP-CIDR,108.181.5.199/32,no-resolve
   - IP-CIDR,111.243.84.5/32,no-resolve
   - IP-CIDR,111.249.69.62/32,no-resolve
