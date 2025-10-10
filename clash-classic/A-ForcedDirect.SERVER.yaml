@@ -122,7 +122,6 @@ payload:
   - DOMAIN-SUFFIX,s.us4.niceduck.me
   - DOMAIN-SUFFIX,s.us5.niceduck.me
   - DOMAIN-SUFFIX,s.us6.niceduck.me
-  - DOMAIN-SUFFIX,sgnwifoxn4qpso7vjn7jjczi2st48igasjgtc9ndouy525cturmphvb93sxacq2.xhscdn.vip
   - DOMAIN-SUFFIX,speed.zziot.life
   - DOMAIN-SUFFIX,speedtest.acck-jpiij.876521.xyz
   - DOMAIN-SUFFIX,speedtest.ali-hk.876521.xyz
@@ -305,14 +304,14 @@ payload:
   - IP-CIDR,3.112.32.225/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,3.89.136.43/32,no-resolve
-  - IP-CIDR,34.222.84.82/32,no-resolve
+  - IP-CIDR,34.217.124.196/32,no-resolve
+  - IP-CIDR,34.221.43.50/32,no-resolve
+  - IP-CIDR,34.223.211.27/32,no-resolve
   - IP-CIDR,34.239.136.146/32,no-resolve
-  - IP-CIDR,35.90.136.163/32,no-resolve
-  - IP-CIDR,35.91.4.237/32,no-resolve
+  - IP-CIDR,35.162.71.217/32,no-resolve
   - IP-CIDR,43.206.243.190/32,no-resolve
-  - IP-CIDR,44.244.238.139/32,no-resolve
-  - IP-CIDR,44.244.41.185/32,no-resolve
-  - IP-CIDR,44.248.232.167/32,no-resolve
+  - IP-CIDR,44.246.163.150/32,no-resolve
+  - IP-CIDR,44.249.113.54/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
   - IP-CIDR,46.232.56.131/32,no-resolve
@@ -323,7 +322,6 @@ payload:
   - IP-CIDR,5.34.220.41/32,no-resolve
   - IP-CIDR,5.45.101.100/32,no-resolve
   - IP-CIDR,52.74.29.25/32,no-resolve
-  - IP-CIDR,52.77.209.36/32,no-resolve
   - IP-CIDR,52.90.10.22/32,no-resolve
   - IP-CIDR,54.151.201.174/32,no-resolve
   - IP-CIDR,54.169.218.177/32,no-resolve
@@ -360,9 +358,7 @@ payload:
   - IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
   - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:d/128,no-resolve
   - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:e/128,no-resolve
-  - IP-CIDR6,2409:871e:2700:100a:56f6:412e:49:b/128,no-resolve
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
-  - IP-CIDR6,2409:8c54:1004:6000:73f:61e7:0:994/128,no-resolve
   - IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
   - IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
   - IP-CIDR6,240e:3b2:325f:e51:be24:11ff:fe5e:eba5/128,no-resolve
