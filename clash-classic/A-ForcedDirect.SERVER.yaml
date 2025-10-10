@@ -360,7 +360,6 @@ payload:
   - IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
   - IP-CIDR6,2408:8756:f5f:103:1a4b:82e1:21f:d/128,no-resolve
   - IP-CIDR6,2409:871e:2700:100a:56f6:412e:49:b/128,no-resolve
-  - IP-CIDR6,2409:871e:2700:100a:56f6:412e:49:c/128,no-resolve
   - IP-CIDR6,2409:8754:1410:8004::2100/128,no-resolve
   - IP-CIDR6,2409:8c54:1004:6000:73f:61e7:0:994/128,no-resolve
   - IP-CIDR6,2409:8c54:a810:1:0:5:0:2e/128,no-resolve
