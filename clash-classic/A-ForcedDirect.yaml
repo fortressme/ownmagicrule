@@ -488,9 +488,9 @@ payload:
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.32.225/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
-  - IP-CIDR,3.81.69.73/32,no-resolve
   - IP-CIDR,3.89.136.43/32,no-resolve
   - IP-CIDR,34.222.84.82/32,no-resolve
+  - IP-CIDR,34.239.136.146/32,no-resolve
   - IP-CIDR,35.90.136.163/32,no-resolve
   - IP-CIDR,35.91.4.237/32,no-resolve
   - IP-CIDR,43.206.243.190/32,no-resolve
