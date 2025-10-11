@@ -44,7 +44,6 @@ DOMAIN-SUFFIX,g4hzkdc3b5sjhgkvhray5hf7vm8qgubf5ztxi2uft3hsiz9y44ohzoi3zbebug6.xh
 DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
 DOMAIN-SUFFIX,hblt.miloli.me
 DOMAIN-SUFFIX,hk01.525536.xyz
-DOMAIN-SUFFIX,hkbgpusevless02.klian.icu
 DOMAIN-SUFFIX,hp32qwec8jb2oq9cp3uebbhd9zkzgr2dden6mhv6wxfatukcebraxpx2p9h556v.xhscdn.vip
 DOMAIN-SUFFIX,hxipv6.hongxingdl.vip
 DOMAIN-SUFFIX,ipv6.sffyn.com
@@ -52,10 +51,9 @@ DOMAIN-SUFFIX,jsyd.niceduck.me
 DOMAIN-SUFFIX,jsyd2.niceduck.me
 DOMAIN-SUFFIX,jsyd3.niceduck.me
 DOMAIN-SUFFIX,kxbj9929.112700.xyz
-DOMAIN-SUFFIX,miss.sli-an.top
+DOMAIN-SUFFIX,mf.smart.idoz1v.cn
 DOMAIN-SUFFIX,n3jm26rz6sjmmvrzdrcv5r7emwb7hbpbgwhtooqbk9stzfd7hzhcdxdqy5idudk.xhscdn.vip
 DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
-DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
 DOMAIN-SUFFIX,pq.aws11.yydjc.top
 DOMAIN-SUFFIX,pq.aws48.yydjc.top
 DOMAIN-SUFFIX,pq.aws49.yydjc.top
@@ -139,6 +137,7 @@ DOMAIN-SUFFIX,v6.yasz.speedtest.876521.xyz
 DOMAIN-SUFFIX,wd-cdn-cu.solidigm-static.com
 DOMAIN-SUFFIX,xgtec7j3vnko6ubqic2ucxycbjiubedzpbjkueomfv25w4czdh7yb5gnbthir63.xhscdn.vip
 DOMAIN-SUFFIX,yahnnat.112700.xyz
+DOMAIN-SUFFIX,yasz.speedtest.876521.xyz
 DOMAIN-SUFFIX,yuyu.sffyn.com
 DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
 DOMAIN-SUFFIX,z.us1.niceduck.me
@@ -243,9 +242,7 @@ IP-CIDR,173.208.196.203/32,no-resolve
 IP-CIDR,173.208.211.171/32,no-resolve
 IP-CIDR,173.208.220.179/32,no-resolve
 IP-CIDR,173.208.226.211/32,no-resolve
-IP-CIDR,175.29.22.125/32,no-resolve
 IP-CIDR,18.141.158.36/32,no-resolve
-IP-CIDR,183.232.137.3/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.239/32,no-resolve
 IP-CIDR,183.60.123.26/32,no-resolve
