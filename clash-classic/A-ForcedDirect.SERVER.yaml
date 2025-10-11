@@ -302,10 +302,10 @@ payload:
   - IP-CIDR,3.112.32.225/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
   - IP-CIDR,3.89.136.43/32,no-resolve
-  - IP-CIDR,34.211.39.141/32,no-resolve
   - IP-CIDR,34.223.211.27/32,no-resolve
   - IP-CIDR,34.239.136.146/32,no-resolve
   - IP-CIDR,35.162.113.117/32,no-resolve
+  - IP-CIDR,35.90.122.78/32,no-resolve
   - IP-CIDR,35.90.160.217/32,no-resolve
   - IP-CIDR,36.230.41.75/32,no-resolve
   - IP-CIDR,43.206.243.190/32,no-resolve
