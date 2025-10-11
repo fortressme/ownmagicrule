@@ -198,11 +198,6 @@ payload:
   - DOMAIN-SUFFIX,S00000000000013.Egroup-Node-For-NorthAmericanAirport.com
   - DOMAIN-SUFFIX,S00000000000014.Egroup-Node-For-NorthAmericanAirport.com
   - DOMAIN-SUFFIX,S00000000000015.Egroup-Node-For-NorthAmericanAirport.com
-  - DOMAIN-SUFFIX,V00000000000011.Egroup-Node-For-NorthAmericanAirport.com
-  - DOMAIN-SUFFIX,V00000000000012.Egroup-Node-For-NorthAmericanAirport.com
-  - DOMAIN-SUFFIX,V00000000000013.Egroup-Node-For-NorthAmericanAirport.com
-  - DOMAIN-SUFFIX,V00000000000014.Egroup-Node-For-NorthAmericanAirport.com
-  - DOMAIN-SUFFIX,V00000000000015.Egroup-Node-For-NorthAmericanAirport.com
   - DOMAIN-SUFFIX,aaaa-dws75rnrbtfr25hx.ravenna0943.xyz
   - DOMAIN-SUFFIX,auth.wgnmdgfw.net
   - DOMAIN-SUFFIX,auto.wgnmdgfw.com
@@ -238,9 +233,9 @@ payload:
   - DOMAIN-SUFFIX,miss.sli-an.top
   - DOMAIN-SUFFIX,n3jm26rz6sjmmvrzdrcv5r7emwb7hbpbgwhtooqbk9stzfd7hzhcdxdqy5idudk.xhscdn.vip
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
+  - DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
   - DOMAIN-SUFFIX,pq.aws11.yydjc.top
   - DOMAIN-SUFFIX,pq.aws48.yydjc.top
-  - DOMAIN-SUFFIX,pq.aws49.yydjc.top
   - DOMAIN-SUFFIX,pq.aws58.yydjc.top
   - DOMAIN-SUFFIX,pq.aws59.yydjc.top
   - DOMAIN-SUFFIX,pq.aws60.yydjc.top
@@ -249,6 +244,7 @@ payload:
   - DOMAIN-SUFFIX,pq.hinet.tw1.yydjc.top
   - DOMAIN-SUFFIX,pq.hinet.tw2.yydjc.top
   - DOMAIN-SUFFIX,pq.hinet.tw3.yydjc.top
+  - DOMAIN-SUFFIX,pq.hy.jp.yydjc.top
   - DOMAIN-SUFFIX,pq.us1.globals-download.com
   - DOMAIN-SUFFIX,pq.us10.globals-download.com
   - DOMAIN-SUFFIX,pq.us2.globals-download.com
@@ -329,6 +325,7 @@ payload:
   - IP-CIDR,1.161.56.115/32,no-resolve
   - IP-CIDR,1.193.174.244/32,no-resolve
   - IP-CIDR,103.169.126.67/32,no-resolve
+  - IP-CIDR,103.62.49.61/32,no-resolve
   - IP-CIDR,104.16.236.17/32,no-resolve
   - IP-CIDR,104.18.20.69/32,no-resolve
   - IP-CIDR,104.18.43.60/32,no-resolve
@@ -461,6 +458,7 @@ payload:
   - IP-CIDR,198.41.211.61/32,no-resolve
   - IP-CIDR,198.41.211.95/32,no-resolve
   - IP-CIDR,199.168.96.179/32,no-resolve
+  - IP-CIDR,203.10.96.138/32,no-resolve
   - IP-CIDR,203.10.98.187/32,no-resolve
   - IP-CIDR,203.10.98.188/32,no-resolve
   - IP-CIDR,204.10.194.78/32,no-resolve
@@ -484,14 +482,8 @@ payload:
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.32.225/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
-  - IP-CIDR,3.89.136.43/32,no-resolve
-  - IP-CIDR,34.223.211.27/32,no-resolve
-  - IP-CIDR,34.239.136.146/32,no-resolve
-  - IP-CIDR,35.162.113.117/32,no-resolve
   - IP-CIDR,35.90.122.78/32,no-resolve
   - IP-CIDR,36.230.41.75/32,no-resolve
-  - IP-CIDR,43.206.243.190/32,no-resolve
-  - IP-CIDR,44.246.163.150/32,no-resolve
   - IP-CIDR,44.254.126.59/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
