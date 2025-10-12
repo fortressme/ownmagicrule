@@ -19,6 +19,8 @@ PROCESS-NAME,com.sec.android.app.samsungapps
 # 其他
 DOMAIN-SUFFIX,bvvvvvvv7f.com
 DOMAIN-SUFFIX,cloudcone.com.cn
+DOMAIN-SUFFIX,itdog.cn
+DOMAIN-SUFFIX,xterminal.cn
 DOMAIN-SUFFIX,lala.gg
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,cup.com.cn
