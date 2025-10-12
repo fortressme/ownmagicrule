@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,cntx0.112700.xyz
   - DOMAIN-SUFFIX,cup.com.cn
   - DOMAIN-SUFFIX,fwnhub.cn
+  - DOMAIN-SUFFIX,fxas.cn
   - DOMAIN-SUFFIX,galaxyappstore.com
   - DOMAIN-SUFFIX,galaxymobile.jp
   - DOMAIN-SUFFIX,game-platform.net
@@ -19,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,gslb.livehwc3.cn
   - DOMAIN-SUFFIX,gstore.val.manlaxy.com
   - DOMAIN-SUFFIX,i.cu.iepl.my
+  - DOMAIN-SUFFIX,itdog.cn
   - DOMAIN-SUFFIX,knoxemm.com
   - DOMAIN-SUFFIX,lala.gg
   - DOMAIN-SUFFIX,lt.4444442.xyz
@@ -48,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,vivo.com.cn
   - DOMAIN-SUFFIX,worldfirst.com
   - DOMAIN-SUFFIX,worldfirst.com.cn
+  - DOMAIN-SUFFIX,xterminal.cn
   - DOMAIN-SUFFIX,zjdx.4444442.xyz
   - IP-CIDR,110.42.62.0/24,no-resolve
   - IP-CIDR,192.168.0.0/16,no-resolve
