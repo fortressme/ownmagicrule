@@ -50,7 +50,6 @@ DOMAIN-SUFFIX,kxbj9929.112700.xyz
 DOMAIN-SUFFIX,miss.sli-an.top
 DOMAIN-SUFFIX,n3jm26rz6sjmmvrzdrcv5r7emwb7hbpbgwhtooqbk9stzfd7hzhcdxdqy5idudk.xhscdn.vip
 DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
-DOMAIN-SUFFIX,oss-cn-2south.digital-nvme.com
 DOMAIN-SUFFIX,pq.aws11.yydjc.top
 DOMAIN-SUFFIX,pq.aws48.yydjc.top
 DOMAIN-SUFFIX,pq.aws58.yydjc.top
@@ -77,7 +76,6 @@ DOMAIN-SUFFIX,pq.vmjp2.yydjc.top
 DOMAIN-SUFFIX,q66rhccpjw7mpfvocvgwkwt7xatvv7wruo7f6rkawxam2cnew8vdywvkz6pimb9.xhscdn.vip
 DOMAIN-SUFFIX,qqb12.198139.xyz
 DOMAIN-SUFFIX,qqt.wgnmdgfw.com
-DOMAIN-SUFFIX,qz.nz.taphip.com
 DOMAIN-SUFFIX,r4rmrbdn2koyannq8s544ojxdca2gp3xn3vm4mbjet27sjrwiuwzoqdaccnygs2.xhscdn.vip
 DOMAIN-SUFFIX,rm-eco-sg-01.409648.xyz
 DOMAIN-SUFFIX,rm-hk-2.409648.xyz
@@ -171,7 +169,6 @@ IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,119.147.110.7/32,no-resolve
 IP-CIDR,123.121.187.254/32,no-resolve
 IP-CIDR,125.77.163.191/32,no-resolve
-IP-CIDR,125.77.163.200/32,no-resolve
 IP-CIDR,129.146.95.165/32,no-resolve
 IP-CIDR,129.148.39.249/32,no-resolve
 IP-CIDR,13.213.51.89/32,no-resolve
@@ -243,7 +240,6 @@ IP-CIDR,173.208.220.179/32,no-resolve
 IP-CIDR,173.208.226.211/32,no-resolve
 IP-CIDR,175.29.22.94/32,no-resolve
 IP-CIDR,18.141.158.36/32,no-resolve
-IP-CIDR,18.237.188.170/32,no-resolve
 IP-CIDR,183.236.97.83/32,no-resolve
 IP-CIDR,183.240.138.239/32,no-resolve
 IP-CIDR,183.60.123.26/32,no-resolve
@@ -300,7 +296,7 @@ IP-CIDR,27.152.180.15/32,no-resolve
 IP-CIDR,3.112.32.225/32,no-resolve
 IP-CIDR,3.112.53.228/32,no-resolve
 IP-CIDR,34.229.102.88/32,no-resolve
-IP-CIDR,35.90.122.78/32,no-resolve
+IP-CIDR,35.91.248.157/32,no-resolve
 IP-CIDR,36.230.41.75/32,no-resolve
 IP-CIDR,44.254.126.59/32,no-resolve
 IP-CIDR,45.129.8.168/32,no-resolve
@@ -311,6 +307,7 @@ IP-CIDR,46.232.56.243/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
 IP-CIDR,5.34.220.41/32,no-resolve
 IP-CIDR,5.45.101.100/32,no-resolve
+IP-CIDR,52.37.54.184/32,no-resolve
 IP-CIDR,52.74.29.25/32,no-resolve
 IP-CIDR,54.159.100.226/32,no-resolve
 IP-CIDR,54.169.218.177/32,no-resolve
