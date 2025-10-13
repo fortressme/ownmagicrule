@@ -28,6 +28,10 @@ payload:
   - DOMAIN-SUFFIX,bybit.biz
   - DOMAIN-SUFFIX,bybit.org
   - DOMAIN-SUFFIX,byabcde.com
+  - DOMAIN-SUFFIX,byapps.net
+  - DOMAIN-SUFFIX,byadc6.com
+  - DOMAIN-SUFFIX,bybdc6.com
+  - DOMAIN-SUFFIX,byd3c3.com
   - DOMAIN-SUFFIX,bycsi.com
   - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
   - DOMAIN-SUFFIX,mistral.ai
