@@ -211,7 +211,7 @@ payload:
   - DOMAIN-SUFFIX,cname08b-xp3zfkbmz8pyhmbf.colosseo7143.xyz
   - DOMAIN-SUFFIX,cnamepc-auto.cnameip.xyz
   - DOMAIN-SUFFIX,cnamepc-cu.cnameip.xyz
-  - DOMAIN-SUFFIX,dns.kizhou.cn
+  - DOMAIN-SUFFIX,dhn.yiandrive.com
   - DOMAIN-SUFFIX,download-cm.gameupload.top
   - DOMAIN-SUFFIX,download-ct.gameupload.top
   - DOMAIN-SUFFIX,dx.miloli.me
@@ -424,7 +424,6 @@ payload:
   - IP-CIDR,173.208.226.211/32,no-resolve
   - IP-CIDR,175.29.22.94/32,no-resolve
   - IP-CIDR,18.141.158.36/32,no-resolve
-  - IP-CIDR,18.236.122.137/32,no-resolve
   - IP-CIDR,183.236.97.83/32,no-resolve
   - IP-CIDR,183.240.138.239/32,no-resolve
   - IP-CIDR,183.60.123.26/32,no-resolve
@@ -480,6 +479,9 @@ payload:
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.32.225/32,no-resolve
   - IP-CIDR,3.112.53.228/32,no-resolve
+  - IP-CIDR,34.214.159.251/32,no-resolve
+  - IP-CIDR,34.221.236.54/32,no-resolve
+  - IP-CIDR,34.222.80.175/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
   - IP-CIDR,46.232.56.131/32,no-resolve
@@ -488,9 +490,7 @@ payload:
   - IP-CIDR,47.76.213.235/32,no-resolve
   - IP-CIDR,5.34.220.41/32,no-resolve
   - IP-CIDR,5.45.101.100/32,no-resolve
-  - IP-CIDR,50.112.39.96/32,no-resolve
   - IP-CIDR,52.74.29.25/32,no-resolve
-  - IP-CIDR,54.149.9.198/32,no-resolve
   - IP-CIDR,54.169.218.177/32,no-resolve
   - IP-CIDR,54.255.152.20/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
