@@ -135,7 +135,6 @@ DOMAIN-SUFFIX,yuyu.sffyn.com
 DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.161.56.115/32,no-resolve
 IP-CIDR,1.193.174.244/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
 IP-CIDR,103.219.176.172/32,no-resolve
@@ -156,13 +155,14 @@ IP-CIDR,108.181.23.249/32,no-resolve
 IP-CIDR,108.181.23.255/32,no-resolve
 IP-CIDR,108.181.5.199/32,no-resolve
 IP-CIDR,111.243.84.5/32,no-resolve
-IP-CIDR,111.249.69.81/32,no-resolve
-IP-CIDR,111.249.70.224/32,no-resolve
+IP-CIDR,111.249.69.92/32,no-resolve
+IP-CIDR,111.249.70.142/32,no-resolve
 IP-CIDR,112.93.113.47/32,no-resolve
 IP-CIDR,113.57.36.139/32,no-resolve
 IP-CIDR,113.57.36.140/32,no-resolve
 IP-CIDR,113.57.36.141/32,no-resolve
 IP-CIDR,113.57.36.228/32,no-resolve
+IP-CIDR,114.37.206.80/32,no-resolve
 IP-CIDR,115.227.54.29/32,no-resolve
 IP-CIDR,116.128.251.236/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
