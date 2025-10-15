@@ -10,7 +10,7 @@ external-controller: 0.0.0.0:9090
 secret: "zQ!h90n@BBp"
 mode: rule
 log-level: info
-global-client-fingerprint: chrome
+global-client-fingerprint: firefox
 global-ua: mymihomo
 tcp-concurrent: true
 unified-delay: false
