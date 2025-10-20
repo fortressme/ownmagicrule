@@ -45,11 +45,6 @@ jobs:
             echo "A-ForcedDirect.SERVER.update.list not found, skipping..."
           fi
           
-      - name: Get ForcedDirect rules
-        run: |
-          cat rules/A-ForcedDirect.MANUAL.list rules/A-ForcedDirect.SERVER.list > rules/A-ForcedDirect.list.new
-          mv -f rules/A-ForcedDirect.list.new rules/A-ForcedDirect.list
-
       - name: Download ForcedDirect rules
         run: |
           files=(
@@ -73,7 +68,21 @@ jobs:
             cat "${files_to_cat[@]}" > "$combined_new"; echo >> "$combined_new"; mv -f "$combined_new" "$target_list"; echo "Successfully updated $target_list"
           else echo "::warning:: $target_list was not updated due to one or more download failures."; fi
           echo "Cleaning up temporary files for $target_list..."; rm -f "${temp_files[@]}"
-      
+
+      - name: Append SERVER list to ForcedDirect rules
+        run: |
+          server_list="rules/A-ForcedDirect.SERVER.list"
+          target_list="rules/A-ForcedDirect.list"
+          if [[ -f "$server_list" && -s "$server_list" ]]; then
+            echo "Found $server_list. Appending its content to $target_list..."
+            echo >> "$target_list"
+            cat "$server_list" >> "$target_list"
+            echo >> "$target_list"
+            echo "Successfully appended $server_list to $target_list."
+          else
+            echo "Skipping append: $server_list does not exist or is empty."
+          fi
+
       - name: Download ForcedProxy rules
         run: |
           files=(
