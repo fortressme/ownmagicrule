@@ -163,10 +163,13 @@ payload:
   - IP-CIDR,113.57.36.195/32,no-resolve
   - IP-CIDR,113.57.36.196/32,no-resolve
   - IP-CIDR,113.57.36.203/32,no-resolve
+  - IP-CIDR,113.57.36.206/32,no-resolve
+  - IP-CIDR,113.57.36.208/32,no-resolve
   - IP-CIDR,113.88.85.41/32,no-resolve
   - IP-CIDR,115.227.54.29/32,no-resolve
   - IP-CIDR,116.251.216.70/32,no-resolve
   - IP-CIDR,120.238.144.162/32,no-resolve
+  - IP-CIDR,120.241.65.145/32,no-resolve
   - IP-CIDR,123.121.191.36/32,no-resolve
   - IP-CIDR,125.78.88.25/32,no-resolve
   - IP-CIDR,129.146.95.165/32,no-resolve
