@@ -170,6 +170,7 @@ payload:
   - IP-CIDR,104.27.116.129/32,no-resolve
   - IP-CIDR,104.27.14.211/32,no-resolve
   - IP-CIDR,106.75.130.188/32,no-resolve
+  - IP-CIDR,106.75.136.142/32,no-resolve
   - IP-CIDR,107.150.55.131/32,no-resolve
   - IP-CIDR,107.175.59.162/32,no-resolve
   - IP-CIDR,108.162.194.114/32,no-resolve
