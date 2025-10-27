@@ -86,6 +86,9 @@ payload:
   - DOMAIN-SUFFIX,gitea.iswsh.com
   - DOMAIN-SUFFIX,gitkraken.com
   - DOMAIN-SUFFIX,gorse.io
+  - DOMAIN-SUFFIX,hailuo.ai
+  - DOMAIN-SUFFIX,hailuoai.com
+  - DOMAIN-SUFFIX,hailuoai.video
   - DOMAIN-SUFFIX,hf.co
   - DOMAIN-SUFFIX,hostloc.com
   - DOMAIN-SUFFIX,huggingface.co
@@ -134,6 +137,7 @@ payload:
   - DOMAIN-SUFFIX,macked.app
   - DOMAIN-SUFFIX,mcmssc.la
   - DOMAIN-SUFFIX,memos.iswsh.com
+  - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,monkrus.ws
   - DOMAIN-SUFFIX,music.liuzhijin.cn
   - DOMAIN-SUFFIX,naixi.net
