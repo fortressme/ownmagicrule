@@ -10496,6 +10496,7 @@ payload:
   - DOMAIN-SUFFIX,gynoexam.info
   - DOMAIN-SUFFIX,gyutte.site
   - DOMAIN-SUFFIX,gyutto.com
+  - DOMAIN-SUFFIX,h-chan.me
   - DOMAIN-SUFFIX,h-doujinshi.xyz
   - DOMAIN-SUFFIX,h-flash.com
   - DOMAIN-SUFFIX,h-top.supertop-100.com
@@ -10794,6 +10795,8 @@ payload:
   - DOMAIN-SUFFIX,hentai-ani.me
   - DOMAIN-SUFFIX,hentai-archive.com
   - DOMAIN-SUFFIX,hentai-books.com
+  - DOMAIN-SUFFIX,hentai-chan.com
+  - DOMAIN-SUFFIX,hentai-chan.live
   - DOMAIN-SUFFIX,hentai-cosplays.com
   - DOMAIN-SUFFIX,hentai-covers.site
   - DOMAIN-SUFFIX,hentai-eroanime.net
@@ -10838,6 +10841,8 @@ payload:
   - DOMAIN-SUFFIX,hentaibar.com
   - DOMAIN-SUFFIX,hentaiblue.com
   - DOMAIN-SUFFIX,hentaibros.com
+  - DOMAIN-SUFFIX,hentaichan.live
+  - DOMAIN-SUFFIX,hentaichan.me
   - DOMAIN-SUFFIX,hentaicity.com
   - DOMAIN-SUFFIX,hentaicloud.com
   - DOMAIN-SUFFIX,hentaiclub.net
@@ -12028,6 +12033,7 @@ payload:
   - DOMAIN-SUFFIX,imgcrl.org
   - DOMAIN-SUFFIX,imgix.com
   - DOMAIN-SUFFIX,imgix.net
+  - DOMAIN-SUFFIX,imgschan.xyz
   - DOMAIN-SUFFIX,imgsmail.ru
   - DOMAIN-SUFFIX,imgur.io
   - DOMAIN-SUFFIX,imgurinc.com
@@ -23858,6 +23864,7 @@ payload:
   - DOMAIN-SUFFIX,vxnbbrs.xyz
   - DOMAIN-SUFFIX,vxxsred.xyz
   - DOMAIN-SUFFIX,w-mt.co
+  - DOMAIN-SUFFIX,w0512.com
   - DOMAIN-SUFFIX,w6un.com
   - DOMAIN-SUFFIX,wa.me
   - DOMAIN-SUFFIX,waa.tw
