@@ -8,6 +8,12 @@ DOMAIN-SUFFIX,wanxai.com
 DOMAIN-SUFFIX,wan.video
 PROCESS-NAME,ai.qwenlm.chat.android
 
+# MINIMAX/海螺
+DOMAIN-SUFFIX,minimax.io
+DOMAIN-SUFFIX,hailuo.ai
+DOMAIN-SUFFIX,hailuoai.video
+DOMAIN-SUFFIX,hailuoai.com
+
 # 智谱
 DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zread.ai
