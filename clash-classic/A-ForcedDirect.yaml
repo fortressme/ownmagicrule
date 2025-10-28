@@ -476,6 +476,7 @@ payload:
   - DOMAIN-SUFFIX,jsyd.niceduck.me
   - DOMAIN-SUFFIX,jsyd2.niceduck.me
   - DOMAIN-SUFFIX,jsyd3.niceduck.me
+  - DOMAIN-SUFFIX,mf.smart.idoz1v.cn
   - DOMAIN-SUFFIX,n3jm26rz6sjmmvrzdrcv5r7emwb7hbpbgwhtooqbk9stzfd7hzhcdxdqy5idudk.xhscdn.vip
   - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
   - DOMAIN-SUFFIX,pq.aws48.yydjc.top
@@ -713,7 +714,7 @@ payload:
   - IP-CIDR,23.20.182.56/32,no-resolve
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.223.181/32,no-resolve
-  - IP-CIDR,34.221.244.221/32,no-resolve
+  - IP-CIDR,34.222.213.190/32,no-resolve
   - IP-CIDR,35.90.175.12/32,no-resolve
   - IP-CIDR,43.207.192.170/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
