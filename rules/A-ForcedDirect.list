@@ -645,7 +645,6 @@ DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.161.45.214/32,no-resolve
-IP-CIDR,1.162.171.184/32,no-resolve
 IP-CIDR,1.198.251.251/32,no-resolve
 IP-CIDR,103.169.126.67/32,no-resolve
 IP-CIDR,103.219.176.226/32,no-resolve
@@ -665,8 +664,9 @@ IP-CIDR,108.181.22.153/32,no-resolve
 IP-CIDR,108.181.23.241/32,no-resolve
 IP-CIDR,108.181.23.249/32,no-resolve
 IP-CIDR,108.181.23.255/32,no-resolve
-IP-CIDR,111.249.70.192/32,no-resolve
-IP-CIDR,111.249.70.206/32,no-resolve
+IP-CIDR,111.243.111.165/32,no-resolve
+IP-CIDR,111.249.70.152/32,no-resolve
+IP-CIDR,111.249.70.178/32,no-resolve
 IP-CIDR,113.57.36.235/32,no-resolve
 IP-CIDR,113.57.36.240/32,no-resolve
 IP-CIDR,113.57.36.244/32,no-resolve
@@ -794,7 +794,6 @@ IP-CIDR,23.177.40.49/32,no-resolve
 IP-CIDR,23.20.182.56/32,no-resolve
 IP-CIDR,27.152.180.15/32,no-resolve
 IP-CIDR,3.112.223.181/32,no-resolve
-IP-CIDR,34.221.244.221/32,no-resolve
 IP-CIDR,35.167.81.103/32,no-resolve
 IP-CIDR,35.88.195.54/32,no-resolve
 IP-CIDR,43.207.192.170/32,no-resolve
@@ -806,6 +805,7 @@ IP-CIDR,46.232.56.243/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
 IP-CIDR,5.34.220.41/32,no-resolve
 IP-CIDR,5.45.101.100/32,no-resolve
+IP-CIDR,52.38.66.136/32,no-resolve
 IP-CIDR,54.169.218.177/32,no-resolve
 IP-CIDR,54.255.152.20/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
