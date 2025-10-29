@@ -714,9 +714,9 @@ payload:
   - IP-CIDR,27.152.180.15/32,no-resolve
   - IP-CIDR,3.112.223.181/32,no-resolve
   - IP-CIDR,34.219.87.167/32,no-resolve
-  - IP-CIDR,35.163.144.73/32,no-resolve
-  - IP-CIDR,35.90.229.136/32,no-resolve
+  - IP-CIDR,35.90.123.16/32,no-resolve
   - IP-CIDR,43.207.192.170/32,no-resolve
+  - IP-CIDR,44.251.206.230/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.110.81/32,no-resolve
   - IP-CIDR,46.232.56.133/32,no-resolve
