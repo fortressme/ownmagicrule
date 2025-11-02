@@ -586,7 +586,6 @@ payload:
   - IP-CIDR,104.24.156.202/32,no-resolve
   - IP-CIDR,104.25.101.211/32,no-resolve
   - IP-CIDR,104.27.14.211/32,no-resolve
-  - IP-CIDR,106.75.128.219/32,no-resolve
   - IP-CIDR,107.150.55.131/32,no-resolve
   - IP-CIDR,107.175.59.162/32,no-resolve
   - IP-CIDR,108.181.22.153/32,no-resolve
