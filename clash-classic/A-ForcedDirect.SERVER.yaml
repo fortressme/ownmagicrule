@@ -222,6 +222,7 @@ payload:
   - IP-CIDR,173.208.195.27/32,no-resolve
   - IP-CIDR,18.136.191.234/32,no-resolve
   - IP-CIDR,18.141.10.198/32,no-resolve
+  - IP-CIDR,18.142.255.154/32,no-resolve
   - IP-CIDR,183.240.138.228/32,no-resolve
   - IP-CIDR,183.60.123.43/32,no-resolve
   - IP-CIDR,188.114.97.11/32,no-resolve
