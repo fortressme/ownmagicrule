@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,cloudcone.com
   - DOMAIN-SUFFIX,colocrossing.com
   - DOMAIN-SUFFIX,engagement.ai
@@ -57,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,sora.com
   - PROCESS-NAME,com.openai.chatgpt
+  - PROCESS-NAME,com.openai.sora
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,grok.com
   - PROCESS-NAME,ai.x.grok
