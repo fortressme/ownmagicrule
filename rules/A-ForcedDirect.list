@@ -647,7 +647,6 @@ IP-CIDR,103.197.71.101/32,no-resolve
 IP-CIDR,103.197.71.102/32,no-resolve
 IP-CIDR,103.197.71.103/32,no-resolve
 IP-CIDR,103.197.71.99/32,no-resolve
-IP-CIDR,103.219.176.226/32,no-resolve
 IP-CIDR,104.16.236.17/32,no-resolve
 IP-CIDR,104.18.20.69/32,no-resolve
 IP-CIDR,104.18.42.185/32,no-resolve
