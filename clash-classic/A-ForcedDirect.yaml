@@ -711,10 +711,10 @@ payload:
   - IP-CIDR,5.34.220.41/32,no-resolve
   - IP-CIDR,5.45.101.100/32,no-resolve
   - IP-CIDR,52.77.235.82/32,no-resolve
-  - IP-CIDR,54.172.254.139/32,no-resolve
   - IP-CIDR,54.225.59.74/32,no-resolve
   - IP-CIDR,54.244.98.209/32,no-resolve
   - IP-CIDR,54.254.75.152/32,no-resolve
+  - IP-CIDR,54.80.41.233/32,no-resolve
   - IP-CIDR,63.141.128.173/32,no-resolve
   - IP-CIDR,63.141.226.123/32,no-resolve
   - IP-CIDR,63.141.226.99/32,no-resolve
