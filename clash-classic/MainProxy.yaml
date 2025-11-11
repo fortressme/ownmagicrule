@@ -5681,6 +5681,8 @@ payload:
   - DOMAIN-SUFFIX,coem.ac.uk
   - DOMAIN-SUFFIX,cof.ac.uk
   - DOMAIN-SUFFIX,cogc.ac.uk
+  - DOMAIN-SUFFIX,cohere.ai
+  - DOMAIN-SUFFIX,cohere.com
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,coincarp.com
   - DOMAIN-SUFFIX,coincheck.com
