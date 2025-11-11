@@ -558,6 +558,7 @@ DOMAIN-SUFFIX,jsyd2.niceduck.me
 DOMAIN-SUFFIX,jsyd3.niceduck.me
 DOMAIN-SUFFIX,n3jm26rz6sjmmvrzdrcv5r7emwb7hbpbgwhtooqbk9stzfd7hzhcdxdqy5idudk.xhscdn.vip
 DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
+DOMAIN-SUFFIX,opps.digital-nvme.com
 DOMAIN-SUFFIX,pq.aws58.yydjc.top
 DOMAIN-SUFFIX,pq.aws59.yydjc.top
 DOMAIN-SUFFIX,pq.aws60.yydjc.top
@@ -585,7 +586,9 @@ DOMAIN-SUFFIX,pq.vmjp3.yydjc.top
 DOMAIN-SUFFIX,pq.vmjp4.yydjc.top
 DOMAIN-SUFFIX,q66rhccpjw7mpfvocvgwkwt7xatvv7wruo7f6rkawxam2cnew8vdywvkz6pimb9.xhscdn.vip
 DOMAIN-SUFFIX,qqb12.599789.xyz
+DOMAIN-SUFFIX,qqt.wgnmdgfw.com
 DOMAIN-SUFFIX,r4rmrbdn2koyannq8s544ojxdca2gp3xn3vm4mbjet27sjrwiuwzoqdaccnygs2.xhscdn.vip
+DOMAIN-SUFFIX,reverse-cu.solidigm-static.com
 DOMAIN-SUFFIX,rm-eco-sg-01.409648.xyz
 DOMAIN-SUFFIX,rm-hk-2.409648.xyz
 DOMAIN-SUFFIX,rm-lite-hk-08.409648.xyz
@@ -624,7 +627,6 @@ DOMAIN-SUFFIX,s.us3.niceduck.me
 DOMAIN-SUFFIX,s.us4.niceduck.me
 DOMAIN-SUFFIX,s.us5.niceduck.me
 DOMAIN-SUFFIX,s.us6.niceduck.me
-DOMAIN-SUFFIX,sg.wgnmdgfw.com
 DOMAIN-SUFFIX,speedtest.acck-jpiij.876521.xyz
 DOMAIN-SUFFIX,speedtest.ali-hk.876521.xyz
 DOMAIN-SUFFIX,speedtest.bwg-us.876521.xyz
@@ -682,6 +684,7 @@ IP-CIDR,115.227.54.29/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,119.161.102.197/32,no-resolve
 IP-CIDR,120.233.42.75/32,no-resolve
+IP-CIDR,120.37.141.13/32,no-resolve
 IP-CIDR,123.121.191.36/32,no-resolve
 IP-CIDR,125.78.88.44/32,no-resolve
 IP-CIDR,129.148.39.249/32,no-resolve
@@ -699,6 +702,7 @@ IP-CIDR,141.11.42.125/32,no-resolve
 IP-CIDR,141.11.43.220/32,no-resolve
 IP-CIDR,141.147.33.180/32,no-resolve
 IP-CIDR,141.253.124.138/32,no-resolve
+IP-CIDR,142.248.150.203/32,no-resolve
 IP-CIDR,142.54.189.91/32,no-resolve
 IP-CIDR,144.24.206.147/32,no-resolve
 IP-CIDR,144.34.233.186/32,no-resolve
