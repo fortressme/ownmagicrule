@@ -78,3 +78,8 @@ payload:
   - DOMAIN-WILDCARD,s*.hanime1
   - DOMAIN-WILDCARD,img-*.now.com
   - DOMAIN-WILDCARD,assets.*.imaga.co
+  - DOMAIN-WILDCARD,cdn*.pigav.com
+  - DOMAIN-WILDCARD,fastly-*.allmovie.com
+  - DOMAIN-WILDCARD,cdn*.porn87.com
+  - DOMAIN-WILDCARD,cdn*.pornhost.com
+  - DOMAIN-WILDCARD,cdn*.boysfood.com
