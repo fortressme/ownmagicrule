@@ -71,7 +71,6 @@ payload:
   - DOMAIN-SUFFIX,pq.vmjp4.yydjc.top
   - DOMAIN-SUFFIX,q66rhccpjw7mpfvocvgwkwt7xatvv7wruo7f6rkawxam2cnew8vdywvkz6pimb9.xhscdn.vip
   - DOMAIN-SUFFIX,qqb12.599789.xyz
-  - DOMAIN-SUFFIX,qqt.wgnmdgfw.com
   - DOMAIN-SUFFIX,r4rmrbdn2koyannq8s544ojxdca2gp3xn3vm4mbjet27sjrwiuwzoqdaccnygs2.xhscdn.vip
   - DOMAIN-SUFFIX,reverse-cu.solidigm-static.com
   - DOMAIN-SUFFIX,rm-eco-sg-01.409648.xyz
@@ -112,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,s.us4.niceduck.me
   - DOMAIN-SUFFIX,s.us5.niceduck.me
   - DOMAIN-SUFFIX,s.us6.niceduck.me
+  - DOMAIN-SUFFIX,sg.wgnmdgfw.com
   - DOMAIN-SUFFIX,speedtest.acck-jpiij.876521.xyz
   - DOMAIN-SUFFIX,speedtest.ali-hk.876521.xyz
   - DOMAIN-SUFFIX,speedtest.bwg-us.876521.xyz
@@ -220,7 +220,6 @@ payload:
   - IP-CIDR,18.142.255.154/32,no-resolve
   - IP-CIDR,180.188.43.174/32,no-resolve
   - IP-CIDR,183.240.138.131/32,no-resolve
-  - IP-CIDR,183.240.138.229/32,no-resolve
   - IP-CIDR,188.114.97.11/32,no-resolve
   - IP-CIDR,188.114.97.212/32,no-resolve
   - IP-CIDR,188.114.98.173/32,no-resolve
