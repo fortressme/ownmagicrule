@@ -1,3 +1,7 @@
+# 中银香港
+PROCESS-NAME,com.bochk.app.aos
+# 汇丰香港
+PROCESS-NAME,hk.com.hsbc.hsbchkmobilebanking
 # Other
 DOMAIN-SUFFIX,yamlforge.lululucy.top
 DOMAIN-SUFFIX,conv.lululucy.top
