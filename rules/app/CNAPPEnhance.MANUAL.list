@@ -198,7 +198,8 @@ PROCESS-NAME,com.tencent.tmgp.sgame
 # wegame相关
 PROCESS-NAME,wegame.exe
 PROCESS-NAME,TinyDL.exe
-
+# 掌上无畏契约
+PROCESS-NAME,com.tencent.apps.valorant
 
 # 其他
 # 百度车载组件
