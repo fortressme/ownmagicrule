@@ -364,6 +364,7 @@ payload:
   - PROCESS-NAME,com.tencent.tmgp.sgame
   - PROCESS-NAME,wegame.exe
   - PROCESS-NAME,TinyDL.exe
+  - PROCESS-NAME,com.tencent.apps.valorant
   - PROCESS-NAME,com.baidu.carlife.vivo
   - PROCESS-NAME,pcsuite.exe
   - PROCESS-NAME,com.vivo.pcsuite
