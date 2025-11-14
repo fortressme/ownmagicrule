@@ -249,9 +249,9 @@ IP-CIDR,204.10.194.86/32,no-resolve
 IP-CIDR,205.178.182.55/32,no-resolve
 IP-CIDR,210.16.183.107/32,no-resolve
 IP-CIDR,210.16.183.111/32,no-resolve
-IP-CIDR,210.16.183.122/32,no-resolve
 IP-CIDR,210.16.183.40/32,no-resolve
 IP-CIDR,210.16.183.51/32,no-resolve
+IP-CIDR,210.16.183.52/32,no-resolve
 IP-CIDR,210.16.183.53/32,no-resolve
 IP-CIDR,210.16.183.57/32,no-resolve
 IP-CIDR,210.16.183.58/32,no-resolve
