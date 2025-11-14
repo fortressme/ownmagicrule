@@ -302,8 +302,6 @@ IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:3509:3a26:2856:b87c/128,no-resolve
 IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
 IP-CIDR6,2408:8756:f5f:103:1a4b:82e2:0:29/128,no-resolve
-IP-CIDR6,2409:874d:c603:1e::101b/128,no-resolve
-IP-CIDR6,2409:874d:c603:1e::1052/128,no-resolve
 IP-CIDR6,2409:8c54:1020:34::61/128,no-resolve
 IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
 IP-CIDR6,2602:fa4f:b01:e322:20fc:a2c6:95ae:86cb/128,no-resolve
