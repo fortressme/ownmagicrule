@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,passwd.iswsh.com
 DOMAIN-SUFFIX,memos.iswsh.com
 DOMAIN-SUFFIX,cloud.iswsh.com
 DOMAIN-SUFFIX,photo.iswsh.com
+DOMAIN-SUFFIX,overleaf.iswsh.com
 DOMAIN-SUFFIX,nasdav.iswsh.com
 DOMAIN-SUFFIX,blinko.iswsh.com
 DOMAIN-SUFFIX,s3.iswsh.com
