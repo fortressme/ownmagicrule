@@ -102,7 +102,6 @@ DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com
 DOMAIN-SUFFIX,app-site-association.cdn-apple.com
 DOMAIN-SUFFIX,appldnld.apple.com
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
-DOMAIN-SUFFIX,appleid.cdn-apple.com
 DOMAIN-SUFFIX,apps.apple.com
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
@@ -257,7 +256,6 @@ DOMAIN-SUFFIX,weather-map2.apple.com
 DOMAIN-SUFFIX,weatherkit.apple.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
-DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,xp.apple.com
 ################## EOF ##################
 
