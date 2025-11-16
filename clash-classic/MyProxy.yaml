@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,java
   - DOMAIN-SUFFIX,java.com
   - DOMAIN-SUFFIX,java.net
+  - DOMAIN-SUFFIX,jetkvm.com
   - DOMAIN-SUFFIX,jpg.dog
   - DOMAIN-SUFFIX,kdcloud.uk
   - DOMAIN-SUFFIX,kk.51688.cc
