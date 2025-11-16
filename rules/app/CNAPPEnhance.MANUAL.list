@@ -206,6 +206,7 @@ PROCESS-NAME,com.tencent.apps.valorant
 PROCESS-NAME,com.baidu.carlife.vivo
 # VIVO套件
 PROCESS-NAME,pcsuite.exe
+PROCESS-NAME,pcsuite Helper
 PROCESS-NAME,com.vivo.pcsuite
 PROCESS-NAME,com.vivo.connbase
 PROCESS-NAME,com.vivo.vhome
