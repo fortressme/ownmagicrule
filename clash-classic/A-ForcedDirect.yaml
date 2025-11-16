@@ -72,7 +72,6 @@ payload:
   - DOMAIN-SUFFIX,app-site-association.cdn-apple.com
   - DOMAIN-SUFFIX,appldnld.apple.com
   - DOMAIN-SUFFIX,appldnld.g.aaplimg.com
-  - DOMAIN-SUFFIX,appleid.cdn-apple.com
   - DOMAIN-SUFFIX,apps.apple.com
   - DOMAIN-SUFFIX,apps.mzstatic.com
   - DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
@@ -227,7 +226,6 @@ payload:
   - DOMAIN-SUFFIX,weatherkit.apple.com
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net
-  - DOMAIN-SUFFIX,www.apple.com
   - DOMAIN-SUFFIX,xp.apple.com
   - DOMAIN,7h1s_rul35et_i5_mad3_by_5ukk4w-ruleset.skk.moe
   - DOMAIN,gs-loc-cn.apple.com
