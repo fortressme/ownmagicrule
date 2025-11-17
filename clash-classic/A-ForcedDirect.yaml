@@ -692,7 +692,7 @@ payload:
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.152.180.56/32,no-resolve
   - IP-CIDR,3.93.76.195/32,no-resolve
-  - IP-CIDR,34.210.144.27/32,no-resolve
+  - IP-CIDR,44.243.75.80/32,no-resolve
   - IP-CIDR,44.252.0.187/32,no-resolve
   - IP-CIDR,45.129.8.168/32,no-resolve
   - IP-CIDR,46.232.56.131/32,no-resolve
