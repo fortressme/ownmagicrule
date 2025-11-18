@@ -545,7 +545,7 @@ payload:
   - DOMAIN-SUFFIX,speedtest.rn-usdc2.876521.xyz
   - DOMAIN-SUFFIX,speedtest.yxhj-cnqd.876521.xyz
   - DOMAIN-SUFFIX,unamecf.xn--ghqu5fm27b67w.com
-  - DOMAIN-SUFFIX,wd-cdn-cm.solidigm-static.com
+  - DOMAIN-SUFFIX,wd-cdn-cu.solidigm-static.com
   - DOMAIN-SUFFIX,xgtec7j3vnko6ubqic2ucxycbjiubedzpbjkueomfv25w4czdh7yb5gnbthir63.xhscdn.vip
   - DOMAIN-SUFFIX,ydgz.miloli.me
   - DOMAIN-SUFFIX,yuyu.sffyn.com
@@ -590,7 +590,6 @@ payload:
   - IP-CIDR,113.57.36.140/32,no-resolve
   - IP-CIDR,113.57.36.146/32,no-resolve
   - IP-CIDR,113.57.36.147/32,no-resolve
-  - IP-CIDR,113.57.36.193/32,no-resolve
   - IP-CIDR,115.227.54.29/32,no-resolve
   - IP-CIDR,116.251.216.70/32,no-resolve
   - IP-CIDR,119.161.102.197/32,no-resolve
@@ -674,7 +673,7 @@ payload:
   - IP-CIDR,221.5.105.17/32,no-resolve
   - IP-CIDR,23.177.40.49/32,no-resolve
   - IP-CIDR,27.152.180.59/32,no-resolve
-  - IP-CIDR,3.93.76.195/32,no-resolve
+  - IP-CIDR,34.201.53.203/32,no-resolve
   - IP-CIDR,35.90.129.246/32,no-resolve
   - IP-CIDR,44.243.75.80/32,no-resolve
   - IP-CIDR,44.252.0.187/32,no-resolve
@@ -700,7 +699,7 @@ payload:
   - IP-CIDR,89.251.11.15/32,no-resolve
   - IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
   - IP-CIDR6,2406:da1e:61b:f926:82a8:4321:43ac:3c7f/128,no-resolve
-  - IP-CIDR6,2406:da1e:658:ecd0:fa78:93a:d16d:64df/128,no-resolve
+  - IP-CIDR6,2406:da1e:91b:ea9c:588e:bf6e:ebcc:81e1/128,no-resolve
   - IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
   - IP-CIDR6,2408:864e:c04:d:3509:3a26:2856:b87c/128,no-resolve
   - IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
