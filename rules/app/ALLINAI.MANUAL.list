@@ -5,9 +5,10 @@ DOMAIN-SUFFIX,edge.flo.ing
 DOMAIN-SUFFIX,us-assets.i.posthog.com
 DOMAIN-SUFFIX,us.i.posthog.com
 DOMAIN-SUFFIX,aibdxsebwhalbnugsqel.supabase.co
-# GoogleNotebooklm
+# GoogleNotebooklm/GEMINI/antigravity
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,antigravity.google
 # Trae IDE
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,byteoversea.com
