@@ -627,7 +627,7 @@ DOMAIN-SUFFIX,yuyu.sffyn.com
 DOMAIN-SUFFIX,yuyunsvip.80-25-lyy.com
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.161.37.193/32,no-resolve
+IP-CIDR,1.161.43.116/32,no-resolve
 IP-CIDR,103.197.71.100/32,no-resolve
 IP-CIDR,103.197.71.101/32,no-resolve
 IP-CIDR,103.197.71.102/32,no-resolve
