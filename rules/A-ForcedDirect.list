@@ -508,8 +508,6 @@ PROCESS-NAME,WebTorrent Helper
 PROCESS-NAME,leigod
 PROCESS-NAME,leigod.exe
 IP-CIDR,45.137.180.230/32,no-resolve
-IP-CIDR,203.174.83.116/32,no-resolve
-IP-CIDR,119.161.102.197/32,no-resolve
 
 
 DOMAIN-SUFFIX,3bd9.55dba.e048.f65-fef1f.yfjcs.com
