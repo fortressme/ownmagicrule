@@ -1,5 +1,3 @@
-# 这个列表会强制直连且在本规则中具有最高优先级
-
 # 微信HTTPDNS相关
 DOMAIN,dns.weixin.qq.com
 DOMAIN,dns.weixin.qq.com.cn
