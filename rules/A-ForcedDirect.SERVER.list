@@ -140,9 +140,9 @@ IP-CIDR,108.181.22.153/32,no-resolve
 IP-CIDR,108.181.23.241/32,no-resolve
 IP-CIDR,108.181.23.249/32,no-resolve
 IP-CIDR,108.181.23.255/32,no-resolve
-IP-CIDR,111.243.108.124/32,no-resolve
-IP-CIDR,111.249.70.158/32,no-resolve
-IP-CIDR,111.249.70.198/32,no-resolve
+IP-CIDR,111.243.113.227/32,no-resolve
+IP-CIDR,111.249.70.236/32,no-resolve
+IP-CIDR,111.249.71.13/32,no-resolve
 IP-CIDR,113.57.36.188/32,no-resolve
 IP-CIDR,113.57.36.207/32,no-resolve
 IP-CIDR,113.57.36.218/32,no-resolve
