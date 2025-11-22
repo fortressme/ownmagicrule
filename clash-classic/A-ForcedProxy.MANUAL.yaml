@@ -68,7 +68,6 @@ payload:
  - DOMAIN-SUFFIX,www.tailscale.com
  - DOMAIN,jms-support.eurekaselect.com
  - DOMAIN-SUFFIX,manuscriptpoint.com
- - DOMAIN-SUFFIX,core.885999.xyz
- - DOMAIN-SUFFIX,core.akoi.cc
- - DOMAIN-SUFFIX,core.ccoff.com
- - DOMAIN-SUFFIX,3cy.ccoff.com
+ - DOMAIN-SUFFIX,885999.xyz
+ - DOMAIN-SUFFIX,akoi.cc
+ - DOMAIN-SUFFIX,ccoff.com
