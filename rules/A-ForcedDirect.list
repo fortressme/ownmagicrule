@@ -614,12 +614,11 @@ DOMAIN-SUFFIX,speedtest.oracle-sg.876521.xyz
 DOMAIN-SUFFIX,speedtest.rn-usdc2.876521.xyz
 DOMAIN-SUFFIX,speedtest.yxhj-cnqd.876521.xyz
 DOMAIN-SUFFIX,unamecf.xn--ghqu5fm27b67w.com
-DOMAIN-SUFFIX,wd-cdn-cu.solidigm-static.com
+DOMAIN-SUFFIX,wd-cdn-cm.solidigm-static.com
 DOMAIN-SUFFIX,xgtec7j3vnko6ubqic2ucxycbjiubedzpbjkueomfv25w4czdh7yb5gnbthir63.xhscdn.vip
 DOMAIN-SUFFIX,ydgz.miloli.me
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.161.43.116/32,no-resolve
 IP-CIDR,103.197.71.100/32,no-resolve
 IP-CIDR,103.197.71.101/32,no-resolve
 IP-CIDR,103.197.71.102/32,no-resolve
@@ -656,6 +655,7 @@ IP-CIDR,113.29.226.148/32,no-resolve
 IP-CIDR,113.57.36.188/32,no-resolve
 IP-CIDR,113.57.36.207/32,no-resolve
 IP-CIDR,113.57.36.218/32,no-resolve
+IP-CIDR,114.37.213.163/32,no-resolve
 IP-CIDR,115.227.54.29/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,120.241.226.29/32,no-resolve
@@ -731,7 +731,7 @@ IP-CIDR,210.16.183.96/32,no-resolve
 IP-CIDR,213.35.110.206/32,no-resolve
 IP-CIDR,27.152.180.164/32,no-resolve
 IP-CIDR,35.90.112.105/32,no-resolve
-IP-CIDR,44.201.116.39/32,no-resolve
+IP-CIDR,44.249.126.35/32,no-resolve
 IP-CIDR,45.129.8.168/32,no-resolve
 IP-CIDR,46.232.56.131/32,no-resolve
 IP-CIDR,46.232.56.133/32,no-resolve
@@ -741,7 +741,7 @@ IP-CIDR,46.232.56.243/32,no-resolve
 IP-CIDR,46.232.56.244/32,no-resolve
 IP-CIDR,47.128.199.21/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
-IP-CIDR,54.149.156.242/32,no-resolve
+IP-CIDR,52.90.245.80/32,no-resolve
 IP-CIDR,54.225.59.74/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,63.141.226.123/32,no-resolve
