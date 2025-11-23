@@ -541,6 +541,7 @@ payload:
  - DOMAIN-SUFFIX,z.us1.niceduck.me
  - IP-CIDR,1.1.1.1/32,no-resolve
  - IP-CIDR,1.161.43.116/32,no-resolve
+ - IP-CIDR,100.29.16.208/32,no-resolve
  - IP-CIDR,103.197.71.100/32,no-resolve
  - IP-CIDR,103.197.71.101/32,no-resolve
  - IP-CIDR,103.197.71.102/32,no-resolve
@@ -650,7 +651,6 @@ payload:
  - IP-CIDR,213.35.110.206/32,no-resolve
  - IP-CIDR,27.152.180.164/32,no-resolve
  - IP-CIDR,35.90.170.221/32,no-resolve
- - IP-CIDR,44.201.116.39/32,no-resolve
  - IP-CIDR,44.249.126.35/32,no-resolve
  - IP-CIDR,44.251.238.90/32,no-resolve
  - IP-CIDR,45.129.8.168/32,no-resolve
