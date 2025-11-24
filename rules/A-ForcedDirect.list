@@ -569,7 +569,7 @@ DOMAIN-SUFFIX,pq.vmjp2.yydjc.top
 DOMAIN-SUFFIX,pq.vmjp3.yydjc.top
 DOMAIN-SUFFIX,pq.vmjp4.yydjc.top
 DOMAIN-SUFFIX,qqb12.123.tpmbt.cn
-DOMAIN-SUFFIX,qqb12.399789.xyz
+DOMAIN-SUFFIX,qqt.wgnmdgfw.com
 DOMAIN-SUFFIX,reverse-cu.solidigm-static.com
 DOMAIN-SUFFIX,rm-lite-hk-03.409648.xyz
 DOMAIN-SUFFIX,rm-lite-hk-15.409648.xyz
@@ -604,7 +604,6 @@ DOMAIN-SUFFIX,s.us3.niceduck.me
 DOMAIN-SUFFIX,s.us4.niceduck.me
 DOMAIN-SUFFIX,s.us5.niceduck.me
 DOMAIN-SUFFIX,s.us6.niceduck.me
-DOMAIN-SUFFIX,sg.wgnmdgfw.com
 DOMAIN-SUFFIX,speedtest.ali-hk.876521.xyz
 DOMAIN-SUFFIX,speedtest.bwg-us.876521.xyz
 DOMAIN-SUFFIX,speedtest.ccs-irl.876521.xyz
@@ -744,7 +743,6 @@ IP-CIDR,46.232.56.244/32,no-resolve
 IP-CIDR,46.82.174.69/32,no-resolve
 IP-CIDR,47.128.199.21/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
-IP-CIDR,59.24.3.174/32,no-resolve
 IP-CIDR,59.37.173.198/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,63.141.226.123/32,no-resolve
