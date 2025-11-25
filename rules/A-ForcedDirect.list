@@ -315,21 +315,17 @@ DOMAIN-SUFFIX,gsra.apple.com
 DOMAIN-SUFFIX,wkms-public.apple.com
 DOMAIN-SUFFIX,fcs-keys-pub-prod.cdn-apple.com
 
-DOMAIN-SUFFIX,dns.kizhou.cn
-DOMAIN-SUFFIX,dns.yiandrive.com
-DOMAIN-SUFFIX,cdn.kuxueyun.com
-DOMAIN-SUFFIX,cu21.kuxueyun.com
-DOMAIN-SUFFIX,cu22.kuxueyun.com
-DOMAIN-SUFFIX,cu41.kuxueyun.com
-DOMAIN-SUFFIX,cu42.kuxueyun.com
-DOMAIN-SUFFIX,cm.kuxueyun.com
-DOMAIN-SUFFIX,fastm.kxy.ovh
-DOMAIN-SUFFIX,fastu.kxy.ovh
-DOMAIN-SUFFIX,kxbjnat.112700.xyz
-DOMAIN-SUFFIX,kxbj9929.112700.xyz
+DOMAIN-SUFFIX,dwh.yiandrive.com
+DOMAIN-SUFFIX,dsz.yiandrive.com
+DOMAIN-SUFFIX,bgp.yiandrive.com
+DOMAIN-SUFFIX,dhn.yiandrive.com
 DOMAIN-SUFFIX,yahnnat.112700.xyz
 DOMAIN-SUFFIX,yawhnat.112700.xyz
-
+DOMAIN-SUFFIX,tx0.speedtest.112700.xyz
+DOMAIN-SUFFIX,yasz.speedtest.112700.xyz
+DOMAIN-SUFFIX,yaxy.speedtest.112700.xyz
+DOMAIN-SUFFIX,yawh.speedtest.112700.xyz
+DOMAIN-SUFFIX,yxqd.speedtest.112700.xyz
 DOMAIN-SUFFIX,time.asia.apple.com
 
 # 公共DNS直连
