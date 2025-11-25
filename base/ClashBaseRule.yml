@@ -12,7 +12,7 @@ mode: rule
 log-level: info
 global-client-fingerprint: firefox
 global-ua: mymihomo
-tcp-concurrent: false
+tcp-concurrent: true
 unified-delay: false
 keep-alive-interval: 15
 keep-alive-idle: 180
@@ -53,7 +53,7 @@ tun:
 dns:
   enable: true
   ipv6: true
-  cache-algorithm: arc
+  cache-algorithm: lru
   prefer-h3: true
   use-hosts: true
   use-system-hosts: true
@@ -89,7 +89,13 @@ dns:
     - 123.125.81.6
     - 101.226.4.6
     - 2400:3200::1
+  proxy-server-nameserver:
+    - https://doh.pub/dns-query#skip-cert-verify=true
+    - https://doh.360.cn#skip-cert-verify=true
+    - https://223.5.5.5/dns-query#skip-cert-verify=true
+    - https://dns.alidns.com/dns-query#skip-cert-verify=true
   fake-ip-range: 198.18.0.1/16
+  fake-ip-range6: fdfe:dcba:9876::1/64
   fake-ip-filter-mode: blacklist
   fake-ip-filter:
     - 'stun.*.*'
