@@ -441,6 +441,7 @@ payload:
  - DOMAIN-SUFFIX,aaaa-dws75rnrbtfr25hx.ravenna0943.xyz
  - DOMAIN-SUFFIX,auth.wgnmdgfw.net
  - DOMAIN-SUFFIX,auto.wgnmdgfw.com
+ - DOMAIN-SUFFIX,b3.passip.xyz
  - DOMAIN-SUFFIX,c3.passip.xyz
  - DOMAIN-SUFFIX,cf.yfjc.sbs
  - DOMAIN-SUFFIX,cname-kna5xzrk6jhwkbe8.duomo3205.xyz
@@ -646,8 +647,12 @@ payload:
  - IP-CIDR,205.178.182.55/32,no-resolve
  - IP-CIDR,205.198.70.101/32,no-resolve
  - IP-CIDR,210.16.183.132/32,no-resolve
+ - IP-CIDR,210.16.183.137/32,no-resolve
  - IP-CIDR,210.16.183.15/32,no-resolve
+ - IP-CIDR,210.16.183.21/32,no-resolve
+ - IP-CIDR,210.16.183.85/32,no-resolve
  - IP-CIDR,213.35.110.206/32,no-resolve
+ - IP-CIDR,27.152.180.167/32,no-resolve
  - IP-CIDR,3.93.12.27/32,no-resolve
  - IP-CIDR,34.222.247.48/32,no-resolve
  - IP-CIDR,44.244.65.226/32,no-resolve
