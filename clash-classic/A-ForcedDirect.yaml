@@ -238,6 +238,7 @@ payload:
  - DOMAIN-SUFFIX,apple.com.cn
  - DOMAIN,dns.weixin.qq.com
  - DOMAIN,dns.weixin.qq.com.cn
+ - DOMAIN,ied-tqos-tgp.qq.com
  - IP-CIDR,42.81.232.18/32,no-resolve
  - IP-CIDR,42.187.182.106/32,no-resolve
  - IP-CIDR,42.187.182.123/32,no-resolve
