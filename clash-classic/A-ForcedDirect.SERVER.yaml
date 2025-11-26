@@ -12,6 +12,7 @@ payload:
  - DOMAIN-SUFFIX,auth.wgnmdgfw.net
  - DOMAIN-SUFFIX,auto.wgnmdgfw.com
  - DOMAIN-SUFFIX,b3.passip.xyz
+ - DOMAIN-SUFFIX,c3.passip.xyz
  - DOMAIN-SUFFIX,cf.yfjc.sbs
  - DOMAIN-SUFFIX,cname-kna5xzrk6jhwkbe8.duomo3205.xyz
  - DOMAIN-SUFFIX,cname-lm.cnameip.xyz
@@ -142,6 +143,7 @@ payload:
  - IP-CIDR,111.249.70.79/32,no-resolve
  - IP-CIDR,111.47.247.216/32,no-resolve
  - IP-CIDR,113.29.226.148/32,no-resolve
+ - IP-CIDR,113.57.36.224/32,no-resolve
  - IP-CIDR,113.57.36.230/32,no-resolve
  - IP-CIDR,113.57.36.231/32,no-resolve
  - IP-CIDR,114.37.213.163/32,no-resolve
@@ -232,6 +234,7 @@ payload:
  - IP-CIDR,47.76.213.235/32,no-resolve
  - IP-CIDR,54.184.143.247/32,no-resolve
  - IP-CIDR,54.212.225.243/32,no-resolve
+ - IP-CIDR,59.24.3.174/32,no-resolve
  - IP-CIDR,59.37.173.198/32,no-resolve
  - IP-CIDR,63.141.128.173/32,no-resolve
  - IP-CIDR,63.141.226.123/32,no-resolve
