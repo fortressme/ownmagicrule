@@ -105,7 +105,7 @@ DOMAIN-SUFFIX,wd-cdn-cu.solidigm-static.com
 DOMAIN-SUFFIX,ydgz.miloli.me
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.162.159.49/32,no-resolve
+IP-CIDR,1.162.163.59/32,no-resolve
 IP-CIDR,103.197.71.100/32,no-resolve
 IP-CIDR,103.197.71.101/32,no-resolve
 IP-CIDR,103.197.71.102/32,no-resolve
@@ -136,8 +136,8 @@ IP-CIDR,108.181.22.153/32,no-resolve
 IP-CIDR,108.181.23.241/32,no-resolve
 IP-CIDR,108.181.23.249/32,no-resolve
 IP-CIDR,108.181.23.255/32,no-resolve
-IP-CIDR,111.249.70.114/32,no-resolve
-IP-CIDR,111.249.70.79/32,no-resolve
+IP-CIDR,111.249.69.149/32,no-resolve
+IP-CIDR,111.249.70.72/32,no-resolve
 IP-CIDR,113.29.226.148/32,no-resolve
 IP-CIDR,113.57.36.157/32,no-resolve
 IP-CIDR,113.57.36.159/32,no-resolve
@@ -147,7 +147,6 @@ IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,120.196.204.197/32,no-resolve
 IP-CIDR,120.241.226.40/32,no-resolve
 IP-CIDR,120.37.141.13/32,no-resolve
-IP-CIDR,120.83.147.154/32,no-resolve
 IP-CIDR,123.121.191.36/32,no-resolve
 IP-CIDR,125.78.88.44/32,no-resolve
 IP-CIDR,129.148.39.249/32,no-resolve
@@ -213,7 +212,6 @@ IP-CIDR,205.178.182.55/32,no-resolve
 IP-CIDR,205.198.70.101/32,no-resolve
 IP-CIDR,210.16.183.45/32,no-resolve
 IP-CIDR,213.35.110.206/32,no-resolve
-IP-CIDR,27.152.180.170/32,no-resolve
 IP-CIDR,3.0.29.196/32,no-resolve
 IP-CIDR,3.93.12.27/32,no-resolve
 IP-CIDR,34.221.78.227/32,no-resolve
@@ -240,7 +238,6 @@ IP-CIDR,85.159.92.99/32,no-resolve
 IP-CIDR,85.211.198.182/32,no-resolve
 IP-CIDR,89.163.146.162/32,no-resolve
 IP-CIDR,89.251.11.15/32,no-resolve
-IP-CIDR,93.46.8.90/32,no-resolve
 IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
 IP-CIDR6,2408:864e:c04:d:3509:3a26:2856:b87c/128,no-resolve
