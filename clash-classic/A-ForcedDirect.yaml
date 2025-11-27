@@ -454,6 +454,7 @@ payload:
  - DOMAIN-SUFFIX,dx.miloli.me
  - DOMAIN-SUFFIX,fastu.kxy.ovh
  - DOMAIN-SUFFIX,guangdong-cn.digital-nvme.com
+ - DOMAIN-SUFFIX,gzsx.miloli.me
  - DOMAIN-SUFFIX,iycms.v6.pub
  - DOMAIN-SUFFIX,jf7ghniuy348zq936s3pn45azyvbt62kngqjp49tbkqrxj949k56xrqemppf6rx.xhscdn.vip
  - DOMAIN-SUFFIX,jsyd.niceduck.me
@@ -532,7 +533,6 @@ payload:
  - DOMAIN-SUFFIX,unamecf.xn--ghqu5fm27b67w.com
  - DOMAIN-SUFFIX,wd-cdn-cu.solidigm-static.com
  - DOMAIN-SUFFIX,ydgz.miloli.me
- - DOMAIN-SUFFIX,yh.641by1.xyz
  - DOMAIN-SUFFIX,z.us1.niceduck.me
  - IP-CIDR,1.1.1.1/32,no-resolve
  - IP-CIDR,1.162.159.49/32,no-resolve
@@ -576,6 +576,7 @@ payload:
  - IP-CIDR,116.251.216.70/32,no-resolve
  - IP-CIDR,120.241.226.40/32,no-resolve
  - IP-CIDR,120.37.141.13/32,no-resolve
+ - IP-CIDR,120.83.147.154/32,no-resolve
  - IP-CIDR,123.121.191.36/32,no-resolve
  - IP-CIDR,125.78.88.44/32,no-resolve
  - IP-CIDR,129.148.39.249/32,no-resolve
@@ -668,7 +669,6 @@ payload:
  - IP-CIDR,85.211.197.128/32,no-resolve
  - IP-CIDR,89.163.146.162/32,no-resolve
  - IP-CIDR,89.251.11.15/32,no-resolve
- - IP-CIDR,93.46.8.90/32,no-resolve
  - IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
  - IP-CIDR6,2408:864e:c04:d:22ac:86ef:122a:dc30/128,no-resolve
  - IP-CIDR6,2408:864e:c04:d:3509:3a26:2856:b87c/128,no-resolve
