@@ -61,18 +61,18 @@ dns:
   enhanced-mode: fake-ip
   nameserver-policy:
     'geosite:googlefcm': 
-      - https://doh.pub/dns-query#skip-cert-verify=true
-      - https://doh.360.cn#skip-cert-verify=true
-      - https://dns.alidns.com/dns-query#skip-cert-verify=true
+      - https://doh.pub/dns-query
+      - https://doh.360.cn
+      - https://dns.alidns.com/dns-query
     '+.aliyuncs.com': 
-      - https://doh.pub/dns-query#skip-cert-verify=true
-      - https://doh.360.cn#skip-cert-verify=true
-      - https://dns.alidns.com/dns-query#skip-cert-verify=true
+      - https://doh.pub/dns-query
+      - https://doh.360.cn
+      - https://dns.alidns.com/dns-query
     'geosite:gfw': 
-      - https://doh.opendns.com/dns-query#🚀 主要代理&skip-cert-verify=true
-      - https://1.1.1.1/dns-query#🚀 主要代理&skip-cert-verify=true
-      - https://8.8.8.8/dns-query#🚀 主要代理&skip-cert-verify=true
-      - https://[2001:4860:4860::64]/dns-query#🚀 主要代理&skip-cert-verify=true
+      - https://doh.opendns.com/dns-query#🚀 主要代理
+      - https://1.1.1.1/dns-query#🚀 主要代理
+      - https://8.8.8.8/dns-query#🚀 主要代理
+      - https://[2001:4860:4860::64]/dns-query#🚀 主要代理
   default-nameserver:
     - 202.102.152.3
     - 119.29.29.29
@@ -84,9 +84,9 @@ dns:
     - 123.125.81.6
     - 101.226.4.6
   proxy-server-nameserver:
-    - https://doh.pub/dns-query#skip-cert-verify=true
-    - https://1.1.1.1/dns-query#🚀 主要代理&skip-cert-verify=true
-    - https://8.8.8.8/dns-query#🚀 主要代理&skip-cert-verify=true
+    - https://doh.pub/dns-query
+    - https://1.1.1.1/dns-query#🚀 主要代理
+    - https://8.8.8.8/dns-query#🚀 主要代理
   direct-nameserver:
     - system
     - 202.102.152.3
