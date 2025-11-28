@@ -92,6 +92,7 @@ payload:
  - IP-CIDR6,2602:f988:80::/48,no-resolve
  - IP-CIDR6,2602:f988:90::/48,no-resolve
  - IP-CIDR6,2602:f988:210::/48,no-resolve
+ - IP-CIDR6,2605:6f01:2000::/48,no-resolve
  - IP-CIDR6,2607:9000:800::/48,no-resolve
  - IP-CIDR6,2607:f130::/32,no-resolve
  - IP-CIDR6,2607:fcd0::/32,no-resolve
