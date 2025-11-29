@@ -87,12 +87,6 @@ dns:
     - https://doh.pub/dns-query
     - https://1.1.1.1/dns-query#🚀 主要代理
     - https://8.8.8.8/dns-query#🚀 主要代理
-  direct-nameserver:
-    - 202.102.152.3
-    - 119.29.29.29
-    - 123.125.81.6
-    - 101.226.4.6
-  direct-nameserver-follow-policy: false
   fake-ip-range: 198.18.0.1/16
   fake-ip-range6: fdfe:dcba:9876::1/64
   fake-ip-filter-mode: blacklist
