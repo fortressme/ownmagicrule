@@ -195,10 +195,8 @@ payload:
  - DOMAIN-SUFFIX,search.iswsh.com
  - DOMAIN-SUFFIX,shared.oaifree.com
  - DOMAIN-SUFFIX,shucdn.com
- - DOMAIN-SUFFIX,shurl.096899.xyz
  - DOMAIN-SUFFIX,siliconflow.com
  - DOMAIN-SUFFIX,stables.money
- - DOMAIN-SUFFIX,sub.876521.xyz
  - DOMAIN-SUFFIX,sun.com
  - DOMAIN-SUFFIX,tarekcloud.com
  - DOMAIN-SUFFIX,tawk.to
@@ -209,7 +207,6 @@ payload:
  - DOMAIN-SUFFIX,up-ap-southeast-2.qiniup.com
  - DOMAIN-SUFFIX,up-ap-southeast-3.qiniup.com
  - DOMAIN-SUFFIX,up-as0.qiniup.com
- - DOMAIN-SUFFIX,url.112700.xyz
  - DOMAIN-SUFFIX,urlimage.cc
  - DOMAIN-SUFFIX,v2ex.com
  - DOMAIN-SUFFIX,vcc.center
@@ -225,7 +222,6 @@ payload:
  - DOMAIN-SUFFIX,xaoxuu.com
  - DOMAIN-SUFFIX,xbiquge.laa
  - DOMAIN-SUFFIX,yaoluxs.com
- - DOMAIN-SUFFIX,yf.876521.xyz
  - DOMAIN-SUFFIX,z.ai
  - DOMAIN-SUFFIX,zread.ai
  - IP-CIDR,49.232.25.145/32,no-resolve
