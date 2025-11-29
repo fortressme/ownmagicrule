@@ -69,10 +69,10 @@ dns:
       - https://doh.360.cn
       - https://dns.alidns.com/dns-query
     'geosite:gfw': 
-      - https://doh.opendns.com/dns-query#🚀 主要代理
-      - https://1.1.1.1/dns-query#🚀 主要代理
-      - https://8.8.8.8/dns-query#🚀 主要代理
-      - https://[2001:4860:4860::64]/dns-query#🚀 主要代理
+      - https://doh.opendns.com/dns-query#MainProxy
+      - https://1.1.1.1/dns-query#MainProxy
+      - https://8.8.8.8/dns-query#MainProxy
+      - https://[2001:4860:4860::64]/dns-query#MainProxy
   default-nameserver:
     - 202.102.152.3
     - 119.29.29.29
@@ -85,8 +85,8 @@ dns:
     - 101.226.4.6
   proxy-server-nameserver:
     - https://doh.pub/dns-query
-    - https://1.1.1.1/dns-query#🚀 主要代理
-    - https://8.8.8.8/dns-query#🚀 主要代理
+    - https://1.1.1.1/dns-query#MainProxy
+    - https://8.8.8.8/dns-query#MainProxy
   fake-ip-range: 198.18.0.1/16
   fake-ip-range6: fdfe:dcba:9876::1/64
   fake-ip-filter-mode: blacklist
