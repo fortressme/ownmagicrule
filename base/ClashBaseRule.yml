@@ -88,7 +88,6 @@ dns:
     - https://1.1.1.1/dns-query#🚀 主要代理
     - https://8.8.8.8/dns-query#🚀 主要代理
   direct-nameserver:
-    - system
     - 202.102.152.3
     - 119.29.29.29
     - 123.125.81.6
