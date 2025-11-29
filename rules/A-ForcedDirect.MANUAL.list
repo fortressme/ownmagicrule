@@ -179,6 +179,10 @@ DOMAIN-SUFFIX,hub.incept.pw
 DOMAIN-SUFFIX,hub.incept.pw
 DOMAIN-SUFFIX,kkgithub.com
 DOMAIN-SUFFIX,gitclone.com
+DOMAIN-SUFFIX,gh-proxy.org
+DOMAIN,fastly.jsdelivr.net
+DOMAIN,cdn.jsdmirror.com
+DOMAIN-SUFFIX,akams.cn
 
 # IPV6Test
 DOMAIN-SUFFIX,test-ipv6.com
