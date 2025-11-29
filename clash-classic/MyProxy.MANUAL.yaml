@@ -155,6 +155,7 @@ payload:
  - DOMAIN-SUFFIX,qpic.ws
  - DOMAIN-SUFFIX,2img.org
  - DOMAIN-SUFFIX,qpic.ws
+ - DOMAIN-SUFFIX,hbsb.096899.xyz
  - DOMAIN-SUFFIX,opengist.096899.xyz
  - DOMAIN-SUFFIX,i.096899.xyz
  - DOMAIN-SUFFIX,20img.com
@@ -191,3 +192,4 @@ payload:
  - DOMAIN-SUFFIX,aladingnet.com
  - DOMAIN-SUFFIX,aladingnet.xyz
  - DOMAIN-SUFFIX,jetkvm.com
+ - DOMAIN-SUFFIX,hostypanel.com
