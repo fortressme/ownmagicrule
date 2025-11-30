@@ -323,6 +323,9 @@ payload:
  - IP-CIDR6,2404:c2c0:85d8:901::8/128,no-resolve
  - IP-CIDR6,2400:7fc0:849e:200::8/128,no-resolve
  - IP-CIDR6,2001:dc7:1000::1/128,no-resolve
+ - DOMAIN-SUFFIX,meituan.net
+ - DOMAIN-SUFFIX,meituan.com
+ - DOMAIN-SUFFIX,health.vivo.com
  - DST-PORT,9993
  - SRC-PORT,9993
  - DST-PORT,9995
