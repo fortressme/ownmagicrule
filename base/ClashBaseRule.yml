@@ -68,6 +68,11 @@ dns:
       - https://doh.pub/dns-query
       - https://doh.360.cn
       - https://dns.alidns.com/dns-query
+    'geosite:cn': 
+      - 202.102.152.3
+      - 119.29.29.29
+      - 123.125.81.6
+      - 101.226.4.6
     'geosite:gfw': 
       - https://doh.opendns.com/dns-query#Proxy
       - https://1.1.1.1/dns-query#Proxy
