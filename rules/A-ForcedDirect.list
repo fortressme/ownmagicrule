@@ -293,17 +293,13 @@ IP-CIDR,42.187.184.154/32,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,no-resolve
 IP-CIDR6,240e:928:1400:10::25/128,no-resolve
-
 # WIN重定向网页
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,time.windows.com
-
 DOMAIN,dns.msftncsi.com
 DOMAIN,www.msftncsi.com
-
 DOMAIN-SUFFIX,kimi.ai
 DOMAIN-SUFFIX,digicert.com
-
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gg.apple.com
@@ -316,7 +312,6 @@ DOMAIN-SUFFIX,gdmf-ados.apple.com
 DOMAIN-SUFFIX,gsra.apple.com
 DOMAIN-SUFFIX,wkms-public.apple.com
 DOMAIN-SUFFIX,fcs-keys-pub-prod.cdn-apple.com
-
 DOMAIN-SUFFIX,dwh.yiandrive.com
 DOMAIN-SUFFIX,dsz.yiandrive.com
 DOMAIN-SUFFIX,bgp.yiandrive.com
@@ -329,7 +324,6 @@ DOMAIN-SUFFIX,yaxy.speedtest.112700.xyz
 DOMAIN-SUFFIX,yawh.speedtest.112700.xyz
 DOMAIN-SUFFIX,yxqd.speedtest.112700.xyz
 DOMAIN-SUFFIX,time.asia.apple.com
-
 # 公共DNS直连
 DOMAIN,dns.alidns.com
 DOMAIN,doh.pub
@@ -377,8 +371,10 @@ IP-CIDR6,2400:3200::1/128,no-resolve
 IP-CIDR6,2404:c2c0:85d8:901::8/128,no-resolve
 IP-CIDR6,2400:7fc0:849e:200::8/128,no-resolve
 IP-CIDR6,2001:dc7:1000::1/128,no-resolve
-
-
+# 某些特殊APP和国内域名
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,health.vivo.com
 # SDWAN
 DST-PORT,9993
 SRC-PORT,9993
@@ -401,11 +397,9 @@ PROCESS-NAME,Tailscale Service
 PROCESS-NAME,Tailscale.exe
 PROCESS-NAME,Tailscale Service.exe
 PROCESS-NAME,eztest
-
 # 一些影视站
 DOMAIN-SUFFIX,sbzyplay.com
 DOMAIN-SUFFIX,v6.pub
-
 # 直连流媒体
 # DOMAIN-SUFFIX,dpx1.niceduck.lol
 # DOMAIN-SUFFIX,dpx1v6.niceduck.lol
@@ -416,7 +410,6 @@ DOMAIN-SUFFIX,v6.pub
 DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
 DOMAIN-KEYWORD,embyvip
 DOMAIN-SUFFIX,makima.online
-
 # 某些可能影响其他工作的网站
 DOMAIN-SUFFIX,z1.ectrip.com
 DOMAIN-SUFFIX,yxvm.com
@@ -445,14 +438,12 @@ DOMAIN-SUFFIX,mirrors.tuna.tsinghua.edu.cn
 DOMAIN-SUFFIX,nsloop.com
 DOMAIN-SUFFIX,uulap.com
 DOMAIN-SUFFIX,z100.vip
-
 # PTDownload
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,hitpt.com
 DOMAIN-SUFFIX,tjupt.org
 PROCESS-NAME,qbittorrent
 PROCESS-NAME,transmission
-
 # 镜像网站
 DOMAIN-SUFFIX,mirror.ghproxy.com
 DOMAIN-SUFFIX,hub.fgit.mxtrans.net
@@ -467,7 +458,6 @@ DOMAIN-SUFFIX,gh-proxy.org
 DOMAIN,fastly.jsdelivr.net
 DOMAIN,cdn.jsdmirror.com
 DOMAIN-SUFFIX,akams.cn
-
 # IPV6Test
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ipv6-test.ch
@@ -487,7 +477,6 @@ DOMAIN-KEYWORD,IPV6-Test
 DOMAIN-KEYWORD,IPV6Test
 DOMAIN-KEYWORD,Test-IPV6
 DOMAIN-KEYWORD,TestIPV6
-
 PROCESS-NAME,BitComet
 PROCESS-NAME,NetTransport
 PROCESS-NAME,qbittorrent
