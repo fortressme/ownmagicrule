@@ -87,7 +87,6 @@ payload:
  - PROCESS-NAME,TinyDL.exe
  - PROCESS-NAME,com.tencent.apps.valorant
  - PROCESS-NAME,com.baidu.carlife.vivo
- - DOMAIN-SUFFIX,health.vivo.com
  - PROCESS-NAME,pcsuite.exe
  - PROCESS-NAME,pcsuite Helper
  - PROCESS-NAME,com.vivo.pcsuite
