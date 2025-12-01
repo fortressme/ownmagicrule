@@ -205,6 +205,7 @@ payload:
  - DOMAIN-SUFFIX,qoder.com
  - DOMAIN-SUFFIX,cerebras.ai
  - DOMAIN-SUFFIX,thinkingmachines.ai
+ - DOMAIN-SUFFIX,ftp3.hostypanel.com
  - DOMAIN-SUFFIX,together.ai
  - DOMAIN-SUFFIX,rclone.org
  - DOMAIN-SUFFIX,namecrane.com
@@ -261,6 +262,7 @@ payload:
  - DOMAIN-SUFFIX,build.nvidia.com
  - DOMAIN-SUFFIX,api.ainq.de
  - DOMAIN-SUFFIX,chat.ainq.de
+ - IP-CIDR,38.129.137.24/32,no-resolve
  - IP-CIDR,66.94.0.0/19,no-resolve
  - IP-CIDR,206.29.177.36/32,no-resolve
  - IP-CIDR,208.54.0.0/16,no-resolve
