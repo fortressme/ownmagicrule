@@ -24,7 +24,6 @@ payload:
  - DOMAIN-KEYWORD,cosmotown
  - DOMAIN-SUFFIX,spaceship.com
  - DOMAIN-SUFFIX,spaceship-cdn.com
- - DOMAIN-SUFFIX,hostbrr.com
  - DOMAIN-SUFFIX,wootric.com
  - DOMAIN-SUFFIX,unraid.net
  - DOMAIN-SUFFIX,contentsquare.net
