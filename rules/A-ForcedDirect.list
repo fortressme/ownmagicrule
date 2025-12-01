@@ -772,5 +772,6 @@ IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
 IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
 IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
 IP-CIDR6,64:ff9b::2ee8:3885/128,no-resolve
+IP-CIDR6,64:ff9b::9a0c:b273/128,no-resolve
 IP-CIDR6,64:ff9b::cb0a:62bc/128,no-resolve
 
