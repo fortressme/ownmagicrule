@@ -22,6 +22,10 @@ payload:
  - DOMAIN-SUFFIX,ifastgb.com
  - PROCESS-NAME,com.ifast.gb
  - DOMAIN-SUFFIX,moldtelecom.md
+ - DOMAIN-SUFFIX,ftp1.hostypanel.com
+ - DOMAIN-SUFFIX,ftp2.hostypanel.com
+ - IP-CIDR,49.12.135.157/32,no-resolve
+ - IP-CIDR,157.90.37.30/32,no-resolve
  - PROCESS-NAME,com.bybit.app
  - DOMAIN-SUFFIX,bybit.app
  - DOMAIN-SUFFIX,bybit.com
