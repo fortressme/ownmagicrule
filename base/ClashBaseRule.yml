@@ -92,6 +92,23 @@ dns:
     - https://doh.pub/dns-query
     - https://1.1.1.1/dns-query#Proxy
     - https://8.8.8.8/dns-query#Proxy
+  fallback:
+    - https://doh.opendns.com/dns-query#Proxy
+    - https://1.1.1.1/dns-query#Proxy
+    - https://8.8.8.8/dns-query#Proxy
+    - https://[2001:4860:4860::64]/dns-query#Proxy
+  fallback-filter:
+    geoip: false
+    geoip-code: CN
+    geosite:
+      - gfw
+    ipcidr:
+      - 240.0.0.0/4
+      - 93.46.8.90/32
+    domain:
+      - '+.google.com'
+      - '+.facebook.com'
+      - '+.youtube.com'
   fake-ip-range: 198.18.0.1/16
   fake-ip-range6: fdfe:dcba:9876::1/64
   fake-ip-filter-mode: blacklist
