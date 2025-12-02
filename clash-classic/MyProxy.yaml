@@ -35,7 +35,6 @@ payload:
  - DOMAIN-SUFFIX,akoi.cc
  - DOMAIN-SUFFIX,aladingnet.com
  - DOMAIN-SUFFIX,aladingnet.xyz
- - DOMAIN-SUFFIX,alist.iswsh.com
  - DOMAIN-SUFFIX,api-ap-southeast-2.qiniuapi.com
  - DOMAIN-SUFFIX,api-ap-southeast-3.qiniuapi.com
  - DOMAIN-SUFFIX,api.nn.ci
@@ -159,17 +158,18 @@ payload:
  - DOMAIN-SUFFIX,notion.so
  - DOMAIN-SUFFIX,novel.seseclub.com
  - DOMAIN-SUFFIX,ntdm9.com
+ - DOMAIN-SUFFIX,of.iswsh.com
  - DOMAIN-SUFFIX,ollama.ai
  - DOMAIN-SUFFIX,ollama.com
  - DOMAIN-SUFFIX,ooklaserver.net
  - DOMAIN-SUFFIX,opengist.096899.xyz
+ - DOMAIN-SUFFIX,openlist.iswsh.com
  - DOMAIN-SUFFIX,oracle
  - DOMAIN-SUFFIX,oracle.com
  - DOMAIN-SUFFIX,oraclecloud.com
  - DOMAIN-SUFFIX,oraclefoundation.org
  - DOMAIN-SUFFIX,oracleimg.com
  - DOMAIN-SUFFIX,oracleinfinity.io
- - DOMAIN-SUFFIX,overleaf.iswsh.com
  - DOMAIN-SUFFIX,papakatsu.co
  - DOMAIN-SUFFIX,passwd.iswsh.com
  - DOMAIN-SUFFIX,phantom.app
