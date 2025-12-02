@@ -37,9 +37,3 @@ https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2FXXX.XXX%2F&i
 ```http
 https%3A%2F%2Fraw.githubusercontent.com%2Ffortressme%2Fownmagicrule%2Fmain%2Fclash-rule-general.ini
 ```
-
-自建落地config为：
-
-```http
-https%3A%2F%2Fraw.githubusercontent.com%2Ffortressme%2Fownmagicrule%2Fmain%2Fclash-rule.ini
-```
