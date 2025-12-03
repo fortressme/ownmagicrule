@@ -704,5 +704,5 @@ payload:
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
  - IP-CIDR6,64:ff9b::86c3:6579/128,no-resolve
  - IP-CIDR6,64:ff9b::86c3:65b5/128,no-resolve
+ - IP-CIDR6,64:ff9b::9a0c:b273/128,no-resolve
  - IP-CIDR6,64:ff9b::cb0a:63d4/128,no-resolve
- - IP-CIDR6,64:ff9b::cdc6:4665/128,no-resolve
