@@ -24,6 +24,8 @@ payload:
  - DOMAIN-KEYWORD,voice.telephony
  - DOMAIN-SUFFIX,voice.google.com
  - DOMAIN-SUFFIX,voice.telephony.goog
+ - DOMAIN-SUFFIX,talkatone.com
+ - PROCESS-NAME,com.talkatone.android
  - PROCESS-NAME,com.paypal.android.p2pmobile
  - DOMAIN-SUFFIX,umass.edu
  - DOMAIN-SUFFIX,cvtc.edu
