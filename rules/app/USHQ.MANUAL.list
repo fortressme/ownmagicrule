@@ -23,6 +23,8 @@ DOMAIN-KEYWORD,voice.google
 DOMAIN-KEYWORD,voice.telephony
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN-SUFFIX,voice.telephony.goog
+DOMAIN-SUFFIX,talkatone.com
+PROCESS-NAME,com.talkatone.android
 
 # Paypal补充
 PROCESS-NAME,com.paypal.android.p2pmobile
