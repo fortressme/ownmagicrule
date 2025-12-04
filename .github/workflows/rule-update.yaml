@@ -48,7 +48,7 @@ jobs:
     - name: Download ForcedDirect rules
       run: |
         files=(
-          "microsoft_cdn.list|https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/List/non_ip/microsoft_cdn.conf"
+          # "microsoft_cdn.list|https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/List/non_ip/microsoft_cdn.conf"
           "apple_cdn.list|https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/List/non_ip/apple_cdn.conf"
           "apple_cn.list|https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/List/non_ip/apple_cn.conf"
         )
