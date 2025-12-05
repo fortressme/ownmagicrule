@@ -258,7 +258,7 @@ IP-CIDR,213.35.110.206/32,no-resolve
 IP-CIDR,27.152.180.175/32,no-resolve
 IP-CIDR,3.0.29.196/32,no-resolve
 IP-CIDR,34.219.138.184/32,no-resolve
-IP-CIDR,35.89.52.125/32,no-resolve
+IP-CIDR,34.222.224.12/32,no-resolve
 IP-CIDR,36.141.116.187/32,no-resolve
 IP-CIDR,44.201.212.204/32,no-resolve
 IP-CIDR,44.202.85.220/32,no-resolve
@@ -270,6 +270,7 @@ IP-CIDR,46.232.56.147/32,no-resolve
 IP-CIDR,46.232.56.152/32,no-resolve
 IP-CIDR,46.232.56.243/32,no-resolve
 IP-CIDR,46.232.56.244/32,no-resolve
+IP-CIDR,46.82.174.69/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
 IP-CIDR,54.169.90.67/32,no-resolve
 IP-CIDR,59.37.173.239/32,no-resolve
