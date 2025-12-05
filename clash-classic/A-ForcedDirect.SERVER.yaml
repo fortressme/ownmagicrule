@@ -11,6 +11,7 @@ payload:
  - DOMAIN-SUFFIX,aaaa-dws75rnrbtfr25hx.kc28zn.xin
  - DOMAIN-SUFFIX,acjpsb.speedtest.876521.xyz
  - DOMAIN-SUFFIX,auto.wgnmdgfw.com
+ - DOMAIN-SUFFIX,b3.passip.xyz
  - DOMAIN-SUFFIX,b6dfxm9qp7t7bsfzl54cx99fggmv89f7f7oc1pxsttdil6346wxb7rows3pqbp5.xhscdn.vip
  - DOMAIN-SUFFIX,bage-usla.speedtest.876521.xyz
  - DOMAIN-SUFFIX,c3.passip.xyz
@@ -252,10 +253,11 @@ payload:
  - IP-CIDR,205.198.70.101/32,no-resolve
  - IP-CIDR,207.211.147.108/32,no-resolve
  - IP-CIDR,210.16.183.139/32,no-resolve
- - IP-CIDR,210.16.183.249/32,no-resolve
+ - IP-CIDR,210.16.183.43/32,no-resolve
  - IP-CIDR,212.135.213.240/32,no-resolve
  - IP-CIDR,213.130.142.3/32,no-resolve
  - IP-CIDR,213.35.110.206/32,no-resolve
+ - IP-CIDR,27.152.180.175/32,no-resolve
  - IP-CIDR,3.0.29.196/32,no-resolve
  - IP-CIDR,34.219.138.184/32,no-resolve
  - IP-CIDR,34.222.224.12/32,no-resolve
@@ -298,3 +300,4 @@ payload:
  - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
  - IP-CIDR6,64:ff9b::22db:8ab8/128,no-resolve
+ - IP-CIDR6,64:ff9b::86c3:65bd/128,no-resolve
