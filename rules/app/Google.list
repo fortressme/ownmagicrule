@@ -717,16 +717,12 @@ PROCESS-NAME,com.google.android.gsf
 PROCESS-NAME,com.google.android.play.games
 PROCESS-NAME,BackupandSync
 
-# Gemini其他
-PROCESS-NAME,com.google.android.apps.bard
-PROCESS-NAME,com.google.android.apps.gemini
-
-# NotebookLM
-PROCESS-NAME,com.google.android.apps.labs.language.tailwind
-
 # 邮箱
 DOMAIN-SUFFIX,smtp.gmail.com
 DOMAIN-SUFFIX,pop.gmail.com
 DOMAIN-SUFFIX,imap.gmail.com
 DOMAIN-SUFFIX,mail.google.com
+
+# google其他
+DOMAIN-SUFFIX,goo.gle
 
