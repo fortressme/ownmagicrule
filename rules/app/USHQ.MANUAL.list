@@ -45,10 +45,16 @@ IP-CIDR,50.117.27.0/24,no-resolve
 IP-CIDR,63.251.124.0/24,no-resolve
 IP-CIDR,69.46.75.0/24,no-resolve
 
+
+# google HQ补充
+DOMAIN-SUFFIX,goo.gle
+DOMAIN-SUFFIX,one.google.com
+
 # Paypal补充
 PROCESS-NAME,com.paypal.android.p2pmobile
 
 # US EDU
+DOMAIN-SUFFIX,sheerid.com
 DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,cvtc.edu
 DOMAIN-SUFFIX,sunybroome.edu

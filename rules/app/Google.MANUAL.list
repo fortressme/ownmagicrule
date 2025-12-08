@@ -4,5 +4,3 @@ DOMAIN-SUFFIX,pop.gmail.com
 DOMAIN-SUFFIX,imap.gmail.com
 DOMAIN-SUFFIX,mail.google.com
 
-# google其他
-DOMAIN-SUFFIX,goo.gle
