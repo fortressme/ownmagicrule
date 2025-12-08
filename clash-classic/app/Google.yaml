@@ -711,4 +711,3 @@ payload:
  - DOMAIN-SUFFIX,pop.gmail.com
  - DOMAIN-SUFFIX,imap.gmail.com
  - DOMAIN-SUFFIX,mail.google.com
- - DOMAIN-SUFFIX,goo.gle

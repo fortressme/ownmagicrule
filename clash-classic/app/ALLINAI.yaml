@@ -37,6 +37,19 @@ payload:
  - DOMAIN,cdn.usefathom.com
  - DOMAIN-SUFFIX,anthropic.com
  - DOMAIN-SUFFIX,claude.ai
+ - DOMAIN,ai.google.dev
+ - DOMAIN,alkalimakersuite-pa.clients6.google.com
+ - DOMAIN,makersuite.google.com
+ - DOMAIN-SUFFIX,bard.google.com
+ - DOMAIN-SUFFIX,deepmind.com
+ - DOMAIN-SUFFIX,deepmind.google
+ - DOMAIN-SUFFIX,gemini.google.com
+ - DOMAIN-SUFFIX,generativeai.google
+ - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+ - DOMAIN-SUFFIX,apis.google.com
+ - DOMAIN-KEYWORD,colab
+ - DOMAIN-KEYWORD,developerprofiles
+ - DOMAIN-KEYWORD,generativelanguage
  - DOMAIN-SUFFIX,claudeusercontent.com
  - DOMAIN-KEYWORD,claudeusercontent
  - PROCESS-NAME,com.anthropic.claude
@@ -53,6 +66,12 @@ payload:
  - PROCESS-NAME,ai.perplexity.app.android
  - DOMAIN-SUFFIX,meta.ai
  - DOMAIN-SUFFIX,llama.com
+ - DOMAIN-SUFFIX,notebooklm.google.com
+ - DOMAIN-SUFFIX,notebooklm.google
+ - DOMAIN-SUFFIX,antigravity.google
+ - PROCESS-NAME,com.google.android.apps.bard
+ - PROCESS-NAME,com.google.android.apps.gemini
+ - PROCESS-NAME,com.google.android.apps.labs.language.tailwind
  - DOMAIN-SUFFIX,llmsresearch.com
  - DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
  - DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
