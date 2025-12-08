@@ -55,28 +55,6 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
-# NAME: Gemini
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 7
-# TOTAL: 13
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
-
 # Claude其他
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-KEYWORD,claudeusercontent
@@ -98,13 +76,6 @@ PROCESS-NAME,ai.perplexity.app.android
 # FacebookMetaAI
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,llama.com
-# GoogleNotebooklm/GEMINI/antigravity
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,antigravity.google
-PROCESS-NAME,com.google.android.apps.bard
-PROCESS-NAME,com.google.android.apps.gemini
-PROCESS-NAME,com.google.android.apps.labs.language.tailwind
 # other
 DOMAIN-SUFFIX,llmsresearch.com
 DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
