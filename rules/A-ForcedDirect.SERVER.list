@@ -309,5 +309,5 @@ IP-CIDR6,2a03:4000:27:438:1493:34ff:feea:c4af/128,no-resolve
 IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
 IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
 IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
-IP-CIDR6,64:ff9b::6ff3:7b62/128,no-resolve
-IP-CIDR6,64:ff9b::cb0a:62bc/128,no-resolve
+IP-CIDR6,64:ff9b::36a9:5a43/128,no-resolve
+IP-CIDR6,64:ff9b::3b25:adef/128,no-resolve
