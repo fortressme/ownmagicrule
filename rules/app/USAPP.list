@@ -227,28 +227,6 @@ DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
 DOMAIN-KEYWORD,github
 
-# NAME: Gemini
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 7
-# TOTAL: 13
-DOMAIN,ai.google.dev
-DOMAIN,alkalimakersuite-pa.clients6.google.com
-DOMAIN,makersuite.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,generativeai.google
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-KEYWORD,colab
-DOMAIN-KEYWORD,developerprofiles
-DOMAIN-KEYWORD,generativelanguage
-
 # 内容：内容：AI平台-国外
 # 数量：47条
 DOMAIN-KEYWORD,anthropic
@@ -324,13 +302,6 @@ DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,qoder.com
 # Cerebras
 DOMAIN-SUFFIX,cerebras.ai
-# GoogleNotebooklm/GEMINI/antigravity
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,antigravity.google
-PROCESS-NAME,com.google.android.apps.bard
-PROCESS-NAME,com.google.android.apps.gemini
-PROCESS-NAME,com.google.android.apps.labs.language.tailwind
 # Trae IDE
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,byteoversea.com
