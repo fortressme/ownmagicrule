@@ -311,5 +311,10 @@ payload:
  - IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
  - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
- - IP-CIDR6,64:ff9b::7139:142/128,no-resolve
- - IP-CIDR6,64:ff9b::9a0c:b273/128,no-resolve
+ - IP-CIDR6,64:ff9b::300:1dc4/128,no-resolve
+ - IP-CIDR6,64:ff9b::36a9:5a43/128,no-resolve
+ - IP-CIDR6,64:ff9b::3b25:adef/128,no-resolve
+ - IP-CIDR6,64:ff9b::673e:318b/128,no-resolve
+ - IP-CIDR6,64:ff9b::673e:31a4/128,no-resolve
+ - IP-CIDR6,64:ff9b::673e:31ab/128,no-resolve
+ - IP-CIDR6,64:ff9b::6ff9:45c9/128,no-resolve
