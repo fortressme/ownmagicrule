@@ -680,7 +680,7 @@ payload:
  - IP-CIDR6,2400:c620:23:1f45::1/128,no-resolve
  - IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
  - IP-CIDR6,2408:8756:f5f:103:1a4b:82e2:0:4/128,no-resolve
- - IP-CIDR6,2409:8c54:1004:6000:73f:61e7:0:3c0/128,no-resolve
+ - IP-CIDR6,2408:8756:f5f:103:1a4b:82e2:0:5/128,no-resolve
  - IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
  - IP-CIDR6,2602:f988:210:3f7::b02/128,no-resolve
  - IP-CIDR6,2602:f988:84:4ea::8cc/128,no-resolve
@@ -695,7 +695,6 @@ payload:
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
  - IP-CIDR6,64:ff9b::2ee8:38f4/128,no-resolve
  - IP-CIDR6,64:ff9b::36a9:5a43/128,no-resolve
- - IP-CIDR6,64:ff9b::3b25:adef/128,no-resolve
  - IP-CIDR6,64:ff9b::673e:318b/128,no-resolve
  - IP-CIDR6,64:ff9b::673e:31a4/128,no-resolve
  - IP-CIDR6,64:ff9b::673e:31ac/128,no-resolve
