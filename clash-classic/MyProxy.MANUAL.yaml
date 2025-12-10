@@ -56,6 +56,7 @@ payload:
  - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
  - DOMAIN-SUFFIX,phantom.com
  - DOMAIN-SUFFIX,phantom.app
+ - DOMAIN,nat.qq.pw
  - DOMAIN-SUFFIX,mongodb.com
  - DOMAIN-SUFFIX,tarekcloud.com
  - DOMAIN-SUFFIX,immersivetranslate.com
