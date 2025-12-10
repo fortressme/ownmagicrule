@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,phantom.com
 DOMAIN-SUFFIX,phantom.app
 
 # Other
+DOMAIN,nat.qq.pw
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,tarekcloud.com
 DOMAIN-SUFFIX,immersivetranslate.com
