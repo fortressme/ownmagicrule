@@ -691,3 +691,13 @@ payload:
  - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
  - IP-CIDR6,2a13:edc0:21:173e:bd4b:b9bc:1697:86a9/128,no-resolve
+ - IP-CIDR6,64:ff9b::12ed:e0dd/128,no-resolve
+ - IP-CIDR6,64:ff9b::2ee8:3898/128,no-resolve
+ - IP-CIDR6,64:ff9b::300:1dc4/128,no-resolve
+ - IP-CIDR6,64:ff9b::6812:2ab9/128,no-resolve
+ - IP-CIDR6,64:ff9b::6812:2db9/128,no-resolve
+ - IP-CIDR6,64:ff9b::6ff9:42c0/128,no-resolve
+ - IP-CIDR6,64:ff9b::6ff9:45eb/128,no-resolve
+ - IP-CIDR6,64:ff9b::86c3:65bd/128,no-resolve
+ - IP-CIDR6,64:ff9b::9a0c:b273/128,no-resolve
+ - IP-CIDR6,64:ff9b::cb0a:62bc/128,no-resolve
