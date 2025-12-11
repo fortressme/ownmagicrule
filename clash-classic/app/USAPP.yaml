@@ -264,6 +264,10 @@ payload:
  - PROCESS-NAME,com.google.android.apps.bard
  - PROCESS-NAME,com.google.android.apps.gemini
  - PROCESS-NAME,com.google.android.apps.labs.language.tailwind
+ - DOMAIN-SUFFIX,ollama.com
+ - DOMAIN-SUFFIX,ollama.ai
+ - DOMAIN-SUFFIX,hf.co
+ - DOMAIN-SUFFIX,huggingface.co
  - DOMAIN-SUFFIX,openrouter.com
  - DOMAIN-SUFFIX,groq.com
  - DOMAIN-SUFFIX,klingai.com
@@ -305,7 +309,6 @@ payload:
  - DOMAIN-SUFFIX,kiro.dev
  - DOMAIN-SUFFIX,kilocode.ai
  - DOMAIN-SUFFIX,yupp.ai
- - DOMAIN-SUFFIX,ollama.com
  - DOMAIN-SUFFIX,thinkingmachines.ai
  - DOMAIN-SUFFIX,ftp3.hostypanel.com
  - DOMAIN-SUFFIX,together.ai
