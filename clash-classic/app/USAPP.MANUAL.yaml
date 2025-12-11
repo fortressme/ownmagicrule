@@ -56,6 +56,7 @@ payload:
  - DOMAIN-SUFFIX,kiro.dev
  - DOMAIN-SUFFIX,kilocode.ai
  - DOMAIN-SUFFIX,yupp.ai
+ - DOMAIN-SUFFIX,ollama.com
  - DOMAIN-SUFFIX,thinkingmachines.ai
  - DOMAIN-SUFFIX,ftp3.hostypanel.com
  - DOMAIN-SUFFIX,together.ai
