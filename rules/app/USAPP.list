@@ -319,6 +319,12 @@ DOMAIN-SUFFIX,antigravity.google
 PROCESS-NAME,com.google.android.apps.bard
 PROCESS-NAME,com.google.android.apps.gemini
 PROCESS-NAME,com.google.android.apps.labs.language.tailwind
+# ollama
+DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,ollama.ai
+# HuggingFace
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
 # Openrouter
 DOMAIN-SUFFIX,openrouter.com
 # Groq
@@ -378,8 +384,6 @@ DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,kilocode.ai
 # yupp
 DOMAIN-SUFFIX,yupp.ai
-# ollama
-DOMAIN-SUFFIX,ollama.com
 # 其他服务
 DOMAIN-SUFFIX,thinkingmachines.ai
 DOMAIN-SUFFIX,ftp3.hostypanel.com
