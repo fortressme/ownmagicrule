@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skypeforbusiness.com
 
 #Github默认代理
-raw.githubusercontent.com
-gist.githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,gist.githubusercontent.com
 
 # 海外DNS解析
 DOMAIN,dns.google
