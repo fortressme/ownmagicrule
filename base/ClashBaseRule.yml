@@ -33,6 +33,7 @@ tun:
   auto-redirect: true
   auto-detect-interface: true
   strict-route: true
+  mtu: 1408
   gso: true
   gso-max-size: 65536
   udp-timeout: 300
@@ -52,7 +53,7 @@ dns:
   enable: true
   ipv6: true
   cache-algorithm: lru
-  prefer-h3: false
+  prefer-h3: true
   use-hosts: true
   use-system-hosts: true
   respect-rules: false
