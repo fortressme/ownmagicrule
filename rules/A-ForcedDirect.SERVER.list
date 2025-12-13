@@ -354,12 +354,12 @@ IP-CIDR,54.151.140.16/32,no-resolve
 IP-CIDR,54.164.53.228/32,no-resolve
 IP-CIDR,57.129.16.168/32,no-resolve
 IP-CIDR,57.129.5.108/32,no-resolve
-IP-CIDR,59.24.3.174/32,no-resolve
 IP-CIDR,59.37.173.247/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,64.110.101.31/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
 IP-CIDR,69.84.182.18/32,no-resolve
+IP-CIDR,8.7.198.46/32,no-resolve
 IP-CIDR,81.70.13.92/32,no-resolve
 IP-CIDR,81.71.140.116/32,no-resolve
 IP-CIDR,85.159.92.99/32,no-resolve
