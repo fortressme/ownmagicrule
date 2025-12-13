@@ -302,7 +302,6 @@ sniffer:
     - +.rc.sunlogin.net
     - time.windows.com
     - courier.push.apple.com
-    - +.jd.com
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
     - rbsxbxp-ws.vivox.com
@@ -328,6 +327,7 @@ sniffer:
     - basic-static-server.infinitynewtab.com
     - hp3.mail.netease.com
     - +.mail.netease.com
+    - +.v6.pub
   skip-dst-address:
     - 223.5.5.5/32
     - 223.6.6.6/32
@@ -342,7 +342,6 @@ sniffer:
     - 36.248.45.62/32
     - 2001:4860:4860::8888/128
     - 2001:4860:4860::8844/128
-
 hosts:
   mtalk.google.com: [142.250.107.188,'2404:6800:4008:c19::bc']
   alt1-mtalk.google.com: [192.178.164.188, '2607:f8b0:4023:2009::bc']
