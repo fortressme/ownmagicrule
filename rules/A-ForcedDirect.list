@@ -616,6 +616,7 @@ IP-CIDR,108.181.23.255/32,no-resolve
 IP-CIDR,111.243.110.21/32,no-resolve
 IP-CIDR,111.249.69.133/32,no-resolve
 IP-CIDR,111.249.69.38/32,no-resolve
+IP-CIDR,113.57.1.122/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
 IP-CIDR,119.29.23.234/32,no-resolve
 IP-CIDR,119.91.156.185/32,no-resolve
