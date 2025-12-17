@@ -540,7 +540,7 @@ DOMAIN-SUFFIX,yd.miloli.cn
 DOMAIN-SUFFIX,yh.miloli.cn
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.161.42.202/32,no-resolve
+IP-CIDR,1.161.50.210/32,no-resolve
 IP-CIDR,1.162.189.143/32,no-resolve
 IP-CIDR,101.43.133.99/32,no-resolve
 IP-CIDR,103.197.71.100/32,no-resolve
@@ -707,7 +707,6 @@ IP-CIDR,213.35.110.206/32,no-resolve
 IP-CIDR,23.147.68.42/32,no-resolve
 IP-CIDR,27.150.132.241/32,no-resolve
 IP-CIDR,3.0.29.196/32,no-resolve
-IP-CIDR,34.222.226.139/32,no-resolve
 IP-CIDR,36.141.116.243/32,no-resolve
 IP-CIDR,43.142.107.178/32,no-resolve
 IP-CIDR,43.142.77.37/32,no-resolve
@@ -722,6 +721,7 @@ IP-CIDR,46.232.56.244/32,no-resolve
 IP-CIDR,46.232.56.246/32,no-resolve
 IP-CIDR,47.129.2.155/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
+IP-CIDR,52.12.40.173/32,no-resolve
 IP-CIDR,54.151.140.16/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
