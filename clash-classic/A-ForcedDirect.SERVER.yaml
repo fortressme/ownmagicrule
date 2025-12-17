@@ -366,6 +366,7 @@ payload:
  - IP-CIDR6,64:ff9b::86c3:6579/128,no-resolve
  - IP-CIDR6,64:ff9b::86c3:65b5/128,no-resolve
  - IP-CIDR6,64:ff9b::86c3:65bd/128,no-resolve
+ - IP-CIDR6,64:ff9b::9a0c:b273/128,no-resolve
  - IP-CIDR6,64:ff9b::9b75:30c/128,no-resolve
  - IP-CIDR6,64:ff9b::ac40:923c/128,no-resolve
  - IP-CIDR6,64:ff9b::b75e:1f42/128,no-resolve
