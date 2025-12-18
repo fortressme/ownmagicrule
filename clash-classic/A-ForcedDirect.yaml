@@ -573,6 +573,8 @@ payload:
  - IP-CIDR,111.229.145.108/32,no-resolve
  - IP-CIDR,111.249.64.6/32,no-resolve
  - IP-CIDR,111.249.67.224/32,no-resolve
+ - IP-CIDR,113.57.1.100/32,no-resolve
+ - IP-CIDR,113.57.1.99/32,no-resolve
  - IP-CIDR,114.132.63.30/32,no-resolve
  - IP-CIDR,116.251.216.70/32,no-resolve
  - IP-CIDR,119.29.244.32/32,no-resolve
