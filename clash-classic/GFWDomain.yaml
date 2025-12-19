@@ -648,6 +648,7 @@ payload:
  - DOMAIN-SUFFIX,bit.do
  - DOMAIN-SUFFIX,bit.ly
  - DOMAIN-SUFFIX,bit.no.com
+ - DOMAIN-SUFFIX,bitbaby.com
  - DOMAIN-SUFFIX,bitbay.net
  - DOMAIN-SUFFIX,bitbucket.org
  - DOMAIN-SUFFIX,bitc.bme.emory.edu
@@ -2716,6 +2717,7 @@ payload:
  - DOMAIN-SUFFIX,icu-project.org
  - DOMAIN-SUFFIX,id.hao123.com
  - DOMAIN-SUFFIX,idaiwan.com
+ - DOMAIN-SUFFIX,idcflare.com
  - DOMAIN-SUFFIX,iddddg.com
  - DOMAIN-SUFFIX,idemocracy.asia
  - DOMAIN-SUFFIX,identi.ca
