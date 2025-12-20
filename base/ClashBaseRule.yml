@@ -329,6 +329,11 @@ sniffer:
     - +.mail.netease.com
     - +.v6.pub
     - +.tesla.com
+    - +.jd.com
+    - +.meituan.com
+    - +.meituan.net 
+    - www.mdpi.com
+    - www.sciencedirect.com
   skip-dst-address:
     - 223.5.5.5/32
     - 223.6.6.6/32
