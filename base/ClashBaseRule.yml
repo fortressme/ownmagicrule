@@ -298,7 +298,6 @@ sniffer:
   skip-domain:
     - Mijia Cloud
     - dlg.io.mi.com
-    - +.apple.com
     - +.rc.sunlogin.net
     - time.windows.com
     - courier.push.apple.com
