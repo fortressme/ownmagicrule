@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,massive-itv.com
 DOMAIN-KEYWORD,bbcfmt
 DOMAIN-KEYWORD,uk-live
-
 DOMAIN-SUFFIX,ac.uk
 # WifiCalling
 # 沃达丰
@@ -50,11 +49,11 @@ IP-CIDR,88.82.0.0/19,no-resolve
 IP-CIDR,46.68.0.0/17,no-resolve
 # Giffgaff
 IP-CIDR,87.194.0.0/16,no-resolve
+DOMAIN-SUFFIX,giffgaff.com
 
 # other
 DOMAIN-SUFFIX,hosteroid.uk
 DOMAIN-SUFFIX,vodafone.co.uk
-DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-KEYWORD,vodafoneuk
 DOMAIN-SUFFIX,media-uk1.digital.nuance.com
 DOMAIN-SUFFIX,vodafoneuk.demdex.net
