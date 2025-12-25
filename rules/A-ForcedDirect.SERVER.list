@@ -290,10 +290,10 @@ IP-CIDR,47.76.213.235/32,no-resolve
 IP-CIDR,54.179.227.119/32,no-resolve
 IP-CIDR,54.196.137.220/32,no-resolve
 IP-CIDR,54.251.6.132/32,no-resolve
-IP-CIDR,59.24.3.174/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
 IP-CIDR,69.84.182.18/32,no-resolve
+IP-CIDR,8.7.198.46/32,no-resolve
 IP-CIDR,85.211.245.181/32,no-resolve
 IP-CIDR,89.251.11.15/32,no-resolve
 IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
