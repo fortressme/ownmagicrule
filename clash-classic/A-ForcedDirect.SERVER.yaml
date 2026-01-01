@@ -121,6 +121,7 @@ payload:
  - IP-CIDR,103.197.71.113/32,no-resolve
  - IP-CIDR,103.197.71.114/32,no-resolve
  - IP-CIDR,103.197.71.99/32,no-resolve
+ - IP-CIDR,103.21.244.209/32,no-resolve
  - IP-CIDR,103.62.49.139/32,no-resolve
  - IP-CIDR,103.62.49.140/32,no-resolve
  - IP-CIDR,103.62.49.163/32,no-resolve
@@ -184,6 +185,7 @@ payload:
  - IP-CIDR,138.2.2.120/32,no-resolve
  - IP-CIDR,140.238.101.15/32,no-resolve
  - IP-CIDR,141.101.114.159/32,no-resolve
+ - IP-CIDR,141.101.122.27/32,no-resolve
  - IP-CIDR,141.147.33.180/32,no-resolve
  - IP-CIDR,141.253.124.138/32,no-resolve
  - IP-CIDR,143.14.105.240/32,no-resolve
@@ -200,8 +202,12 @@ payload:
  - IP-CIDR,158.178.236.104/32,no-resolve
  - IP-CIDR,158.179.18.251/32,no-resolve
  - IP-CIDR,159.13.35.245/32,no-resolve
+ - IP-CIDR,162.159.137.126/32,no-resolve
+ - IP-CIDR,162.159.15.152/32,no-resolve
+ - IP-CIDR,162.159.26.123/32,no-resolve
  - IP-CIDR,162.159.38.1/32,no-resolve
  - IP-CIDR,162.159.44.72/32,no-resolve
+ - IP-CIDR,162.159.45.220/32,no-resolve
  - IP-CIDR,165.1.68.155/32,no-resolve
  - IP-CIDR,168.138.184.187/32,no-resolve
  - IP-CIDR,172.64.229.1/32,no-resolve
@@ -215,8 +221,6 @@ payload:
  - IP-CIDR,180.188.34.202/32,no-resolve
  - IP-CIDR,180.188.43.49/32,no-resolve
  - IP-CIDR,185.244.194.177/32,no-resolve
- - IP-CIDR,188.114.96.186/32,no-resolve
- - IP-CIDR,188.114.99.189/32,no-resolve
  - IP-CIDR,190.93.244.4/32,no-resolve
  - IP-CIDR,190.93.244.59/32,no-resolve
  - IP-CIDR,190.93.245.159/32,no-resolve
@@ -235,6 +239,8 @@ payload:
  - IP-CIDR,198.41.211.243/32,no-resolve
  - IP-CIDR,198.41.211.41/32,no-resolve
  - IP-CIDR,198.41.211.78/32,no-resolve
+ - IP-CIDR,198.41.215.151/32,no-resolve
+ - IP-CIDR,198.41.216.99/32,no-resolve
  - IP-CIDR,198.41.219.118/32,no-resolve
  - IP-CIDR,203.10.96.138/32,no-resolve
  - IP-CIDR,203.10.98.187/32,no-resolve
@@ -293,3 +299,4 @@ payload:
  - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
  - IP-CIDR6,2a13:edc0:21:173e:bd4b:b9bc:1697:86a9/128,no-resolve
+ - IP-CIDR6,64:ff9b::b4bc:22ca/128,no-resolve
