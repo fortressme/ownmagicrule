@@ -275,6 +275,8 @@ payload:
  - DOMAIN-SUFFIX,qoder.com
  - DOMAIN-SUFFIX,cerebras.ai
  - DOMAIN-SUFFIX,trae.ai
+ - DOMAIN-SUFFIX,traeapi.us
+ - DOMAIN-REGEX,.*useast.*\.mchost\.guru$
  - DOMAIN-SUFFIX,byteoversea.com
  - DOMAIN-SUFFIX,bytedapm.com
  - DOMAIN-SUFFIX,bytetos.com
@@ -282,7 +284,7 @@ payload:
  - DOMAIN-SUFFIX,byteintlapi.com
  - DOMAIN-SUFFIX,itobsnssdk.com
  - DOMAIN-SUFFIX,marscode.com
- - PROCESS-NAME,Trae Helper# flowith
+ - PROCESS-NAME,Trae Helper
  - DOMAIN-SUFFIX,flowith.net
  - DOMAIN-SUFFIX,flowith.featurebase.app
  - DOMAIN-SUFFIX,edge.flo.ing
