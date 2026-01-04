@@ -276,6 +276,7 @@ payload:
  - DOMAIN-SUFFIX,cerebras.ai
  - DOMAIN-SUFFIX,trae.ai
  - DOMAIN-SUFFIX,traeapi.us
+ - DOMAIN-SUFFIX,traecdn.ai
  - DOMAIN-REGEX,.*useast.*\.mchost\.guru$
  - DOMAIN-SUFFIX,byteoversea.com
  - DOMAIN-SUFFIX,bytedapm.com
