@@ -39,6 +39,8 @@ DOMAIN-SUFFIX,qoder.com
 DOMAIN-SUFFIX,cerebras.ai
 # Trae IDE
 DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,traeapi.us
+DOMAIN-REGEX,.*useast.*\.mchost\.guru$
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytetos.com
@@ -46,7 +48,8 @@ DOMAIN-SUFFIX,byteintl.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,itobsnssdk.com
 DOMAIN-SUFFIX,marscode.com
-PROCESS-NAME,Trae Helper# flowith
+PROCESS-NAME,Trae Helper
+# flowith
 DOMAIN-SUFFIX,flowith.net
 DOMAIN-SUFFIX,flowith.featurebase.app
 DOMAIN-SUFFIX,edge.flo.ing
