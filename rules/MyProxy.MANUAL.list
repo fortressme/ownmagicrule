@@ -92,6 +92,7 @@ IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve
 IP-CIDR6,2a0f:7802:e2c0::/48,no-resolve
 
 # Other
+DOMAIN-SUFFIX,privateid.com
 DOMAIN,nat.qq.pw
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,tarekcloud.com
