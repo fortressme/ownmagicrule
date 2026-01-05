@@ -655,7 +655,6 @@ payload:
  - IP-CIDR,47.76.213.235/32,no-resolve
  - IP-CIDR,54.198.134.84/32,no-resolve
  - IP-CIDR,54.251.6.132/32,no-resolve
- - IP-CIDR,59.24.3.174/32,no-resolve
  - IP-CIDR,63.141.128.173/32,no-resolve
  - IP-CIDR,69.84.182.108/32,no-resolve
  - IP-CIDR,69.84.182.18/32,no-resolve
