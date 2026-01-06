@@ -317,6 +317,7 @@ payload:
  - DOMAIN-SUFFIX,us.alph.netlib.re
  - DOMAIN-SUFFIX,thinkingmachines.ai
  - DOMAIN-SUFFIX,ftp3.hostypanel.com
+ - DOMAIN-SUFFIX,ftpus1.hostypanel.com
  - DOMAIN-SUFFIX,together.ai
  - DOMAIN-SUFFIX,rclone.org
  - DOMAIN-SUFFIX,namecrane.com
