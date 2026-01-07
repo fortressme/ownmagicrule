@@ -55,6 +55,7 @@ PROCESS-NAME,com.paypal.android.p2pmobile
 # US EDU
 DOMAIN-SUFFIX,sheerid.com
 DOMAIN-SUFFIX,umass.edu
+DOMAIN-SUFFIX,maricopa.edu
 DOMAIN-SUFFIX,cvtc.edu
 DOMAIN-SUFFIX,sunybroome.edu
 DOMAIN-SUFFIX,nau.edu
