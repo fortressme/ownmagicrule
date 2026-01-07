@@ -224,6 +224,7 @@ payload:
  - DOMAIN-SUFFIX,ai-kan.net
  - DOMAIN-SUFFIX,ai-wen.net
  - DOMAIN-SUFFIX,ai.dev
+ - DOMAIN-SUFFIX,ai.studio
  - DOMAIN-SUFFIX,aiosearch.com
  - DOMAIN-SUFFIX,aiph.net
  - DOMAIN-SUFFIX,airasia.com
@@ -1358,6 +1359,7 @@ payload:
  - DOMAIN-SUFFIX,dayabook.com
  - DOMAIN-SUFFIX,daylife.com
  - DOMAIN-SUFFIX,dayone.me
+ - DOMAIN-SUFFIX,dazn.com
  - DOMAIN-SUFFIX,db.tt
  - DOMAIN-SUFFIX,dbc.hk
  - DOMAIN-SUFFIX,dbgjd.com
@@ -4064,6 +4066,8 @@ payload:
  - DOMAIN-SUFFIX,onthehunt.com
  - DOMAIN-SUFFIX,ontrac.com
  - DOMAIN-SUFFIX,oojj.de
+ - DOMAIN-SUFFIX,ooni.io
+ - DOMAIN-SUFFIX,ooni.org
  - DOMAIN-SUFFIX,oopsforum.com
  - DOMAIN-SUFFIX,ooyala.com
  - DOMAIN-SUFFIX,open.com.hk
@@ -6303,6 +6307,7 @@ payload:
  - DOMAIN-SUFFIX,xbookcn.com
  - DOMAIN-SUFFIX,xbtce.com
  - DOMAIN-SUFFIX,xcafe.in
+ - DOMAIN-SUFFIX,xcancel.com
  - DOMAIN-SUFFIX,xcity.jp
  - DOMAIN-SUFFIX,xclient.info
  - DOMAIN-SUFFIX,xcritic.com
