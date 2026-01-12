@@ -483,6 +483,7 @@ payload:
  - DOMAIN-SUFFIX,s.us4.niceduck.me
  - DOMAIN-SUFFIX,s.us5.niceduck.me
  - DOMAIN-SUFFIX,s.us6.niceduck.me
+ - DOMAIN-SUFFIX,ts-mix-good.gym0boy.com
  - DOMAIN-SUFFIX,unamecf.xn--ghqu5fm27b67w.com
  - DOMAIN-SUFFIX,wd-cdn-asia.solidigm-static.com
  - DOMAIN-SUFFIX,yh.lsyllzf.cn
@@ -562,6 +563,7 @@ payload:
  - IP-CIDR,111.249.70.47/32,no-resolve
  - IP-CIDR,112.90.88.125/32,no-resolve
  - IP-CIDR,116.251.216.70/32,no-resolve
+ - IP-CIDR,119.29.236.191/32,no-resolve
  - IP-CIDR,120.232.89.247/32,no-resolve
  - IP-CIDR,120.233.31.51/32,no-resolve
  - IP-CIDR,120.37.141.61/32,no-resolve
