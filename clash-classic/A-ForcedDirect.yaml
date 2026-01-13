@@ -688,3 +688,4 @@ payload:
  - IP-CIDR6,64:ff9b::673e:318c/128,no-resolve
  - IP-CIDR6,64:ff9b::673e:31a4/128,no-resolve
  - IP-CIDR6,64:ff9b::673e:31ac/128,no-resolve
+ - IP-CIDR6,64:ff9b::b4bc:22dd/128,no-resolve
