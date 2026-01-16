@@ -1125,6 +1125,41 @@ jobs:
           echo "Failed to download or empty IRSDownload.list, exiting."
         fi
 
+    - name: Update DNS Resolved Rules
+      run: |
+        cat <<EOF > dns_config.txt
+        eu1.workspace.org|rules/MyDirect.list
+        EOF
+        echo "Starting DNS resolution and rule appending..."
+        if ! command -v dig &> /dev/null; then
+            sudo apt-get update && sudo apt-get install -y dnsutils
+        fi
+        while IFS='|' read -r domain target_file; do
+            if [[ -z "$domain" || "$domain" == \#* ]]; then continue; fi
+            domain=$(echo "$domain" | xargs)
+            target_file=$(echo "$target_file" | xargs)
+            mkdir -p "$(dirname "$target_file")"
+            echo "" >> "$target_file"
+            echo "# DNS Resolved: $domain" >> "$target_file"
+            echo "DOMAIN,$domain" >> "$target_file"
+            ipv4_list=$(dig +short "$domain" A | grep -E '^[0-9]{1,3}(\.[0-9]{1,3}){3}$' | sort -u)
+            if [ -n "$ipv4_list" ]; then
+                for ip in $ipv4_list; do
+                    echo "IP-CIDR,$ip/32,no-resolve" >> "$target_file"
+                done
+            else
+                echo "  ::warning:: No IPv4 address found for $domain"
+            fi
+            ipv6_list=$(dig +short "$domain" AAAA | grep -E '^[0-9a-fA-F:]+$' | sort -u)
+            if [ -n "$ipv6_list" ]; then
+                for ip in $ipv6_list; do
+                    echo "IP-CIDR6,$ip/128,no-resolve" >> "$target_file"
+                done
+            fi
+        done < dns_config.txt
+        rm -f dns_config.txt
+        echo "DNS rules update complete."
+
     - name: Add changes to the repository
       run: |
         git add .
