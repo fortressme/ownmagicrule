@@ -284,13 +284,13 @@ sniffer:
   override-destination: false
   sniff:
     HTTP:
-      ports: [80, 8080, 8082-8880]
+      ports: [80, 8080, 8082-8880, 465, 587, 993, 995]
       override-destination: true
     TLS:
-      ports: [443, 8443]
+      ports: [443, 8443, 465, 587, 993, 995]
       override-destination: true
     QUIC:
-      ports: [443, 8443]
+      ports: [443, 8443, 465, 587, 993, 995]
       override-destination: true
   force-domain:
     - +.v2ex.com
