@@ -67,6 +67,10 @@ IP-CIDR6,2a0d:2a00:2::/128,no-resolve
 IP-CIDR6,2a0d:2a00:2::1/128,no-resolve
 IP-CIDR6,2a0d:2a00:2::2/128,no-resolve
 
+# ResilioSync-0
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,getsync.com
+
 # 其他
 DOMAIN-SUFFIX,login.tailscale.com
 DOMAIN-SUFFIX,www.tailscale.com

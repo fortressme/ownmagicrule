@@ -148,6 +148,38 @@ jobs:
         else echo "::warning:: $target_list was not updated due to one or more download failures."; fi
         echo "Cleaning up temporary files for $target_list..."; rm -f "${temp_files[@]}"
 
+    - name: Update Resilio Sync 2 ForcedProxy Rules
+      run: |
+        target_list="rules/A-ForcedProxy.list"
+        urls=("https://config.resilio.com/sync.conf" "http://config.getsync.com/sync.conf")
+        temp_raw="resilo_raw.tmp"
+
+        echo "Starting Resilio Sync rule update..."
+
+        for url in "${urls[@]}"; do
+          curl -sL "$url" | jq -r '(.trackers[]?, .relays[]?) | (.addr, .addr6)' >> "$temp_raw" || echo "::warning:: Failed to fetch $url"
+        done
+        if [ -s "$temp_raw" ]; then
+            echo "# Resilio Sync Trackers & Relays" >> "$target_list"
+            sort -u "$temp_raw" | while read -r line; do
+                if [[ -z "$line" || "$line" == "null" ]]; then continue; fi
+                if [[ "$line" == \[* ]]; then
+                    # 提取 IPv6: [xxxx]:port -> xxxx
+                    ip=$(echo "$line" | sed 's/^\[//; s/\]:.*//')
+                    echo "IP-CIDR6,${ip}/128,no-resolve" >> "$target_list"
+                else
+                    ip=$(echo "$line" | sed 's/:.*//')
+                    if [[ "$ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+                        echo "IP-CIDR,${ip}/32,no-resolve" >> "$target_list"
+                    fi
+                fi
+            done
+            echo "Successfully appended Resilio rules to $target_list"
+        else
+            echo "::warning:: No data retrieved from Resilio servers."
+        fi
+        rm -f "$temp_raw"
+
     - name: Update Reject.list
       run: |
         if  curl -f -s -o rules/pcdn.txt https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/refs/heads/master/discretion/pcdn.txt && [[ -s rules/pcdn.txt ]]; then
