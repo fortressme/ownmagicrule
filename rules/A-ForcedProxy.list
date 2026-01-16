@@ -79,6 +79,10 @@ IP-CIDR6,2a0d:2a00:2::/128,no-resolve
 IP-CIDR6,2a0d:2a00:2::1/128,no-resolve
 IP-CIDR6,2a0d:2a00:2::2/128,no-resolve
 
+# ResilioSync-0
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,getsync.com
+
 # 其他
 DOMAIN-SUFFIX,login.tailscale.com
 DOMAIN-SUFFIX,www.tailscale.com
@@ -87,4 +91,16 @@ DOMAIN-SUFFIX,manuscriptpoint.com
 DOMAIN-SUFFIX,885999.xyz
 DOMAIN-SUFFIX,akoi.cc
 DOMAIN-SUFFIX,ccoff.com
-
+# Resilio Sync Trackers & Relays
+IP-CIDR,23.111.157.86/32,no-resolve
+IP-CIDR,66.165.233.194/32,no-resolve
+IP-CIDR,66.165.255.194/32,no-resolve
+IP-CIDR,66.165.255.194/32,no-resolve
+IP-CIDR,66.206.5.74/32,no-resolve
+IP-CIDR,66.206.5.74/32,no-resolve
+IP-CIDR6,2604:4500:3:80::10/128,no-resolve
+IP-CIDR6,2604:4500:3:80::10/128,no-resolve
+IP-CIDR6,2604:4500:5:245::10/128,no-resolve
+IP-CIDR6,2604:4500:8:24a::10/128,no-resolve
+IP-CIDR6,2604:4500:8:24a::10/128,no-resolve
+IP-CIDR6,2604:4500:9:58::10/128,no-resolve
