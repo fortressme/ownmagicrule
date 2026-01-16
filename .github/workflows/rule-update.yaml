@@ -1128,7 +1128,7 @@ jobs:
     - name: Update DNS Resolved Rules
       run: |
         cat <<EOF > dns_config.txt
-        eu1.workspace.org|rules/MyDirect.list
+        eu1.workspace.org|rules/MyProxy.list
         EOF
         echo "Starting DNS resolution and rule appending..."
         if ! command -v dig &> /dev/null; then
