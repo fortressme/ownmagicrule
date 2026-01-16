@@ -64,8 +64,6 @@ payload:
  - IP-CIDR6,2a0d:2a00:2::/128,no-resolve
  - IP-CIDR6,2a0d:2a00:2::1/128,no-resolve
  - IP-CIDR6,2a0d:2a00:2::2/128,no-resolve
- - DOMAIN-SUFFIX,resilio.com
- - DOMAIN-SUFFIX,getsync.com
  - DOMAIN-SUFFIX,login.tailscale.com
  - DOMAIN-SUFFIX,www.tailscale.com
  - DOMAIN,jms-support.eurekaselect.com
@@ -73,3 +71,5 @@ payload:
  - DOMAIN-SUFFIX,885999.xyz
  - DOMAIN-SUFFIX,akoi.cc
  - DOMAIN-SUFFIX,ccoff.com
+ - DOMAIN-SUFFIX,resilio.com
+ - DOMAIN-SUFFIX,getsync.com
