@@ -71,7 +71,3 @@ IP-CIDR,110.42.62.0/24,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,220.205.16.0/24,no-resolve
 PROCESS-NAME,com.sec.android.app.samsungapps
-
-# DNS Resolved: eu1.workspace.org
-DOMAIN,eu1.workspace.org
-IP-CIDR,193.108.130.81/32,no-resolve
