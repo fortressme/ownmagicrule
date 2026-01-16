@@ -12,13 +12,6 @@ DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
 DOMAIN-SUFFIX,github1s.com
 # LLM竞技场
 DOMAIN-SUFFIX,lmsys.org
-# GoogleNotebooklm/GEMINI/antigravity
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,antigravity.google
-PROCESS-NAME,com.google.android.apps.bard
-PROCESS-NAME,com.google.android.apps.gemini
-PROCESS-NAME,com.google.android.apps.labs.language.tailwind
 # ollama
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,ollama.ai
