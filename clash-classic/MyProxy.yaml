@@ -245,3 +245,5 @@ payload:
  - IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve
  - PROCESS-NAME,ai.qwenlm.chat.android
  - PROCESS-NAME,money.stables
+ - DOMAIN,eu1.workspace.org
+ - IP-CIDR,193.108.130.81/32,no-resolve
