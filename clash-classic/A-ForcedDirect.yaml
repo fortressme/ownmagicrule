@@ -392,7 +392,6 @@ payload:
  - DOMAIN-SUFFIX,S00000000000014.Egroup-Node-For-NorthAmericanAirport.com
  - DOMAIN-SUFFIX,S00000000000015.Egroup-Node-For-NorthAmericanAirport.com
  - DOMAIN-SUFFIX,aaaa-dws75rnrbtfr25hx.kc28zn.xin
- - DOMAIN-SUFFIX,acjpsb.speedtest.876521.xyz
  - DOMAIN-SUFFIX,ali-hk.speedtest.876521.xyz
  - DOMAIN-SUFFIX,auth.wgnmdgfw.net
  - DOMAIN-SUFFIX,awskr.599789.xyz
@@ -662,14 +661,15 @@ payload:
  - IP-CIDR,44.254.124.242/32,no-resolve
  - IP-CIDR,45.129.8.168/32,no-resolve
  - IP-CIDR,45.250.183.66/32,no-resolve
+ - IP-CIDR,46.82.174.69/32,no-resolve
  - IP-CIDR,47.76.213.235/32,no-resolve
- - IP-CIDR,49.232.126.240/32,no-resolve
  - IP-CIDR,54.167.141.172/32,no-resolve
  - IP-CIDR,54.251.6.132/32,no-resolve
  - IP-CIDR,63.141.128.173/32,no-resolve
  - IP-CIDR,69.63.202.59/32,no-resolve
  - IP-CIDR,69.84.182.108/32,no-resolve
  - IP-CIDR,69.84.182.18/32,no-resolve
+ - IP-CIDR,81.70.50.209/32,no-resolve
  - IP-CIDR,85.211.192.252/32,no-resolve
  - IP-CIDR,89.251.11.15/32,no-resolve
  - IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
@@ -686,4 +686,3 @@ payload:
  - IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
  - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
- - IP-CIDR6,2a13:edc0:21:173e:bd4b:b9bc:1697:86a9/128,no-resolve
