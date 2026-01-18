@@ -713,6 +713,7 @@ IP-CIDR,38.246.245.3/32,no-resolve
 IP-CIDR,44.254.124.242/32,no-resolve
 IP-CIDR,45.129.8.168/32,no-resolve
 IP-CIDR,45.250.183.66/32,no-resolve
+IP-CIDR,46.82.174.69/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
 IP-CIDR,54.186.61.129/32,no-resolve
 IP-CIDR,54.251.6.132/32,no-resolve
