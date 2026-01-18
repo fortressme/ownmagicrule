@@ -35,6 +35,7 @@ payload:
  - DOMAIN-SUFFIX,jsyd3.niceduck.me
  - DOMAIN-SUFFIX,kxy-frv6.speedtest.876521.xyz
  - DOMAIN-SUFFIX,kxy-ukv6.speedtest.876521.xyz
+ - DOMAIN-SUFFIX,lz-hk.speedtest.876521.xyz
  - DOMAIN-SUFFIX,ncde1o.speedtest.876521.xyz
  - DOMAIN-SUFFIX,ooc-hk.mtxgrpx.com
  - DOMAIN-SUFFIX,opps.digital-nvme.com
@@ -206,6 +207,7 @@ payload:
  - IP-CIDR,146.56.164.36/32,no-resolve
  - IP-CIDR,148.135.103.10/32,no-resolve
  - IP-CIDR,149.104.4.136/32,no-resolve
+ - IP-CIDR,151.243.60.201/32,no-resolve
  - IP-CIDR,152.67.95.183/32,no-resolve
  - IP-CIDR,152.69.180.226/32,no-resolve
  - IP-CIDR,152.69.220.212/32,no-resolve
@@ -290,6 +292,7 @@ payload:
  - IP-CIDR,89.251.11.15/32,no-resolve
  - IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
  - IP-CIDR6,2400:c620:23:1f45::1/128,no-resolve
+ - IP-CIDR6,2400:c620:27::c2/128,no-resolve
  - IP-CIDR6,2408:8719:2000:a:fe60::7c/128,no-resolve
  - IP-CIDR6,240b:4001:138:9100:4cc6:aeed:89eb:6c8e/128,no-resolve
  - IP-CIDR6,240e:6b0:d00:803::b000:e/128,no-resolve
