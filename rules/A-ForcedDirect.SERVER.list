@@ -102,12 +102,14 @@ DOMAIN-SUFFIX,s.us3.niceduck.me
 DOMAIN-SUFFIX,s.us4.niceduck.me
 DOMAIN-SUFFIX,s.us5.niceduck.me
 DOMAIN-SUFFIX,s.us6.niceduck.me
+DOMAIN-SUFFIX,ts-mix-good.gym0boy.com
 DOMAIN-SUFFIX,unamecf.xn--ghqu5fm27b67w.com
 DOMAIN-SUFFIX,wd-cdn-asia.solidigm-static.com
 DOMAIN-SUFFIX,yh.lsyllzf.cn
 DOMAIN-SUFFIX,yxhj-cnqd.speedtest.876521.xyz
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.15.133.63/32,no-resolve
 IP-CIDR,1.161.45.189/32,no-resolve
 IP-CIDR,100.53.32.208/32,no-resolve
 IP-CIDR,103.197.71.100/32,no-resolve
@@ -270,7 +272,6 @@ IP-CIDR,44.254.124.242/32,no-resolve
 IP-CIDR,45.129.8.168/32,no-resolve
 IP-CIDR,47.76.213.235/32,no-resolve
 IP-CIDR,54.251.6.132/32,no-resolve
-IP-CIDR,58.87.97.156/32,no-resolve
 IP-CIDR,63.141.128.173/32,no-resolve
 IP-CIDR,69.63.202.59/32,no-resolve
 IP-CIDR,69.84.182.108/32,no-resolve
