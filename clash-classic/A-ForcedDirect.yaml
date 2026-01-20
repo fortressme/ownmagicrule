@@ -485,7 +485,6 @@ payload:
  - DOMAIN-SUFFIX,s.us4.niceduck.me
  - DOMAIN-SUFFIX,s.us5.niceduck.me
  - DOMAIN-SUFFIX,s.us6.niceduck.me
- - DOMAIN-SUFFIX,ts-mix-good.gym0boy.com
  - DOMAIN-SUFFIX,unamecf.xn--ghqu5fm27b67w.com
  - DOMAIN-SUFFIX,wd-cdn-asia.solidigm-static.com
  - DOMAIN-SUFFIX,yh.lsyllzf.cn
@@ -563,11 +562,11 @@ payload:
  - IP-CIDR,108.181.23.241/32,no-resolve
  - IP-CIDR,108.181.23.249/32,no-resolve
  - IP-CIDR,108.181.23.255/32,no-resolve
- - IP-CIDR,110.42.246.70/32,no-resolve
  - IP-CIDR,111.249.71.18/32,no-resolve
  - IP-CIDR,111.249.71.31/32,no-resolve
  - IP-CIDR,112.90.88.125/32,no-resolve
  - IP-CIDR,116.251.216.70/32,no-resolve
+ - IP-CIDR,119.91.228.133/32,no-resolve
  - IP-CIDR,120.233.31.51/32,no-resolve
  - IP-CIDR,120.37.141.68/32,no-resolve
  - IP-CIDR,120.37.141.70/32,no-resolve
@@ -669,7 +668,6 @@ payload:
  - IP-CIDR,45.129.8.168/32,no-resolve
  - IP-CIDR,47.76.213.235/32,no-resolve
  - IP-CIDR,54.251.6.132/32,no-resolve
- - IP-CIDR,58.87.97.156/32,no-resolve
  - IP-CIDR,63.141.128.173/32,no-resolve
  - IP-CIDR,69.63.202.59/32,no-resolve
  - IP-CIDR,69.84.182.108/32,no-resolve
@@ -692,8 +690,3 @@ payload:
  - IP-CIDR6,2a0e:dc0:5:2264:a:b:87b3:876a/128,no-resolve
  - IP-CIDR6,2a0f:9400:73b3::6:a/128,no-resolve
  - IP-CIDR6,2a12:a304:4:520::a/128,no-resolve
- - IP-CIDR6,64:ff9b::6435:20d0/128,no-resolve
- - IP-CIDR6,64:ff9b::86c3:65b5/128,no-resolve
- - IP-CIDR6,64:ff9b::9b75:30c/128,no-resolve
- - IP-CIDR6,64:ff9b::dda:4161/128,no-resolve
- - IP-CIDR6,64:ff9b::dfa:6b2d/128,no-resolve
