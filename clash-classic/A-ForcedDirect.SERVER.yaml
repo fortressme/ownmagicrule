@@ -277,10 +277,10 @@ payload:
  - IP-CIDR,69.63.202.59/32,no-resolve
  - IP-CIDR,69.84.182.108/32,no-resolve
  - IP-CIDR,69.84.182.18/32,no-resolve
- - IP-CIDR,81.71.97.58/32,no-resolve
  - IP-CIDR,82.40.33.24/32,no-resolve
  - IP-CIDR,85.211.192.252/32,no-resolve
  - IP-CIDR,89.251.11.15/32,no-resolve
+ - IP-CIDR,93.46.8.90/32,no-resolve
  - IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve
  - IP-CIDR6,2400:c620:23:1f45::1/128,no-resolve
  - IP-CIDR6,2400:c620:28:7413::1/128,no-resolve
