@@ -15,6 +15,7 @@
 # TOTAL: 25
 # TOTAL: 6
 # TOTAL: 7
+# TevauPay
 # UPDATED: 2025-06-06 09:17:43
 # UPDATED: 2025-06-06 09:17:46
 # VPS
@@ -241,6 +242,7 @@ DOMAIN-SUFFIX,tarekcloud.com
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,teracloud.jp
+DOMAIN-SUFFIX,tevau.io
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,unavatar.webp.se
