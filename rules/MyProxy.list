@@ -275,6 +275,7 @@ IP-CIDR6,2a12:f8c1:50:8::/64,no-resolve
 IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve
 PROCESS-NAME,ai.qwenlm.chat.android
 PROCESS-NAME,money.stables
+PROCESS-NAME,uni.UNI2317D55
 
 # DNS Resolved: eu1.workspace.org
 DOMAIN,eu1.workspace.org
