@@ -57,6 +57,7 @@ payload:
  - DOMAIN-SUFFIX,phantom.com
  - DOMAIN-SUFFIX,phantom.app
  - DOMAIN-SUFFIX,tevau.io
+ - PROCESS-NAME,uni.UNI2317D55
  - DOMAIN-SUFFIX,teracloud.jp
  - DOMAIN-KEYWORD,teracloud
  - DOMAIN-KEYWORD,infini-cloud
