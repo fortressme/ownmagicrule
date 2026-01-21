@@ -56,6 +56,7 @@ payload:
  - DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
  - DOMAIN-SUFFIX,phantom.com
  - DOMAIN-SUFFIX,phantom.app
+ - DOMAIN-SUFFIX,tevau.io
  - DOMAIN-SUFFIX,teracloud.jp
  - DOMAIN-KEYWORD,teracloud
  - DOMAIN-KEYWORD,infini-cloud
