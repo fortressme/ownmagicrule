@@ -75,6 +75,9 @@ DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
 DOMAIN-SUFFIX,phantom.com
 DOMAIN-SUFFIX,phantom.app
 
+# TevauPay
+DOMAIN-SUFFIX,tevau.io
+
 # 一些日本服务
 DOMAIN-SUFFIX,teracloud.jp
 DOMAIN-KEYWORD,teracloud
