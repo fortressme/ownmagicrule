@@ -540,6 +540,7 @@ DOMAIN-SUFFIX,yxhj-cnqd.speedtest.876521.xyz
 DOMAIN-SUFFIX,z.us1.niceduck.me
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.161.45.189/32,no-resolve
+IP-CIDR,101.43.131.50/32,no-resolve
 IP-CIDR,103.197.71.100/32,no-resolve
 IP-CIDR,103.197.71.101/32,no-resolve
 IP-CIDR,103.197.71.102/32,no-resolve
@@ -610,6 +611,7 @@ IP-CIDR,111.249.70.210/32,no-resolve
 IP-CIDR,111.249.71.159/32,no-resolve
 IP-CIDR,112.90.88.125/32,no-resolve
 IP-CIDR,116.251.216.70/32,no-resolve
+IP-CIDR,119.91.114.41/32,no-resolve
 IP-CIDR,120.233.31.51/32,no-resolve
 IP-CIDR,120.37.141.75/32,no-resolve
 IP-CIDR,120.37.141.76/32,no-resolve
@@ -635,7 +637,6 @@ IP-CIDR,134.195.101.189/32,no-resolve
 IP-CIDR,134.195.101.191/32,no-resolve
 IP-CIDR,138.2.2.120/32,no-resolve
 IP-CIDR,139.185.46.236/32,no-resolve
-IP-CIDR,140.143.243.77/32,no-resolve
 IP-CIDR,140.238.101.15/32,no-resolve
 IP-CIDR,141.147.33.180/32,no-resolve
 IP-CIDR,141.253.124.138/32,no-resolve
@@ -654,7 +655,6 @@ IP-CIDR,158.101.195.118/32,no-resolve
 IP-CIDR,158.178.236.104/32,no-resolve
 IP-CIDR,158.179.18.251/32,no-resolve
 IP-CIDR,159.13.35.245/32,no-resolve
-IP-CIDR,159.75.242.4/32,no-resolve
 IP-CIDR,160.202.167.53/32,no-resolve
 IP-CIDR,162.159.38.1/32,no-resolve
 IP-CIDR,162.159.38.247/32,no-resolve
@@ -731,10 +731,10 @@ IP-CIDR6,64:ff9b::22d9:8a23/128,no-resolve
 IP-CIDR6,64:ff9b::235b:2138/128,no-resolve
 IP-CIDR6,64:ff9b::24e7:6f03/128,no-resolve
 IP-CIDR6,64:ff9b::2cf3:b985/128,no-resolve
-IP-CIDR6,64:ff9b::2e52:ae45/128,no-resolve
 IP-CIDR6,64:ff9b::3436:fd30/128,no-resolve
 IP-CIDR6,64:ff9b::36fb:684/128,no-resolve
 IP-CIDR6,64:ff9b::5228:2118/128,no-resolve
+IP-CIDR6,64:ff9b::5d2e:85a/128,no-resolve
 IP-CIDR6,64:ff9b::673e:318b/128,no-resolve
 IP-CIDR6,64:ff9b::673e:318c/128,no-resolve
 IP-CIDR6,64:ff9b::673e:319b/128,no-resolve
