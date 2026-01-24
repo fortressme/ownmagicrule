@@ -15,6 +15,7 @@ payload:
  - PROCESS-NAME,ai.perplexity.app.android
  - DOMAIN-SUFFIX,meta.ai
  - DOMAIN-SUFFIX,llama.com
+ - DOMAIN-SUFFIX,kilo.ai
  - DOMAIN-SUFFIX,llmsresearch.com
  - DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
  - DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
