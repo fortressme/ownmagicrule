@@ -76,6 +76,8 @@ PROCESS-NAME,ai.perplexity.app.android
 # FacebookMetaAI
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,llama.com
+# Kilo
+DOMAIN-SUFFIX,kilo.ai
 # other
 DOMAIN-SUFFIX,llmsresearch.com
 DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
