@@ -37,6 +37,7 @@ PROCESS-NAME,com.binance.dev
 PROCESS-NAME,vip.mytokenpocket
 
 # VPS
+DOMAIN-SUFFIX,sgoracle0.112700.xyz
 IP-CIDR,92.112.21.0/24,no-resolve
 IP-CIDR,92.112.22.0/24,no-resolve
 IP-CIDR,92.112.23.0/24,no-resolve
