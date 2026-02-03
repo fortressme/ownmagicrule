@@ -61,45 +61,38 @@ dns:
   nameserver-policy:
     'geosite:googlefcm': 
       - https://doh.pub/dns-query
-      - https://doh.360.cn
       - https://dns.alidns.com/dns-query
+      - quic://223.5.5.5:853
     '+.aliyuncs.com': 
-      - https://doh.pub/dns-query
-      - https://doh.360.cn
+      - quic://223.5.5.5:853
       - https://dns.alidns.com/dns-query
     'geosite:cn': 
       - 202.102.152.3
       - 119.29.29.29
-      - 123.125.81.6
-      - 101.226.4.6
+      - quic://223.5.5.5:853
     'geosite:gfw': 
-      - https://doh.opendns.com/dns-query#Proxy
       - https://1.1.1.1/dns-query#Proxy
       - https://8.8.8.8/dns-query#Proxy
       - https://[2001:4860:4860::64]/dns-query#Proxy
   default-nameserver:
     - 202.102.152.3
     - 119.29.29.29
-    - 123.125.81.6
-    - 101.226.4.6
+    - quic://223.5.5.5:853
   direct-nameserver:
     - 202.102.152.3
     - 119.29.29.29
-    - 123.125.81.6
-    - 101.226.4.6
+    - quic://223.5.5.5:853
   direct-nameserver-follow-policy: false
   nameserver:
     - 202.102.152.3
     - 119.29.29.29
-    - 123.125.81.6
-    - 101.226.4.6
+    - quic://223.5.5.5:853
   proxy-server-nameserver:
     - 114.114.114.114
-    - 202.102.152.3
+    - quic://223.5.5.5:853
     - https://doh.pub/dns-query
     - https://1.1.1.1/dns-query#Proxy
   fallback:
-    - https://doh.opendns.com/dns-query#Proxy
     - https://1.1.1.1/dns-query#Proxy
     - https://8.8.8.8/dns-query#Proxy
     - https://[2001:4860:4860::64]/dns-query#Proxy
