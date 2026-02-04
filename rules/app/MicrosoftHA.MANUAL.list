@@ -1,3 +1,5 @@
+# WindowsStore
+DOMAIN-REGEX,^.*store.*microsoft\.com$
 # office等高ip要求
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msauth.net
