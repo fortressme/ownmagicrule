@@ -1,4 +1,5 @@
 payload:
+ - DOMAIN-REGEX,^.*store.*microsoft\.com$
  - DOMAIN-SUFFIX,msftauth.net
  - DOMAIN-SUFFIX,msauth.net
  - DOMAIN-SUFFIX,account.microsoft.com
