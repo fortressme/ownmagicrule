@@ -66,21 +66,28 @@ dns:
     '+.aliyuncs.com': 
       - quic://223.5.5.5:853
       - https://dns.alidns.com/dns-query
+      - https://doh.pub/dns-query
+    'geosite:cn': 
+      - 202.102.152.3
+      - 119.29.29.29
+      - https://doh.pub/dns-query
+      - quic://223.5.5.5:853
     'geosite:gfw': 
-      - https://1.1.1.1/dns-query
-      - https://8.8.8.8/dns-query
+      - https://1.1.1.1/dns-query#Proxy
+      - https://8.8.8.8/dns-query#Proxy
+      - https://[2001:4860:4860::64]/dns-query#Proxy
   default-nameserver:
-    - 223.5.5.5
-    - 119.29.29.29
-    - quic://223.5.5.5:853
-  direct-nameserver:
-    - 223.5.5.5
+    - 202.102.152.3
     - 119.29.29.29
     - https://doh.pub/dns-query
     - quic://223.5.5.5:853
+  direct-nameserver:
+    - 202.102.152.3
+    - 119.29.29.29
+    - quic://223.5.5.5:853
   direct-nameserver-follow-policy: false
   nameserver:
-    - 223.5.5.5
+    - 202.102.152.3
     - 119.29.29.29
     - https://doh.pub/dns-query
     - quic://223.5.5.5:853
@@ -88,10 +95,11 @@ dns:
     - 114.114.114.114
     - quic://223.5.5.5:853
     - https://doh.pub/dns-query
-    - https://1.1.1.1/dns-query
+    - https://1.1.1.1/dns-query#Proxy
   fallback:
-    - https://1.1.1.1/dns-query
-    - https://8.8.8.8/dns-query
+    - https://1.1.1.1/dns-query#Proxy
+    - https://8.8.8.8/dns-query#Proxy
+    - https://[2001:4860:4860::64]/dns-query#Proxy
   fallback-filter:
     geoip: false
     geoip-code: CN
@@ -348,8 +356,8 @@ hosts:
 
 # 实验性功能配置
 experimental:
-  quic-go-disable-gso: false # 禁用 QUIC 协议中的 GSO (Generic Segmentation Offload) 功能
-  quic-go-disable-ecn: false #禁用ECN
+  quic-go-disable-gso: true # 禁用 QUIC 协议中的 GSO (Generic Segmentation Offload) 功能
+  quic-go-disable-ecn: true #禁用ECN
   dialer-ip4p-convert: false # 启用IP4P地址转换
 
 proxies:
