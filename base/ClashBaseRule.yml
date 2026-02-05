@@ -66,10 +66,6 @@ dns:
     '+.aliyuncs.com': 
       - quic://223.5.5.5:853
       - https://dns.alidns.com/dns-query
-    'geosite:cn': 
-      - 202.102.152.3
-      - 119.29.29.29
-      - quic://223.5.5.5:853
     'geosite:gfw': 
       - https://1.1.1.1/dns-query#Proxy
       - https://8.8.8.8/dns-query#Proxy
