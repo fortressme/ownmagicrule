@@ -67,31 +67,31 @@ dns:
       - quic://223.5.5.5:853
       - https://dns.alidns.com/dns-query
     'geosite:gfw': 
-      - https://1.1.1.1/dns-query#Proxy
-      - https://8.8.8.8/dns-query#Proxy
-      - https://[2001:4860:4860::64]/dns-query#Proxy
+      - https://1.1.1.1/dns-query
+      - https://8.8.8.8/dns-query
   default-nameserver:
-    - 202.102.152.3
+    - 223.5.5.5
     - 119.29.29.29
     - quic://223.5.5.5:853
   direct-nameserver:
-    - 202.102.152.3
+    - 223.5.5.5
     - 119.29.29.29
+    - https://doh.pub/dns-query
     - quic://223.5.5.5:853
   direct-nameserver-follow-policy: false
   nameserver:
-    - 202.102.152.3
+    - 223.5.5.5
     - 119.29.29.29
+    - https://doh.pub/dns-query
     - quic://223.5.5.5:853
   proxy-server-nameserver:
     - 114.114.114.114
     - quic://223.5.5.5:853
     - https://doh.pub/dns-query
-    - https://1.1.1.1/dns-query#Proxy
+    - https://1.1.1.1/dns-query
   fallback:
-    - https://1.1.1.1/dns-query#Proxy
-    - https://8.8.8.8/dns-query#Proxy
-    - https://[2001:4860:4860::64]/dns-query#Proxy
+    - https://1.1.1.1/dns-query
+    - https://8.8.8.8/dns-query
   fallback-filter:
     geoip: false
     geoip-code: CN
