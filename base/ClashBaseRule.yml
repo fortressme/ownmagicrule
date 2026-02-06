@@ -72,10 +72,6 @@ dns:
       - 119.29.29.29
       - https://doh.pub/dns-query
       - quic://223.5.5.5:853
-    'geosite:gfw': 
-      - https://1.1.1.1/dns-query
-      - https://8.8.8.8/dns-query
-      - https://[2001:4860:4860::64]/dns-query
   default-nameserver:
     - 202.102.152.3
     - 119.29.29.29
