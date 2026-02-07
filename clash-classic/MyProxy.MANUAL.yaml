@@ -11,6 +11,7 @@ payload:
  - DOMAIN-SUFFIX,hailuoai.com
  - DOMAIN-SUFFIX,z.ai
  - DOMAIN-SUFFIX,zread.ai
+ - DOMAIN-SUFFIX,longcat.chat
  - DOMAIN-SUFFIX,siliconflow.com
  - DOMAIN-SUFFIX,attemptd.work
  - IP-CIDR,49.232.25.145/32,no-resolve
