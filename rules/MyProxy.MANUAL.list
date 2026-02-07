@@ -18,8 +18,9 @@ DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zread.ai
 
-# 美团LangCatAI
-DOMAIN-SUFFIX,longcat.chat
+# # 美团LangCatAI
+# DOMAIN-SUFFIX,longcat.chat
+# DOMAIN-SUFFIX,longcat.ai
 
 # 硅基流动国际站
 DOMAIN-SUFFIX,siliconflow.com
