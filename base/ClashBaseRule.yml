@@ -268,10 +268,10 @@ sniffer:
       ports: [80, 8080, 8082-8880, 465, 587, 993, 995]
       override-destination: true
     TLS:
-      ports: [443, 8443, 465, 587, 993, 995]
+      ports: [443, 8443, 853, 465, 587, 993, 995]
       override-destination: true
     QUIC:
-      ports: [443, 8443, 465, 587, 993, 995]
+      ports: [443, 8443, 853, 465, 587, 993, 995]
       override-destination: true
   force-domain:
     - +.v2ex.com
@@ -280,6 +280,8 @@ sniffer:
     - dlg.io.mi.com
     - +.rc.sunlogin.net
     - time.windows.com
+    - doh.pub
+    - dns.alidns.com
     - courier.push.apple.com
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
@@ -317,6 +319,7 @@ sniffer:
     - 223.5.5.5/32
     - 223.6.6.6/32
     - 119.29.29.29/32
+    - 1.12.12.12/32
     - 1.1.1.1/32
     - 1.0.0.1/32
     - 8.8.8.8/32
