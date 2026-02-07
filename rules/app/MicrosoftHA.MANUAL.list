@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,pop-mail.outlook.com
 DOMAIN-SUFFIX,events.data.microsoft.com
 DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,wns.windows.com
+DOMAIN-SUFFIX,insideruser.microsoft.com
 
 #AZURE
 DOMAIN-SUFFIX,azure
