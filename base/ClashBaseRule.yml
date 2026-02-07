@@ -67,11 +67,6 @@ dns:
       - quic://223.5.5.5:853
       - https://dns.alidns.com/dns-query
       - https://doh.pub/dns-query
-    'geosite:cn': 
-      - 202.102.152.3
-      - 119.29.29.29
-      - https://doh.pub/dns-query
-      - quic://223.5.5.5:853
   default-nameserver:
     - 202.102.152.3
     - 119.29.29.29
