@@ -670,6 +670,7 @@ payload:
  - DOMAIN-SUFFIX,bitshare.com
  - DOMAIN-SUFFIX,bitsnoop.com
  - DOMAIN-SUFFIX,bitterwinter.org
+ - DOMAIN-SUFFIX,bittorrent.com
  - DOMAIN-SUFFIX,bitvise.com
  - DOMAIN-SUFFIX,bitz.ai
  - DOMAIN-SUFFIX,bizhat.com
@@ -2357,6 +2358,7 @@ payload:
  - DOMAIN-SUFFIX,greenvpn.org
  - DOMAIN-SUFFIX,grindr.com
  - DOMAIN-SUFFIX,grok.com
+ - DOMAIN-SUFFIX,grokipedia.com
  - DOMAIN-SUFFIX,grotty-monday.com
  - DOMAIN-SUFFIX,ground.news
  - DOMAIN-SUFFIX,gs-discuss.com
@@ -2458,6 +2460,7 @@ payload:
  - DOMAIN-SUFFIX,helpshift.com
  - DOMAIN-SUFFIX,helpster.de
  - DOMAIN-SUFFIX,helpzhuling.org
+ - DOMAIN-SUFFIX,hembed.com
  - DOMAIN-SUFFIX,hentai.to
  - DOMAIN-SUFFIX,hentaitube.tv
  - DOMAIN-SUFFIX,hentaivideoworld.com
@@ -5906,6 +5909,7 @@ payload:
  - DOMAIN-SUFFIX,v.gd
  - DOMAIN-SUFFIX,v.roucdn
  - DOMAIN-SUFFIX,v2.help
+ - DOMAIN-SUFFIX,v2.hysteria.network
  - DOMAIN-SUFFIX,v2ex.co
  - DOMAIN-SUFFIX,v2ex.com
  - DOMAIN-SUFFIX,v2fly.org
