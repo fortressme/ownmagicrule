@@ -33,6 +33,8 @@ payload:
  - DOMAIN-SUFFIX,pop-mail.outlook.com
  - DOMAIN-SUFFIX,events.data.microsoft.com
  - DOMAIN-SUFFIX,login.microsoftonline.com
+ - DOMAIN-SUFFIX,wns.windows.com
+ - DOMAIN-SUFFIX,insideruser.microsoft.com
  - DOMAIN-SUFFIX,azure
  - DOMAIN-SUFFIX,azure-api.cn
  - DOMAIN-SUFFIX,azure-apihub.cn
