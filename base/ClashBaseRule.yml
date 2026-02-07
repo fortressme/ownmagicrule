@@ -69,6 +69,10 @@ dns:
       - https://v.recipes/dns/dns.google/dns-query
       - https://8.8.8.8/dns-query
       - https://ld.ddd.oaifree.com/query-dns
+    'geosite:!cn': 
+      - https://v.recipes/dns/dns.google/dns-query
+      - https://8.8.8.8/dns-query
+      - https://ld.ddd.oaifree.com/query-dns
   default-nameserver:
     - 119.29.29.29
     - 223.6.6.6
