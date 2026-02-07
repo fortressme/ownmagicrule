@@ -1,22 +1,25 @@
 # nebius
 DOMAIN-SUFFIX,nebius.com
 
-# QwenLLM
+# QwenLLMAI
 DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,wanxai.com
 DOMAIN-SUFFIX,wan.video
 PROCESS-NAME,ai.qwenlm.chat.android
 
-# MINIMAX/海螺
+# MINIMAX/海螺AI
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,hailuo.ai
 DOMAIN-SUFFIX,hailuoai.video
 DOMAIN-SUFFIX,hailuoai.com
 
-# 智谱
+# 智谱AI
 DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zread.ai
+
+# 美团LangCatAI
+DOMAIN-SUFFIX,longcat.chat
 
 # 硅基流动国际站
 DOMAIN-SUFFIX,siliconflow.com
