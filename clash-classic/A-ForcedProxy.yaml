@@ -1,5 +1,4 @@
 payload:
- - DOMAIN,android.apis.google.com
  - DOMAIN-SUFFIX,skype
  - DOMAIN-SUFFIX,skype.com
  - DOMAIN-SUFFIX,skype.net
