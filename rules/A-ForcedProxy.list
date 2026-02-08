@@ -1,6 +1,3 @@
-# FCM注册
-DOMAIN,android.apis.google.com
-
 # microsoft skype
 DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
