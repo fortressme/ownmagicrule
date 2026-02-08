@@ -1,0 +1,8 @@
+# Manual additions for Copilot
+DOMAIN,designer.microsoft.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+PROCESS-NAME,Copilot.exe
+PROCESS-NAME,Copilot
+PROCESS-NAME,com.microsoft.copilot
