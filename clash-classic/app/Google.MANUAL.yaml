@@ -1,4 +1,6 @@
 payload:
+ - GEOSITE,google
+ - GEOIP,google,no-resolve
  - DOMAIN-SUFFIX,smtp.gmail.com
  - DOMAIN-SUFFIX,pop.gmail.com
  - DOMAIN-SUFFIX,imap.gmail.com

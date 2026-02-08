@@ -32,6 +32,7 @@ payload:
  - DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
  - DOMAIN,xz.pphimalayanrt.com
  - DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
+ - GEOSITE,category-games@cn
  - DOMAIN-SUFFIX,assets1.xboxlive.com
  - DOMAIN-KEYWORD,xboxassets
  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net

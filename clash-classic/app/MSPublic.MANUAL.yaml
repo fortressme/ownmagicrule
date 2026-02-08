@@ -1,4 +1,5 @@
 payload:
+ - GEOSITE,bing
  - DOMAIN,designer.microsoft.com
  - DOMAIN-SUFFIX,githubcopilot.com
  - DOMAIN,copilot-telemetry.githubusercontent.com

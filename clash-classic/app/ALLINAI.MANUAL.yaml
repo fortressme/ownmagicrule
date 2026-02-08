@@ -16,6 +16,7 @@ payload:
  - DOMAIN-SUFFIX,meta.ai
  - DOMAIN-SUFFIX,llama.com
  - DOMAIN-SUFFIX,kilo.ai
+ - DOMAIN-SUFFIX,opencode.ai
  - AND,((GEOSITE,category-ai-!cn),(NOT,((GEOSITE,google))))
  - DOMAIN-SUFFIX,llmsresearch.com
  - DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
