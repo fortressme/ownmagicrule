@@ -1,3 +1,6 @@
+# Bing GEOSITE
+GEOSITE,bing
+
 # Manual additions for Copilot
 DOMAIN,designer.microsoft.com
 DOMAIN-SUFFIX,githubcopilot.com

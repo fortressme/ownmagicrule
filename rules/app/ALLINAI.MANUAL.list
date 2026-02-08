@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,llama.com
 # Kilo
 DOMAIN-SUFFIX,kilo.ai
+# OpenCode
+DOMAIN-SUFFIX,opencode.ai
 # other
 AND,((GEOSITE,category-ai-!cn),(NOT,((GEOSITE,google))))
 DOMAIN-SUFFIX,llmsresearch.com

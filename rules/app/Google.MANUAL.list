@@ -1,3 +1,7 @@
+# Google GEOSITE
+GEOSITE,google
+GEOIP,google,no-resolve
+
 # 邮箱
 DOMAIN-SUFFIX,smtp.gmail.com
 DOMAIN-SUFFIX,pop.gmail.com
