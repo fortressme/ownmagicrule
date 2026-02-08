@@ -25,6 +25,9 @@ DOMAIN-KEYWORD,skydrive
 PROCESS-NAME,OneDrive
 PROCESS-NAME,OneDriveUpdater
 
+# Onedrive GEOSITE
+GEOSITE,onedrive
+
 # 补充
 DOMAIN-SUFFIX,my.microsoftpersonalcontent.com
 

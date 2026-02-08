@@ -92,6 +92,9 @@ IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,14061,no-resolve
 IP-ASN,20473,no-resolve
 
+# Bing GEOSITE
+GEOSITE,bing
+
 # Manual additions for Copilot
 DOMAIN,designer.microsoft.com
 DOMAIN-SUFFIX,githubcopilot.com
