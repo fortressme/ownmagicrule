@@ -6211,6 +6211,7 @@ payload:
  - DOMAIN-SUFFIX,wikipedia.com
  - DOMAIN-SUFFIX,wikipedia.org
  - DOMAIN-SUFFIX,wikiquote.org
+ - DOMAIN-SUFFIX,wikis.tw
  - DOMAIN-SUFFIX,wikisource.org
  - DOMAIN-SUFFIX,wikiunblocked.org
  - DOMAIN-SUFFIX,wikiversity.org
