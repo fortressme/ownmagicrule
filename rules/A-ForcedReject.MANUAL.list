@@ -1,3 +1,4 @@
+DOMAIN-REGEX,.*\.mcdn\.bilivideo\.(com|cn|net)$
 DOMAIN,bsccdn.net
 DOMAIN,dyp2p-ali.douyucdn.cn
 DOMAIN,dyp2p-hw.douyucdn.cn
@@ -28,4 +29,3 @@ DOMAIN,stun1.douyucdn.cn
 DOMAIN,szbdyd.com
 DOMAIN,uhabo.com
 DOMAIN,xycdn.com
-
