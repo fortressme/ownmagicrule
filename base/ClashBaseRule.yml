@@ -282,6 +282,9 @@ sniffer:
   skip-domain:
     - Mijia Cloud
     - dlg.io.mi.com
+    - +.vivo.com.cn
+    - +.vivo.com
+    - +.vivo.net
     - +.rc.sunlogin.net
     - time.windows.com
     - doh.pub
