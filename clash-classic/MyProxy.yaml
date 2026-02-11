@@ -180,6 +180,7 @@ payload:
  - DOMAIN-SUFFIX,oraclefoundation.org
  - DOMAIN-SUFFIX,oracleimg.com
  - DOMAIN-SUFFIX,oracleinfinity.io
+ - DOMAIN-SUFFIX,pandaremit.com
  - DOMAIN-SUFFIX,papakatsu.co
  - DOMAIN-SUFFIX,passwd.iswsh.com
  - DOMAIN-SUFFIX,phantom.app
@@ -212,6 +213,7 @@ payload:
  - DOMAIN-SUFFIX,shucdn.com
  - DOMAIN-SUFFIX,siliconflow.com
  - DOMAIN-SUFFIX,stables.money
+ - DOMAIN-SUFFIX,starryblu.com
  - DOMAIN-SUFFIX,sun.com
  - DOMAIN-SUFFIX,tarekcloud.com
  - DOMAIN-SUFFIX,tawk.to
@@ -249,6 +251,7 @@ payload:
  - IP-CIDR6,2a12:f8c1:50:8::/64,no-resolve
  - IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve
  - PROCESS-NAME,ai.qwenlm.chat.android
+ - PROCESS-NAME,com.nextpls.starryblu
  - PROCESS-NAME,money.stables
  - PROCESS-NAME,uni.UNI2317D55
  - DOMAIN,eu1.workspace.org
