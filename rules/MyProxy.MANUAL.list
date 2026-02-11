@@ -75,6 +75,11 @@ DOMAIN-SUFFIX,iovip-as0.qiniuio.com
 DOMAIN-SUFFIX,rs-as0.qiniuapi.com
 DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
 
+# Starryblu熊猫速汇
+DOMAIN-SUFFIX,starryblu.com
+DOMAIN-SUFFIX,pandaremit.com
+PROCESS-NAME,com.nextpls.starryblu
+
 # phantom加密钱包
 DOMAIN-SUFFIX,phantom.com
 DOMAIN-SUFFIX,phantom.app
