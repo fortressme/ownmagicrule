@@ -216,5 +216,4 @@ PROCESS-NAME,leigod
 PROCESS-NAME,leigod.exe
 IP-CIDR,45.137.180.230/32,no-resolve
 # 其他VPS
-IP-CIDR,150.138.92.0/24,no-resolve
-DOMAIN-SUFFIX,czsd.speedtest.876521.xyz
+DOMAIN-SUFFIX,aip.acgf.vip
