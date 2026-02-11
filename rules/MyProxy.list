@@ -15,6 +15,7 @@
 # Other
 # QwenLLMAI
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+# Starryblu熊猫速汇
 # TOTAL: 25
 # TOTAL: 6
 # TOTAL: 7
@@ -212,6 +213,7 @@ DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,oraclefoundation.org
 DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,oracleinfinity.io
+DOMAIN-SUFFIX,pandaremit.com
 DOMAIN-SUFFIX,papakatsu.co
 DOMAIN-SUFFIX,passwd.iswsh.com
 DOMAIN-SUFFIX,phantom.app
@@ -244,6 +246,7 @@ DOMAIN-SUFFIX,shared.oaifree.com
 DOMAIN-SUFFIX,shucdn.com
 DOMAIN-SUFFIX,siliconflow.com
 DOMAIN-SUFFIX,stables.money
+DOMAIN-SUFFIX,starryblu.com
 DOMAIN-SUFFIX,sun.com
 DOMAIN-SUFFIX,tarekcloud.com
 DOMAIN-SUFFIX,tawk.to
@@ -281,6 +284,7 @@ IP-CIDR6,2a0f:7802:e2c0::/48,no-resolve
 IP-CIDR6,2a12:f8c1:50:8::/64,no-resolve
 IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve
 PROCESS-NAME,ai.qwenlm.chat.android
+PROCESS-NAME,com.nextpls.starryblu
 PROCESS-NAME,money.stables
 PROCESS-NAME,uni.UNI2317D55
 
