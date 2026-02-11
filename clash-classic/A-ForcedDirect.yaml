@@ -380,8 +380,7 @@ payload:
  - PROCESS-NAME,leigod
  - PROCESS-NAME,leigod.exe
  - IP-CIDR,45.137.180.230/32,no-resolve
- - IP-CIDR,150.138.92.0/24,no-resolve
- - DOMAIN-SUFFIX,czsd.speedtest.876521.xyz
+ - DOMAIN-SUFFIX,aip.acgf.vip
  - AND,((DOMAIN-SUFFIX,3bd9.55dba.e048.f65-fef1f.yfjcs.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,3bd9.55dca.e048.f1-fef1f.yfjcs.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,3bd9.55dca.e048.f6-fef1f.yfjcs.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
