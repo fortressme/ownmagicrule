@@ -29,7 +29,6 @@
 # read
 # 一些日本服务
 # 七牛云东南亚
-# 智谱AI
 # 硅基流动国际站
 # 腾讯云国际
 DOMAIN,d1q6f0aelx0por.cloudfront.net
@@ -275,8 +274,6 @@ DOMAIN-SUFFIX,x360xs.com
 DOMAIN-SUFFIX,xaoxuu.com
 DOMAIN-SUFFIX,xbiquge.laa
 DOMAIN-SUFFIX,yaoluxs.com
-DOMAIN-SUFFIX,z.ai
-DOMAIN-SUFFIX,zread.ai
 IP-CIDR,178.94.142.0/24,no-resolve
 IP-CIDR,45.192.248.0/22,no-resolve
 IP-CIDR,49.232.25.145/32,no-resolve
