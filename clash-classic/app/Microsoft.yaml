@@ -749,6 +749,7 @@ payload:
  - DOMAIN-SUFFIX,yammer.com
  - DOMAIN-SUFFIX,yammerusercontent.com
  - DOMAIN-REGEX,^.*store.*microsoft\.com$
+ - DOMAIN-REGEX,^[^.]*store[^.]*\.[^.]*\.*microsoft\.com$
  - DOMAIN-SUFFIX,msftauth.net
  - DOMAIN-SUFFIX,msauth.net
  - DOMAIN-SUFFIX,account.microsoft.com
