@@ -762,6 +762,7 @@ DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 # WindowsStore
 DOMAIN-REGEX,^.*store.*microsoft\.com$
+DOMAIN-REGEX,^[^.]*store[^.]*\.[^.]*\.*microsoft\.com$
 # office等高ip要求
 DOMAIN-SUFFIX,msftauth.net
 DOMAIN-SUFFIX,msauth.net
