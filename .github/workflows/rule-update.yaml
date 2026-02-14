@@ -715,10 +715,10 @@ jobs:
           echo "Failed to download or empty UKMedia.list, exiting."
         fi
 
-    - name: Download NorthwestEuropeAPP rules
+    - name: Download EuropeAPP rules
       run: |
-        cp rules/app/NorthwestEurope.MANUAL.list rules/app/NorthwestEurope.list.new
-        mv -f rules/app/NorthwestEurope.list.new rules/app/NorthwestEurope.list
+        cp rules/app/Europe.MANUAL.list rules/app/Europe.list.new
+        mv -f rules/app/Europe.list.new rules/app/Europe.list
 
     # - name: Download HKAPP rules
     #   run: |

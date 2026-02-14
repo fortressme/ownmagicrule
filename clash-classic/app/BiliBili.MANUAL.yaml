@@ -1,2 +1,0 @@
-payload:
- - DOMAIN-REGEX,.*\.mcdn\.bilivideo\.(com|cn|net)$
