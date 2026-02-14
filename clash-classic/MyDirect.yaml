@@ -43,6 +43,7 @@ payload:
  - DOMAIN-SUFFIX,samsungqbe.com
  - DOMAIN-SUFFIX,scyd.4444442.xyz
  - DOMAIN-SUFFIX,siliconflow.cn
+ - DOMAIN-SUFFIX,snssdk.com
  - DOMAIN-SUFFIX,tailscale.com
  - DOMAIN-SUFFIX,tailscale.io
  - DOMAIN-SUFFIX,th.4444442.xyz
