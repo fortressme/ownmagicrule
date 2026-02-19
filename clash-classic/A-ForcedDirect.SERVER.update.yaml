@@ -1,20 +1,67 @@
 payload:
- - rn-usdc2.speedtest.876521.xyz:33026
- - 148.135.103.10:33026
- - [2607:f130:0:f8:ff:ff:53d7:572f]:33026
+ - s.jp5.niceduck.me:52370
+ - jsyd2.niceduck.me:52370
+ - 3bd9.55dca.e048.f1-fef1f.yfjcs.com:443
+ - 203.10.98.188:443
+ - pq.aws59.yydjc.top:443
+ - 13.250.107.45:443
  - S00000000000012.Egroup-Node-For-NorthAmericanAirport.com:10002
  - 52.12.26.150:10002
+ - lz-hk.speedtest.876521.xyz:31001
+ - lz-hk.speedtest.876521.xyz:31002
+ - lz-hk.speedtest.876521.xyz:31003
+ - lz-hk.speedtest.876521.xyz:31004
+ - lz-hk.speedtest.876521.xyz:31005
+ - lz-hk.speedtest.876521.xyz:31006
+ - lz-hk.speedtest.876521.xyz:31009
+ - lz-hk.speedtest.876521.xyz:31007
+ - lz-hk.speedtest.876521.xyz:31008
+ - 162.245.221.98:31001
+ - 162.245.221.98:31002
+ - 162.245.221.98:31003
+ - 162.245.221.98:31004
+ - 162.245.221.98:31005
+ - 162.245.221.98:31006
+ - 162.245.221.98:31009
+ - 162.245.221.98:31007
+ - 162.245.221.98:31008
+ - [2400:c620:28:7413::1]:31001
+ - [2400:c620:28:7413::1]:31002
+ - [2400:c620:28:7413::1]:31003
+ - [2400:c620:28:7413::1]:31004
+ - [2400:c620:28:7413::1]:31005
+ - [2400:c620:28:7413::1]:31006
+ - [2400:c620:28:7413::1]:31009
+ - [2400:c620:28:7413::1]:31007
+ - [2400:c620:28:7413::1]:31008
+ - cname-pz4h4rnxfss24xny.sf62sr.xin:54021
+ - cname-pz4h4rnxfss24xny.sf62sr.xin:54041
+ - cname-pz4h4rnxfss24xny.sf62sr.xin:54011
+ - cname-pz4h4rnxfss24xny.sf62sr.xin:54051
+ - 180.188.34.210:54021
+ - 180.188.34.210:54041
+ - 180.188.34.210:54011
+ - 180.188.34.210:54051
+ - cnamepc-cu.cnameip.xyz:54021
+ - cnamepc-cu.cnameip.xyz:54041
+ - cnamepc-cu.cnameip.xyz:54011
+ - cnamepc-cu.cnameip.xyz:54051
+ - pq.us6.globals-download.com:35000
+ - 134.195.101.181:35000
+ - s.hk2.niceduck.me:52361
+ - jsyd2.niceduck.me:52361
+ - pq.us4.globals-download.com:35000
+ - 134.195.101.171:35000
+ - 18.183.107.190:443
+ - pq.vmjp.yydjc.top:443
+ - S00000000000015.Egroup-Node-For-NorthAmericanAirport.com:10001
+ - 204.236.203.31:10001
+ - pq.vmjp2.yydjc.top:443
+ - 54.199.177.178:443
+ - kxy-frv6.speedtest.876521.xyz:33026
+ - [2001:41d0:a:5fef:a3bf:7e28:9a80:1]:33026
  - pq.vmjp3.yydjc.top:443
  - 103.62.49.171:443
- - s.us1.niceduck.me:52366
- - jsyd.niceduck.me:52366
- - pq.us9.globals-download.com:35000
- - [2606:4700:3030::ac43:9ec0]:35000
- - [2606:4700:3036::6815:391d]:35000
- - 172.67.158.192:35000
- - 104.21.57.29:35000
- - pq.aws60.yydjc.top:443
- - 13.250.97.253:443
  - bwg-us.speedtest.876521.xyz:33026
  - bwg-us.speedtest.876521.xyz:31001
  - bwg-us.speedtest.876521.xyz:31002
@@ -35,42 +82,6 @@ payload:
  - 104.194.69.250:31009
  - 104.194.69.250:31007
  - 104.194.69.250:31008
- - S00000000000015.Egroup-Node-For-NorthAmericanAirport.com:10001
- - 204.236.203.31:10001
- - s.jp5.niceduck.me:52370
- - jsyd2.niceduck.me:52370
- - kxy-frv6.speedtest.876521.xyz:33026
- - [2001:41d0:a:5fef:a3bf:7e28:9a80:1]:33026
- - pq.hy.jp2.yydjc.top:60000
- - 103.62.49.164:60000
- - pq.vmjp.yydjc.top:443
- - 18.183.107.190:443
- - 120.233.31.51:52372
- - s.us6.niceduck.me:52372
- - jsyd3.niceduck.me:52372
- - cname-pz4h4rnxfss24xny.sf62sr.xin:54011
- - cname-pz4h4rnxfss24xny.sf62sr.xin:54021
- - cname-pz4h4rnxfss24xny.sf62sr.xin:54041
- - cname-pz4h4rnxfss24xny.sf62sr.xin:54051
- - 180.188.34.210:54011
- - 180.188.34.210:54021
- - 180.188.34.210:54041
- - 180.188.34.210:54051
- - cnamepc-cu.cnameip.xyz:54011
- - cnamepc-cu.cnameip.xyz:54021
- - cnamepc-cu.cnameip.xyz:54041
- - cnamepc-cu.cnameip.xyz:54051
- - 54.199.177.178:443
- - pq.vmjp2.yydjc.top:443
- - pq.aws59.yydjc.top:443
- - 13.250.107.45:443
- - s.us5.niceduck.me:52372
- - jsyd2.niceduck.me:52372
- - rm-lite-hk-15.409648.xyz:37735
- - 89.251.11.15:37735
- - [2a0f:9400:73b3::6:a]:37735
- - pq.us6.globals-download.com:35000
- - 134.195.101.181:35000
  - cname08b-xp3zfkbmz8pyhmbf.ew82zc.xin:54011
  - cname08b-xp3zfkbmz8pyhmbf.ew82zc.xin:54021
  - cname08b-xp3zfkbmz8pyhmbf.ew82zc.xin:54031
@@ -86,26 +97,46 @@ payload:
  - cname08-xp3zfkbmz8pyhmbf.cnameip.xyz:54031
  - cname08-xp3zfkbmz8pyhmbf.cnameip.xyz:54041
  - cname08-xp3zfkbmz8pyhmbf.cnameip.xyz:54051
- - pq.us4.globals-download.com:35000
- - 134.195.101.171:35000
- - s.hk2.niceduck.me:52361
- - jsyd2.niceduck.me:52361
+ - rn-usdc2.speedtest.876521.xyz:33026
+ - [2607:f130:0:f8:ff:ff:53d7:572f]:33026
+ - 148.135.103.10:33026
+ - s.us5.niceduck.me:52372
+ - jsyd2.niceduck.me:52372
+ - s.us6.niceduck.me:52372
+ - 120.233.31.51:52372
+ - jsyd3.niceduck.me:52372
+ - pq.us9.globals-download.com:35000
+ - 172.67.158.192:35000
+ - 104.21.57.29:35000
+ - [2606:4700:3030::ac43:9ec0]:35000
+ - [2606:4700:3036::6815:391d]:35000
  - cname-nntr5js5hss7bwef.sf62sr.xin:54011
+ - cname-nntr5js5hss7bwef.sf62sr.xin:54012
  - cname-nntr5js5hss7bwef.sf62sr.xin:54021
  - cname-nntr5js5hss7bwef.sf62sr.xin:54031
  - cname-nntr5js5hss7bwef.sf62sr.xin:54041
  - cname-nntr5js5hss7bwef.sf62sr.xin:54051
- - cnamepc-cu.cnameip.xyz:54031
+ - cname-nntr5js5hss7bwef.sf62sr.xin:54052
+ - 180.188.34.210:54012
  - 180.188.34.210:54031
- - ali-hk.speedtest.876521.xyz:31001
- - ali-hk.speedtest.876521.xyz:31002
- - ali-hk.speedtest.876521.xyz:31003
- - ali-hk.speedtest.876521.xyz:31004
- - ali-hk.speedtest.876521.xyz:31005
- - ali-hk.speedtest.876521.xyz:31006
- - ali-hk.speedtest.876521.xyz:31009
- - ali-hk.speedtest.876521.xyz:31007
- - ali-hk.speedtest.876521.xyz:31008
+ - 180.188.34.210:54052
+ - cnamepc-cu.cnameip.xyz:54012
+ - cnamepc-cu.cnameip.xyz:54031
+ - cnamepc-cu.cnameip.xyz:54052
+ - pq.aws60.yydjc.top:443
+ - 13.250.97.253:443
+ - s.us1.niceduck.me:52366
+ - jsyd.niceduck.me:52366
+ - rm-lite-hk-15.409648.xyz:37735
+ - 89.251.11.15:37735
+ - [2a0f:9400:73b3::6:a]:37735
+ - 120.233.31.51:52364
+ - s.kr3.niceduck.me:52364
+ - jsyd3.niceduck.me:52364
+ - pq.hy.jp2.yydjc.top:60000
+ - 103.62.49.164:60000
+ - pq.us2.globals-download.com:35000
+ - 134.195.101.136:35000
  - 47.76.213.235:31001
  - 47.76.213.235:31002
  - 47.76.213.235:31003
@@ -115,6 +146,15 @@ payload:
  - 47.76.213.235:31009
  - 47.76.213.235:31007
  - 47.76.213.235:31008
+ - ali-hk.speedtest.876521.xyz:31001
+ - ali-hk.speedtest.876521.xyz:31002
+ - ali-hk.speedtest.876521.xyz:31003
+ - ali-hk.speedtest.876521.xyz:31004
+ - ali-hk.speedtest.876521.xyz:31005
+ - ali-hk.speedtest.876521.xyz:31006
+ - ali-hk.speedtest.876521.xyz:31009
+ - ali-hk.speedtest.876521.xyz:31007
+ - ali-hk.speedtest.876521.xyz:31008
  - [240b:4001:138:9100:4cc6:aeed:89eb:6c8e]:31001
  - [240b:4001:138:9100:4cc6:aeed:89eb:6c8e]:31002
  - [240b:4001:138:9100:4cc6:aeed:89eb:6c8e]:31003
@@ -124,14 +164,32 @@ payload:
  - [240b:4001:138:9100:4cc6:aeed:89eb:6c8e]:31009
  - [240b:4001:138:9100:4cc6:aeed:89eb:6c8e]:31007
  - [240b:4001:138:9100:4cc6:aeed:89eb:6c8e]:31008
- - pq.us2.globals-download.com:35000
- - 134.195.101.136:35000
- - s.kr3.niceduck.me:52364
- - 120.233.31.51:52364
- - jsyd3.niceduck.me:52364
- - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54051
+ - rm-lite-hk-03.409648.xyz:37735
+ - [2400:c620:23:1f45::1]:37735
+ - 23.147.68.42:37735
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54061
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54062
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54063
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54064
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54065
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54066
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54067
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54068
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54069
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54070
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54071
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54072
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54073
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54074
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54075
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54076
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54077
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54078
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54079
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54080
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54081
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54082
+ - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54051
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54083
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54084
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54085
@@ -150,6 +208,26 @@ payload:
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54098
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54099
  - aaaa-dws75rnrbtfr25hx.kc28zn.xin:54100
+ - 183.61.173.194:54061
+ - 183.61.173.194:54062
+ - 183.61.173.194:54063
+ - 183.61.173.194:54064
+ - 183.61.173.194:54065
+ - 183.61.173.194:54066
+ - 183.61.173.194:54067
+ - 183.61.173.194:54068
+ - 183.61.173.194:54069
+ - 183.61.173.194:54070
+ - 183.61.173.194:54071
+ - 183.61.173.194:54072
+ - 183.61.173.194:54073
+ - 183.61.173.194:54074
+ - 183.61.173.194:54075
+ - 183.61.173.194:54076
+ - 183.61.173.194:54077
+ - 183.61.173.194:54078
+ - 183.61.173.194:54079
+ - 183.61.173.194:54080
  - 183.61.173.194:54081
  - 183.61.173.194:54082
  - 183.61.173.194:54083
@@ -170,9 +248,29 @@ payload:
  - 183.61.173.194:54098
  - 183.61.173.194:54099
  - 183.61.173.194:54100
- - cname-lm.cnameip.xyz:54051
+ - cname-lm.cnameip.xyz:54061
+ - cname-lm.cnameip.xyz:54062
+ - cname-lm.cnameip.xyz:54063
+ - cname-lm.cnameip.xyz:54064
+ - cname-lm.cnameip.xyz:54065
+ - cname-lm.cnameip.xyz:54066
+ - cname-lm.cnameip.xyz:54067
+ - cname-lm.cnameip.xyz:54068
+ - cname-lm.cnameip.xyz:54069
+ - cname-lm.cnameip.xyz:54070
+ - cname-lm.cnameip.xyz:54071
+ - cname-lm.cnameip.xyz:54072
+ - cname-lm.cnameip.xyz:54073
+ - cname-lm.cnameip.xyz:54074
+ - cname-lm.cnameip.xyz:54075
+ - cname-lm.cnameip.xyz:54076
+ - cname-lm.cnameip.xyz:54077
+ - cname-lm.cnameip.xyz:54078
+ - cname-lm.cnameip.xyz:54079
+ - cname-lm.cnameip.xyz:54080
  - cname-lm.cnameip.xyz:54081
  - cname-lm.cnameip.xyz:54082
+ - cname-lm.cnameip.xyz:54051
  - cname-lm.cnameip.xyz:54083
  - cname-lm.cnameip.xyz:54084
  - cname-lm.cnameip.xyz:54085
@@ -191,129 +289,28 @@ payload:
  - cname-lm.cnameip.xyz:54098
  - cname-lm.cnameip.xyz:54099
  - cname-lm.cnameip.xyz:54100
- - lz-hk.speedtest.876521.xyz:31001
- - lz-hk.speedtest.876521.xyz:31002
- - lz-hk.speedtest.876521.xyz:31003
- - lz-hk.speedtest.876521.xyz:31004
- - lz-hk.speedtest.876521.xyz:31005
- - lz-hk.speedtest.876521.xyz:31006
- - lz-hk.speedtest.876521.xyz:31009
- - lz-hk.speedtest.876521.xyz:31007
- - lz-hk.speedtest.876521.xyz:31008
- - [2400:c620:28:7413::1]:31001
- - [2400:c620:28:7413::1]:31002
- - [2400:c620:28:7413::1]:31003
- - [2400:c620:28:7413::1]:31004
- - [2400:c620:28:7413::1]:31005
- - [2400:c620:28:7413::1]:31006
- - [2400:c620:28:7413::1]:31009
- - [2400:c620:28:7413::1]:31007
- - [2400:c620:28:7413::1]:31008
- - 162.245.221.98:31001
- - 162.245.221.98:31002
- - 162.245.221.98:31003
- - 162.245.221.98:31004
- - 162.245.221.98:31005
- - 162.245.221.98:31006
- - 162.245.221.98:31009
- - 162.245.221.98:31007
- - 162.245.221.98:31008
  - pq.hinet.tw1.yydjc.top:443
- - [2606:4700:3033::ac43:92f7]:443
- - [2606:4700:3035::6815:5fb8]:443
  - 104.21.95.184:443
  - 172.67.146.247:443
+ - [2606:4700:3033::ac43:92f7]:443
+ - [2606:4700:3035::6815:5fb8]:443
+ - gc-jpsb.speedtest.876521.xyz:33026
+ - 45.129.8.168:33026
+ - [2a12:a304:4:520::a]:33026
+ - 120.233.31.51:52366
+ - s.us3.niceduck.me:52366
+ - jsyd3.niceduck.me:52366
  - s.jp3.niceduck.me:52363
  - 120.233.31.51:52363
  - jsyd3.niceduck.me:52363
- - 23.147.68.42:37735
- - rm-lite-hk-03.409648.xyz:37735
- - [2400:c620:23:1f45::1]:37735
- - s.us3.niceduck.me:52366
- - 120.233.31.51:52366
- - jsyd3.niceduck.me:52366
+ - pq.us7.globals-download.com:35000
+ - 134.195.101.189:35000
  - pq.hy.jp.yydjc.top:60000
  - 103.62.49.140:60000
- - 203.10.98.188:443
- - 3bd9.55dca.e048.f1-fef1f.yfjcs.com:443
- - 154.3.34.49:16219
- - 154.3.34.49:16211
- - 154.3.34.49:16206
- - 154.3.34.49:16205
- - 154.3.34.49:16202
- - 154.3.34.49:16326
- - 154.3.34.49:16203
- - 154.3.34.49:16306
- - 154.3.34.49:16327
- - 154.3.34.49:16223
- - 154.3.34.49:16224
- - 154.3.34.49:16316
- - 154.3.34.49:16315
- - 154.3.34.49:16212
- - 154.3.34.49:16330
- - 154.3.34.49:16311
- - 154.3.34.49:16227
- - 154.3.34.49:16225
- - 154.3.34.49:16334
- - 154.3.34.49:16226
- - 154.3.34.49:16329
- - 154.3.34.49:16323
- - 154.3.34.49:16324
- - 154.3.34.49:16328
- - 154.3.34.49:16331
- - 154.3.34.49:16335
- - qqt-auto.wgnmdgfw.com:16219
- - qqt-auto.wgnmdgfw.com:16211
- - qqt-auto.wgnmdgfw.com:16206
- - qqt-auto.wgnmdgfw.com:16205
- - qqt-auto.wgnmdgfw.com:16202
- - qqt-auto.wgnmdgfw.com:16326
- - qqt-auto.wgnmdgfw.com:16203
- - qqt-auto.wgnmdgfw.com:16306
- - qqt-auto.wgnmdgfw.com:16327
- - qqt-auto.wgnmdgfw.com:16223
- - qqt-auto.wgnmdgfw.com:16224
- - qqt-auto.wgnmdgfw.com:16316
- - qqt-auto.wgnmdgfw.com:16315
- - qqt-auto.wgnmdgfw.com:16212
- - qqt-auto.wgnmdgfw.com:16330
- - qqt-auto.wgnmdgfw.com:16311
- - qqt-auto.wgnmdgfw.com:16227
- - qqt-auto.wgnmdgfw.com:16225
- - qqt-auto.wgnmdgfw.com:16334
- - qqt-auto.wgnmdgfw.com:16226
- - qqt-auto.wgnmdgfw.com:16329
- - qqt-auto.wgnmdgfw.com:16323
- - qqt-auto.wgnmdgfw.com:16324
- - qqt-auto.wgnmdgfw.com:16328
- - qqt-auto.wgnmdgfw.com:16331
- - qqt-auto.wgnmdgfw.com:16335
- - ooc-hk.mtxgrpx.com:16219
- - ooc-hk.mtxgrpx.com:16211
- - ooc-hk.mtxgrpx.com:16206
- - ooc-hk.mtxgrpx.com:16205
- - ooc-hk.mtxgrpx.com:16202
- - ooc-hk.mtxgrpx.com:16326
- - ooc-hk.mtxgrpx.com:16203
- - ooc-hk.mtxgrpx.com:16306
- - ooc-hk.mtxgrpx.com:16327
- - ooc-hk.mtxgrpx.com:16223
- - ooc-hk.mtxgrpx.com:16224
- - ooc-hk.mtxgrpx.com:16316
- - ooc-hk.mtxgrpx.com:16315
- - ooc-hk.mtxgrpx.com:16212
- - ooc-hk.mtxgrpx.com:16330
- - ooc-hk.mtxgrpx.com:16311
- - ooc-hk.mtxgrpx.com:16227
- - ooc-hk.mtxgrpx.com:16225
- - ooc-hk.mtxgrpx.com:16334
- - ooc-hk.mtxgrpx.com:16226
- - ooc-hk.mtxgrpx.com:16329
- - ooc-hk.mtxgrpx.com:16323
- - ooc-hk.mtxgrpx.com:16324
- - ooc-hk.mtxgrpx.com:16328
- - ooc-hk.mtxgrpx.com:16331
- - ooc-hk.mtxgrpx.com:16335
+ - S00000000000013.Egroup-Node-For-NorthAmericanAirport.com:10001
+ - 18.237.14.171:10001
+ - 3bd9.55dba.e048.f65-fef1f.yfjcs.com:443
+ - 111.249.68.155:443
  - yh.lsyllzf.cn:36307
  - yh.lsyllzf.cn:11275
  - yh.lsyllzf.cn:38052
@@ -336,135 +333,23 @@ payload:
  - 36.141.116.253:25160
  - 36.141.116.253:55090
  - 36.141.116.253:13783
- - gc-jpsb.speedtest.876521.xyz:33026
- - [2a12:a304:4:520::a]:33026
- - 45.129.8.168:33026
- - S00000000000011.Egroup-Node-For-NorthAmericanAirport.com:10002
- - 34.222.251.28:10002
- - pq.us7.globals-download.com:35000
- - 134.195.101.189:35000
- - s.sg1.niceduck.me:52365
- - jsyd.niceduck.me:52365
- - S00000000000013.Egroup-Node-For-NorthAmericanAirport.com:10001
- - 18.237.14.171:10001
- - pq.aws61.yydjc.top:443
- - 54.251.6.132:443
- - s.sg6.niceduck.me:52371
- - 120.233.31.51:52371
- - jsyd3.niceduck.me:52371
- - pq.us5.globals-download.com:35000
- - 134.195.101.121:35000
- - s.us4.niceduck.me:52372
- - jsyd.niceduck.me:52372
- - 120.233.31.51:52362
- - s.tw3.niceduck.me:52362
- - jsyd3.niceduck.me:52362
  - phy-de.speedtest.876521.xyz:33026
  - 159.195.41.149:33026
  - [2a0a:4cc0:c1:8918:c849:41ff:fe05:9372]:33026
- - s.jp2.niceduck.me:52363
- - jsyd2.niceduck.me:52363
- - [2a03:4000:27:438:1493:34ff:feea:c4af]:33026
- - ncde1o.speedtest.876521.xyz:33026
- - 185.244.194.177:33026
  - s.sg2.niceduck.me:52365
  - jsyd2.niceduck.me:52365
- - s.hk6.niceduck.me:52367
- - 120.233.31.51:52367
- - jsyd3.niceduck.me:52367
- - pq.hy.jp4.yydjc.top:60000
- - 103.62.49.180:60000
- - s.kr1.niceduck.me:52364
- - jsyd.niceduck.me:52364
- - 3bd9.55dba.e048.f65-fef1f.yfjcs.com:443
- - 111.249.68.155:443
+ - S00000000000011.Egroup-Node-For-NorthAmericanAirport.com:10002
+ - 34.222.251.28:10002
+ - s.us4.niceduck.me:52372
+ - jsyd.niceduck.me:52372
+ - pq.us5.globals-download.com:35000
+ - 134.195.101.121:35000
+ - s.sg1.niceduck.me:52365
+ - jsyd.niceduck.me:52365
  - s.sg5.niceduck.me:52371
  - jsyd2.niceduck.me:52371
- - qqt.wgnmdgfw.com:16221
- - qqt.wgnmdgfw.com:16207
- - qqt.wgnmdgfw.com:16206
- - qqt.wgnmdgfw.com:16333
- - qqt.wgnmdgfw.com:16228
- - qqt.wgnmdgfw.com:16318
- - qqt.wgnmdgfw.com:16319
- - qqt.wgnmdgfw.com:16317
- - qqt.wgnmdgfw.com:16211
- - qqt.wgnmdgfw.com:16223
- - qqt.wgnmdgfw.com:16316
- - qqt.wgnmdgfw.com:16321
- - qqt.wgnmdgfw.com:16322
- - qqt.wgnmdgfw.com:16311
- - qqt.wgnmdgfw.com:16227
- - qqt.wgnmdgfw.com:16225
- - qqt.wgnmdgfw.com:16334
- - qqt.wgnmdgfw.com:16226
- - qqt.wgnmdgfw.com:16323
- - qqt.wgnmdgfw.com:16324
- - qqt.wgnmdgfw.com:16335
- - 103.219.84.96:16221
- - 103.219.84.96:16207
- - 103.219.84.96:16206
- - 103.219.84.96:16333
- - 103.219.84.96:16228
- - 103.219.84.96:16318
- - 103.219.84.96:16319
- - 103.219.84.96:16317
- - 103.219.84.96:16211
- - 103.219.84.96:16223
- - 103.219.84.96:16316
- - 103.219.84.96:16321
- - 103.219.84.96:16322
- - 103.219.84.96:16311
- - 103.219.84.96:16227
- - 103.219.84.96:16225
- - 103.219.84.96:16334
- - 103.219.84.96:16226
- - 103.219.84.96:16323
- - 103.219.84.96:16324
- - 103.219.84.96:16335
- - auth.wgnmdgfw.net:16221
- - auth.wgnmdgfw.net:16207
- - auth.wgnmdgfw.net:16206
- - auth.wgnmdgfw.net:16333
- - auth.wgnmdgfw.net:16228
- - auth.wgnmdgfw.net:16318
- - auth.wgnmdgfw.net:16319
- - auth.wgnmdgfw.net:16317
- - auth.wgnmdgfw.net:16211
- - auth.wgnmdgfw.net:16223
- - auth.wgnmdgfw.net:16316
- - auth.wgnmdgfw.net:16321
- - auth.wgnmdgfw.net:16322
- - auth.wgnmdgfw.net:16311
- - auth.wgnmdgfw.net:16227
- - auth.wgnmdgfw.net:16225
- - auth.wgnmdgfw.net:16334
- - auth.wgnmdgfw.net:16226
- - auth.wgnmdgfw.net:16323
- - auth.wgnmdgfw.net:16324
- - auth.wgnmdgfw.net:16335
- - rm-lite-sg-04.409648.xyz:37735
- - 116.251.216.70:37735
- - 119.147.110.9:16450
- - 119.147.110.9:16451
- - 119.147.110.9:16452
- - 119.147.110.9:16453
- - 103.219.91.139:16450
- - 103.219.91.139:16451
- - 103.219.91.139:16452
- - 103.219.91.139:16453
- - 120.232.217.115:16450
- - 120.232.217.115:16451
- - 120.232.217.115:16452
- - 120.232.217.115:16453
- - bqqeomrtecrfikvqu85gcjp2uninum4ebgtzeh3eih27v6oa57afg93gmh3vduj.yukiha.su:16450
- - bqqeomrtecrfikvqu85gcjp2uninum4ebgtzeh3eih27v6oa57afg93gmh3vduj.yukiha.su:16451
- - bqqeomrtecrfikvqu85gcjp2uninum4ebgtzeh3eih27v6oa57afg93gmh3vduj.yukiha.su:16452
- - bqqeomrtecrfikvqu85gcjp2uninum4ebgtzeh3eih27v6oa57afg93gmh3vduj.yukiha.su:16453
- - i2plcwjnhrl6.gym0boy.com:16450
- - i2plcwjnhrl6.gym0boy.com:16451
- - i2plcwjnhrl6.gym0boy.com:16452
- - i2plcwjnhrl6.gym0boy.com:16453
+ - s.jp2.niceduck.me:52363
+ - jsyd2.niceduck.me:52363
  - 3srap.digital-nvme.com:57001
  - 3srap.digital-nvme.com:57002
  - 3srap.digital-nvme.com:57003
@@ -645,30 +530,127 @@ payload:
  - wd-cdn-asia.solidigm-static.com:57210
  - wd-cdn-asia.solidigm-static.com:57211
  - wd-cdn-asia.solidigm-static.com:57212
- - rfc-jp.speedtest.876521.xyz:33026
- - 82.40.33.24:33026
+ - pq.aws61.yydjc.top:443
+ - 54.251.6.132:443
+ - 120.233.31.51:52371
+ - s.sg6.niceduck.me:52371
+ - jsyd3.niceduck.me:52371
+ - [2a03:4000:27:438:1493:34ff:feea:c4af]:33026
+ - ncde1o.speedtest.876521.xyz:33026
+ - 185.244.194.177:33026
  - cname08a-xp3zfkbmz8pyhmbf.mpc4rf.xin:54011
  - cname08a-xp3zfkbmz8pyhmbf.mpc4rf.xin:54021
  - cname08a-xp3zfkbmz8pyhmbf.mpc4rf.xin:54031
  - cname08a-xp3zfkbmz8pyhmbf.mpc4rf.xin:54041
  - cname08a-xp3zfkbmz8pyhmbf.mpc4rf.xin:54051
+ - rfc-jp.speedtest.876521.xyz:33026
+ - 82.40.33.24:33026
+ - s.hk6.niceduck.me:52367
+ - 120.233.31.51:52367
+ - jsyd3.niceduck.me:52367
+ - s.tw3.niceduck.me:52362
+ - 120.233.31.51:52362
+ - jsyd3.niceduck.me:52362
  - s.jp6.niceduck.me:52370
  - 120.233.31.51:52370
  - jsyd3.niceduck.me:52370
+ - qqt.wgnmdgfw.com:16221
+ - qqt.wgnmdgfw.com:16207
+ - qqt.wgnmdgfw.com:16206
+ - qqt.wgnmdgfw.com:16333
+ - qqt.wgnmdgfw.com:16228
+ - qqt.wgnmdgfw.com:16318
+ - qqt.wgnmdgfw.com:16319
+ - qqt.wgnmdgfw.com:16317
+ - qqt.wgnmdgfw.com:16211
+ - qqt.wgnmdgfw.com:16223
+ - qqt.wgnmdgfw.com:16316
+ - qqt.wgnmdgfw.com:16321
+ - qqt.wgnmdgfw.com:16322
+ - qqt.wgnmdgfw.com:16311
+ - qqt.wgnmdgfw.com:16227
+ - qqt.wgnmdgfw.com:16225
+ - qqt.wgnmdgfw.com:16226
+ - qqt.wgnmdgfw.com:16323
+ - qqt.wgnmdgfw.com:16324
+ - 103.219.84.96:16221
+ - 103.219.84.96:16207
+ - 103.219.84.96:16206
+ - 103.219.84.96:16333
+ - 103.219.84.96:16228
+ - 103.219.84.96:16318
+ - 103.219.84.96:16319
+ - 103.219.84.96:16317
+ - 103.219.84.96:16211
+ - 103.219.84.96:16223
+ - 103.219.84.96:16316
+ - 103.219.84.96:16321
+ - 103.219.84.96:16322
+ - 103.219.84.96:16311
+ - 103.219.84.96:16227
+ - 103.219.84.96:16225
+ - 103.219.84.96:16226
+ - 103.219.84.96:16323
+ - 103.219.84.96:16324
+ - auth.wgnmdgfw.net:16221
+ - auth.wgnmdgfw.net:16207
+ - auth.wgnmdgfw.net:16206
+ - auth.wgnmdgfw.net:16333
+ - auth.wgnmdgfw.net:16228
+ - auth.wgnmdgfw.net:16318
+ - auth.wgnmdgfw.net:16319
+ - auth.wgnmdgfw.net:16317
+ - auth.wgnmdgfw.net:16211
+ - auth.wgnmdgfw.net:16223
+ - auth.wgnmdgfw.net:16316
+ - auth.wgnmdgfw.net:16321
+ - auth.wgnmdgfw.net:16322
+ - auth.wgnmdgfw.net:16311
+ - auth.wgnmdgfw.net:16227
+ - auth.wgnmdgfw.net:16225
+ - auth.wgnmdgfw.net:16226
+ - auth.wgnmdgfw.net:16323
+ - auth.wgnmdgfw.net:16324
+ - s.jp1.niceduck.me:52363
+ - jsyd.niceduck.me:52363
+ - s.kr1.niceduck.me:52364
+ - jsyd.niceduck.me:52364
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16460
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16461
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16462
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16463
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16464
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16465
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16466
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16467
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16471
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16472
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16493
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16494
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16490
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16491
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16495
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16496
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16498
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16500
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16480
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16481
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16513
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16511
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16512
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16514
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16520
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16524
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16525
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16521
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16522
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16523
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16530
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16531
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16532
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16533
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16534
+ - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:16535
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:25800
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:25803
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:25805
@@ -681,16 +663,15 @@ payload:
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:25580
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:25581
  - d2oqlzbjj5jin1mh2ye4wgar0r1he7xqdkuujbuydda4z4t4lwk1uuxihupjiy8.xhscdn.vip:25582
- - S00000000000014.Egroup-Node-For-NorthAmericanAirport.com:10001
- - 3.93.179.106:10001
- - s.jp1.niceduck.me:52363
- - jsyd.niceduck.me:52363
- - pq.us10.globals-download.com:35000
- - 7fejkader2xbe6tssad9i52b8cm4injh2ipfpoqha6xcxtkzzecp4x6tgaijjuf.xhscdn.vip:16499
+ - s.kr2.niceduck.me:52364
+ - jsyd2.niceduck.me:52364
+ - pq.hy.jp4.yydjc.top:60000
+ - 103.62.49.180:60000
  - s.hk5.niceduck.me:52367
  - jsyd2.niceduck.me:52367
- - pq.vmjp4.yydjc.top:443
- - 103.62.49.179:443
+ - rm-lite-sg-04.409648.xyz:37735
+ - 116.251.216.70:37735
+ - pq.us10.globals-download.com:35000
  - cname-kna5xzrk6jhwkbe8.sf62sr.xin:54011
  - cname-kna5xzrk6jhwkbe8.sf62sr.xin:54021
  - cname-kna5xzrk6jhwkbe8.sf62sr.xin:54031
@@ -701,28 +682,23 @@ payload:
  - cnamepc-auto.cnameip.xyz:54031
  - cnamepc-auto.cnameip.xyz:54041
  - cnamepc-auto.cnameip.xyz:54051
+ - s.jp4.niceduck.me:52370
+ - jsyd.niceduck.me:52370
+ - 7fejkader2xbe6tssad9i52b8cm4injh2ipfpoqha6xcxtkzzecp4x6tgaijjuf.xhscdn.vip:16475
+ - 7fejkader2xbe6tssad9i52b8cm4injh2ipfpoqha6xcxtkzzecp4x6tgaijjuf.xhscdn.vip:16499
+ - 7fejkader2xbe6tssad9i52b8cm4injh2ipfpoqha6xcxtkzzecp4x6tgaijjuf.xhscdn.vip:16515
+ - 7fejkader2xbe6tssad9i52b8cm4injh2ipfpoqha6xcxtkzzecp4x6tgaijjuf.xhscdn.vip:16535
+ - pq.vmjp4.yydjc.top:443
+ - 103.62.49.179:443
+ - S00000000000014.Egroup-Node-For-NorthAmericanAirport.com:10001
+ - 3.93.179.106:10001
  - iycms.v6.pub:8443
  - 104.21.56.197:8443
  - 172.67.187.216:8443
  - [2606:4700:3032::ac43:bbd8]:8443
  - [2606:4700:3035::6815:38c5]:8443
- - s.jp4.niceduck.me:52370
- - jsyd.niceduck.me:52370
- - pq.hinet.tw3.yydjc.top:443
- - 148.135.115.9:443
- - pq.hinet.tw2.yydjc.top:443
- - s.kr2.niceduck.me:52364
- - jsyd2.niceduck.me:52364
- - s.tw2.niceduck.me:52362
- - jsyd2.niceduck.me:52362
- - s.hk1.niceduck.me:52361
- - jsyd.niceduck.me:52361
- - s.us2.niceduck.me:52366
- - jsyd2.niceduck.me:52366
- - s.hk4.niceduck.me:52367
- - jsyd.niceduck.me:52367
- - s.sg4.niceduck.me:52371
- - jsyd.niceduck.me:52371
+ - 3bd9.55dca.e048.f6-fef1f.yfjcs.com:443
+ - 203.10.99.52:443
  - oracle-sg.speedtest.876521.xyz:31001
  - oracle-sg.speedtest.876521.xyz:31002
  - oracle-sg.speedtest.876521.xyz:31003
@@ -732,15 +708,6 @@ payload:
  - oracle-sg.speedtest.876521.xyz:31009
  - oracle-sg.speedtest.876521.xyz:31007
  - oracle-sg.speedtest.876521.xyz:31008
- - 213.35.110.206:31001
- - 213.35.110.206:31002
- - 213.35.110.206:31003
- - 213.35.110.206:31004
- - 213.35.110.206:31005
- - 213.35.110.206:31006
- - 213.35.110.206:31009
- - 213.35.110.206:31007
- - 213.35.110.206:31008
  - [2603:c024:4518:1c01:0:1728:e841:91a2]:31001
  - [2603:c024:4518:1c01:0:1728:e841:91a2]:31002
  - [2603:c024:4518:1c01:0:1728:e841:91a2]:31003
@@ -750,8 +717,28 @@ payload:
  - [2603:c024:4518:1c01:0:1728:e841:91a2]:31009
  - [2603:c024:4518:1c01:0:1728:e841:91a2]:31007
  - [2603:c024:4518:1c01:0:1728:e841:91a2]:31008
- - z.us1.niceduck.me:52002
- - 205.198.70.101:52002
+ - 213.35.110.206:31001
+ - 213.35.110.206:31002
+ - 213.35.110.206:31003
+ - 213.35.110.206:31004
+ - 213.35.110.206:31005
+ - 213.35.110.206:31006
+ - 213.35.110.206:31009
+ - 213.35.110.206:31007
+ - 213.35.110.206:31008
+ - s.tw2.niceduck.me:52362
+ - jsyd2.niceduck.me:52362
+ - pq.hinet.tw2.yydjc.top:443
+ - pq.hinet.tw3.yydjc.top:443
+ - 148.135.115.9:443
+ - s.hk1.niceduck.me:52361
+ - jsyd.niceduck.me:52361
+ - s.us2.niceduck.me:52366
+ - jsyd2.niceduck.me:52366
+ - s.sg4.niceduck.me:52371
+ - jsyd.niceduck.me:52371
+ - pq.us8.globals-download.com:35000
+ - 203.10.96.141:35000
  - guangdong-cn.digital-nvme.com:27001
  - guangdong-cn.digital-nvme.com:27002
  - guangdong-cn.digital-nvme.com:27003
@@ -929,190 +916,132 @@ payload:
  - wd-cdn-asia.solidigm-static.com:27210
  - wd-cdn-asia.solidigm-static.com:27211
  - wd-cdn-asia.solidigm-static.com:27212
- - pq.us8.globals-download.com:35000
- - 203.10.96.141:35000
- - unamecf.xn--ghqu5fm27b67w.com:443
- - 104.18.43.60:443
- - 3bd9.55dca.e048.f6-fef1f.yfjcs.com:443
- - 203.10.99.52:443
- - pq.us3.globals-download.com:35000
- - 134.195.101.177:35000
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16460
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16461
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16462
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16463
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16464
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16465
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16466
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16467
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16471
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16472
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16475
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16493
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16494
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16490
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16491
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16495
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16496
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16498
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16499
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16500
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16480
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16481
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16513
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16511
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16512
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16514
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16515
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16520
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16524
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16525
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16521
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16522
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16523
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16530
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16531
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16532
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16533
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16534
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16535
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25800
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25803
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25805
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25808
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25802
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25807
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25801
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25804
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:16528
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25580
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25581
- - 7277011f-ae21-4f2a-b6b5-a035a734e2ba.awstrack.vip:25582
- - 36.141.116.30:16460
- - 36.141.116.30:16461
- - 36.141.116.30:16462
- - 36.141.116.30:16463
- - 36.141.116.30:16464
- - 36.141.116.30:16465
- - 36.141.116.30:16466
- - 36.141.116.30:16467
- - 36.141.116.30:16471
- - 36.141.116.30:16472
- - 36.141.116.30:16475
- - 36.141.116.30:16493
- - 36.141.116.30:16494
- - 36.141.116.30:16490
- - 36.141.116.30:16491
- - 36.141.116.30:16495
- - 36.141.116.30:16496
- - 36.141.116.30:16498
- - 36.141.116.30:16499
- - 36.141.116.30:16500
- - 36.141.116.30:16480
- - 36.141.116.30:16481
- - 36.141.116.30:16513
- - 36.141.116.30:16511
- - 36.141.116.30:16512
- - 36.141.116.30:16514
- - 36.141.116.30:16515
- - 36.141.116.30:16520
- - 36.141.116.30:16524
- - 36.141.116.30:16525
- - 36.141.116.30:16521
- - 36.141.116.30:16522
- - 36.141.116.30:16523
- - 36.141.116.30:16530
- - 36.141.116.30:16531
- - 36.141.116.30:16532
- - 36.141.116.30:16533
- - 36.141.116.30:16534
- - 36.141.116.30:16535
- - 36.141.116.30:25800
- - 36.141.116.30:25803
- - 36.141.116.30:25805
- - 36.141.116.30:25808
- - 36.141.116.30:25802
- - 36.141.116.30:25807
- - 36.141.116.30:25801
- - 36.141.116.30:25804
- - 36.141.116.30:16528
- - 36.141.116.30:25580
- - 36.141.116.30:25581
- - 36.141.116.30:25582
- - [240e:6b0:d00:803::a069:890]:16460
- - [240e:6b0:d00:803::a069:890]:16461
- - [240e:6b0:d00:803::a069:890]:16462
- - [240e:6b0:d00:803::a069:890]:16463
- - [240e:6b0:d00:803::a069:890]:16464
- - [240e:6b0:d00:803::a069:890]:16465
- - [240e:6b0:d00:803::a069:890]:16466
- - [240e:6b0:d00:803::a069:890]:16467
- - [240e:6b0:d00:803::a069:890]:16471
- - [240e:6b0:d00:803::a069:890]:16472
- - [240e:6b0:d00:803::a069:890]:16475
- - [240e:6b0:d00:803::a069:890]:16493
- - [240e:6b0:d00:803::a069:890]:16494
- - [240e:6b0:d00:803::a069:890]:16490
- - [240e:6b0:d00:803::a069:890]:16491
- - [240e:6b0:d00:803::a069:890]:16495
- - [240e:6b0:d00:803::a069:890]:16496
- - [240e:6b0:d00:803::a069:890]:16498
- - [240e:6b0:d00:803::a069:890]:16499
- - [240e:6b0:d00:803::a069:890]:16500
- - [240e:6b0:d00:803::a069:890]:16480
- - [240e:6b0:d00:803::a069:890]:16481
- - [240e:6b0:d00:803::a069:890]:16513
- - [240e:6b0:d00:803::a069:890]:16511
- - [240e:6b0:d00:803::a069:890]:16512
- - [240e:6b0:d00:803::a069:890]:16514
- - [240e:6b0:d00:803::a069:890]:16515
- - [240e:6b0:d00:803::a069:890]:16520
- - [240e:6b0:d00:803::a069:890]:16524
- - [240e:6b0:d00:803::a069:890]:16525
- - [240e:6b0:d00:803::a069:890]:16521
- - [240e:6b0:d00:803::a069:890]:16522
- - [240e:6b0:d00:803::a069:890]:16523
- - [240e:6b0:d00:803::a069:890]:16530
- - [240e:6b0:d00:803::a069:890]:16531
- - [240e:6b0:d00:803::a069:890]:16532
- - [240e:6b0:d00:803::a069:890]:16533
- - [240e:6b0:d00:803::a069:890]:16534
- - [240e:6b0:d00:803::a069:890]:16535
- - [240e:6b0:d00:803::a069:890]:25800
- - [240e:6b0:d00:803::a069:890]:25803
- - [240e:6b0:d00:803::a069:890]:25805
- - [240e:6b0:d00:803::a069:890]:25808
- - [240e:6b0:d00:803::a069:890]:25802
- - [240e:6b0:d00:803::a069:890]:25807
- - [240e:6b0:d00:803::a069:890]:25801
- - [240e:6b0:d00:803::a069:890]:25804
- - [240e:6b0:d00:803::a069:890]:16528
- - [240e:6b0:d00:803::a069:890]:25580
- - [240e:6b0:d00:803::a069:890]:25581
- - [240e:6b0:d00:803::a069:890]:25582
- - pq.us1.globals-download.com:35000
- - 134.195.101.128:35000
- - 104.18.45.185:443
- - 104.18.42.185:443
- - cf.yfjc.sbs:443
- - s.hk3.niceduck.me:52361
- - 120.233.31.51:52361
- - jsyd3.niceduck.me:52361
+ - s.hk4.niceduck.me:52367
+ - jsyd.niceduck.me:52367
  - rm-lite-hk-01.409648.xyz:37735
  - 155.117.3.12:37735
- - 103.62.49.172:60000
- - pq.hy.jp3.yydjc.top:60000
- - s.tw1.niceduck.me:52362
- - jsyd.niceduck.me:52362
  - s.sg3.niceduck.me:52365
  - 120.233.31.51:52365
  - jsyd3.niceduck.me:52365
+ - z.us1.niceduck.me:52002
+ - 205.198.70.101:52002
+ - unamecf.xn--ghqu5fm27b67w.com:443
+ - 104.18.43.60:443
+ - pq.us1.globals-download.com:35000
+ - 134.195.101.128:35000
+ - pq.us3.globals-download.com:35000
+ - 134.195.101.177:35000
+ - cf.yfjc.sbs:443
+ - 104.18.45.185:443
+ - 104.18.42.185:443
+ - pq.hy.jp3.yydjc.top:60000
+ - 103.62.49.172:60000
+ - s.hk3.niceduck.me:52361
+ - 120.233.31.51:52361
+ - jsyd3.niceduck.me:52361
+ - s.tw1.niceduck.me:52362
+ - jsyd.niceduck.me:52362
+ - huf47kdi2bnjnnhqtagtvmfnjavwdgz3qgi3d39c2xidvv6dxi26z2qimh5yg46.xhscdn.vip:16450
+ - huf47kdi2bnjnnhqtagtvmfnjavwdgz3qgi3d39c2xidvv6dxi26z2qimh5yg46.xhscdn.vip:16451
+ - huf47kdi2bnjnnhqtagtvmfnjavwdgz3qgi3d39c2xidvv6dxi26z2qimh5yg46.xhscdn.vip:16452
+ - huf47kdi2bnjnnhqtagtvmfnjavwdgz3qgi3d39c2xidvv6dxi26z2qimh5yg46.xhscdn.vip:16453
+ - 154.3.34.49:16222
+ - 154.3.34.49:16205
+ - 154.3.34.49:16220
+ - 154.3.34.49:16206
+ - 154.3.34.49:16332
+ - 154.3.34.49:16312
+ - 154.3.34.49:16313
+ - 154.3.34.49:16325
+ - 154.3.34.49:16202
+ - 154.3.34.49:16326
+ - 154.3.34.49:16203
+ - 154.3.34.49:16306
+ - 154.3.34.49:16327
+ - 154.3.34.49:16211
+ - 154.3.34.49:16223
+ - 154.3.34.49:16224
+ - 154.3.34.49:16316
+ - 154.3.34.49:16219
+ - 154.3.34.49:16315
+ - 154.3.34.49:16212
+ - 154.3.34.49:16330
+ - 154.3.34.49:16311
+ - 154.3.34.49:16227
+ - 154.3.34.49:16225
+ - 154.3.34.49:16226
+ - 154.3.34.49:16329
+ - 154.3.34.49:16323
+ - 154.3.34.49:16324
+ - 154.3.34.49:16328
+ - 154.3.34.49:16331
+ - auto.wgnmdgfw.com:16222
+ - auto.wgnmdgfw.com:16205
+ - auto.wgnmdgfw.com:16220
+ - auto.wgnmdgfw.com:16206
+ - auto.wgnmdgfw.com:16332
+ - auto.wgnmdgfw.com:16312
+ - auto.wgnmdgfw.com:16313
+ - auto.wgnmdgfw.com:16325
+ - auto.wgnmdgfw.com:16202
+ - auto.wgnmdgfw.com:16326
+ - auto.wgnmdgfw.com:16203
+ - auto.wgnmdgfw.com:16306
+ - auto.wgnmdgfw.com:16327
+ - auto.wgnmdgfw.com:16211
+ - auto.wgnmdgfw.com:16223
+ - auto.wgnmdgfw.com:16224
+ - auto.wgnmdgfw.com:16316
+ - auto.wgnmdgfw.com:16219
+ - auto.wgnmdgfw.com:16315
+ - auto.wgnmdgfw.com:16212
+ - auto.wgnmdgfw.com:16330
+ - auto.wgnmdgfw.com:16311
+ - auto.wgnmdgfw.com:16227
+ - auto.wgnmdgfw.com:16225
+ - auto.wgnmdgfw.com:16226
+ - auto.wgnmdgfw.com:16329
+ - auto.wgnmdgfw.com:16323
+ - auto.wgnmdgfw.com:16324
+ - auto.wgnmdgfw.com:16328
+ - auto.wgnmdgfw.com:16331
+ - tongbao-2.nodebgp.com:16222
+ - tongbao-2.nodebgp.com:16205
+ - tongbao-2.nodebgp.com:16220
+ - tongbao-2.nodebgp.com:16206
+ - tongbao-2.nodebgp.com:16332
+ - tongbao-2.nodebgp.com:16312
+ - tongbao-2.nodebgp.com:16313
+ - tongbao-2.nodebgp.com:16325
+ - tongbao-2.nodebgp.com:16202
+ - tongbao-2.nodebgp.com:16326
+ - tongbao-2.nodebgp.com:16203
+ - tongbao-2.nodebgp.com:16306
+ - tongbao-2.nodebgp.com:16327
+ - tongbao-2.nodebgp.com:16211
+ - tongbao-2.nodebgp.com:16223
+ - tongbao-2.nodebgp.com:16224
+ - tongbao-2.nodebgp.com:16316
+ - tongbao-2.nodebgp.com:16219
+ - tongbao-2.nodebgp.com:16315
+ - tongbao-2.nodebgp.com:16212
+ - tongbao-2.nodebgp.com:16330
+ - tongbao-2.nodebgp.com:16311
+ - tongbao-2.nodebgp.com:16227
+ - tongbao-2.nodebgp.com:16225
+ - tongbao-2.nodebgp.com:16226
+ - tongbao-2.nodebgp.com:16329
+ - tongbao-2.nodebgp.com:16323
+ - tongbao-2.nodebgp.com:16324
+ - tongbao-2.nodebgp.com:16328
+ - tongbao-2.nodebgp.com:16331
  - 205.178.182.55:443
  - 46.232.56.147:20000
  - 108.181.22.153:20000
  - 104.25.248.201:8443
  - 103.197.71.112:35000
  - 152.67.95.183:35000
+ - 104.26.13.158:8443
  - 103.197.71.115:35000
  - 104.18.46.88:443
  - 155.117.228.74:36221
@@ -1128,15 +1057,14 @@ payload:
  - 213.35.110.206:43104
  - 213.35.110.206:43103
  - 213.35.110.206:43105
- - 104.18.46.192:8880
+ - 104.18.46.192:8080
  - 108.181.23.255:20000
  - 131.186.22.238:443
  - 103.31.4.91:8443
  - 138.2.2.120:20000
  - 103.197.71.99:20000
+ - 104.26.13.177:8443
  - 134.195.101.191:443
- - 104.26.13.58:8443
- - 162.159.38.192:8080
  - 212.135.210.200:31001
  - 212.135.210.200:31002
  - 212.135.210.200:31003
@@ -1146,9 +1074,9 @@ payload:
  - 212.135.210.200:31009
  - 212.135.210.200:31007
  - 212.135.210.200:31008
- - 104.26.13.89:8443
  - 193.123.187.39:443
  - 103.31.4.30:8443
+ - 104.26.13.3:8443
  - 103.31.4.213:8443
  - 144.24.206.147:443
  - 103.197.71.102:20000
@@ -1174,14 +1102,12 @@ payload:
  - 141.253.124.138:443
  - 69.84.182.18:443
  - 103.31.4.175:8443
- - 104.26.13.83:8443
- - 104.26.13.247:8443
  - 103.197.71.116:35000
  - 103.197.71.101:20000
  - 168.138.184.187:20000
  - 108.181.23.241:20000
  - 104.24.36.127:8443
- - 104.26.13.73:8443
+ - 104.26.13.243:8443
  - 23.249.25.61:33026
  - 23.249.25.61:31001
  - 23.249.25.61:31002
@@ -1196,6 +1122,7 @@ payload:
  - 141.147.33.180:443
  - 203.27.106.139:50000
  - 192.9.142.185:443
+ - 104.26.13.30:8443
  - 103.31.4.8:8443
  - 162.159.45.220:8443
  - 141.101.90.112:8443
@@ -1210,11 +1137,13 @@ payload:
  - 190.93.245.117:8443
  - 158.179.18.251:35000
  - 103.31.4.191:8443
+ - 104.26.13.191:8443
  - 103.31.4.202:8443
  - 134.195.101.122:443
  - 203.10.96.138:443
  - 103.197.71.103:20000
  - 63.141.226.123:20000
+ - 104.26.13.41:8443
  - 82.40.33.24:43101
  - 82.40.33.24:43102
  - 82.40.33.24:43104
@@ -1239,12 +1168,12 @@ payload:
  - 158.101.195.118:443
  - 127.0.0.1:8080
  - 162.159.38.1:8080
- - 104.26.13.111:8443
  - 104.26.13.71:8443
  - 1.1.1.1:80
  - 152.69.220.212:35000
  - 104.18.46.50:443
  - 158.178.236.104:35000
+ - 104.26.13.66:8443
  - 69.84.182.108:443
  - 159.13.35.245:35000
  - 104.26.13.105:8443
