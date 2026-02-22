@@ -1,4 +1,5 @@
 payload:
+ - DOMAIN-REGEX,^(?:[A-Za-z0-9-]+\.)*(?:eu|[A-Za-z0-9-]+-eu)(?:\.[A-Za-z0-9-]+)*\.synology\.com$
  - DOMAIN-SUFFIX,eu.c2.synology.com
  - DOMAIN-SUFFIX,nodeseek.com
  - DOMAIN-SUFFIX,filen.io
