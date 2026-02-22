@@ -1,4 +1,5 @@
-# 用于西欧和北欧的节点（不含英国）
+# 欧洲节点（不含英国）
+DOMAIN-SUFFIX,eu.c2.synology.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,filen.io
 DOMAIN-SUFFIX,filen.net
@@ -68,3 +69,4 @@ IP-CIDR,193.160.0.0/16,no-resolve
 IP-CIDR6,2602:f988:84::/48,no-resolve
 IP-CIDR6,2001:41d0:a::/48,no-resolve
 IP-CIDR6,2a03:4000:27::/48,no-resolve
+
