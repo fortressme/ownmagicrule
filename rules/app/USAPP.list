@@ -363,6 +363,7 @@ DOMAIN-SUFFIX,kilocode.ai
 # yupp
 DOMAIN-SUFFIX,yupp.ai
 # 其他服务
+DOMAIN-SUFFIX,us.c2.synology.com
 DOMAIN-SUFFIX,sixtynet.net
 DOMAIN-SUFFIX,runtime.webn.cc
 DOMAIN-SUFFIX,us.alph.netlib.re
