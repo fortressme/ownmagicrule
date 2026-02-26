@@ -3,6 +3,11 @@ payload:
  - DOMAIN-SUFFIX,chat.zju.edu.cn
  - DOMAIN-SUFFIX,fenqubiao.com
  - DOMAIN-KEYWORD,cnki.net
+ - DOMAIN-KEYWORD,cnki.com.cn
+ - DOMAIN-KEYWORD,cnki.com
+ - DOMAIN-SUFFIX,cnki.net
+ - DOMAIN-SUFFIX,cnki.com.cn
+ - DOMAIN-SUFFIX,cnki.com
  - DOMAIN-KEYWORD,wanfangdata
  - DOMAIN-SUFFIX,zhizhen.com
  - DOMAIN-KEYWORD,pkulaw
