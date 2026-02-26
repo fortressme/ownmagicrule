@@ -6,6 +6,11 @@ DOMAIN-SUFFIX,chat.zju.edu.cn
 DOMAIN-SUFFIX,fenqubiao.com
 ## 中国知网
 DOMAIN-KEYWORD,cnki.net
+DOMAIN-KEYWORD,cnki.com.cn
+DOMAIN-KEYWORD,cnki.com
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cnki.com.cn
+DOMAIN-SUFFIX,cnki.com
 ## 万方
 DOMAIN-KEYWORD,wanfangdata
 ## 超星发现
