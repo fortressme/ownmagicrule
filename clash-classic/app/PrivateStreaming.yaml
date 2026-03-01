@@ -270,4 +270,7 @@ payload:
  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org
  - DOMAIN-SUFFIX,misakaf.org
  - DOMAIN-SUFFIX,emby.istyboe.top
+ - DOMAIN-SUFFIX,v0.uhdnow.com
+ - DOMAIN-SUFFIX,v1.uhdnow.com
+ - DOMAIN-SUFFIX,v2.uhdnow.com
  - DOMAIN-SUFFIX,rfc.uhdnow.com
