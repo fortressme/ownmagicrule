@@ -102,6 +102,7 @@ IP-CIDR6,2a13:e2c4:fefb::/48,no-resolve
 IP-CIDR6,2a0f:7802:e2c0::/48,no-resolve
 
 # Other
+DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.net
 DOMAIN-SUFFIX,wotransfer.com
