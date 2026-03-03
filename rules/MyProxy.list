@@ -27,7 +27,6 @@
 # nebius
 # phantom加密钱包
 # read
-# 一些日本服务
 # 七牛云东南亚
 # 硅基流动国际站
 # 腾讯云国际
@@ -44,8 +43,6 @@ DOMAIN,nat.qq.pw
 DOMAIN,ny.4444441.xyz
 DOMAIN,pt.luckpt.de
 DOMAIN-KEYWORD,51cg
-DOMAIN-KEYWORD,infini-cloud
-DOMAIN-KEYWORD,teracloud
 DOMAIN-SUFFIX,0085.top
 DOMAIN-SUFFIX,111404.xyz
 DOMAIN-SUFFIX,18mh.net
@@ -118,8 +115,6 @@ DOMAIN-SUFFIX,fastgpt.iswsh.com
 DOMAIN-SUFFIX,file.iswsh.com
 DOMAIN-SUFFIX,filecr.com
 DOMAIN-SUFFIX,freeembyguide.eu.org
-DOMAIN-SUFFIX,frpjp.112700.xyz
-DOMAIN-SUFFIX,frpjp.iswsh.com
 DOMAIN-SUFFIX,gaozehk.com
 DOMAIN-SUFFIX,gitea.iswsh.com
 DOMAIN-SUFFIX,gitkraken.com
@@ -152,7 +147,6 @@ DOMAIN-SUFFIX,java
 DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,java.net
 DOMAIN-SUFFIX,jetkvm.com
-DOMAIN-SUFFIX,jpakile0.112700.xyz
 DOMAIN-SUFFIX,jpg.dog
 DOMAIN-SUFFIX,kdcloud.uk
 DOMAIN-SUFFIX,kk.51688.cc
@@ -252,7 +246,6 @@ DOMAIN-SUFFIX,synology.net
 DOMAIN-SUFFIX,tarekcloud.com
 DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tencentcloud.com
-DOMAIN-SUFFIX,teracloud.jp
 DOMAIN-SUFFIX,tevau.io
 DOMAIN-SUFFIX,torrentmac.net
 DOMAIN-SUFFIX,ubuntu.com
