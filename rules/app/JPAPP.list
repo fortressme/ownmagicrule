@@ -15,3 +15,5 @@ IP-CIDR,82.153.65.0/24,no-resolve
 IP-CIDR6,2a12:f8c1:50::/48,no-resolve
 # rfchost
 IP-CIDR,82.40.33.0/24,no-resolve
+# LazyCat rfchost lite
+IP-CIDR,23.249.25.0/24,no-resolve
