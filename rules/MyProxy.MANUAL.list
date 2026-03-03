@@ -84,14 +84,6 @@ DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,tevau.io
 PROCESS-NAME,uni.UNI2317D55
 
-# 一些日本服务
-DOMAIN-SUFFIX,teracloud.jp
-DOMAIN-KEYWORD,teracloud
-DOMAIN-KEYWORD,infini-cloud
-DOMAIN-SUFFIX,frpjp.iswsh.com
-DOMAIN-SUFFIX,frpjp.112700.xyz
-DOMAIN-SUFFIX,jpakile0.112700.xyz
-
 # VPS
 IP-CIDR,82.39.133.0/24,no-resolve
 IP-CIDR,45.192.248.0/22,no-resolve
