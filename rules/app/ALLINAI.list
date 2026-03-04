@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sora.com
 PROCESS-NAME,com.openai.chatgpt
 PROCESS-NAME,com.openai.sora
+DOMAIN-SUFFIX,chatgptexporter.com
 # X.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
@@ -89,3 +90,4 @@ DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursor.com
+
