@@ -10,6 +10,15 @@ DOMAIN-SUFFIX,rs-na0.qiniuapi.com
 DOMAIN-SUFFIX,rsf-na0.qiniuapi.com
 # Github补充
 DOMAIN-SUFFIX,github1s.com
+
+# Ninja-IX Corporation CDN/Cache
+IP-CIDR,165.140.130.0/24,no-resolve
+IP-CIDR,172.82.0.0/24,no-resolve
+IP-CIDR,172.82.1.0/24,no-resolve
+IP-CIDR,172.82.2.0/24,no-resolve
+IP-CIDR6,2604:6040:a20::/48,no-resolve
+IP-ASN,12233,no-resolve
+
 # LLM竞技场
 DOMAIN-SUFFIX,lmsys.org
 # ollama
