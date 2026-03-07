@@ -282,6 +282,15 @@ sniffer:
   force-domain:
     - +.v2ex.com
   skip-domain:
+    - mtalk.google.com
+    - alt1-mtalk.google.com
+    - alt2-mtalk.google.com
+    - alt3-mtalk.google.com
+    - alt4-mtalk.google.com
+    - alt5-mtalk.google.com
+    - alt6-mtalk.google.com
+    - alt7-mtalk.google.com
+    - alt8-mtalk.google.com
     - Mijia Cloud
     - dlg.io.mi.com
     - +.vivo.com.cn
@@ -341,14 +350,14 @@ sniffer:
     - 2001:4860:4860::8888/128
     - 2001:4860:4860::8844/128
 hosts:
-  mtalk.google.com: [142.250.107.188, 142.251.170.188, 108.177.125.188]
-  alt1-mtalk.google.com: [172.217.78.188, 172.253.135.188, 192.178.223.188]
+  mtalk.google.com: [108.177.125.188, 142.250.107.188, 142.251.170.188, 2607:f8b0:400e:c05::bc, 2404:6800:4008:c06::bc]
+  alt1-mtalk.google.com: [172.217.78.188, 172.253.135.188, 192.178.223.188, 2607:f8b0:400e:c17::bc]
   alt2-mtalk.google.com: [192.178.164.188, 172.217.74.188, 172.217.78.188]
-  alt3-mtalk.google.com: [172.253.135.188, 172.217.74.188, 74.125.27.188]
+  alt3-mtalk.google.com: [172.253.135.188, 172.217.74.188, 74.125.27.188, 2607:f8b0:4023:2801::bc]
   alt4-mtalk.google.com: [172.217.74.188, 172.253.135.188, 192.178.209.188]
-  alt5-mtalk.google.com: [74.125.27.188, 74.125.131.188, 192.178.152.188]
+  alt5-mtalk.google.com: [74.125.27.188, 74.125.131.188, 192.178.152.188, 2607:f8b0:4023:3003::bc, 2607:f8b0:4023:2801::bc]
   alt6-mtalk.google.com: [192.178.209.188, 172.217.74.188, 172.253.130.188]
-  alt7-mtalk.google.com: [192.178.152.188, 192.178.209.188, 74.125.27.188]
+  alt7-mtalk.google.com: [192.178.152.188, 192.178.209.188, 74.125.27.188, 2607:f8b0:4001:c70::bc, 2607:f8b0:4023:3003::bc]
   alt8-mtalk.google.com: [192.178.152.188, 108.177.125.188, 172.217.78.188]
 
 # 实验性功能配置
