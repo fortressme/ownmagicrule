@@ -283,6 +283,7 @@ sniffer:
     - +.v2ex.com
   skip-domain:
     - mtalk.google.com
+    - mtalk4.google.com
     - alt1-mtalk.google.com
     - alt2-mtalk.google.com
     - alt3-mtalk.google.com
@@ -351,6 +352,7 @@ sniffer:
     - 2001:4860:4860::8844/128
 hosts:
   mtalk.google.com: [108.177.125.188, 142.250.107.188, 142.251.170.188, 2607:f8b0:400e:c05::bc, 2404:6800:4008:c06::bc]
+  mtalk4.google.com: [142.250.107.188, 142.251.170.188, 173.194.69.188, 142.251.0.188, 172.217.192.188]
   alt1-mtalk.google.com: [172.217.78.188, 172.253.135.188, 192.178.223.188, 2607:f8b0:400e:c17::bc]
   alt2-mtalk.google.com: [192.178.164.188, 172.217.74.188, 172.217.78.188]
   alt3-mtalk.google.com: [172.253.135.188, 172.217.74.188, 74.125.27.188, 2607:f8b0:4023:2801::bc]
