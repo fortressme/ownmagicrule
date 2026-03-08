@@ -4,6 +4,8 @@ PROCESS-NAME,com.bochk.app.aos
 PROCESS-NAME,hk.com.hsbc.hsbchkmobilebanking
 
 # Other
+DOMAIN-SUFFIX,kuxueyun.com
+DOMAIN-SUFFIX,tarekcloud.com
 DOMAIN-SUFFIX,hk.alph.netlib.re
 DOMAIN-SUFFIX,yamlforge.lululucy.top
 DOMAIN-SUFFIX,conv.lululucy.top
