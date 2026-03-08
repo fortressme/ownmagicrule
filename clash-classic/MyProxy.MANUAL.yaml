@@ -75,7 +75,6 @@ payload:
  - DOMAIN-SUFFIX,privateid.com
  - DOMAIN,nat.qq.pw
  - DOMAIN-SUFFIX,mongodb.com
- - DOMAIN-SUFFIX,tarekcloud.com
  - DOMAIN-SUFFIX,immersivetranslate.com
  - DOMAIN-SUFFIX,stables.money
  - PROCESS-NAME,money.stables
