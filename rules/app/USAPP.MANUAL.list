@@ -167,6 +167,10 @@ IP-CIDR,208.54.0.0/16,no-resolve
 # AetherCloud Dal
 IP-CIDR,69.87.190.0/24,no-resolve
 IP-CIDR6,2602:faa8:501::/48,no-resolve
+# OHNOHOME US
+DOMAIN-SUFFIX,us.nxv.me
+# Lazycat US Frontier
+DOMAIN-SUFFIX,frontier.lazycat.cv
 
 IP-CIDR,23.94.180.0/24,no-resolve
 IP-CIDR,23.144.124.0/24,no-resolve
