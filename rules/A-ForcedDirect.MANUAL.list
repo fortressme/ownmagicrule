@@ -217,4 +217,6 @@ PROCESS-NAME,leigod
 PROCESS-NAME,leigod.exe
 IP-CIDR,45.137.180.230/32,no-resolve
 # 其他VPS
+# 喵云CN
 DOMAIN-SUFFIX,aip.acgf.vip
+DOMAIN-SUFFIX,apii.acgf.vip
