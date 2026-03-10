@@ -382,6 +382,7 @@ payload:
  - PROCESS-NAME,leigod.exe
  - IP-CIDR,45.137.180.230/32,no-resolve
  - DOMAIN-SUFFIX,aip.acgf.vip
+ - DOMAIN-SUFFIX,apii.acgf.vip
  - AND,((DOMAIN-SUFFIX,3srap.digital-nvme.com),(OR,((DST-PORT,57001),(SRC-PORT,57001))))
  - AND,((DOMAIN-SUFFIX,3srap.digital-nvme.com),(OR,((DST-PORT,57002),(SRC-PORT,57002))))
  - AND,((DOMAIN-SUFFIX,3srap.digital-nvme.com),(OR,((DST-PORT,57003),(SRC-PORT,57003))))
