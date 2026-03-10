@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-11-12T20:27:10.526Z
+# Last Updated: 2026-03-10T14:56:40.480Z
 # Size: 84
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -93,11 +93,9 @@ DOMAIN-WILDCARD,cdn*.porn87.com
 DOMAIN-WILDCARD,cdn*.pornhost.com
 DOMAIN-WILDCARD,cdn*.boysfood.com
 ################## EOF ##################
-
-
 #########################################
 # Sukka's Ruleset - Large Files Hosting IPs
-# Last Updated: 2025-10-17T13:08:04.457Z
+# Last Updated: 2026-03-10T14:56:40.481Z
 # Size: 9
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -115,7 +113,5 @@ DOMAIN-WILDCARD,cdn-*.comaps.tech
 DOMAIN-WILDCARD,cdn-*.organicmaps.app
 URL-REGEX,^http://(.+)\.gvt\d\.com/edgedl
 ################## EOF ##################
-
-
 #
 
