@@ -90,4 +90,4 @@ payload:
  - DOMAIN-WILDCARD,cdn-*.comaps.app
  - DOMAIN-WILDCARD,cdn-*.comaps.tech
  - DOMAIN-WILDCARD,cdn-*.organicmaps.app
- - DOMAIN-REGEX,^http://(.+)\.gvt\d\.com/edgedl
+ - DOMAIN-REGEX,^(.+)\.gvt\d\.com/edgedl
