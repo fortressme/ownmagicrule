@@ -711,7 +711,6 @@ payload:
  - DOMAIN,alkalimakersuite-pa.clients6.google.com
  - DOMAIN,makersuite.google.com
  - DOMAIN-SUFFIX,bard.google.com
- - DOMAIN-SUFFIX,deepmind.com
  - DOMAIN-SUFFIX,deepmind.google
  - DOMAIN-SUFFIX,gemini.google.com
  - DOMAIN-SUFFIX,generativeai.google

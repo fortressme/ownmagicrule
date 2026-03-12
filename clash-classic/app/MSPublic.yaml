@@ -8,7 +8,6 @@ payload:
  - DOMAIN-SUFFIX,bingsandbox.com
  - DOMAIN-SUFFIX,bingvisualsearch.com
  - DOMAIN-SUFFIX,bingworld.com
- - DOMAIN-SUFFIX,bing.com
  - DOMAIN-SUFFIX,copilot.cloud.microsoft
  - DOMAIN-SUFFIX,copilot.microsoft.com
  - DOMAIN,edge.activity.windows.com

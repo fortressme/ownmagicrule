@@ -5,7 +5,6 @@ payload:
  - DOMAIN-SUFFIX,teams.microsoft.com
  - AND,((NETWORK,UDP),(AND,((DST-PORT,3478-3481),(OR,((IP-CIDR,52.112.0.0/14),(OR,((IP-CIDR,52.122.0.0/15),(IP-CIDR6,2603:1063::/38))))))))
  - DOMAIN-SUFFIX,teams.cloud.microsoft
- - DOMAIN-SUFFIX,teams.microsoft.com
  - DOMAIN,teams.cloud.microsoft
  - DOMAIN,teams.microsoft.com
  - IP-CIDR,52.112.0.0/14,no-resolve
