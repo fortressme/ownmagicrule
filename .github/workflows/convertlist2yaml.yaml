@@ -44,6 +44,8 @@ jobs:
           # --- 前缀替换规则：旧前缀 => 新前缀 ---
           # 格式： "旧前缀|新前缀"
           REPLACE_PREFIXES=(
+            "URL-REGEX,^https://|DOMAIN-REGEX,^"
+            "URL-REGEX,^http://|DOMAIN-REGEX,^"
             "URL-REGEX,|DOMAIN-REGEX,"
           )
       
