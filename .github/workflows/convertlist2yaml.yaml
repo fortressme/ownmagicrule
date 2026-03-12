@@ -23,67 +23,114 @@ jobs:
           git config --global user.name "GitHub Actions"
 
       - name: Convert rules
+        shell: bash
         run: |
-          set -e
+          set -Eeuo pipefail
+      
           INPUT_ROOT="rules"
           OUTPUT_ROOT="clash-classic"
+      
           # --- 排除文件列表 (相对于 INPUT_ROOT) ---
           EXCLUDE_FILES=(
             "app/GameDLCN.MANUAL.list"
             "MyDirect.SERVER.list"
           )
+      
           # --- 排除行前缀 ---
           EXCLUDE_PREFIXES=(
             "USER-AGENT,"
-            "URL-REGEX,"
           )
-
+      
+          # --- 前缀替换规则：旧前缀 => 新前缀 ---
+          # 格式： "旧前缀|新前缀"
+          REPLACE_PREFIXES=(
+            "URL-REGEX,|DOMAIN-REGEX,"
+          )
+      
           echo "Starting rule conversion..."
-          declare -A exclude_map
-          for excluded_file_rel in "${EXCLUDE_FILES[@]}"; do
-            exclude_map["$INPUT_ROOT/$excluded_file_rel"]=1
-          done
-
-          exclude_regex=""
+      
+          PREFIX_REGEX=""
           if [ ${#EXCLUDE_PREFIXES[@]} -gt 0 ]; then
-            exclude_regex="^("
+            PREFIX_REGEX="^("
             first=true
             for prefix in "${EXCLUDE_PREFIXES[@]}"; do
-              escaped_prefix=$(sed 's/[][()\.^$?*+|]/\\&/g' <<< "$prefix")
+              escaped_prefix=$(printf '%s\n' "$prefix" | sed 's/[][()\.^$?*+|]/\\&/g')
               if $first; then
-                exclude_regex+="$escaped_prefix"
+                PREFIX_REGEX+="$escaped_prefix"
                 first=false
               else
-                exclude_regex+="|$escaped_prefix"
+                PREFIX_REGEX+="|$escaped_prefix"
               fi
             done
-            exclude_regex+=")"
+            PREFIX_REGEX+=")"
           fi
-          find "$INPUT_ROOT" -type f -name "*.list" -print0 | while IFS= read -r -d $'\0' input_file; do
-            if [[ -v exclude_map["$input_file"] ]]; then
+      
+          REPLACE_PREFIXES_FILE="$(mktemp)"
+          printf '%s\n' "${REPLACE_PREFIXES[@]}" > "$REPLACE_PREFIXES_FILE"
+      
+          EXCLUDE_FILES_FILE="$(mktemp)"
+          printf '%s\n' "${EXCLUDE_FILES[@]}" > "$EXCLUDE_FILES_FILE"
+      
+          process_file() {
+            local input_file="$1"
+            local relative_path output_file output_path
+      
+            relative_path="${input_file#"$INPUT_ROOT"/}"
+      
+            if grep -Fxq "$relative_path" "$EXCLUDE_FILES_FILE"; then
               echo "Skipping excluded file: $input_file"
-              continue
+              return 0
             fi
-
-            relative_path="${input_file#$INPUT_ROOT/}"
+      
             output_file="${relative_path%.list}.yaml"
             output_path="$OUTPUT_ROOT/$output_file"
-
+      
             mkdir -p "$(dirname "$output_path")"
-
+      
             {
               echo "payload:"
-              awk -v pattern="$exclude_regex" '
-              { gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0) }
-              NF == 0 || /^\s*#/ { next }
-              pattern != "" && $0 ~ pattern { next }
-              { print " - " $0 }
+              awk -v pattern="$PREFIX_REGEX" -v replace_file="$REPLACE_PREFIXES_FILE" '
+                BEGIN {
+                  while ((getline line < replace_file) > 0) {
+                    split(line, arr, /\|/)
+                    if (length(arr[1]) > 0) {
+                      old_prefix[++replace_count] = arr[1]
+                      new_prefix[replace_count] = arr[2]
+                    }
+                  }
+                  close(replace_file)
+                }
+                {
+                  sub(/\r$/, "", $0)
+                  gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                  if ($0 == "" || $0 ~ /^#/) next
+                  sub(/[[:space:]]+#.*$/, "", $0)
+                  gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                  if ($0 == "") next
+                  for (i = 1; i <= replace_count; i++) {
+                    if (index($0, old_prefix[i]) == 1) {
+                      $0 = new_prefix[i] substr($0, length(old_prefix[i]) + 1)
+                      break
+                    }
+                  }
+                  if (pattern != "" && $0 ~ pattern) next
+                  if (!seen[$0]++) print " - " $0
+                }
               ' "$input_file"
             } > "$output_path"
+      
             echo "Converted: $input_file -> $output_path"
-          done
+          }
+          export INPUT_ROOT OUTPUT_ROOT PREFIX_REGEX REPLACE_PREFIXES_FILE EXCLUDE_FILES_FILE
+          export -f process_file
+      
+          find "$INPUT_ROOT" -type f -name "*.list" -print0 \
+            | xargs -0 -n 1 -P "$(nproc)" bash -c 'process_file "$1"' _
+      
+          rm -f "$REPLACE_PREFIXES_FILE" "$EXCLUDE_FILES_FILE"
+      
           echo "Conversion finished."
-
+          
       - name: Commit and Push
         run: |
           git add .
@@ -93,4 +140,4 @@ jobs:
           fi
           git commit -m "Convert rules to Clash Classic"
           git pull --rebase origin main
-          git push
+          git push origin main
