@@ -189,6 +189,7 @@ payload:
  - DOMAIN-SUFFIX,qwen.ai
  - DOMAIN-SUFFIX,qwenlm.ai
  - DOMAIN-SUFFIX,responsys.net
+ - DOMAIN-SUFFIX,rfchost.com
  - DOMAIN-SUFFIX,rfchost.net
  - DOMAIN-SUFFIX,rkddn.com
  - DOMAIN-SUFFIX,rs-ap-southeast-2.qiniuapi.com
