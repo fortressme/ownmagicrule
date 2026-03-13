@@ -96,6 +96,7 @@ IP-CIDR6,2a0f:7802:e2c0::/48,no-resolve
 # Other
 DOMAIN-SUFFIX,wuyoucloud.de
 DOMAIN-SUFFIX,wuyoucloud.cloud
+DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.net
