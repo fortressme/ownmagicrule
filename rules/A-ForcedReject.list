@@ -1,3 +1,4 @@
+# PCDN
 DOMAIN-REGEX,.*\.mcdn\.bilivideo\.(com|cn|net)$
 # DOMAIN,bsccdn.net
 # DOMAIN,dyp2p-ali.douyucdn.cn
@@ -29,4 +30,8 @@ DOMAIN-REGEX,.*\.mcdn\.bilivideo\.(com|cn|net)$
 # DOMAIN,szbdyd.com
 # DOMAIN,uhabo.com
 # DOMAIN,xycdn.com
+
+# 安全风险
+DOMAIN-SUFFIX,buychennai.com
+DOMAIN-SUFFIX,pages-gist.com
 
