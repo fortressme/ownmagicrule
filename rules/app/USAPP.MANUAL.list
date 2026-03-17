@@ -90,7 +90,9 @@ DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,kilocode.ai
 # yupp
 DOMAIN-SUFFIX,yupp.ai
+
 # 其他服务
+DOMAIN-SUFFIX,vmvm.io
 DOMAIN-REGEX,^(?:[A-Za-z0-9-]+\.)*(?:us|[A-Za-z0-9-]+-us)\.(?:[A-Za-z0-9-]+\.)*synology\.com$
 DOMAIN-SUFFIX,us.c2.synology.com
 DOMAIN-SUFFIX,sixtynet.net
