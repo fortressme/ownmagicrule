@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,kilocode.ai
 DOMAIN-SUFFIX,yupp.ai
 
 # 其他服务
+DOMAIN-SUFFIX,lychy-salt.787896.xyz
 DOMAIN-SUFFIX,vmvm.io
 DOMAIN-REGEX,^(?:[A-Za-z0-9-]+\.)*(?:us|[A-Za-z0-9-]+-us)\.(?:[A-Za-z0-9-]+\.)*synology\.com$
 DOMAIN-SUFFIX,us.c2.synology.com
@@ -176,6 +177,10 @@ IP-CIDR6,2600:1700:2bc1::/48,no-resolve
 DOMAIN-SUFFIX,us.nxv.me
 # Lazycat US Frontier
 DOMAIN-SUFFIX,frontier.lazycat.cv
+# Lychy Cloud
+IP-CIDR,216.238.52.0/24,no-resolve
+# Lychy Cloud Luoo
+IP-CIDR,216.238.53.0/24,no-resolve
 
 IP-CIDR,23.94.180.0/24,no-resolve
 IP-CIDR,23.144.124.0/24,no-resolve
@@ -194,7 +199,6 @@ IP-CIDR,162.254.85.0/24,no-resolve
 IP-CIDR,168.151.20.0/24,no-resolve
 IP-CIDR,173.249.210.0/24,no-resolve
 IP-CIDR,192.3.188.0/24,no-resolve
-IP-CIDR,216.238.52.0/24,no-resolve
 IP-CIDR6,2001:1980:e00c::/48,no-resolve
 IP-CIDR6,2602:f92a:100::/48,no-resolve
 IP-CIDR6,2602:f988:210:9c5::/64,no-resolve
