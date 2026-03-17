@@ -62,6 +62,7 @@ payload:
  - DOMAIN-SUFFIX,kiro.dev
  - DOMAIN-SUFFIX,kilocode.ai
  - DOMAIN-SUFFIX,yupp.ai
+ - DOMAIN-SUFFIX,vmvm.io
  - DOMAIN-REGEX,^(?:[A-Za-z0-9-]+\.)*(?:us|[A-Za-z0-9-]+-us)\.(?:[A-Za-z0-9-]+\.)*synology\.com$
  - DOMAIN-SUFFIX,us.c2.synology.com
  - DOMAIN-SUFFIX,sixtynet.net
