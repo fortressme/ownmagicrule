@@ -937,3 +937,6 @@ DOMAIN-SUFFIX,arizona.edu
 DOMAIN-SUFFIX,utah.edu
 DOMAIN-SUFFIX,colostate.edu
 
+# Other
+DOMAIN-SUFFIX,safeway.com
+
