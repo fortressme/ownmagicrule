@@ -56,6 +56,9 @@ DOMAIN-SUFFIX,safepal.com
 DOMAIN-SUFFIX,isafepal.com
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,web3modal.org
+# YPT
+DOMAIN-SUFFIX,ypt.pay
+
 # 其他加密货币
 DOMAIN-SUFFIX,okx.com
 PROCESS-NAME,com.okinc.okex.gp
