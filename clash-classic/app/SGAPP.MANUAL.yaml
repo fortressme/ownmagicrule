@@ -35,6 +35,7 @@ payload:
  - DOMAIN-SUFFIX,isafepal.com
  - DOMAIN-SUFFIX,walletconnect.org
  - DOMAIN-SUFFIX,web3modal.org
+ - DOMAIN-SUFFIX,ypt.pay
  - DOMAIN-SUFFIX,okx.com
  - PROCESS-NAME,com.okinc.okex.gp
  - DOMAIN-SUFFIX,binance.com
