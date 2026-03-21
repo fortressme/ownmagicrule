@@ -85,6 +85,7 @@ payload:
  - DOMAIN-SUFFIX,file.iswsh.com
  - DOMAIN-SUFFIX,filecr.com
  - DOMAIN-SUFFIX,freeembyguide.eu.org
+ - DOMAIN-SUFFIX,fwupd.org
  - DOMAIN-SUFFIX,gaozehk.com
  - DOMAIN-SUFFIX,gitea.iswsh.com
  - DOMAIN-SUFFIX,gitkraken.com
@@ -243,6 +244,7 @@ payload:
  - DOMAIN-SUFFIX,xbiquge.laa
  - DOMAIN-SUFFIX,yaoluxs.com
  - IP-CIDR,178.94.142.0/24,no-resolve
+ - IP-CIDR,185.125.190.0/24,no-resolve
  - IP-CIDR,45.192.248.0/22,no-resolve
  - IP-CIDR,49.232.25.145/32,no-resolve
  - IP-CIDR,82.153.64.0/22,no-resolve
