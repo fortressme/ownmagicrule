@@ -45,9 +45,13 @@ DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 
+# Ether.fi
+DOMAIN-SUFFIX,ether.fi
+
 # MistralAI
 DOMAIN-SUFFIX,mistral.ai
 PROCESS-NAME,ai.mistral.chat
+
 # Amazon Simple Storage
 DOMAIN-SUFFIX,eu-north-1.amazonaws.com
 DOMAIN-SUFFIX,eu-west-1.amazonaws.com
