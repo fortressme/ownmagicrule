@@ -59,6 +59,10 @@ PROCESS-NAME,com.binance.dev
 PROCESS-NAME,vip.mytokenpocket
 
 # VPS
+# EVOXT MYS
+IP-CIDR,198.20.153.0/24,no-resolve
+IP-CIDR6,2400:8d60:0003::/48,no-resolve
+
 DOMAIN-SUFFIX,sgoracle0.112700.xyz
 IP-CIDR,92.112.21.0/24,no-resolve
 IP-CIDR,92.112.22.0/24,no-resolve
