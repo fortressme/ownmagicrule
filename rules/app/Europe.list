@@ -26,10 +26,18 @@ DOMAIN-SUFFIX,api-my-api-5hw5ou-b810d8-80-75-218-107.traefik.me
 DOMAIN-SUFFIX,ifastgb.com
 PROCESS-NAME,com.ifast.gb
 DOMAIN-SUFFIX,moldtelecom.md
+DOMAIN-SUFFIX,usercentrics.eu
 DOMAIN-SUFFIX,ftp1.hostypanel.com
 DOMAIN-SUFFIX,ftp2.hostypanel.com
 IP-CIDR,49.12.135.157/32,no-resolve
 IP-CIDR,157.90.37.30/32,no-resolve
+
+# N26银行
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,n26.de
+DOMAIN-SUFFIX,n26.net
+DOMAIN-SUFFIX,tech26.de
+PROCESS-NAME,de.number26.android
 
 # Bybit
 PROCESS-NAME,com.bybit.app
