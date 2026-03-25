@@ -247,3 +247,5 @@ DOMAIN-SUFFIX,hostbrr.com
 DOMAIN-SUFFIX,api-cdn-cloud-comebackqqt.trafficmanager.net
 DOMAIN-SUFFIX,fwupd.org
 IP-CIDR,185.125.190.0/24,no-resolve
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,bugsnag.com
