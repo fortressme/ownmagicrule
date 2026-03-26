@@ -1053,7 +1053,6 @@ payload:
  - AND,((IP-CIDR,89.168.29.120/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,92.4.161.238/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,95.40.2.86/32,no-resolve),(OR,((DST-PORT,42749),(SRC-PORT,42749))))
- - AND,((IP-CIDR,95.40.8.215/32,no-resolve),(OR,((DST-PORT,42749),(SRC-PORT,42749))))
  - AND,((IP-CIDR,95.40.81.171/32,no-resolve),(OR,((DST-PORT,45390),(SRC-PORT,45390))))
  - AND,((IP-CIDR6,2001:41d0:a:5fef:a3bf:7e28:9a80:1/128,no-resolve),(OR,((DST-PORT,33026),(SRC-PORT,33026))))
  - AND,((IP-CIDR6,2400:8d60:3::1:c6d:bad/128,no-resolve),(OR,((DST-PORT,31001),(SRC-PORT,31001))))
