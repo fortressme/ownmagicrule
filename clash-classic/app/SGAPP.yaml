@@ -51,13 +51,13 @@ payload:
  - IP-CIDR,198.20.153.0/24,no-resolve
  - IP-CIDR6,2400:8d60:0003::/48,no-resolve
  - IP-CIDR,205.186.64.0/24,no-resolve
+ - IP-CIDR,216.195.192.0/24,no-resolve
+ - IP-CIDR6,2404:c140:2101::/48,no-resolve
  - DOMAIN-SUFFIX,sgoracle0.112700.xyz
  - IP-CIDR,92.112.21.0/24,no-resolve
  - IP-CIDR,92.112.22.0/24,no-resolve
  - IP-CIDR,92.112.23.0/24,no-resolve
- - IP-CIDR,38.181.72.0/24,no-resolve
  - IP-CIDR,46.203.98.0/24,no-resolve
  - IP-CIDR,185.151.146.0/24,no-resolve
- - IP-CIDR6,2404:c140:2101::/48,no-resolve
  - IP-CIDR6,2603:c024:4518::/48,no-resolve
  - IP-CIDR6,2a0f:7802:e2f9::/48,no-resolve
