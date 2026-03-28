@@ -45,3 +45,5 @@ payload:
  - DOMAIN-SUFFIX,tun.tizi888.me
  - IP-CIDR,110.42.62.0/24,no-resolve
  - IP-CIDR,220.205.16.0/24,no-resolve
+ - DOMAIN-SUFFIX,autodl.art
+ - DOMAIN-SUFFIX,autodl.com
