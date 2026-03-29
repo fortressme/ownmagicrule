@@ -221,3 +221,4 @@ payload:
  - IP-CIDR,185.125.190.0/24,no-resolve
  - DOMAIN-SUFFIX,prodregistryv2.org
  - DOMAIN-SUFFIX,bugsnag.com
+ - DOMAIN-SUFFIX,pypi.org
