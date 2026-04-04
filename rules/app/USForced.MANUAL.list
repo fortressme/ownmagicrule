@@ -1,3 +1,12 @@
+# GoogleDrive补充
+DOMAIN-SUFFIX,drivefrontend-pa.googleapis.com
+DOMAIN-SUFFIX,signaler-pa.googleapis.com
+DOMAIN-SUFFIX,fcmconnection.googleapis.com
+PROCESS-NAME,'Google Drive Helper (Renderer)'
+PROCESS-NAME,'Google Drive Helper (GPU)'
+PROCESS-NAME,'Google Drive Helper'
+PROCESS-NAME,'Google Drive'
+
 # OpenClaw
 DOMAIN-SUFFIX,openclaw.ai
 # LLM竞技场
