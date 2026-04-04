@@ -882,6 +882,7 @@ payload:
  - DOMAIN-SUFFIX,goo.gle
  - DOMAIN-SUFFIX,one.google.com
  - PROCESS-NAME,com.paypal.android.p2pmobile
+ - DOMAIN-SUFFIX,liberty.edu
  - DOMAIN-SUFFIX,sheerid.com
  - DOMAIN-SUFFIX,umass.edu
  - DOMAIN-SUFFIX,maricopa.edu
