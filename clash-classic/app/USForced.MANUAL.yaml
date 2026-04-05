@@ -6,7 +6,6 @@ payload:
  - PROCESS-NAME,'Google Drive Helper (GPU)'
  - PROCESS-NAME,'Google Drive Helper'
  - PROCESS-NAME,'Google Drive'
- - DOMAIN-SUFFIX,www.google.com
  - DOMAIN-SUFFIX,openclaw.ai
  - DOMAIN-SUFFIX,lmsys.org
  - DOMAIN-SUFFIX,ollama.com
