@@ -46,6 +46,7 @@ payload:
  - DOMAIN-SUFFIX,scyd.4444442.xyz
  - DOMAIN-SUFFIX,siliconflow.cn
  - DOMAIN-SUFFIX,snssdk.com
+ - DOMAIN-SUFFIX,speedtest.wush.cc
  - DOMAIN-SUFFIX,tailscale.com
  - DOMAIN-SUFFIX,tailscale.io
  - DOMAIN-SUFFIX,th.4444442.xyz
@@ -57,6 +58,8 @@ payload:
  - DOMAIN-SUFFIX,xterminal.cn
  - DOMAIN-SUFFIX,zjdx.4444442.xyz
  - IP-CIDR,110.42.62.0/24,no-resolve
+ - IP-CIDR,152.136.227.0/24,no-resolve
  - IP-CIDR,192.168.0.0/16,no-resolve
  - IP-CIDR,220.205.16.0/24,no-resolve
+ - IP-CIDR6,2402:4e00:c050::/48,no-resolve
  - PROCESS-NAME,com.sec.android.app.samsungapps
