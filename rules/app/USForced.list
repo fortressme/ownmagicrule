@@ -22,9 +22,6 @@ PROCESS-NAME,'Google Drive Helper (GPU)'
 PROCESS-NAME,'Google Drive Helper'
 PROCESS-NAME,'Google Drive'
 
-# Google搜索
-DOMAIN-SUFFIX,www.google.com
-
 # OpenClaw
 DOMAIN-SUFFIX,openclaw.ai
 # LLM竞技场
