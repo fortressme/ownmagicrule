@@ -13,6 +13,7 @@
 # NAME: Docker
 # NAME: Notion
 # NAME: Oracle
+# Oracle非CN
 # Other
 # QwenLLMAI
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -32,6 +33,7 @@
 # 楼云GB NAT
 # 硅基流动国际站
 # 腾讯云国际
+AND,((IP-ASN,31898),(NOT,((GEOIP,CN))))
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
