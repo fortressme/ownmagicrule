@@ -1605,4 +1605,5 @@ PROCESS-NAME,TV
 
 # 补充规则
 DOMAIN-KEYWORD,itunes.apple.com
+DOMAIN-SUFFIX,ampaeservices.com
 
