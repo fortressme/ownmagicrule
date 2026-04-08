@@ -882,27 +882,100 @@ jobs:
         fi
 
     - name: Download Apple rules
+      shell: bash
       run: |
-        files=(
-          "Apple.list|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list"
-        )
+        set -Eeuo pipefail
         target_list="rules/app/Apple.list"
         manual_list="rules/app/Apple.MANUAL.list"
         download_dir="rules/app"
+        files=(
+          "Apple.list|https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list"
+        )
+        delete_regexes=(
+          # 示例：
+          # '^DOMAIN-SUFFIX,icloud-content\.com($|,)'
+          # '^DOMAIN,example\.apple\.com($|,)'
+        )
+        append_rules=(
+          # 示例：
+          # 'DOMAIN,apple-extra.example'
+          'DOMAIN-SUFFIX,ampaeservices.com'
+        )
         temp_files=()
+        temp_cleanup=()
         all_success=true
-        echo "Attempting update for $target_list"; mkdir -p "$download_dir"
+        mkdir -p "$download_dir"
+        echo "Attempting update for $target_list"
         for entry in "${files[@]}"; do
-          IFS='|' read -r filename url <<< "$entry"; output_path="${download_dir}/$(basename ${target_list}).${filename}.tmp"; temp_files+=("$output_path")
-          echo "Downloading $filename from $url to $output_path..."
-          if ! curl -f -L -s -o "$output_path" "$url" || [[ ! -s "$output_path" ]]; then echo "::error:: Failed download or empty file: $filename from $url for target $target_list"; all_success=false; else echo "Successfully downloaded $filename"; echo >> "$output_path"; fi
+          IFS='|' read -r filename url <<< "$entry"
+          output_path="${download_dir}/$(basename "${target_list}").${filename}.tmp"
+          temp_files+=("$output_path")
+          temp_cleanup+=("$output_path")
+          echo "Downloading $filename from $url to $output_path ..."
+          if ! curl -f -L -sS -o "$output_path" "$url" || [[ ! -s "$output_path" ]]; then
+            echo "::error:: Failed download or empty file: $filename from $url for target $target_list"
+            all_success=false
+          else
+            echo "Successfully downloaded $filename"
+            printf '\n' >> "$output_path"
+          fi
         done
-        if $all_success; then
-          echo "All downloads successful for $target_list. Combining..."; combined_new="${target_list}.new"; files_to_cat=(); for f in "${temp_files[@]}"; do files_to_cat+=("$f"); done
-          if [[ -f "$manual_list" && -s "$manual_list" ]]; then files_to_cat+=("$manual_list"); echo "Including manual list: $manual_list"; fi
-          cat "${files_to_cat[@]}" > "$combined_new"; echo >> "$combined_new"; mv -f "$combined_new" "$target_list"; echo "Successfully updated $target_list"
-        else echo "::warning:: $target_list was not updated due to one or more download failures."; fi
-        echo "Cleaning up temporary files for $target_list..."; rm -f "${temp_files[@]}"
+        if ! $all_success; then
+          echo "::warning:: $target_list was not updated due to one or more download failures."
+          rm -f "${temp_cleanup[@]:-}"
+          exit 0
+        fi
+        combined_raw="${target_list}.raw"
+        combined_new="${target_list}.new"
+        temp_cleanup+=("$combined_raw" "$combined_new")
+        files_to_cat=()
+        for f in "${temp_files[@]}"; do
+          [[ -f "$f" && -s "$f" ]] && files_to_cat+=("$f")
+        done
+        if [[ -f "$manual_list" && -s "$manual_list" ]]; then
+          files_to_cat+=("$manual_list")
+          echo "Including manual list: $manual_list"
+        fi
+        cat "${files_to_cat[@]}" > "$combined_raw"
+        if [[ ${#append_rules[@]} -gt 0 ]]; then
+          {
+            printf '\n'
+            for rule in "${append_rules[@]}"; do
+              [[ -n "${rule// }" ]] && printf '%s\n' "$rule"
+            done
+          } >> "$combined_raw"
+          echo "Appended inline rules"
+        fi
+        printf '\n' >> "$combined_raw"
+        cp "$combined_raw" "$combined_new"
+        if [[ ${#delete_regexes[@]} -gt 0 ]]; then
+          delete_pattern_file="${target_list}.delete_patterns.tmp"
+          filtered_tmp="${target_list}.filtered.tmp"
+          temp_cleanup+=("$delete_pattern_file" "$filtered_tmp")
+          : > "$delete_pattern_file"
+          for regex in "${delete_regexes[@]}"; do
+            [[ -n "${regex// }" ]] && printf '%s\n' "$regex" >> "$delete_pattern_file"
+          done
+          if [[ -s "$delete_pattern_file" ]]; then
+            grep -E -v -f "$delete_pattern_file" "$combined_new" > "$filtered_tmp" || true
+            mv -f "$filtered_tmp" "$combined_new"
+            echo "Applied delete regex rules"
+          fi
+        fi
+        cleaned_tmp="${target_list}.cleaned.tmp"
+        dedup_tmp="${target_list}.dedup.tmp"
+        temp_cleanup+=("$cleaned_tmp" "$dedup_tmp")
+    
+        awk 'NF > 0' "$combined_new" > "$cleaned_tmp"
+        mv -f "$cleaned_tmp" "$combined_new"
+    
+        awk '!seen[$0]++' "$combined_new" > "$dedup_tmp"
+        mv -f "$dedup_tmp" "$combined_new"
+    
+        printf '\n' >> "$combined_new"
+        mv -f "$combined_new" "$target_list"
+        echo "Successfully updated $target_list"
+        rm -f "${temp_cleanup[@]:-}"
 
     - name: Download GoogleFCM rules
       run: |
