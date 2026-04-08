@@ -1602,6 +1602,16 @@ PROCESS-NAME,com.apple.geod
 PROCESS-NAME,Music
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,TV
+# 内容：Apple
+# 数量：29条
+DOMAIN,apple.comscoreresearch.com
+# 内容：AppleNews
+# 数量：3条
+DOMAIN,gspe1-ssl.ls.apple.com
+# 内容：AppleTV
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
 # 补充规则
 DOMAIN-KEYWORD,itunes.apple.com
 DOMAIN-SUFFIX,ampaeservices.com
