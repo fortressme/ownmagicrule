@@ -1592,5 +1592,10 @@ payload:
  - PROCESS-NAME,Music
  - PROCESS-NAME,LookupViewService
  - PROCESS-NAME,TV
+ - DOMAIN,apple.comscoreresearch.com
+ - DOMAIN,gspe1-ssl.ls.apple.com
+ - DOMAIN,np-edge.itunes.apple.com
+ - DOMAIN,play-edge.itunes.apple.com
+ - DOMAIN-SUFFIX,tv.apple.com
  - DOMAIN-KEYWORD,itunes.apple.com
  - DOMAIN-SUFFIX,ampaeservices.com
