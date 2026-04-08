@@ -1593,3 +1593,4 @@ payload:
  - PROCESS-NAME,LookupViewService
  - PROCESS-NAME,TV
  - DOMAIN-KEYWORD,itunes.apple.com
+ - DOMAIN-SUFFIX,ampaeservices.com
