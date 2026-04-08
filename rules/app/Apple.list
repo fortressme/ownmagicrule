@@ -1602,7 +1602,6 @@ PROCESS-NAME,com.apple.geod
 PROCESS-NAME,Music
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,TV
-
 # 补充规则
 DOMAIN-KEYWORD,itunes.apple.com
 DOMAIN-SUFFIX,ampaeservices.com
