@@ -1,4 +1,5 @@
 payload:
+ - AND,((IP-ASN,31898),(NOT,((GEOIP,CN))))
  - DOMAIN-SUFFIX,nebius.com
  - DOMAIN-SUFFIX,qwenlm.ai
  - DOMAIN-SUFFIX,qwen.ai
