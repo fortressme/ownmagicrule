@@ -326,8 +326,6 @@ payload:
  - IP-CIDR,208.54.0.0/16,no-resolve
  - IP-CIDR,69.87.190.0/24,no-resolve
  - IP-CIDR6,2602:faa8:501::/48,no-resolve
- - IP-CIDR,162.251.204.0/24,no-resolve
- - IP-CIDR6,2600:1700:2bc1::/48,no-resolve
  - DOMAIN-SUFFIX,us.nxv.me
  - DOMAIN-SUFFIX,frontier.lazycat.cv
  - IP-CIDR,216.238.52.0/24,no-resolve
