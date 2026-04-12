@@ -69,11 +69,8 @@ dns:
       - 8.138.94.132:8053
     'geosite:gfw': 
       - https://v.recipes/dns/dns.google/dns-query
-      - https://8.8.8.8/dns-query
-      - https://ld.ddd.oaifree.com/query-dns
-    'geosite:!cn': 
-      - https://v.recipes/dns/dns.google/dns-query
-      - https://8.8.8.8/dns-query
+      - https://dns.google/dns-query
+      - https://1.1.1.1/dns-query
       - https://ld.ddd.oaifree.com/query-dns
   default-nameserver:
     - 114.114.114.114
@@ -89,7 +86,8 @@ dns:
     - https://doh.pub/dns-query
   fallback:
     - https://v.recipes/dns/dns.google/dns-query
-    - https://8.8.8.8/dns-query
+    - https://dns.google/dns-query
+    - https://1.1.1.1/dns-query
     - https://ld.ddd.oaifree.com/query-dns
   fallback-filter:
     geoip: false
