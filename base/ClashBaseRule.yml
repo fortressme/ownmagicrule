@@ -62,17 +62,17 @@ dns:
     'geosite:googlefcm': 
       - https://223.6.6.6/dns-query
       - https://doh.pub/dns-query
-    '+.aliyuncs.com': 
+    '+.aliyuncs.com':
       - https://223.6.6.6/dns-query
       - https://doh.pub/dns-query
     '+.digital-nvme.com': 
       - 8.138.94.132:8053
-    'geosite:cn': 
+    'geosite:cn':
       - 114.114.114.114
       - 218.30.118.6
       - 119.29.29.29
       - 223.6.6.6
-    'geosite:gfw': 
+    'geosite:gfw':
       - https://v.recipes/dns/dns.google/dns-query
       - https://dns.google/dns-query
       - https://1.1.1.1/dns-query
