@@ -53,9 +53,12 @@ DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 
-# A1 Hr
+# A1 Hr罗马尼亚运营商
 DOMAIN-SUFFIX,a1.hr
 DOMAIN-SUFFIX,a1net.hr
+
+# O2 德国运营商
+DOMAIN-SUFFIX,o2online.de
 
 # Ether.fi
 DOMAIN-SUFFIX,ether.fi
