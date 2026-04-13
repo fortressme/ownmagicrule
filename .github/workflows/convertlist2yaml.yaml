@@ -1,4 +1,5 @@
 name: Convert-Clash-classic-ruleset
+
 on:
   workflow_run:
     workflows: [rule-update]
@@ -7,12 +8,14 @@ on:
 
 jobs:
   convert:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
@@ -26,21 +29,22 @@ jobs:
         shell: bash
         run: |
           set -Eeuo pipefail
-      
+          shopt -s extglob
+
           INPUT_ROOT="rules"
           OUTPUT_ROOT="clash-classic"
-      
+
           # --- 排除文件列表 (相对于 INPUT_ROOT) ---
           EXCLUDE_FILES=(
             "app/GameDLCN.MANUAL.list"
             "MyDirect.SERVER.list"
           )
-      
+
           # --- 排除行前缀 ---
           EXCLUDE_PREFIXES=(
             "USER-AGENT,"
           )
-      
+
           # --- 前缀替换规则：旧前缀 => 新前缀 ---
           # 格式： "旧前缀|新前缀"
           REPLACE_PREFIXES=(
@@ -48,98 +52,143 @@ jobs:
             "URL-REGEX,^http://|DOMAIN-REGEX,^"
             "URL-REGEX,|DOMAIN-REGEX,"
           )
-      
+
           echo "Starting rule conversion..."
-      
-          PREFIX_REGEX=""
-          if [ ${#EXCLUDE_PREFIXES[@]} -gt 0 ]; then
-            PREFIX_REGEX="^("
-            first=true
-            for prefix in "${EXCLUDE_PREFIXES[@]}"; do
-              escaped_prefix=$(printf '%s\n' "$prefix" | sed 's/[][()\.^$?*+|]/\\&/g')
-              if $first; then
-                PREFIX_REGEX+="$escaped_prefix"
-                first=false
-              else
-                PREFIX_REGEX+="|$escaped_prefix"
-              fi
-            done
-            PREFIX_REGEX+=")"
-          fi
-      
-          REPLACE_PREFIXES_FILE="$(mktemp)"
-          printf '%s\n' "${REPLACE_PREFIXES[@]}" > "$REPLACE_PREFIXES_FILE"
-      
+
           EXCLUDE_FILES_FILE="$(mktemp)"
+          EXPECTED_OUTPUTS_FILE="$(mktemp)"
           printf '%s\n' "${EXCLUDE_FILES[@]}" > "$EXCLUDE_FILES_FILE"
-      
+          : > "$EXPECTED_OUTPUTS_FILE"
+
+          trim() {
+            local s="$1"
+            s="${s#"${s%%[![:space:]]*}"}"
+            s="${s%"${s##*[![:space:]]}"}"
+            printf '%s' "$s"
+          }
+
+          yaml_quote() {
+            local s="$1"
+            s=${s//\'/\'\'}
+            printf "'%s'" "$s"
+          }
+
+          validate_yaml_file() {
+            local file="$1"
+
+            # 轻量结构校验：
+            # 1. 第一行必须是 payload:
+            # 2. 其余非空行必须以 "  - " 开头
+            awk '
+              NR == 1 {
+                if ($0 != "payload:") exit 1
+                next
+              }
+              NF == 0 { next }
+              {
+                if ($0 !~ /^  - /) exit 1
+              }
+            ' "$file"
+          }
+
           process_file() {
             local input_file="$1"
             local relative_path output_file output_path
-      
+            local raw line prefix rule old new
+            local skip
+
             relative_path="${input_file#"$INPUT_ROOT"/}"
-      
+
             if grep -Fxq "$relative_path" "$EXCLUDE_FILES_FILE"; then
               echo "Skipping excluded file: $input_file"
               return 0
             fi
-      
+
             output_file="${relative_path%.list}.yaml"
             output_path="$OUTPUT_ROOT/$output_file"
-      
+
             mkdir -p "$(dirname "$output_path")"
-      
-            {
-              echo "payload:"
-              awk -v pattern="$PREFIX_REGEX" -v replace_file="$REPLACE_PREFIXES_FILE" '
-                BEGIN {
-                  while ((getline line < replace_file) > 0) {
-                    split(line, arr, /\|/)
-                    if (length(arr[1]) > 0) {
-                      old_prefix[++replace_count] = arr[1]
-                      new_prefix[replace_count] = arr[2]
-                    }
-                  }
-                  close(replace_file)
-                }
-                {
-                  sub(/\r$/, "", $0)
-                  gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
-                  if ($0 == "" || $0 ~ /^#/) next
-                  sub(/[[:space:]]+#.*$/, "", $0)
-                  gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
-                  if ($0 == "") next
-                  for (i = 1; i <= replace_count; i++) {
-                    if (index($0, old_prefix[i]) == 1) {
-                      $0 = new_prefix[i] substr($0, length(old_prefix[i]) + 1)
-                      break
-                    }
-                  }
-                  if (pattern != "" && $0 ~ pattern) next
-                  if (!seen[$0]++) print " - " $0
-                }
-              ' "$input_file"
-            } > "$output_path"
-      
+            printf '%s\n' "$output_path" >> "$EXPECTED_OUTPUTS_FILE"
+
+            printf 'payload:\n' > "$output_path"
+
+            declare -A seen=()
+
+            while IFS= read -r raw || [ -n "$raw" ]; do
+              raw="${raw%$'\r'}"
+              line="$(trim "$raw")"
+
+              # 跳过空行、整行注释
+              [[ -z "$line" || "$line" == \#* ]] && continue
+
+              # 去掉行尾注释（仅匹配“空白 + # 注释”）
+              line="$(printf '%s\n' "$line" | sed 's/[[:space:]]\+#.*$//')"
+              line="$(trim "$line")"
+              [[ -z "$line" ]] && continue
+
+              # 排除指定前缀
+              skip=false
+              for prefix in "${EXCLUDE_PREFIXES[@]}"; do
+                if [[ "$line" == "$prefix"* ]]; then
+                  skip=true
+                  break
+                fi
+              done
+              $skip && continue
+
+              # 前缀替换：只有命中时才替换，其他整行保持原样
+              for rule in "${REPLACE_PREFIXES[@]}"; do
+                IFS='|' read -r old new <<< "$rule"
+                if [[ "$line" == "$old"* ]]; then
+                  line="${new}${line#$old}"
+                  break
+                fi
+              done
+
+              # 去重且保持顺序
+              if [[ -z "${seen["$line"]+x}" ]]; then
+                seen["$line"]=1
+                printf '  - %s\n' "$(yaml_quote "$line")" >> "$output_path"
+              fi
+            done < "$input_file"
+
+            validate_yaml_file "$output_path"
             echo "Converted: $input_file -> $output_path"
           }
-          export INPUT_ROOT OUTPUT_ROOT PREFIX_REGEX REPLACE_PREFIXES_FILE EXCLUDE_FILES_FILE
-          export -f process_file
-      
-          find "$INPUT_ROOT" -type f -name "*.list" -print0 \
-            | xargs -0 -n 1 -P "$(nproc)" bash -c 'process_file "$1"' _
-      
-          rm -f "$REPLACE_PREFIXES_FILE" "$EXCLUDE_FILES_FILE"
-      
+
+          export INPUT_ROOT OUTPUT_ROOT EXCLUDE_FILES_FILE EXPECTED_OUTPUTS_FILE
+          export -f trim yaml_quote validate_yaml_file process_file
+
+          while IFS= read -r -d '' file; do
+            process_file "$file"
+          done < <(find "$INPUT_ROOT" -type f -name "*.list" -print0)
+
+          # 自动删除已不存在源文件对应的 yaml
+          if [ -d "$OUTPUT_ROOT" ]; then
+            while IFS= read -r -d '' yaml_file; do
+              if ! grep -Fxq "$yaml_file" "$EXPECTED_OUTPUTS_FILE"; then
+                rm -f "$yaml_file"
+                echo "Deleted stale file: $yaml_file"
+              fi
+            done < <(find "$OUTPUT_ROOT" -type f -name "*.yaml" -print0)
+          fi
+
+          rm -f "$EXCLUDE_FILES_FILE" "$EXPECTED_OUTPUTS_FILE"
+
           echo "Conversion finished."
-          
+
       - name: Commit and Push
+        shell: bash
         run: |
-          git add .
+          set -Eeuo pipefail
+
+          git add -A clash-classic
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
+
           git commit -m "Convert rules to Clash Classic"
           git pull --rebase origin main
           git push origin main
