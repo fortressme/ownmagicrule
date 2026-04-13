@@ -1,4 +1,5 @@
 name: Convert-Clash-classic-ruleset
+
 on:
   workflow_run:
     workflows: [rule-update]
@@ -7,9 +8,11 @@ on:
 
 jobs:
   convert:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -18,6 +21,7 @@ jobs:
           fetch-depth: 0
 
       - name: Set up Git
+        shell: bash
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
@@ -26,21 +30,21 @@ jobs:
         shell: bash
         run: |
           set -Eeuo pipefail
-      
+
           INPUT_ROOT="rules"
           OUTPUT_ROOT="clash-classic"
-      
+
           # --- 排除文件列表 (相对于 INPUT_ROOT) ---
           EXCLUDE_FILES=(
             "app/GameDLCN.MANUAL.list"
             "MyDirect.SERVER.list"
           )
-      
+
           # --- 排除行前缀 ---
           EXCLUDE_PREFIXES=(
             "USER-AGENT,"
           )
-      
+
           # --- 前缀替换规则：旧前缀 => 新前缀 ---
           # 格式： "旧前缀|新前缀"
           REPLACE_PREFIXES=(
@@ -48,15 +52,19 @@ jobs:
             "URL-REGEX,^http://|DOMAIN-REGEX,^"
             "URL-REGEX,|DOMAIN-REGEX,"
           )
-      
+
           echo "Starting rule conversion..."
-      
+
+          # 清理旧输出，避免残留无对应源文件的旧 yaml
+          rm -rf "$OUTPUT_ROOT"
+          mkdir -p "$OUTPUT_ROOT"
+
           PREFIX_REGEX=""
           if [ ${#EXCLUDE_PREFIXES[@]} -gt 0 ]; then
             PREFIX_REGEX="^("
             first=true
             for prefix in "${EXCLUDE_PREFIXES[@]}"; do
-              escaped_prefix=$(printf '%s\n' "$prefix" | sed 's/[][()\.^$?*+|]/\\&/g')
+              escaped_prefix=$(printf '%s\n' "$prefix" | sed 's/[][(){}.^$?*+|\/]/\\&/g')
               if $first; then
                 PREFIX_REGEX+="$escaped_prefix"
                 first=false
@@ -66,80 +74,150 @@ jobs:
             done
             PREFIX_REGEX+=")"
           fi
-      
+
           REPLACE_PREFIXES_FILE="$(mktemp)"
           printf '%s\n' "${REPLACE_PREFIXES[@]}" > "$REPLACE_PREFIXES_FILE"
-      
+
           EXCLUDE_FILES_FILE="$(mktemp)"
           printf '%s\n' "${EXCLUDE_FILES[@]}" > "$EXCLUDE_FILES_FILE"
-      
+
+          cleanup() {
+            rm -f "$REPLACE_PREFIXES_FILE" "$EXCLUDE_FILES_FILE"
+          }
+          trap cleanup EXIT
+
           process_file() {
             local input_file="$1"
             local relative_path output_file output_path
-      
+
             relative_path="${input_file#"$INPUT_ROOT"/}"
-      
+
             if grep -Fxq "$relative_path" "$EXCLUDE_FILES_FILE"; then
               echo "Skipping excluded file: $input_file"
               return 0
             fi
-      
+
             output_file="${relative_path%.list}.yaml"
             output_path="$OUTPUT_ROOT/$output_file"
-      
+
             mkdir -p "$(dirname "$output_path")"
-      
+
             {
               echo "payload:"
               awk -v pattern="$PREFIX_REGEX" -v replace_file="$REPLACE_PREFIXES_FILE" '
+                function trim(s) {
+                  sub(/^[[:space:]]+/, "", s)
+                  sub(/[[:space:]]+$/, "", s)
+                  return s
+                }
+
+                function yaml_quote(s,    t) {
+                  t = s
+                  gsub(/\\/, "\\\\", t)
+                  gsub(/"/, "\\\"", t)
+                  return "\"" t "\""
+                }
+
+                function strip_policy(rule,    n, arr, typ) {
+                  rule = trim(rule)
+                  n = split(rule, arr, ",")
+
+                  if (n == 0) return rule
+                  typ = toupper(arr[1])
+
+                  # MATCH,DIRECT -> MATCH
+                  if (typ == "MATCH" && n >= 2) {
+                    return "MATCH"
+                  }
+
+                  # 已经是 classical 两段规则，保持不变
+                  if (n <= 2) {
+                    return rule
+                  }
+
+                  # 完整规则去掉最后一个策略组字段
+                  # 例如：
+                  # PROCESS-NAME,WinStore.APP,Ⓜ️ 微软服务
+                  # -> PROCESS-NAME,WinStore.APP
+                  sub(/,[^,]*$/, "", rule)
+                  return trim(rule)
+                }
+
                 BEGIN {
                   while ((getline line < replace_file) > 0) {
-                    split(line, arr, /\|/)
-                    if (length(arr[1]) > 0) {
-                      old_prefix[++replace_count] = arr[1]
-                      new_prefix[replace_count] = arr[2]
+                    pos = index(line, "|")
+                    if (pos > 0) {
+                      old = substr(line, 1, pos - 1)
+                      new = substr(line, pos + 1)
+                      if (length(old) > 0) {
+                        old_prefix[++replace_count] = old
+                        new_prefix[replace_count] = new
+                      }
                     }
                   }
                   close(replace_file)
                 }
+
                 {
                   sub(/\r$/, "", $0)
-                  gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                  $0 = trim($0)
+
+                  # 去掉可能已有的 YAML 列表前缀
+                  sub(/^-[[:space:]]+/, "", $0)
+
                   if ($0 == "" || $0 ~ /^#/) next
+
+                  # 去掉行尾注释
                   sub(/[[:space:]]+#.*$/, "", $0)
-                  gsub(/^[[:space:]]+|[[:space:]]+$/, "", $0)
+                  $0 = trim($0)
                   if ($0 == "") next
+
+                  # 前缀替换
                   for (i = 1; i <= replace_count; i++) {
                     if (index($0, old_prefix[i]) == 1) {
                       $0 = new_prefix[i] substr($0, length(old_prefix[i]) + 1)
                       break
                     }
                   }
+
+                  # 排除指定前缀
                   if (pattern != "" && $0 ~ pattern) next
-                  if (!seen[$0]++) print " - " $0
+
+                  # 转成 classical provider 规则
+                  $0 = strip_policy($0)
+                  $0 = trim($0)
+                  if ($0 == "") next
+
+                  if (!seen[$0]++) {
+                    print "  - " yaml_quote($0)
+                  }
                 }
               ' "$input_file"
             } > "$output_path"
-      
+
             echo "Converted: $input_file -> $output_path"
           }
+
           export INPUT_ROOT OUTPUT_ROOT PREFIX_REGEX REPLACE_PREFIXES_FILE EXCLUDE_FILES_FILE
           export -f process_file
-      
+
           find "$INPUT_ROOT" -type f -name "*.list" -print0 \
             | xargs -0 -n 1 -P "$(nproc)" bash -c 'process_file "$1"' _
-      
-          rm -f "$REPLACE_PREFIXES_FILE" "$EXCLUDE_FILES_FILE"
-      
+
           echo "Conversion finished."
-          
+
       - name: Commit and Push
+        shell: bash
         run: |
-          git add .
+          set -Eeuo pipefail
+
+          git add "$OUTPUT_ROOT" || git add .
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
             exit 0
           fi
+
           git commit -m "Convert rules to Clash Classic"
           git pull --rebase origin main
           git push origin main
