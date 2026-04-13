@@ -672,7 +672,6 @@ payload:
  - DOMAIN-REGEX,^.*store.*microsoft\.com$
  - DOMAIN-REGEX,^[^.]*store[^.]*\.[^.]*\.*microsoft\.com$
  - PROCESS-NAME,WinStore.APP.exe
- - PROCESS-NAME,WinStore.APP
  - WinStore
  - DOMAIN-SUFFIX,account.microsoft.com
  - DOMAIN-SUFFIX,csp.microsoft.com
