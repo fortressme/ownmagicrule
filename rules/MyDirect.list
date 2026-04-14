@@ -1,11 +1,15 @@
 
 # AUTHOR: blackmatrix7
+# DOMAIN-SUFFIX: 11
 # DOMAIN-SUFFIX: 13
+# DOMAIN: 2
+# NAME: DouYin
 # NAME: Samsung
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # SDWAN
 # TOTAL: 13
 # UPDATED: 2025-06-06 09:17:47
+# UPDATED: 2025-06-06 09:18:50
 # 三星应用商店
 # 兜底LAN
 # 其他
@@ -13,9 +17,12 @@
 ## vivo补充cn域名
 ## 新加入 Steam下载
 ## 硅基流动
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN-SUFFIX,10099.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,BGP.4444442.xyz
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,anrdoezrs.net
 DOMAIN-SUFFIX,api.xhofe.top
 DOMAIN-SUFFIX,appkcc.com
@@ -27,6 +34,10 @@ DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,cn.ntp.org.cn
 DOMAIN-SUFFIX,cntx0.112700.xyz
 DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,freell.top
 DOMAIN-SUFFIX,fwnhub.cn
 DOMAIN-SUFFIX,fxas.cn
@@ -37,8 +48,11 @@ DOMAIN-SUFFIX,gdyd.4444442.xyz
 DOMAIN-SUFFIX,gslb.livehwc3.cn
 DOMAIN-SUFFIX,gstore.val.manlaxy.com
 DOMAIN-SUFFIX,i.cu.iepl.my
+DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,ilanzou.com
 DOMAIN-SUFFIX,itdog.cn
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,knoxemm.com
 DOMAIN-SUFFIX,lala.gg
 DOMAIN-SUFFIX,lanzou.com
@@ -48,6 +62,7 @@ DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,ntp.aliyun.com
 DOMAIN-SUFFIX,open.kuaishouzt.com
 DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qqa813.198139.xyz
 DOMAIN-SUFFIX,qqb12.198139.xyz
@@ -67,6 +82,7 @@ DOMAIN-SUFFIX,speedtest.wush.cc
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,th.4444442.xyz
+DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,tun.tizi888.me
 DOMAIN-SUFFIX,u-tools.cn
 DOMAIN-SUFFIX,vivo.com.cn
