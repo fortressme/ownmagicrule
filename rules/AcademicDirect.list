@@ -98,8 +98,8 @@ DOMAIN-SUFFIX,eurekaselect.com
 # WOS
 DOMAIN-SUFFIX,webofknowledge.com
 # SUBMISSION
-DOMAIN-SUFFIX,editorialmanager.com
-DOMAIN-SUFFIX,mc.manuscriptcentral.com
+# DOMAIN-SUFFIX,editorialmanager.com
+# DOMAIN-SUFFIX,mc.manuscriptcentral.com
 # F1000
 DOMAIN-SUFFIX,facultyopinions.com
 # scholarscope
