@@ -80,6 +80,7 @@ payload:
  - DOMAIN-SUFFIX,dropmefile.com
  - DOMAIN-SUFFIX,edgeone.ai
  - DOMAIN-SUFFIX,edgeone.cloud.tencent.com
+ - DOMAIN-SUFFIX,editorialmanager.com
  - DOMAIN-SUFFIX,eloqua.com
  - DOMAIN-SUFFIX,eloquaeditors.com
  - DOMAIN-SUFFIX,eloquapreview.com
@@ -146,6 +147,7 @@ payload:
  - DOMAIN-SUFFIX,m.ndlib.cn
  - DOMAIN-SUFFIX,m.ndlib.com
  - DOMAIN-SUFFIX,macked.app
+ - DOMAIN-SUFFIX,mc.manuscriptcentral.com
  - DOMAIN-SUFFIX,mcmssc.la
  - DOMAIN-SUFFIX,mdpi.com
  - DOMAIN-SUFFIX,memos.iswsh.com

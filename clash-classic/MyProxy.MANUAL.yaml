@@ -60,6 +60,8 @@ payload:
  - DOMAIN-SUFFIX,phantom.app
  - DOMAIN-SUFFIX,tevau.io
  - PROCESS-NAME,uni.UNI2317D55
+ - DOMAIN-SUFFIX,editorialmanager.com
+ - DOMAIN-SUFFIX,mc.manuscriptcentral.com
  - IP-CIDR,82.39.133.0/24,no-resolve
  - IP-CIDR,46.33.10.0/24,no-resolve
  - IP-CIDR,45.192.248.0/22,no-resolve
