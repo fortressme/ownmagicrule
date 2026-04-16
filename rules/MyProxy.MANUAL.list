@@ -87,6 +87,10 @@ DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,tevau.io
 PROCESS-NAME,uni.UNI2317D55
 
+# 常用论文投稿
+DOMAIN-SUFFIX,editorialmanager.com
+DOMAIN-SUFFIX,mc.manuscriptcentral.com
+
 # VPS
 # 楼云GB NAT
 IP-CIDR,82.39.133.0/24,no-resolve
