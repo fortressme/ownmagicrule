@@ -78,7 +78,7 @@ IP-CIDR6,2400:8d60:0003::/48,no-resolve
 IP-CIDR,216.195.192.0/24,no-resolve
 IP-CIDR6,2404:c140:2101::/48,no-resolve
 # LAIN
-IP-CIDR,46.203.98.0/24,no-resolve
+IP-CIDR,185.206.250.0/24,no-resolve
 IP-CIDR6,2a0f:7802:e2f9::/48,no-resolve
 
 DOMAIN-SUFFIX,sgoracle0.112700.xyz
