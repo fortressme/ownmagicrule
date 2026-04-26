@@ -38,7 +38,6 @@ payload:
  - DOMAIN-SUFFIX,api.microsoftapp.net
  - DOMAIN-SUFFIX,auth0.com
  - DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
- - DOMAIN-SUFFIX,challenges.cloudflare.com
  - DOMAIN-SUFFIX,chatgpt.com
  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
  - DOMAIN-SUFFIX,client-api.arkoselabs.com
