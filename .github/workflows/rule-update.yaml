@@ -1111,6 +1111,8 @@ jobs:
         download_dir="rules/app"
         exclude_patterns=(
           "cloudflare\.com"
+          "cloudflare\.net"
+          "cloudflareinsights\.com"
         )
         download_dir="rules/app"
         temp_files=()
