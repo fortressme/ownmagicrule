@@ -78,6 +78,7 @@ jobs:
         manual_list="rules/A-ForcedDirect.MANUAL.list"
         exclude_patterns=(
           "^DOMAIN-SUFFIX,www.apple.com$"
+          "^DOMAIN-SUFFIX,apps.apple.com$"
           "^DOMAIN-SUFFIX,appleid.cdn-apple.com$"
         )
         download_dir="rules/app"
