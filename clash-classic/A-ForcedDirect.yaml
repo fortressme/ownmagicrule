@@ -15,7 +15,6 @@ payload:
  - DOMAIN-SUFFIX,app-site-association.cdn-apple.com
  - DOMAIN-SUFFIX,appldnld.apple.com
  - DOMAIN-SUFFIX,appldnld.g.aaplimg.com
- - DOMAIN-SUFFIX,apps.apple.com
  - DOMAIN-SUFFIX,apps.mzstatic.com
  - DOMAIN-SUFFIX,bag-cdn.itunes-apple.com.akadns.net
  - DOMAIN-SUFFIX,cdn-cn1.apple-mapkit.com
