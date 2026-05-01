@@ -534,6 +534,20 @@ jobs:
         else echo "::warning:: $target_list was not updated due to one or more download failures."; fi
         echo "Cleaning up temporary files for $target_list..."; rm -f "${temp_files[@]}"
 
+    - name: Append SERVER list to ForcedDirect rules
+      run: |
+        server_list="rules/A-ForcedDirect.SERVER.list"
+        target_list="rules/A-ForcedDirect.list"
+        if [[ -f "$server_list" && -s "$server_list" ]]; then
+          echo "Found $server_list. Appending its content to $target_list..."
+          echo >> "$target_list"
+          cat "$server_list" >> "$target_list"
+          echo >> "$target_list"
+          echo "Successfully appended $server_list to $target_list."
+        else
+          echo "Skipping append: $server_list does not exist or is empty."
+        fi
+        
     - name: Download GameDLCN rules (SteamCN, GameDownloadCN)
       run: |
         files=(
@@ -542,22 +556,62 @@ jobs:
         )
         target_list="rules/app/GameDLCN.list"
         manual_list="rules/app/GameDLCN.MANUAL.list"
+        exclude_patterns=(
+          "delivery\.mp\.microsoft\.com"
+        )
         download_dir="rules/app"
         temp_files=()
         all_success=true
-        echo "Attempting update for $target_list"; mkdir -p "$download_dir"
+        echo "Attempting update for $target_list"
+        mkdir -p "$download_dir"
         for entry in "${files[@]}"; do
-          IFS='|' read -r filename url <<< "$entry"; output_path="${download_dir}/$(basename ${target_list}).${filename}.tmp"; temp_files+=("$output_path")
+          IFS='|' read -r filename url <<< "$entry"
+          output_path="${download_dir}/$(basename ${target_list}).${filename}.tmp"
+          temp_files+=("$output_path")
+          
           echo "Downloading $filename from $url to $output_path..."
-          if ! curl -f -L -s -o "$output_path" "$url" || [[ ! -s "$output_path" ]]; then echo "::error:: Failed download or empty file: $filename from $url for target $target_list"; all_success=false; else echo "Successfully downloaded $filename"; echo >> "$output_path"; fi
+          if ! curl -f -L -s -o "$output_path" "$url" || [[ ! -s "$output_path" ]]; then
+            echo "::error:: Failed download or empty file: $filename from $url for target $target_list"
+            all_success=false
+          else
+            echo "Successfully downloaded $filename"
+            echo >> "$output_path"
+          fi
         done
-        if $all_success; then
-          echo "All downloads successful for $target_list. Combining..."; combined_new="${target_list}.new"; files_to_cat=(); for f in "${temp_files[@]}"; do files_to_cat+=("$f"); done
-          if [[ -f "$manual_list" && -s "$manual_list" ]]; then files_to_cat+=("$manual_list"); echo "Including manual list: $manual_list"; fi
-          cat "${files_to_cat[@]}" > "$combined_new"; echo >> "$combined_new"; mv -f "$combined_new" "$target_list"; echo "Successfully updated $target_list"
-        else echo "::warning:: $target_list was not updated due to one or more download failures."; fi
-        echo "Cleaning up temporary files for $target_list..."; rm -f "${temp_files[@]}"
 
+        if $all_success; then
+          echo "All downloads successful for $target_list. Combining..."
+          combined_new="${target_list}.new"
+          files_to_cat=()
+          for f in "${temp_files[@]}"; do files_to_cat+=("$f"); done
+          
+          if [[ -f "$manual_list" && -s "$manual_list" ]]; then
+            files_to_cat+=("$manual_list")
+            echo "Including manual list: $manual_list"
+          fi
+          cat "${files_to_cat[@]}" > "$combined_new"
+          if [ ${#exclude_patterns[@]} -gt 0 ]; then
+            echo "Applying ${#exclude_patterns[@]} exclusion pattern(s)..."
+            full_pattern=$(IFS='|'; echo "${exclude_patterns[*]}")
+            echo "Filtering with combined regex: $full_pattern"
+            filtered_new="${target_list}.filtered.new"
+            grep -vE "$full_pattern" "$combined_new" > "$filtered_new"
+            
+            mv -f "$filtered_new" "$combined_new"
+            echo "Filtering complete."
+          else
+            echo "No exclusion patterns defined. Skipping filtering."
+          fi
+          
+          echo >> "$combined_new"
+          mv -f "$combined_new" "$target_list"
+          echo "Successfully updated $target_list"
+        else
+          echo "::warning:: $target_list was not updated due to one or more download failures."
+        fi
+        echo "Cleaning up temporary files for $target_list..."
+        rm -f "${temp_files[@]}"
+        
     - name: Download GameDL rules
       run: |
         files=(
