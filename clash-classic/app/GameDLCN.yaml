@@ -21,9 +21,7 @@ payload:
  - DOMAIN,cdn-ali.content.steamchina.com
  - DOMAIN,cdn-qc.content.steamchina.com
  - DOMAIN,cdn-ws.content.steamchina.com
- - DOMAIN,dl.delivery.mp.microsoft.com
  - DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
- - DOMAIN,tlu.dl.delivery.mp.microsoft.com
  - DOMAIN,trts.baishancdnx.cn
  - DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
  - DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
