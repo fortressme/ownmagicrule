@@ -450,5 +450,6 @@ payload:
  - PROCESS-NAME,com.vivo.safecenter
  - PROCESS-NAME,com.vlife.vivo.wallpaper
  - PROCESS-NAME,qaxdefender.exe
+ - PROCESS-NAME,MBAAntiVirus.exe
  - DOMAIN-SUFFIX,qianxin.com
  - DOMAIN-SUFFIX,hihonor.com
