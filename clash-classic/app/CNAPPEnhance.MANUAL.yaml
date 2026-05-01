@@ -56,6 +56,9 @@ payload:
  - PROCESS-NAME,com.sankuai.meituan.takeoutnew
  - PROCESS-NAME,me.ele
  - PROCESS-NAME,com.dianping.v1
+ - PROCESS-NAME,wetype_renderer.exe
+ - PROCESS-NAME,com.tencent.wetype
+ - DOMAIN-SUFFIX,wetype.weixin.qq.com
  - PROCESS-NAME,com.iflytek.inputmethod
  - PROCESS-NAME,com.baidu.input
  - PROCESS-NAME,com.baidu.input_vivo
