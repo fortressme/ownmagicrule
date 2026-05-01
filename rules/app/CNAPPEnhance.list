@@ -430,6 +430,11 @@ PROCESS-NAME,me.ele
 PROCESS-NAME,com.dianping.v1
 
 # 输入法
+# 微信输入法
+PROCESS-NAME,wetype_renderer.exe
+PROCESS-NAME,com.tencent.wetype
+DOMAIN-SUFFIX,wetype.weixin.qq.com
+
 # 讯飞输入法
 PROCESS-NAME,com.iflytek.inputmethod
 # 百度输入法
