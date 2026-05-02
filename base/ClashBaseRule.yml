@@ -72,11 +72,6 @@ dns:
       - https://dns.google/dns-query
       - https://1.1.1.1/dns-query
       - https://ld.ddd.oaifree.com/query-dns
-    'geosite:cn': 
-      - 114.114.114.114
-      - 218.30.118.6
-      - 119.29.29.29
-      - 223.6.6.6
     'geosite:gfw':
       - https://v.recipes/dns/dns.google/dns-query
       - https://dns.google/dns-query
