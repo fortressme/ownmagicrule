@@ -112,6 +112,9 @@ PROCESS-NAME,Tailscale
 PROCESS-NAME,Tailscale Service
 PROCESS-NAME,Tailscale.exe
 PROCESS-NAME,Tailscale Service.exe
+PROCESS-NAME,easytier-gui.exe
+PROCESS-NAME,easytier
+PROCESS-NAME,easytier-cli
 PROCESS-NAME,eztest
 # 一些影视站
 DOMAIN-SUFFIX,sbzyplay.com
