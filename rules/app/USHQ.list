@@ -893,6 +893,7 @@ DOMAIN-SUFFIX,webmail.nbsu.de
 DOMAIN-SUFFIX,t-mobile.com
 DOMAIN-SUFFIX,ultramobile.com
 PROCESS-NAME,com.uvnv.ultramobile
+DOMAIN-SUFFIX,att.com
 DOMAIN-KEYWORD,voice.google
 DOMAIN-KEYWORD,voice.telephony
 DOMAIN-SUFFIX,voice.google.com
