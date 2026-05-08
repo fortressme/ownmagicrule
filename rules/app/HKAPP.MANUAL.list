@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,hkaliyun0.112700.xyz
 DOMAIN-SUFFIX,hkwap0.112700.xyz
 DOMAIN-SUFFIX,frp.speedtest.112700.xyz
 DOMAIN-SUFFIX,frphk.speedtest.112700.xyz
+
 # VPS
 # LazyCat Golbal HK
 IP-CIDR,185.241.42.0/24,no-resolve
