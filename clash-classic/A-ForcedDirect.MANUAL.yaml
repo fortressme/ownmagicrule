@@ -15,7 +15,6 @@ payload:
  - DOMAIN,www.msftncsi.com
  - DOMAIN-SUFFIX,kimi.ai
  - DOMAIN-SUFFIX,digicert.com
- - DOMAIN-SUFFIX,push.apple.com
  - DOMAIN-SUFFIX,gdmf.apple.com
  - DOMAIN-SUFFIX,gg.apple.com
  - DOMAIN-SUFFIX,gs.apple.com
