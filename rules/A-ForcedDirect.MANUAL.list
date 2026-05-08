@@ -16,7 +16,9 @@ DOMAIN,dns.msftncsi.com
 DOMAIN,www.msftncsi.com
 DOMAIN-SUFFIX,kimi.ai
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,push.apple.com
+# Apple推送服务APNs
+# DOMAIN-SUFFIX,push.apple.com
+# Apple系统和组件更新及恢复服务
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gg.apple.com
 DOMAIN-SUFFIX,gs.apple.com
@@ -28,6 +30,7 @@ DOMAIN-SUFFIX,gdmf-ados.apple.com
 DOMAIN-SUFFIX,gsra.apple.com
 DOMAIN-SUFFIX,wkms-public.apple.com
 DOMAIN-SUFFIX,fcs-keys-pub-prod.cdn-apple.com
+
 DOMAIN-SUFFIX,dwh.yiandrive.com
 DOMAIN-SUFFIX,dsz.yiandrive.com
 DOMAIN-SUFFIX,dxa.yiandrive.com
