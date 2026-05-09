@@ -21,6 +21,9 @@ IP-CIDR,172.82.2.0/24,no-resolve
 IP-CIDR6,2604:6040:a20::/48,no-resolve
 IP-ASN,12233,no-resolve
 
+# USGOV
+DOMAIN-SUFFIX,war.gov
+
 # 其他服务
 DOMAIN-SUFFIX,lychy-salt.787896.xyz
 DOMAIN-SUFFIX,vmvm.io
