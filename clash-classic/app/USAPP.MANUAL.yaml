@@ -14,6 +14,7 @@ payload:
  - IP-CIDR,172.82.2.0/24,no-resolve
  - IP-CIDR6,2604:6040:a20::/48,no-resolve
  - IP-ASN,12233,no-resolve
+ - DOMAIN-SUFFIX,war.gov
  - DOMAIN-SUFFIX,lychy-salt.787896.xyz
  - DOMAIN-SUFFIX,vmvm.io
  - DOMAIN-REGEX,^(?:[A-Za-z0-9-]+\.)*(?:us|[A-Za-z0-9-]+-us)\.(?:[A-Za-z0-9-]+\.)*synology\.com$
