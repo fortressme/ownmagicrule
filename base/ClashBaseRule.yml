@@ -283,6 +283,8 @@ sniffer:
       override-destination: true
   force-domain:
     - +.v2ex.com
+    - doh.pub
+    - dns.alidns.com
   skip-domain:
     - mtalk.google.com
     - mtalk4.google.com
@@ -306,8 +308,6 @@ sniffer:
     - +.vivo.net
     - +.rc.sunlogin.net
     - time.windows.com
-    - doh.pub
-    - dns.alidns.com
     - courier.push.apple.com
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
