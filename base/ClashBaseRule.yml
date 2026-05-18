@@ -285,6 +285,13 @@ sniffer:
     - +.v2ex.com
     - doh.pub
     - dns.alidns.com
+    - dlg.io.mi.com
+    - +.vivo.com.cn
+    - +.vivo.com
+    - +.vivo.net
+    - +.rc.sunlogin.net
+    - time.windows.com
+    - courier.push.apple.com
   skip-domain:
     - mtalk.google.com
     - mtalk4.google.com
@@ -302,13 +309,6 @@ sniffer:
     - mtalk-dev.google.com
     - mtalk-staging.google.com
     - Mijia Cloud
-    - dlg.io.mi.com
-    - +.vivo.com.cn
-    - +.vivo.com
-    - +.vivo.net
-    - +.rc.sunlogin.net
-    - time.windows.com
-    - courier.push.apple.com
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
     - rbsxbxp-ws.vivox.com
