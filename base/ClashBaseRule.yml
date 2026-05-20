@@ -307,7 +307,7 @@ sniffer:
     - mtalk-dev.google.com
     - mtalk-staging.google.com
     - Mijia Cloud
-    - connection-center.vivo.com.cn
+    - +.vivo.com.cn
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
     - rbsxbxp-ws.vivox.com
