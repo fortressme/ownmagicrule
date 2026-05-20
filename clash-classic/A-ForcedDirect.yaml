@@ -87,6 +87,7 @@ payload:
  - DOMAIN-SUFFIX,meituan.net
  - DOMAIN-SUFFIX,meituan.com
  - DOMAIN-SUFFIX,health.vivo.com
+ - DOMAIN-SUFFIX,vivo.com.cn
  - DST-PORT,9993
  - SRC-PORT,9993
  - DST-PORT,9995
