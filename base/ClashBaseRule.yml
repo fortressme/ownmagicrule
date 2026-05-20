@@ -286,8 +286,6 @@ sniffer:
     - doh.pub
     - dns.alidns.com
     - dlg.io.mi.com
-    - +.vivo.com.cn
-    - +.vivo.com
     - +.vivo.net
     - +.rc.sunlogin.net
     - time.windows.com
@@ -309,6 +307,7 @@ sniffer:
     - mtalk-dev.google.com
     - mtalk-staging.google.com
     - Mijia Cloud
+    - connection-center.vivo.com.cn
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
     - rbsxbxp-ws.vivox.com
