@@ -510,6 +510,8 @@ PROCESS-NAME,pcsuite.exe
 PROCESS-NAME,pcsuite Helper
 PROCESS-NAME,com.vivo.pcsuite
 PROCESS-NAME,com.vivo.connbase
+PROCESS-NAME,com.vivo.connbase.connectcenter
+PROCESS-NAME,com.vivo.pushservice
 PROCESS-NAME,com.vivo.vhome
 # VIVO蓝心小V
 PROCESS-NAME,com.vivo.ai.copilot
