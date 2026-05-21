@@ -374,6 +374,8 @@ payload:
  - PROCESS-NAME,pcsuite Helper
  - PROCESS-NAME,com.vivo.pcsuite
  - PROCESS-NAME,com.vivo.connbase
+ - PROCESS-NAME,com.vivo.connbase.connectcenter
+ - PROCESS-NAME,com.vivo.pushservice
  - PROCESS-NAME,com.vivo.vhome
  - PROCESS-NAME,com.vivo.ai.copilot
  - PROCESS-NAME,com.vivo.ai.base.copilot
@@ -383,7 +385,6 @@ payload:
  - PROCESS-NAME,com.vos.as.vit
  - PROCESS-NAME,com.vivo.smartmultiwindow
  - PROCESS-NAME,com.alibaba.android.rimet.ccflink
- - PROCESS-NAME,com.vivo.pushservice
  - PROCESS-NAME,com.vivo.easyshare
  - PROCESS-NAME,com.vivo.abe
  - PROCESS-NAME,com.vivo.widget.healthcare
