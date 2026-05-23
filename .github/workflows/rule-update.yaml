@@ -937,6 +937,103 @@ jobs:
           echo "Failed to download or empty telegramcidr.txt, exiting."
         fi
 
+    - name: Download ApplePush rules
+      shell: bash
+      run: |
+        set -Eeuo pipefail
+        files=(
+          "APNs1.list|https://raw.githubusercontent.com/QuixoticHeart/rule-set/refs/heads/ruleset/loon/apns.list"
+          "APNs2.list|https://raw.githubusercontent.com/ttyyss2233/Tool/main/shadowrocket/rules/apns.list"
+        )
+        delete_regexes=(
+          # 示例：
+          # '^DOMAIN-SUFFIX,icloud-content\.com($|,)'
+          # '^DOMAIN,example\.apple\.com($|,)'
+        )
+        append_rules=(
+          # 示例：
+          # 'DOMAIN,apple-extra.example'
+          # 'DOMAIN-SUFFIX,ampaeservices.com'
+        )
+        target_list="rules/app/ApplePush.list"
+        manual_list="rules/app/ApplePush.MANUAL.list"
+        download_dir="rules/app"
+        temp_files=()
+        temp_cleanup=()
+        all_success=true
+        mkdir -p "$download_dir"
+        echo "Attempting update for $target_list"
+        for entry in "${files[@]}"; do
+          IFS='|' read -r filename url <<< "$entry"
+          output_path="${download_dir}/$(basename "${target_list}").${filename}.tmp"
+          temp_files+=("$output_path")
+          temp_cleanup+=("$output_path")
+          echo "Downloading $filename from $url to $output_path ..."
+          if ! curl -f -L -sS -o "$output_path" "$url" || [[ ! -s "$output_path" ]]; then
+            echo "::error:: Failed download or empty file: $filename from $url for target $target_list"
+            all_success=false
+          else
+            echo "Successfully downloaded $filename"
+            printf '\n' >> "$output_path"
+          fi
+        done
+        if ! $all_success; then
+          echo "::warning:: $target_list was not updated due to one or more download failures."
+          rm -f "${temp_cleanup[@]:-}"
+          exit 0
+        fi
+        combined_raw="${target_list}.raw"
+        combined_new="${target_list}.new"
+        temp_cleanup+=("$combined_raw" "$combined_new")
+        files_to_cat=()
+        for f in "${temp_files[@]}"; do
+          [[ -f "$f" && -s "$f" ]] && files_to_cat+=("$f")
+        done
+        if [[ -f "$manual_list" && -s "$manual_list" ]]; then
+          files_to_cat+=("$manual_list")
+          echo "Including manual list: $manual_list"
+        fi
+        cat "${files_to_cat[@]}" > "$combined_raw"
+        if [[ ${#append_rules[@]} -gt 0 ]]; then
+          {
+            printf '\n'
+            for rule in "${append_rules[@]}"; do
+              [[ -n "${rule// }" ]] && printf '%s\n' "$rule"
+            done
+          } >> "$combined_raw"
+          echo "Appended inline rules"
+        fi
+        printf '\n' >> "$combined_raw"
+        cp "$combined_raw" "$combined_new"
+        if [[ ${#delete_regexes[@]} -gt 0 ]]; then
+          delete_pattern_file="${target_list}.delete_patterns.tmp"
+          filtered_tmp="${target_list}.filtered.tmp"
+          temp_cleanup+=("$delete_pattern_file" "$filtered_tmp")
+          : > "$delete_pattern_file"
+          for regex in "${delete_regexes[@]}"; do
+            [[ -n "${regex// }" ]] && printf '%s\n' "$regex" >> "$delete_pattern_file"
+          done
+          if [[ -s "$delete_pattern_file" ]]; then
+            grep -E -v -f "$delete_pattern_file" "$combined_new" > "$filtered_tmp" || true
+            mv -f "$filtered_tmp" "$combined_new"
+            echo "Applied delete regex rules"
+          fi
+        fi
+        cleaned_tmp="${target_list}.cleaned.tmp"
+        dedup_tmp="${target_list}.dedup.tmp"
+        temp_cleanup+=("$cleaned_tmp" "$dedup_tmp")
+    
+        awk 'NF > 0' "$combined_new" > "$cleaned_tmp"
+        mv -f "$cleaned_tmp" "$combined_new"
+    
+        awk '!seen[$0]++' "$combined_new" > "$dedup_tmp"
+        mv -f "$dedup_tmp" "$combined_new"
+    
+        printf '\n' >> "$combined_new"
+        mv -f "$combined_new" "$target_list"
+        echo "Successfully updated $target_list"
+        rm -f "${temp_cleanup[@]:-}"
+
     - name: Download Apple rules
       shell: bash
       run: |
