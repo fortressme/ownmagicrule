@@ -84,7 +84,6 @@ DOMAIN-SUFFIX,ateam-oracle.com
 DOMAIN-SUFFIX,attemptd.work
 DOMAIN-SUFFIX,avatargpt.xyz
 DOMAIN-SUFFIX,avatars-githubusercontent-webp.webp.se
-DOMAIN-SUFFIX,blinko.iswsh.com
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,bronto.com
 DOMAIN-SUFFIX,browsecraft.com
@@ -98,7 +97,6 @@ DOMAIN-SUFFIX,chatb.ainq.de
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,clashmi.app
 DOMAIN-SUFFIX,clashverge.dev
-DOMAIN-SUFFIX,cloud.iswsh.com
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,covid19-rx.org
 DOMAIN-SUFFIX,covid19rx.org
@@ -107,7 +105,6 @@ DOMAIN-SUFFIX,dalao.net
 DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,deeplx.org
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,dnsmgr.iswsh.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
@@ -120,13 +117,10 @@ DOMAIN-SUFFIX,eloqua.com
 DOMAIN-SUFFIX,eloquaeditors.com
 DOMAIN-SUFFIX,eloquapreview.com
 DOMAIN-SUFFIX,en25.com
-DOMAIN-SUFFIX,fastgpt.iswsh.com
-DOMAIN-SUFFIX,file.iswsh.com
 DOMAIN-SUFFIX,filecr.com
 DOMAIN-SUFFIX,freeembyguide.eu.org
 DOMAIN-SUFFIX,fwupd.org
 DOMAIN-SUFFIX,gaozehk.com
-DOMAIN-SUFFIX,gitea.iswsh.com
 DOMAIN-SUFFIX,gitkraken.com
 DOMAIN-SUFFIX,gorse.io
 DOMAIN-SUFFIX,hailuo.ai
@@ -141,9 +135,7 @@ DOMAIN-SUFFIX,hulihanman.com
 DOMAIN-SUFFIX,i.096899.xyz
 DOMAIN-SUFFIX,idoujiang.com
 DOMAIN-SUFFIX,im.ge
-DOMAIN-SUFFIX,image.iswsh.com
 DOMAIN-SUFFIX,imagehaha.com
-DOMAIN-SUFFIX,img.iswsh.com
 DOMAIN-SUFFIX,img.wush.cc
 DOMAIN-SUFFIX,imgccc.com
 DOMAIN-SUFFIX,immersivetranslate.com
@@ -185,13 +177,11 @@ DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,mc.manuscriptcentral.com
 DOMAIN-SUFFIX,mcmssc.la
 DOMAIN-SUFFIX,mdpi.com
-DOMAIN-SUFFIX,memos.iswsh.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,monkrus.ws
 DOMAIN-SUFFIX,music.liuzhijin.cn
 DOMAIN-SUFFIX,naixi.net
-DOMAIN-SUFFIX,nasdav.iswsh.com
 DOMAIN-SUFFIX,nathost.com
 DOMAIN-SUFFIX,nebius.com
 DOMAIN-SUFFIX,news.112700.xyz
@@ -205,12 +195,10 @@ DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,novel.seseclub.com
 DOMAIN-SUFFIX,ntdm9.com
-DOMAIN-SUFFIX,of.iswsh.com
 DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opengist.096899.xyz
-DOMAIN-SUFFIX,openlist.iswsh.com
 DOMAIN-SUFFIX,oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
@@ -219,10 +207,8 @@ DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,pandaremit.com
 DOMAIN-SUFFIX,papakatsu.co
-DOMAIN-SUFFIX,passwd.iswsh.com
 DOMAIN-SUFFIX,phantom.app
 DOMAIN-SUFFIX,phantom.com
-DOMAIN-SUFFIX,photo.iswsh.com
 DOMAIN-SUFFIX,powenwu15.com
 DOMAIN-SUFFIX,privateid.com
 DOMAIN-SUFFIX,prodregistryv2.org
@@ -244,11 +230,7 @@ DOMAIN-SUFFIX,rsf-ap-southeast-2.qiniuapi.com
 DOMAIN-SUFFIX,rsf-ap-southeast-3.qiniuapi.com
 DOMAIN-SUFFIX,rsf-as0.qiniuapi.com
 DOMAIN-SUFFIX,rumt-sg.com
-DOMAIN-SUFFIX,rustfs.iswsh.com
-DOMAIN-SUFFIX,s3.iswsh.com
-DOMAIN-SUFFIX,s3api.iswsh.com
 DOMAIN-SUFFIX,sda1.dev
-DOMAIN-SUFFIX,search.iswsh.com
 DOMAIN-SUFFIX,shared.oaifree.com
 DOMAIN-SUFFIX,shucdn.com
 DOMAIN-SUFFIX,siliconflow.com
@@ -272,7 +254,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,vcc.center
 DOMAIN-SUFFIX,voidtools.com
 DOMAIN-SUFFIX,vvxs.xyz
-DOMAIN-SUFFIX,wallos.iswsh.com
+DOMAIN-SUFFIX,iswsh.com
 DOMAIN-SUFFIX,wan.video
 DOMAIN-SUFFIX,wanxai.com
 DOMAIN-SUFFIX,wap.ac
