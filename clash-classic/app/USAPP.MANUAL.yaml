@@ -83,6 +83,7 @@ payload:
  - DOMAIN-SUFFIX,build.nvidia.com
  - DOMAIN-SUFFIX,api.ainq.de
  - DOMAIN-SUFFIX,chat.ainq.de
+ - DOMAIN-SUFFIX,tellme.ainq.de
  - IP-CIDR,38.129.137.24/32,no-resolve
  - IP-CIDR,66.94.0.0/19,no-resolve
  - IP-CIDR,206.29.177.36/32,no-resolve
