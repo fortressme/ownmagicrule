@@ -297,6 +297,8 @@ sniffer:
     - +.rc.sunlogin.net
     - time.windows.com
     - courier.push.apple.com
+    - +.steamserver.net
+    - +.cm.steampowered.com
   skip-domain:
     - mtalk.google.com
     - mtalk4.google.com
