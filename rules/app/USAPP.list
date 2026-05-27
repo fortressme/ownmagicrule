@@ -399,6 +399,9 @@ IP-CIDR6,2602:f988:210::/48,no-resolve
 # CC US LA
 IP-CIDR,103.11.79.0/24,no-resolve
 IP-CIDR6,2607:f130:0000::/48,no-resolve
+# RN US LA
+IP-CIDR,192.119.78.0/24,no-resolve
+IP-CIDR6,2607:f130:0000::/48,no-resolve
 
 IP-CIDR,23.94.180.0/24,no-resolve
 IP-CIDR,23.144.124.0/24,no-resolve
@@ -408,7 +411,6 @@ IP-CIDR,155.117.19.0/24,no-resolve
 IP-CIDR,104.194.69.0/24,no-resolve
 IP-CIDR,107.175.0.0/16,no-resolve
 IP-CIDR,108.165.0.0/16,no-resolve
-IP-CIDR,148.135.103.0/24,no-resolve
 IP-CIDR,154.9.0.0/16,no-resolve
 IP-CIDR,156.229.0.0/16,no-resolve
 IP-CIDR,162.254.85.0/24,no-resolve
