@@ -137,6 +137,7 @@ dns:
     - '+.media.dssott.com'
     - '+.mediatek.com'
     - '+.vivo.net'
+    - '+.vivo.com'
     - '+.vivo.com.cn'
     - '+.mi.com'
     - '+.mijia.tech'
@@ -318,6 +319,7 @@ sniffer:
     - mtalk-staging.google.com
     - Mijia Cloud
     - +.vivo.net
+    - +.vivo.com
     - +.vivo.com.cn
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
