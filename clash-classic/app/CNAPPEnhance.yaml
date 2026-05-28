@@ -386,6 +386,7 @@ payload:
  - PROCESS-NAME,com.vivo.smartmultiwindow
  - PROCESS-NAME,com.alibaba.android.rimet.ccflink
  - PROCESS-NAME,com.vivo.easyshare
+ - PROCESS-NAME,com.vivo.findphone
  - PROCESS-NAME,com.vivo.abe
  - PROCESS-NAME,com.vivo.widget.healthcare
  - PROCESS-NAME,com.vivo.ai.ime.nex
@@ -454,3 +455,4 @@ payload:
  - PROCESS-NAME,MBAAntiVirus.exe
  - DOMAIN-SUFFIX,qianxin.com
  - DOMAIN-SUFFIX,hihonor.com
+ - DOMAIN-SUFFIX,newfind.vivo.com
