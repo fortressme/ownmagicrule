@@ -351,6 +351,8 @@ sniffer:
     - +.meituan.net 
     - www.mdpi.com
     - www.sciencedirect.com
+  skip-src-address:
+    - 172.19.0.0/24
   skip-dst-address:
     - 10.0.0.0/8
     - 172.16.0.0/12
