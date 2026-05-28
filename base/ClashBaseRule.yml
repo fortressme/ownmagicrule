@@ -136,6 +136,8 @@ dns:
     - '+.logon.battlenet.com.cn'
     - '+.media.dssott.com'
     - '+.mediatek.com'
+    - '+.vivo.net'
+    - '+.vivo.com.cn'
     - '+.mi.com'
     - '+.mijia.tech'
     - '+.miwifi.com'
@@ -293,7 +295,6 @@ sniffer:
     - doh.pub
     - dns.alidns.com
     - dlg.io.mi.com
-    - +.vivo.net
     - +.rc.sunlogin.net
     - time.windows.com
     - courier.push.apple.com
@@ -316,6 +317,7 @@ sniffer:
     - mtalk-dev.google.com
     - mtalk-staging.google.com
     - Mijia Cloud
+    - +.vivo.net
     - +.vivo.com.cn
     - rbsxbxp-mim.vivox.com
     - rbsxbxp.www.vivox.com
