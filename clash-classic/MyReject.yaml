@@ -1,2 +1,0 @@
-payload:
- - AND,((NETWORK,UDP),(AND,((DST-PORT,443),(GEOSITE,youtube))))
