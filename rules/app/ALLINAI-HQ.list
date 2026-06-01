@@ -85,8 +85,6 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,llama.com
 # Kilo
 DOMAIN-SUFFIX,kilo.ai
-# OpenCode
-DOMAIN-SUFFIX,opencode.ai
 # Apple Intelligence
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
