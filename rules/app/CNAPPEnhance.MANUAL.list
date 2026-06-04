@@ -1,5 +1,14 @@
 # 常用CN应用直连列表
 # 进程规则
+
+# CN GOV
+# 个人所得税
+PROCESS-NAME,cn.gov.tax.its
+PROCESS-NAME,tpass.beijing.chinatax.gov.cn
+PROCESS-NAME,cn.gov.chinatax.gt4.app
+PROCESS-NAME-WILDCARD,*gov.cn
+PROCESS-NAME-WILDCARD,*gt4.app
+
 # 社交
 # QQ
 # PROCESS-NAME,com.tencent.mobileqq
@@ -259,8 +268,6 @@ PROCESS-NAME,com.vivo.health
 PROCESS-NAME,com.sinovatech.unicom.ui
 # 中国广电
 PROCESS-NAME,com.ai.obc.cbn.app
-# 个人所得税
-PROCESS-NAME,cn.gov.tax.its
 # 航旅纵横
 PROCESS-NAME,com.umetrip.android.msky.app
 # 涂鸦智能
