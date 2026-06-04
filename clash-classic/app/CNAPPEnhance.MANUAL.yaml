@@ -1,4 +1,9 @@
 payload:
+ - PROCESS-NAME,cn.gov.tax.its
+ - PROCESS-NAME,tpass.beijing.chinatax.gov.cn
+ - PROCESS-NAME,cn.gov.chinatax.gt4.app
+ - PROCESS-NAME-WILDCARD,*gov.cn
+ - PROCESS-NAME-WILDCARD,*gt4.app
  - PROCESS-NAME,com.qzone
  - PROCESS-NAME,com.p1.mobile.putong
  - PROCESS-NAME,com.immomo.momo
@@ -118,7 +123,6 @@ payload:
  - PROCESS-NAME,com.vivo.health
  - PROCESS-NAME,com.sinovatech.unicom.ui
  - PROCESS-NAME,com.ai.obc.cbn.app
- - PROCESS-NAME,cn.gov.tax.its
  - PROCESS-NAME,com.umetrip.android.msky.app
  - PROCESS-NAME,com.tuya.smartiot
  - PROCESS-NAME,com.youdao.dict
