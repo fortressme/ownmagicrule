@@ -10,6 +10,8 @@ payload:
  - IP-CIDR,156.246.89.0/24,no-resolve
  - IP-CIDR6,2a12:f8c1:50::/48,no-resolve
  - IP-CIDR,82.40.33.0/24,no-resolve
+ - IP-CIDR,209.248.45.0/24,no-resolve
+ - IP-CIDR6,2401:f460:1073::/48,no-resolve
  - IP-CIDR,23.249.25.0/24,no-resolve
  - IP-CIDR,131.143.214.0/24,no-resolve
  - IP-CIDR,154.36.155.0/24,no-resolve
