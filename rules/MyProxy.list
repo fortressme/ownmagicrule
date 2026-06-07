@@ -284,4 +284,3 @@ PROCESS-NAME,uni.UNI2317D55
 
 # DNS Resolved: eu1.workspace.org
 DOMAIN,eu1.workspace.org
-IP-CIDR,193.108.130.81/32,no-resolve
