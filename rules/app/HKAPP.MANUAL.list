@@ -2,6 +2,9 @@
 PROCESS-NAME,com.bochk.app.aos
 # 汇丰香港
 PROCESS-NAME,hk.com.hsbc.hsbchkmobilebanking
+# MOX BANK
+DOMAIN-SUFFIX,mox.com
+PROCESS-NAME,com.mox.app
 
 # Other
 DOMAIN-SUFFIX,cloud.acgf.vip
