@@ -1,6 +1,8 @@
 payload:
  - PROCESS-NAME,com.bochk.app.aos
  - PROCESS-NAME,hk.com.hsbc.hsbchkmobilebanking
+ - DOMAIN-SUFFIX,mox.com
+ - PROCESS-NAME,com.mox.app
  - DOMAIN-SUFFIX,cloud.acgf.vip
  - DOMAIN-SUFFIX,kuxueyun.com
  - DOMAIN-SUFFIX,tarekcloud.com
