@@ -208,4 +208,5 @@ payload:
  - DOMAIN-SUFFIX,v0.uhdnow.com
  - DOMAIN-SUFFIX,v1.uhdnow.com
  - DOMAIN-SUFFIX,v2.uhdnow.com
+ - DOMAIN-SUFFIX,global.uhdnow.com
  - DOMAIN-SUFFIX,rfc.uhdnow.com
