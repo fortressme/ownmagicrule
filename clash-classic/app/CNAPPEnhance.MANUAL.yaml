@@ -112,6 +112,8 @@ payload:
  - PROCESS-NAME,com.alibaba.android.rimet.ccflink
  - PROCESS-NAME,com.vivo.easyshare
  - PROCESS-NAME,com.vivo.findphone
+ - PROCESS-NAME,com.vivo.share
+ - PROCESS-NAME,com.vivo.share.App
  - PROCESS-NAME,com.vivo.abe
  - PROCESS-NAME,com.vivo.widget.healthcare
  - PROCESS-NAME,com.vivo.ai.ime.nex
