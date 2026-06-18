@@ -542,6 +542,8 @@ PROCESS-NAME,com.vivo.pushservice
 # VIVO互传
 PROCESS-NAME,com.vivo.easyshare
 PROCESS-NAME,com.vivo.findphone
+PROCESS-NAME,com.vivo.share
+PROCESS-NAME,com.vivo.share.App
 # VIVO智慧引擎
 PROCESS-NAME,com.vivo.abe
 # VIVO健康关怀
