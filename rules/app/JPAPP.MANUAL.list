@@ -23,3 +23,6 @@ IP-CIDR,23.249.25.0/24,no-resolve
 IP-CIDR,131.143.214.0/24,no-resolve
 # VMVM JP CO
 IP-CIDR,154.36.155.0/24,no-resolve
+# LALA AWS JP
+IP-CIDR,54.250.244.0/24,no-resolve
+IP-CIDR6,2406:da14:1ec5::/48,no-resolve
