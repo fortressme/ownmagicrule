@@ -1,5 +1,7 @@
 # 中银香港
 PROCESS-NAME,com.bochk.app.aos
+#蚂蚁银行
+PROCESS-NAME,com.alipay.antbank.hk.portal
 # 汇丰香港
 PROCESS-NAME,hk.com.hsbc.hsbchkmobilebanking
 # MOX BANK
