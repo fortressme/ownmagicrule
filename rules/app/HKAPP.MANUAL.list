@@ -18,6 +18,9 @@ DOMAIN-SUFFIX,frp.speedtest.112700.xyz
 DOMAIN-SUFFIX,frphk.speedtest.112700.xyz
 
 # VPS
+# LALA HK BGP
+IP-CIDR,216.236.43.0/24,no-resolve
+IP-CIDR6,2404:c140:1f02::/64,no-resolve
 # LazyCat Golbal HK
 IP-CIDR,185.241.42.0/24,no-resolve
 # ISVORO HK CN2
