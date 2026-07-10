@@ -861,6 +861,7 @@ payload:
  - DOMAIN-KEYWORD,voice.telephony
  - DOMAIN-SUFFIX,voice.google.com
  - DOMAIN-SUFFIX,voice.telephony.goog
+ - DOMAIN-SUFFIX,seagm.com
  - DOMAIN-SUFFIX,yahoo-inc.com
  - DOMAIN-SUFFIX,yahoo-net.jp
  - DOMAIN-SUFFIX,yahoo.cm
