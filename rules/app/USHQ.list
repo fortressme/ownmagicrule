@@ -899,6 +899,9 @@ DOMAIN-KEYWORD,voice.telephony
 DOMAIN-SUFFIX,voice.google.com
 DOMAIN-SUFFIX,voice.telephony.goog
 
+# seagm发卡点卡购物
+DOMAIN-SUFFIX,seagm.com
+
 # Yahoo 雅虎
 DOMAIN-SUFFIX,yahoo-inc.com
 DOMAIN-SUFFIX,yahoo-net.jp
