@@ -23,6 +23,11 @@ IP-ASN,12233,no-resolve
 
 # USGOV
 DOMAIN-SUFFIX,war.gov
+# Ultra mobile WifiCalling
+DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 
 # 其他服务
 DOMAIN-SUFFIX,lychy-salt.787896.xyz
