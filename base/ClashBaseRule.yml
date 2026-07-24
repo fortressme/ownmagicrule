@@ -72,6 +72,9 @@ dns:
     '+.aliyuncs.com':
       - https://223.6.6.6/dns-query
       - https://doh.pub/dns-query
+    'cdn.jsdelivr.net':
+      - https://223.6.6.6/dns-query
+      - https://doh.pub/dns-query
     '+.icu':
       - https://v.recipes/dns/dns.google/dns-query
       - https://dns.google/dns-query
