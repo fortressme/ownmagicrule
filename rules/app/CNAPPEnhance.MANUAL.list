@@ -44,6 +44,8 @@ PROCESS-NAME,com.alibaba.wireless
 PROCESS-NAME,com.wuba.zhuanzhuan
 # 菜鸟裹裹
 PROCESS-NAME,com.cainiao.wireless
+# 字节抖省省
+PROCESS-NAME,com.ss.android.ugc.lifeservices
 
 # 阅读
 # QQ阅读
