@@ -44,9 +44,14 @@ DOMAIN-SUFFIX,gsra.apple.com
 DOMAIN-SUFFIX,wkms-public.apple.com
 DOMAIN-SUFFIX,fcs-keys-pub-prod.cdn-apple.com
 
-DOMAIN-SUFFIX,tx0.speedtest.112700.xyz
 DOMAIN-SUFFIX,time.asia.apple.com
-com.alipay.antbank.hk.portal
+
+# 字节跳动海外业务及遥测
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteintl.com
+DOMAIN-SUFFIX,byteintlapi.com
+DOMAIN-SUFFIX,itobsnssdk.com
 
 # 中银香港
 PROCESS-NAME,com.bochk.app.aos
