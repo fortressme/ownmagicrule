@@ -49,14 +49,7 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,traeapi.us
 DOMAIN-SUFFIX,traecdn.ai
 DOMAIN-REGEX,.*useast.*\.mchost\.guru$
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,bytetos.com
-DOMAIN-SUFFIX,byteintl.com
-DOMAIN-SUFFIX,byteintlapi.com
-DOMAIN-SUFFIX,itobsnssdk.com
 DOMAIN-SUFFIX,marscode.com
-PROCESS-NAME,Trae Helper
 # flowith
 DOMAIN-SUFFIX,flowith.net
 DOMAIN-SUFFIX,flowith.featurebase.app
@@ -66,7 +59,6 @@ DOMAIN-SUFFIX,us.i.posthog.com
 DOMAIN-SUFFIX,aibdxsebwhalbnugsqel.supabase.co
 # poe
 DOMAIN-SUFFIX,poe.com
-PROCESS-NAME,com.poe.android
 # cohere
 DOMAIN-KEYWORD,cohere
 # coze
