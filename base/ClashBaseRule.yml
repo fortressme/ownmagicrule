@@ -63,7 +63,7 @@ dns:
   use-hosts: true
   use-system-hosts: true
   respect-rules: false
-  listen: 0.0.0.0:1053
+  listen: 0.0.0.0:5353
   enhanced-mode: fake-ip
   nameserver-policy:
     'geosite:googlefcm': 
