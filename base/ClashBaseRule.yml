@@ -86,15 +86,26 @@ dns:
       - https://1.1.1.1/dns-query
       - https://ld.ddd.oaifree.com/query-dns
   default-nameserver:
+    - 219.147.1.66
     - 114.114.114.114
     - 218.30.118.6
     - 119.29.29.29
     - 223.6.6.6
   direct-nameserver:
+    - 219.147.1.66
+    - 114.114.114.114
+    - 218.30.118.6
+    - 119.29.29.29
+    - 223.6.6.6
     - https://223.6.6.6/dns-query
     - https://doh.pub/dns-query
   direct-nameserver-follow-policy: false
   nameserver:
+    - 219.147.1.66
+    - 114.114.114.114
+    - 218.30.118.6
+    - 119.29.29.29
+    - 223.6.6.6
     - https://223.6.6.6/dns-query
     - https://doh.pub/dns-query
   fallback:
