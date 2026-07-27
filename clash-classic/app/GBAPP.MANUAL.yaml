@@ -12,6 +12,7 @@ payload:
  - IP-CIDR,46.68.0.0/17,no-resolve
  - IP-CIDR,87.194.0.0/16,no-resolve
  - DOMAIN-SUFFIX,giffgaff.com
+ - DOMAIN-SUFFIX,giffgaff.design
  - DOMAIN-SUFFIX,ct.ee.co.uk
  - IP-CIDR, 31.94.0.0/16,no-resolve
  - DOMAIN,vfgb.idemia.io
