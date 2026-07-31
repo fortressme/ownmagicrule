@@ -17,13 +17,12 @@ IP-CIDR6,2602:fa4f:a30::/48,no-resolve
 # skystroll jp
 IP-CIDR,209.248.45.0/24,no-resolve
 IP-CIDR6,2401:f460:1073::/48,no-resolve
+# RFC jp
+IP-CIDR,104.251.231.0/24,no-resolve
 # LazyCat rfchost lite
 IP-CIDR,23.249.25.0/24,no-resolve
 # LazyCat jpkddi
 IP-CIDR,131.143.214.0/24,no-resolve
 # VMVM JP CO
 IP-CIDR,154.36.155.0/24,no-resolve
-# LALA AWS JP
-IP-CIDR,54.250.244.0/24,no-resolve
-IP-CIDR6,2406:da14:1ec5::/48,no-resolve
 
