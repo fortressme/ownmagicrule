@@ -14,5 +14,5 @@ payload:
  - IP-CIDR6,2401:f460:1073::/48,no-resolve
  - IP-CIDR,104.251.231.0/24,no-resolve
  - IP-CIDR,23.249.25.0/24,no-resolve
+ - IP-CIDR,151.244.134.0/24,no-resolve
  - IP-CIDR,131.143.214.0/24,no-resolve
- - IP-CIDR,154.36.155.0/24,no-resolve
