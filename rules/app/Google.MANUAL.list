@@ -16,3 +16,6 @@ PROCESS-NAME,com.google.android.apps.bard
 PROCESS-NAME,com.google.android.apps.gemini
 PROCESS-NAME,com.google.android.apps.labs.language.tailwind
 
+# Google Play other
+DOMAIN-SUFFIX,play.app
+
