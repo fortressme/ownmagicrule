@@ -198,6 +198,7 @@ payload:
  - IP-CIDR,45.137.180.230/32,no-resolve
  - DOMAIN-SUFFIX,aip.acgf.vip
  - DOMAIN-SUFFIX,apii.acgf.vip
+ - AND,((DOMAIN-SUFFIX,78204c27d8d4bfb913db.thisgourl.xyz),(OR,((DST-PORT,57001),(SRC-PORT,57001))))
  - AND,((DOMAIN-SUFFIX,avrku8ft.1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,16460),(SRC-PORT,16460))))
  - AND,((DOMAIN-SUFFIX,avrku8ft.1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,16461),(SRC-PORT,16461))))
  - AND,((DOMAIN-SUFFIX,avrku8ft.1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,16462),(SRC-PORT,16462))))
@@ -308,7 +309,6 @@ payload:
  - AND,((DOMAIN-SUFFIX,cname-lm.cnameip.xyz),(OR,((DST-PORT,54080),(SRC-PORT,54080))))
  - AND,((DOMAIN-SUFFIX,cname-lm.cnameip.xyz),(OR,((DST-PORT,54081),(SRC-PORT,54081))))
  - AND,((DOMAIN-SUFFIX,cname-lm.cnameip.xyz),(OR,((DST-PORT,54082),(SRC-PORT,54082))))
- - AND,((DOMAIN-SUFFIX,d04e7886ea7028124f6f.thisgourl.xyz),(OR,((DST-PORT,57001),(SRC-PORT,57001))))
  - AND,((DOMAIN-SUFFIX,de1.miyazono-kaori.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,de2.miyazono-kaori.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,downloadcfpro.xn--ghq880n3na965a.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
@@ -1951,6 +1951,7 @@ payload:
  - AND,((IP-CIDR6,2406:da14:2e:2900:7def:a351:6179:7f91/128,no-resolve),(OR,((DST-PORT,25485),(SRC-PORT,25485))))
  - AND,((IP-CIDR6,2406:da14:508:4e00:991f:bcbb:8e64:32c7/128,no-resolve),(OR,((DST-PORT,60000),(SRC-PORT,60000))))
  - AND,((IP-CIDR6,2406:da14:961:e100:e1be:590a:48c7:7e6a/128,no-resolve),(OR,((DST-PORT,36584),(SRC-PORT,36584))))
+ - AND,((IP-CIDR6,2406:da18:1002:d200:9d92::a73/128,no-resolve),(OR,((DST-PORT,57001),(SRC-PORT,57001))))
  - AND,((IP-CIDR6,2406:da18:1139:e301:5719:6bf2:fc5:1734/128,no-resolve),(OR,((DST-PORT,48574),(SRC-PORT,48574))))
  - AND,((IP-CIDR6,2406:da18:1187:3e00:1e86:a571:5a69:ce0/128,no-resolve),(OR,((DST-PORT,60000),(SRC-PORT,60000))))
  - AND,((IP-CIDR6,2406:da18:13c8:6401:2a64:53:83b8:251e/128,no-resolve),(OR,((DST-PORT,39645),(SRC-PORT,39645))))
