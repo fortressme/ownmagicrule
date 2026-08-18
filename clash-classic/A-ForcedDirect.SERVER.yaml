@@ -1395,6 +1395,8 @@ payload:
  - AND,((IP-CIDR,35.78.175.81/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,35.78.72.136/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,35.78.74.3/32,no-resolve),(OR,((DST-PORT,8654),(SRC-PORT,8654))))
+ - AND,((IP-CIDR,36.230.30.200/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
+ - AND,((IP-CIDR,36.231.105.109/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,36.231.106.252/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,36.234.131.235/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR,36.234.148.198/32,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
