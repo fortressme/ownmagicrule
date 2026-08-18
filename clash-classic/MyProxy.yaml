@@ -180,6 +180,7 @@ payload:
  - DOMAIN-SUFFIX,privateid.com
  - DOMAIN-SUFFIX,prodregistryv2.org
  - DOMAIN-SUFFIX,pwnedpasswords.com
+ - DOMAIN-SUFFIX,pylogmon.com
  - DOMAIN-SUFFIX,pypi.org
  - DOMAIN-SUFFIX,qingqiu.host
  - DOMAIN-SUFFIX,qpic.w
