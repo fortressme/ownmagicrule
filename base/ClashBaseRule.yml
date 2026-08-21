@@ -11,7 +11,7 @@ secret: "zQ!h90n@BBp"
 mode: rule
 log-level: info
 global-ua: mymihomo
-tcp-concurrent: true
+tcp-concurrent: false
 unified-delay: true
 keep-alive-interval: 15
 keep-alive-idle: 180
