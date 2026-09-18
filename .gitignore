@@ -37,6 +37,11 @@ packages/*
 # Windows shortcuts
 *.lnk
 
+.claude
+.codex
+.zcode
+.chatgpt
+
 # macOS folder attributes
 .DS_Store
 # Xcode build files
