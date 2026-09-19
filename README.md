@@ -37,3 +37,32 @@ https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2FXXX.XXX%2F&i
 ```http
 https%3A%2F%2Fraw.githubusercontent.com%2Ffortressme%2Fownmagicrule%2Fmain%2Fclash-rule-general.ini
 ```
+
+## 定期压缩 Git 历史
+
+自动更新提交频繁且每次重写大规则文件，历史会持续膨胀（曾达到 159 MiB / 2.6 万提交）。当仓库超过 ~50 MiB 时，手动执行以下步骤压缩为单个提交：
+
+```powershell
+# 0. 确认工作区干净（有未提交内容先提交或暂存）
+git status --porcelain
+
+# 1. 将当前全部文件压成一个全新提交（orphan 分支无父提交）
+git checkout --orphan fresh
+git add -A
+git commit -m "Squash history: single snapshot of current rules"
+
+# 2. 用 fresh 替换 main
+git branch -M fresh main
+
+# 3. 强推覆盖远端（覆盖后旧历史无法找回）
+git push -f origin main
+
+# 4. 清理本地残留的旧对象
+git reflog expire --expire=now --all
+git gc --prune=now --aggressive
+
+# 5. 检查结果：in-pack 应只剩几百个对象，size-pack 约 6 MiB
+git count-objects -vH
+```
+
+压缩后新 clone 只需下载当前文件快照（~6 MiB）。若其他机器上有旧 clone，需重新 clone 或 `git fetch && git reset --hard origin/main`（旧本地历史与远端不再兼容）。
