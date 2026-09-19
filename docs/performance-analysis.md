@@ -1,5 +1,6 @@
 # 性能分析（标注制：Measured=本地实测 / Estimated=模型推算 / Inference=架构推断）
 
+
 ## 探测负载口径
 
 节点级探测负载 = Σ(自动组成员数 × 600s/interval)，单位"次/10min"。

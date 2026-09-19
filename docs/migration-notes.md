@@ -1,5 +1,6 @@
 # 迁移说明（migration notes）
 
+
 ## 变更摘要
 7 个 ini 全部修改：自建 token 修正（N转直/北场IX/F北转 进入过境北场；商业池全面排除自建）、
 interval 调整（灾备 600 / 大流量 900）、gocn 悬空引用修复、general 重复定义修复。
