@@ -58,7 +58,7 @@ dns:
   enable: true
   ipv6: true
   cache-algorithm: arc
-  prefer-h3: true
+  prefer-h3: false
   use-hosts: true
   use-system-hosts: true
   respect-rules: false
@@ -68,49 +68,35 @@ dns:
     'geosite:googlefcm': 
       - https://223.6.6.6/dns-query
       - https://doh.pub/dns-query
-      - https://doh.360.cn
     '+.aliyuncs.com':
       - https://223.6.6.6/dns-query
       - https://doh.pub/dns-query
-      - https://doh.360.cn
     'cdn.jsdelivr.net':
       - https://223.6.6.6/dns-query
       - https://doh.pub/dns-query
-      - https://doh.360.cn
     '+.icu':
       - https://v.recipes/dns/dns.google/dns-query
       - https://dns.google/dns-query
-      - https://1.1.1.1/dns-query
-      - https://ld.ddd.oaifree.com/query-dns
     'geosite:gfw':
       - https://v.recipes/dns/dns.google/dns-query
       - https://dns.google/dns-query
-      - https://1.1.1.1/dns-query
-      - https://ld.ddd.oaifree.com/query-dns
   default-nameserver:
     - 114.114.114.114
-    - 218.30.118.6
     - 119.29.29.29
     - 223.6.6.6
   proxy-server-nameserver:
-    - https://223.6.6.6/dns-query
     - https://doh.pub/dns-query
     - https://v.recipes/dns/dns.google/dns-query
-    - https://ld.ddd.oaifree.com/query-dns
   direct-nameserver:
     - https://223.6.6.6/dns-query
     - https://doh.pub/dns-query
-    - https://doh.360.cn
   direct-nameserver-follow-policy: false
   nameserver:
     - https://223.6.6.6/dns-query
     - https://doh.pub/dns-query
-    - https://doh.360.cn
   fallback:
     - https://v.recipes/dns/dns.google/dns-query
     - https://dns.google/dns-query
-    - https://1.1.1.1/dns-query
-    - https://ld.ddd.oaifree.com/query-dns
   fallback-filter:
     geoip: false
     geoip-code: CN
@@ -509,8 +495,8 @@ hosts:
 
 # 实验性功能配置
 experimental:
-  quic-go-disable-gso: true # 禁用 QUIC 协议中的 GSO (Generic Segmentation Offload) 功能
-  quic-go-disable-ecn: true #禁用ECN
+  quic-go-disable-gso: false # 禁用 QUIC 协议中的 GSO (Generic Segmentation Offload) 功能
+  quic-go-disable-ecn: false #禁用ECN
   dialer-ip4p-convert: false # 启用IP4P地址转换
 
 proxies:
