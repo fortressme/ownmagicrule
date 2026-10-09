@@ -107,6 +107,7 @@ dns:
       - '+.google.com'
       - '+.facebook.com'
       - '+.youtube.com'
+  fallback-lazy-query: true
   fake-ip-range: 198.18.0.1/16
   fake-ip-range6: fdfe:dcba:9876::1/64
   fake-ip-filter-mode: blacklist
