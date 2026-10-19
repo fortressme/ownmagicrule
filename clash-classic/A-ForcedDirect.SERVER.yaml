@@ -1,5 +1,5 @@
 payload:
- - AND,((DOMAIN-SUFFIX,3154e42d5991f59c3612.thisgourl.xyz),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
+ - AND,((DOMAIN-SUFFIX,62d01cfffb50532d68c5.thisgourl.xyz),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
  - AND,((DOMAIN-SUFFIX,avrku8ft-1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,60000),(SRC-PORT,60000))))
  - AND,((DOMAIN-SUFFIX,avrku8ft-1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,60001),(SRC-PORT,60001))))
  - AND,((DOMAIN-SUFFIX,avrku8ft-1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,60002),(SRC-PORT,60002))))
@@ -1819,7 +1819,7 @@ payload:
  - AND,((IP-CIDR6,2406:da1e:8ec:4800:ca77:e6d3:29fd:1b6f/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:990:8800:9e71:3549:f680:ed30/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:acd:a900:1d7d:d55:dd78:6a04/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
- - AND,((IP-CIDR6,2406:da1e:ace:df00:2460::d1f/128,no-resolve),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
+ - AND,((IP-CIDR6,2406:da1e:ace:df00:2460::daa/128,no-resolve),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
  - AND,((IP-CIDR6,2406:da1e:b24:6c00:66e:670d:2a16:a2ed/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:e34:bb00:c336:a1f1:bb95:12f5/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:eee:1f00:d1d8:fea3:4f33:5cfc/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
