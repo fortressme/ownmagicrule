@@ -1,4 +1,5 @@
 payload:
+ - AND,((DOMAIN-SUFFIX,1a564ea426ea7360dabc.thisgourl.xyz),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
  - AND,((DOMAIN-SUFFIX,avrku8ft-1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,60000),(SRC-PORT,60000))))
  - AND,((DOMAIN-SUFFIX,avrku8ft-1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,60001),(SRC-PORT,60001))))
  - AND,((DOMAIN-SUFFIX,avrku8ft-1v9il19zydga0iv7.awstrack.vip),(OR,((DST-PORT,60002),(SRC-PORT,60002))))
@@ -121,7 +122,6 @@ payload:
  - AND,((DOMAIN-SUFFIX,de1.oh-node.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,de2.oh-node.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,downloadcfpro.xn--ghq880n3na965a.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
- - AND,((DOMAIN-SUFFIX,f9fa69d65e451d08d9b5.thisgourl.xyz),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
  - AND,((DOMAIN-SUFFIX,hk3.oh-node.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,hk4.oh-node.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((DOMAIN-SUFFIX,hk5.oh-node.com),(OR,((DST-PORT,443),(SRC-PORT,443))))
@@ -1793,7 +1793,7 @@ payload:
  - AND,((IP-CIDR6,2406:da1e:904:2800:3926:f1b1:7ed0:39c2/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:904:2800:417:9a7d:e858:aeef/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:904:2800:52bb:837b:86da:2465/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
- - AND,((IP-CIDR6,2406:da1e:ace:df00:2460::143b/128,no-resolve),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
+ - AND,((IP-CIDR6,2406:da1e:ace:df00:2460::1423/128,no-resolve),(OR,((DST-PORT,57031),(SRC-PORT,57031))))
  - AND,((IP-CIDR6,2406:da1e:d2d:d300:2b95:b488:78a3:dc85/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:d2d:d300:3f95:4d4d:bf7b:a4cf/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
  - AND,((IP-CIDR6,2406:da1e:d2d:d300:b236:b875:5be5:d5ea/128,no-resolve),(OR,((DST-PORT,443),(SRC-PORT,443))))
