@@ -16,6 +16,11 @@ PROCESS-NAME,com.openai.sora
 DOMAIN-SUFFIX,chatgptexporter.com
 AND,((DOMAIN-KEYWORD,chatgpt-async-webps-prod-),(DOMAIN-SUFFIX,webpubsub.azure.com))
 AND,((DOMAIN-KEYWORD,openaicom-api-),(DOMAIN-SUFFIX,azurefd.net))
+# Antigravity谷歌反重力
+PROCESS-NAME,Antigravity.exe
+PROCESS-NAME,Antigravity IDE.exe
+PROCESS-NAME,language_server_windows_x64.exe
+PROCESS-NAME,language_server.exe
 # X.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
