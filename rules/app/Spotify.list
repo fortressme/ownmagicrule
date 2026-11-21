@@ -40,7 +40,7 @@ IP-CIDR,35.186.224.47/32,no-resolve
 PROCESS-NAME,com.spotify.music
 
 # 内容：Spotify
-# 数量：9条
+# 数量：8条
 DOMAIN-KEYWORD,-spotify-
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-SUFFIX,pscdn.co
