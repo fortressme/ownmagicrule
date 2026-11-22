@@ -122,6 +122,7 @@ dns:
     - '*.local'
     - '*.localdomain'
     - '*.localhost'
+    - 'localhost'
     - '+.battlenet.com.cn'
     - '+.cfprefer1.xyz'
     - '+.cmbchina.com'
