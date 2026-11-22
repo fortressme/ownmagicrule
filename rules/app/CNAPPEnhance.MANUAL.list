@@ -288,15 +288,44 @@ PROCESS-NAME,com.hanweb.android.sdzwfw.activity
 PROCESS-NAME,com.vivo.ai.base.copilot
 # 小米服务
 DOMAIN-SUFFIX,mi-fds.com
-DOMAIN-SUFFIX,xiaomi.net
-DOMAIN-SUFFIX,xiaomi.com
-DOMAIN-SUFFIX,mi.com
+# 小米金融及支付关联服务
+DOMAIN-SUFFIX,mipay.net
+DOMAIN-SUFFIX,airstar-finance.com
+DOMAIN-SUFFIX,miinsurtech.cn
+DOMAIN-SUFFIX,miinsurtech.com
+DOMAIN-SUFFIX,miinsurtech.net
+# 其他小米关联业务
+DOMAIN-SUFFIX,baoliyun.com
+DOMAIN-SUFFIX,hongyuanib.com
+DOMAIN-SUFFIX,oktukids.com
+DOMAIN-SUFFIX,xiangkankeji.cn
+DOMAIN-SUFFIX,xiangkankeji.com
+DOMAIN-SUFFIX,xiangkannews.cn
+DOMAIN-SUFFIX,xunkid.com
+DOMAIN-SUFFIX,xunkids.com
+DOMAIN-SUFFIX,zmifi.com
 PROCESS-NAME,hyperConnect.exe
 PROCESS-NAME,hyperConnect
 PROCESS-NAME,com.miui.voiceassist
 PROCESS-NAME,com.xiaomi.mibrain.speech
 PROCESS-NAME,小米云服务.exe
 PROCESS-NAME,com.xiaomi.smarthome
+# 小米账号
+PROCESS-NAME,com.xiaomi.account
+# 小米云服务
+PROCESS-NAME,com.miui.cloudbackup
+PROCESS-NAME,com.miui.cloudservice
+PROCESS-NAME,com.miui.micloudsync
+PROCESS-NAME,com.xiaomi.micloud.sdk
+# 小米应用商店
+PROCESS-NAME,com.xiaomi.market
+PROCESS-NAME,com.xiaomi.mipicks
+PROCESS-NAME,com.mi.global.shop
+# 小米支付
+PROCESS-NAME,com.xiaomi.payment
+# 米家
+PROCESS-NAME,com.xiaomi.smarthome
+
 # 中国电信
 PROCESS-NAME,com.ct.client
 # WPS Office
