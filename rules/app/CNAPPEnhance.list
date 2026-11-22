@@ -758,7 +758,6 @@ DOMAIN-SUFFIX,airstar-finance.com
 DOMAIN-SUFFIX,miinsurtech.cn
 DOMAIN-SUFFIX,miinsurtech.com
 DOMAIN-SUFFIX,miinsurtech.net
-# 其他小米关联业务
 DOMAIN-SUFFIX,baoliyun.com
 DOMAIN-SUFFIX,hongyuanib.com
 DOMAIN-SUFFIX,oktukids.com
@@ -774,6 +773,24 @@ PROCESS-NAME,com.miui.voiceassist
 PROCESS-NAME,com.xiaomi.mibrain.speech
 PROCESS-NAME,小米云服务.exe
 PROCESS-NAME,com.xiaomi.smarthome
+PROCESS-NAME,com.xiaomi.mi_connect_service
+PROCESS-NAME,com.milink.service
+PROCESS-NAME,com.xiaomi.mirror
+PROCESS-NAME,com.miui.mishare.connectivity
+PROCESS-NAME,com.xiaomi.miralink
+PROCESS-NAME,com.xiaomi.account
+PROCESS-NAME,com.miui.cloudservice
+PROCESS-NAME,com.miui.cloudbackup
+PROCESS-NAME,com.miui.newmidrive
+PROCESS-NAME,com.xiaomi.micloud.sdk
+# 小米推送框架
+PROCESS-NAME,com.xiaomi.xmsf
+# 米家及 IoT
+PROCESS-NAME,com.xiaomi.smarthome
+# 小米运动健康
+PROCESS-NAME,com.mi.health
+# 小米汽车互联
+PROCESS-NAME,com.xiaomi.mis
 # 小米账号
 PROCESS-NAME,com.xiaomi.account
 # 小米云服务
