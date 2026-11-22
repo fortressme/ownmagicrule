@@ -767,8 +767,6 @@ DOMAIN-SUFFIX,xiangkannews.cn
 DOMAIN-SUFFIX,xunkid.com
 DOMAIN-SUFFIX,xunkids.com
 DOMAIN-SUFFIX,zmifi.com
-PROCESS-NAME,hyperConnect.exe
-PROCESS-NAME,hyperConnect
 PROCESS-NAME,com.miui.voiceassist
 PROCESS-NAME,com.xiaomi.mibrain.speech
 PROCESS-NAME,小米云服务.exe
@@ -806,6 +804,25 @@ PROCESS-NAME,com.mi.global.shop
 PROCESS-NAME,com.xiaomi.payment
 # 米家
 PROCESS-NAME,com.xiaomi.smarthome
+# 小米 Windows LAN
+PROCESS-NAME,hyperConnect.exe
+PROCESS-NAME,hyperConnect
+PROCESS-NAME,devcon.exe
+PROCESS-NAME,dist_service.exe
+PROCESS-NAME,distfile.exe
+PROCESS-NAME,DistributedService.exe
+PROCESS-NAME,MAFSvr.exe
+PROCESS-NAME,micont_service.exe
+PROCESS-NAME,MiDistributedCameraBroker.exe
+PROCESS-NAME,MiDistributedCameraBroker32.exe
+PROCESS-NAME,MiHygieneBroker.exe
+PROCESS-NAME,MiPCAudio.exe
+PROCESS-NAME,MiPlayCastService.exe
+PROCESS-NAME,MiScreenShare.exe
+PROCESS-NAME,MiSmartShareDevice.exe
+PROCESS-NAME,MiSmartShareHandoff.exe
+PROCESS-NAME,PcClipboard.exe
+PROCESS-NAME,ScreenShareLauncher.exe
 
 # 中国电信
 PROCESS-NAME,com.ct.client
