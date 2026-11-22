@@ -133,15 +133,35 @@ payload:
  - PROCESS-NAME,com.tencent.wemeet.app
  - PROCESS-NAME,com.hanweb.android.sdzwfw.activity
  - DOMAIN-SUFFIX,mi-fds.com
- - DOMAIN-SUFFIX,xiaomi.net
- - DOMAIN-SUFFIX,xiaomi.com
- - DOMAIN-SUFFIX,mi.com
+ - DOMAIN-SUFFIX,mipay.net
+ - DOMAIN-SUFFIX,airstar-finance.com
+ - DOMAIN-SUFFIX,miinsurtech.cn
+ - DOMAIN-SUFFIX,miinsurtech.com
+ - DOMAIN-SUFFIX,miinsurtech.net
+ - DOMAIN-SUFFIX,baoliyun.com
+ - DOMAIN-SUFFIX,hongyuanib.com
+ - DOMAIN-SUFFIX,oktukids.com
+ - DOMAIN-SUFFIX,xiangkankeji.cn
+ - DOMAIN-SUFFIX,xiangkankeji.com
+ - DOMAIN-SUFFIX,xiangkannews.cn
+ - DOMAIN-SUFFIX,xunkid.com
+ - DOMAIN-SUFFIX,xunkids.com
+ - DOMAIN-SUFFIX,zmifi.com
  - PROCESS-NAME,hyperConnect.exe
  - PROCESS-NAME,hyperConnect
  - PROCESS-NAME,com.miui.voiceassist
  - PROCESS-NAME,com.xiaomi.mibrain.speech
  - PROCESS-NAME,小米云服务.exe
  - PROCESS-NAME,com.xiaomi.smarthome
+ - PROCESS-NAME,com.xiaomi.account
+ - PROCESS-NAME,com.miui.cloudbackup
+ - PROCESS-NAME,com.miui.cloudservice
+ - PROCESS-NAME,com.miui.micloudsync
+ - PROCESS-NAME,com.xiaomi.micloud.sdk
+ - PROCESS-NAME,com.xiaomi.market
+ - PROCESS-NAME,com.xiaomi.mipicks
+ - PROCESS-NAME,com.mi.global.shop
+ - PROCESS-NAME,com.xiaomi.payment
  - PROCESS-NAME,com.ct.client
  - PROCESS-NAME,cn.wps.moffice_eng
  - PROCESS-NAME,com.chehejia.oc.m01
