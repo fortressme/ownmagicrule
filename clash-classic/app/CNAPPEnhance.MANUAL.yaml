@@ -153,11 +153,20 @@ payload:
  - PROCESS-NAME,com.xiaomi.mibrain.speech
  - PROCESS-NAME,小米云服务.exe
  - PROCESS-NAME,com.xiaomi.smarthome
+ - PROCESS-NAME,com.xiaomi.mi_connect_service
+ - PROCESS-NAME,com.milink.service
+ - PROCESS-NAME,com.xiaomi.mirror
+ - PROCESS-NAME,com.miui.mishare.connectivity
+ - PROCESS-NAME,com.xiaomi.miralink
  - PROCESS-NAME,com.xiaomi.account
- - PROCESS-NAME,com.miui.cloudbackup
  - PROCESS-NAME,com.miui.cloudservice
- - PROCESS-NAME,com.miui.micloudsync
+ - PROCESS-NAME,com.miui.cloudbackup
+ - PROCESS-NAME,com.miui.newmidrive
  - PROCESS-NAME,com.xiaomi.micloud.sdk
+ - PROCESS-NAME,com.xiaomi.xmsf
+ - PROCESS-NAME,com.mi.health
+ - PROCESS-NAME,com.xiaomi.mis
+ - PROCESS-NAME,com.miui.micloudsync
  - PROCESS-NAME,com.xiaomi.market
  - PROCESS-NAME,com.xiaomi.mipicks
  - PROCESS-NAME,com.mi.global.shop
