@@ -135,6 +135,9 @@ payload:
  - DOMAIN-SUFFIX,mi-fds.com
  - DOMAIN-SUFFIX,xiaomi.net
  - DOMAIN-SUFFIX,xiaomi.com
+ - DOMAIN-SUFFIX,mi.com
+ - PROCESS-NAME,hyperConnect.exe
+ - PROCESS-NAME,hyperConnect
  - PROCESS-NAME,com.miui.voiceassist
  - PROCESS-NAME,com.xiaomi.mibrain.speech
  - PROCESS-NAME,小米云服务.exe
