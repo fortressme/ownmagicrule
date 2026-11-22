@@ -132,13 +132,17 @@ payload:
  - PROCESS-NAME,com.htinns
  - PROCESS-NAME,com.tencent.wemeet.app
  - PROCESS-NAME,com.hanweb.android.sdzwfw.activity
+ - DOMAIN-SUFFIX,mi-fds.com
+ - DOMAIN-SUFFIX,xiaomi.net
+ - DOMAIN-SUFFIX,xiaomi.com
+ - PROCESS-NAME,com.miui.voiceassist
+ - PROCESS-NAME,com.xiaomi.mibrain.speech
+ - PROCESS-NAME,小米云服务.exe
  - PROCESS-NAME,com.xiaomi.smarthome
  - PROCESS-NAME,com.ct.client
  - PROCESS-NAME,cn.wps.moffice_eng
  - PROCESS-NAME,com.chehejia.oc.m01
  - PROCESS-NAME,com.zhiliaoapp.musically
- - PROCESS-NAME,com.xiaomi.mibrain.speech
- - PROCESS-NAME,小米云服务.exe
  - PROCESS-NAME,Thunder
  - PROCESS-NAME,Thunder.exe
  - PROCESS-NAME,com.bbk.launcher2
