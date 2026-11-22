@@ -586,8 +586,6 @@ payload:
  - DOMAIN-SUFFIX,xunkid.com
  - DOMAIN-SUFFIX,xunkids.com
  - DOMAIN-SUFFIX,zmifi.com
- - PROCESS-NAME,hyperConnect.exe
- - PROCESS-NAME,hyperConnect
  - PROCESS-NAME,com.miui.voiceassist
  - PROCESS-NAME,com.xiaomi.smarthome
  - PROCESS-NAME,com.xiaomi.mi_connect_service
@@ -608,6 +606,24 @@ payload:
  - PROCESS-NAME,com.xiaomi.mipicks
  - PROCESS-NAME,com.mi.global.shop
  - PROCESS-NAME,com.xiaomi.payment
+ - PROCESS-NAME,hyperConnect.exe
+ - PROCESS-NAME,hyperConnect
+ - PROCESS-NAME,devcon.exe
+ - PROCESS-NAME,dist_service.exe
+ - PROCESS-NAME,distfile.exe
+ - PROCESS-NAME,DistributedService.exe
+ - PROCESS-NAME,MAFSvr.exe
+ - PROCESS-NAME,micont_service.exe
+ - PROCESS-NAME,MiDistributedCameraBroker.exe
+ - PROCESS-NAME,MiDistributedCameraBroker32.exe
+ - PROCESS-NAME,MiHygieneBroker.exe
+ - PROCESS-NAME,MiPCAudio.exe
+ - PROCESS-NAME,MiPlayCastService.exe
+ - PROCESS-NAME,MiScreenShare.exe
+ - PROCESS-NAME,MiSmartShareDevice.exe
+ - PROCESS-NAME,MiSmartShareHandoff.exe
+ - PROCESS-NAME,PcClipboard.exe
+ - PROCESS-NAME,ScreenShareLauncher.exe
  - PROCESS-NAME,com.ct.client
  - PROCESS-NAME,cn.wps.moffice_eng
  - PROCESS-NAME,com.chehejia.oc.m01
